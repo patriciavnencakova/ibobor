@@ -48,7 +48,7 @@ async def main() -> None:
                 # after log out, we need to select year again
                 await page.select_option('select[name="rok"]', year['value'])
 
-                context.log.info(f"-> Selecting category {category['text']}")
+                context.log.info(f"\t-> Selecting category {category['text']}")
                 await page.select_option('select[name="kat"]', category['value'])
 
                 submit_selector = 'input[type="submit"][value="Prihlás sa!"]'
@@ -71,6 +71,36 @@ async def main() -> None:
 
                 await page.wait_for_timeout(GENERAL_TIMEOUT)
 
+                question_links = await page.query_selector_all("a.otazka")
+                question_urls = [f"http://demo.ibobor.sk/sutaz_demo/sutaz.php?id=1"]
+
+                for link in question_links:
+                    href = await link.get_attribute("href")
+                    if href:
+                        question_urls.append(f"http://demo.ibobor.sk/sutaz_demo/{href}")
+
+                for qurl in question_urls:
+                    serial_number = 1
+                    context.log.info(f"\t\tVisiting {qurl}")
+                    await page.goto(qurl)
+
+                    await page.wait_for_selector("form[name='otazka']")
+
+                    title = await page.inner_text("h3")
+                    form_html = await page.inner_html("form[name='otazka']")
+
+                    # TODO: do something with the questions
+                    # TODO: https://huggingface.co/datasets/CohereLabs/kaleidoscope#data-schema
+                    data = {
+                        "serial_number": serial_number,
+                        "title": title,
+                        "year": year['text'],
+                        "category": category['text'],
+                    }
+
+                    await context.push_data(data)
+                    serial_number += 1
+
                 await page.wait_for_selector('a[href="sutaz.php?ukonci=1"]')
                 try:
                     async with page.expect_navigation(timeout=5000):
@@ -88,43 +118,6 @@ async def main() -> None:
                     context.log.error("!!! Unable to click 'Vyhodnotenie môjho riešenia' selector!!!")
 
                 await page.wait_for_timeout(GENERAL_TIMEOUT)
-
-                try:
-                    title = await page.title()
-                    current_url = page.url
-                    context.log.info(
-                        f"\tAfter submit  — title: {title}, url: {current_url}"
-                    )
-                except Exception:
-                    context.log.info("!!! Unable to read title/url after submit!!!")
-
-                question_titles = []
-                h3s = await page.query_selector_all('h3:has(a[name^="otazka"])')
-
-                for h3 in h3s:
-                    full_text = (await h3.inner_text()).strip()
-                    question_number = int(full_text.split(".")[0])
-                    question_title = full_text.split(".")[1]
-
-                    question_titles.append({"question": full_text})
-
-                    first_p = await h3.query_selector('xpath=following-sibling::p[1]')
-                    first_p_text = await first_p.inner_text() if first_p else None
-
-                    # TODO: https://huggingface.co/datasets/CohereLabs/kaleidoscope#data-schema
-                    data = {
-                        "serial_number": question_number,
-                        "title": question_title.strip(),
-                        "preview": first_p_text,
-                        "year": year['text'],
-                        "category": category['text'],
-                    }
-
-                    await context.push_data(data)
-
-                context.log.info(f"\tExtracted {len(question_titles)} questions")
-                for q in question_titles:
-                    context.log.info(f"\t{q['question']}")
 
                 await page.wait_for_selector('a[href="/sutaz_demo/?action=logout"]')
                 try:
