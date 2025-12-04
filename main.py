@@ -29,6 +29,7 @@ async def main() -> None:
         all_years = [{"value": await year.get_attribute("value"), "text": (await year.inner_text()).strip()} for year in
                      year_options]
         num_canvas = 0
+        num_flash = 0
         for year in all_years:
             if year['value'] is None or year['value'] == "":
                 continue
@@ -93,7 +94,11 @@ async def main() -> None:
                     canvas = await form.query_selector_all("canvas")
                     qtype = None
 
-                    if len(canvas) > 0:
+                    if 'aplikácia Flash' in form_html:
+                        qtype = "Flash"
+                        num_flash += 1
+                        context.log.info(f"\t\t-> FLASH")
+                    elif len(canvas) > 0:
                         qtype = "canvas"
                         num_canvas += 1
                         context.log.info(f"\t\t-> CANVAS")
@@ -138,6 +143,7 @@ async def main() -> None:
 
                 await page.wait_for_timeout(GENERAL_TIMEOUT)
 
+        context.log.info(f"FLASH = {num_flash}")
         context.log.info(f"CANVAS = {num_canvas}")
 
     # run crawler on the single start URL
