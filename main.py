@@ -30,6 +30,9 @@ async def main() -> None:
                      year_options]
         num_canvas = 0
         num_flash = 0
+        num_text = 0
+        num_image_single = 0
+        num_image_multiple = 0
         for year in all_years:
             if year['value'] is None or year['value'] == "":
                 continue
@@ -91,9 +94,11 @@ async def main() -> None:
 
                     title = await page.inner_text("h3")
                     context.log.info(f"\t\t-> {title}")
-                    canvas = await form.query_selector_all("canvas")
-                    qtype = None
 
+                    canvas = await form.query_selector_all("canvas")
+                    images = await form.query_selector_all("img")
+
+                    qtype = None
                     if 'aplikácia Flash' in form_html:
                         qtype = "Flash"
                         num_flash += 1
@@ -102,6 +107,18 @@ async def main() -> None:
                         qtype = "canvas"
                         num_canvas += 1
                         context.log.info(f"\t\t-> CANVAS")
+                    elif len(images) == 0:
+                        qtype = "text"
+                        num_text += 1
+                        context.log.info(f"\t\t-> TEXT")
+                    elif len(images) == 1:
+                        qtype = "image_single"
+                        num_image_single += 1
+                        context.log.info(f"\t\t-> SINGLE IMAGE")
+                    elif len(images) > 1:
+                        qtype = "image_multiple"
+                        num_image_multiple += 1
+                        context.log.info(f"\t\t-> MULTIPLE IMAGES")
 
                     # TODO: do something with the questions
                     # TODO: https://huggingface.co/datasets/CohereLabs/kaleidoscope#data-schema
@@ -145,6 +162,9 @@ async def main() -> None:
 
         context.log.info(f"FLASH = {num_flash}")
         context.log.info(f"CANVAS = {num_canvas}")
+        context.log.info(f"TEXT = {num_text}")
+        context.log.info(f"SINGLE IMAGE = {num_image_single}")
+        context.log.info(f"MULTIPLE IMAGES = {num_image_multiple}")
 
     # run crawler on the single start URL
     await crawler.run(["http://demo.ibobor.sk/sutaz_demo/index.php"])
