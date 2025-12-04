@@ -28,6 +28,7 @@ async def main() -> None:
         year_options = await page.query_selector_all('select[name="rok"] option')
         all_years = [{"value": await year.get_attribute("value"), "text": (await year.inner_text()).strip()} for year in
                      year_options]
+        num_canvas = 0
         for year in all_years:
             if year['value'] is None or year['value'] == "":
                 continue
@@ -84,10 +85,18 @@ async def main() -> None:
                     context.log.info(f"\t\tVisiting {qurl}")
                     await page.goto(qurl)
 
-                    await page.wait_for_selector("form[name='otazka']")
+                    form = await page.query_selector("form[name='otazka']")
+                    form_html = await page.inner_html("form[name='otazka']")
 
                     title = await page.inner_text("h3")
-                    form_html = await page.inner_html("form[name='otazka']")
+                    context.log.info(f"\t\t-> {title}")
+                    canvas = await form.query_selector_all("canvas")
+                    qtype = None
+
+                    if len(canvas) > 0:
+                        qtype = "canvas"
+                        num_canvas += 1
+                        context.log.info(f"\t\t-> CANVAS")
 
                     # TODO: do something with the questions
                     # TODO: https://huggingface.co/datasets/CohereLabs/kaleidoscope#data-schema
@@ -96,6 +105,7 @@ async def main() -> None:
                         "title": title,
                         "year": year['text'],
                         "category": category['text'],
+                        "type": qtype,
                     }
 
                     await context.push_data(data)
@@ -127,6 +137,8 @@ async def main() -> None:
                     context.log.error("!!! Unable to click 'Odhlásiť sa' selector!!!")
 
                 await page.wait_for_timeout(GENERAL_TIMEOUT)
+
+        context.log.info(f"CANVAS = {num_canvas}")
 
     # run crawler on the single start URL
     await crawler.run(["http://demo.ibobor.sk/sutaz_demo/index.php"])
