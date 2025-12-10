@@ -84,8 +84,8 @@ async def main() -> None:
                     if href:
                         question_urls.append(f"http://demo.ibobor.sk/sutaz_demo/{href}")
 
+                serial_number = 1
                 for qurl in question_urls:
-                    serial_number = 1
                     context.log.info(f"\t\tVisiting {qurl}")
                     await page.goto(qurl)
 
@@ -99,6 +99,9 @@ async def main() -> None:
                     images = await form.query_selector_all("img")
 
                     qtype = None
+                    question_text = ""
+                    choices = []
+
                     if 'aplikácia Flash' in form_html:
                         qtype = "Flash"
                         num_flash += 1
@@ -111,6 +114,26 @@ async def main() -> None:
                         qtype = "text"
                         num_text += 1
                         context.log.info(f"\t\t-> TEXT")
+
+                        question_text = await form.inner_text()
+                        question_text = " ".join(question_text.split())
+
+                        option_divs = await form.query_selector_all("div.moznosti")
+
+                        for div in option_divs:
+                            input_el = await div.query_selector("input")
+                            label_el = await div.query_selector("label")
+
+                            value = await input_el.get_attribute("value") if input_el else None
+                            label_text = (await label_el.inner_text()).strip() if label_el else None
+                            # raw_html = await div.inner_html()
+
+                            choices.append({
+                                "value": value,
+                                "label": label_text,
+                                # "html": raw_html,
+                            })
+
                     elif len(images) == 1:
                         qtype = "image_single"
                         num_image_single += 1
@@ -120,11 +143,12 @@ async def main() -> None:
                         num_image_multiple += 1
                         context.log.info(f"\t\t-> MULTIPLE IMAGES")
 
-                    # TODO: do something with the questions
                     # TODO: https://huggingface.co/datasets/CohereLabs/kaleidoscope#data-schema
                     data = {
                         "serial_number": serial_number,
                         "title": title,
+                        "question": question_text,
+                        "choices": choices,
                         "year": year['text'],
                         "category": category['text'],
                         "type": qtype,
