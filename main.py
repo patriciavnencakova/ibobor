@@ -28,11 +28,7 @@ async def main() -> None:
         year_options = await page.query_selector_all('select[name="rok"] option')
         all_years = [{"value": await year.get_attribute("value"), "text": (await year.inner_text()).strip()} for year in
                      year_options]
-        num_canvas = 0
-        num_flash = 0
-        num_text = 0
-        num_image_single = 0
-        num_image_multiple = 0
+        num_canvas, num_flash, num_text, num_image = 0, 0, 0, 0
         for year in all_years:
             if year['value'] is None or year['value'] == "":
                 continue
@@ -90,7 +86,7 @@ async def main() -> None:
                     await page.goto(qurl)
 
                     form = await page.query_selector("form[name='otazka']")
-                    form_html = await page.inner_html("form[name='otazka']")
+                    form_html = await form.inner_html()
 
                     title = await page.inner_text("h3")
                     context.log.info(f"\t\t-> {title}")
@@ -98,26 +94,27 @@ async def main() -> None:
                     canvas = await form.query_selector_all("canvas")
                     images = await form.query_selector_all("img")
 
-                    qtype = None
-                    question_text = ""
-                    choices = []
+                    qtype, question_text = "", ""
+                    choices, images_arr = [], []
 
                     if 'aplikácia Flash' in form_html:
                         qtype = "Flash"
                         num_flash += 1
                         context.log.info(f"\t\t-> FLASH")
+
                     elif len(canvas) > 0:
                         qtype = "canvas"
                         num_canvas += 1
                         context.log.info(f"\t\t-> CANVAS")
+
                     elif len(images) == 0:
                         qtype = "text"
                         num_text += 1
                         context.log.info(f"\t\t-> TEXT")
 
-                        question_text = await form.inner_text()
-                        question_text = " ".join(question_text.split())
-
+                        # question_text = await form.inner_text()
+                        question_html = form_html.split('<div class="moznosti">', 1)[0]
+                        question_text = " ".join(question_html.split()).replace("&nbsp;", " ")
                         option_divs = await form.query_selector_all("div.moznosti")
 
                         for div in option_divs:
@@ -134,14 +131,66 @@ async def main() -> None:
                                 # "html": raw_html,
                             })
 
-                    elif len(images) == 1:
-                        qtype = "image_single"
-                        num_image_single += 1
-                        context.log.info(f"\t\t-> SINGLE IMAGE")
-                    elif len(images) > 1:
-                        qtype = "image_multiple"
-                        num_image_multiple += 1
-                        context.log.info(f"\t\t-> MULTIPLE IMAGES")
+                    elif len(images) > 0:
+                        qtype = "image"
+                        num_image += 1
+                        context.log.info("\t\t-> WITH IMAGE(S)")
+
+                        import html, re
+                        from bs4 import BeautifulSoup
+
+                        images_arr = []
+                        img_counter = 1
+
+                        # ---- collect image URLs (global order) ----
+                        for img in images:
+                            src = await img.get_attribute("src")
+                            if src:
+                                if src.startswith("http"):
+                                    images_arr.append(src)
+                                else:
+                                    images_arr.append(f"http://demo.ibobor.sk{src}")
+
+                        # ---- QUESTION ----
+                        question_html = re.split(r'<div class="moznosti(?:_vedla_seba)?">', form_html, maxsplit=1)[0]
+                        soup_q = BeautifulSoup(question_html, "html.parser")
+
+                        for img in soup_q.find_all("img"):
+                            img.replace_with(f"<image_{img_counter}>")
+                            img_counter += 1
+
+                        question_text = html.unescape(
+                            " ".join(str(soup_q).split())
+                        )
+
+                        # ---- OPTIONS ----
+                        option_divs = await form.query_selector_all(
+                            "div.moznosti, div.moznosti_vedla_seba"
+                        )
+
+                        for option_div in option_divs:
+                            input_el = await option_div.query_selector("input")
+                            label_el = await option_div.query_selector("label")
+
+                            value = await input_el.get_attribute("value") if input_el else None
+                            label_html = ""
+
+                            if label_el:
+                                raw_label_html = await label_el.inner_html()
+                                soup_l = BeautifulSoup(raw_label_html, "html.parser")
+
+                                for img in soup_l.find_all("img"):
+                                    img.replace_with(f"<image_{img_counter}>")
+                                    img_counter += 1
+
+                                label_html = html.unescape(
+                                    " ".join(str(soup_l).split())
+                                )
+
+                            choices.append({
+                                "value": value,
+                                "label": label_html
+                            })
 
                     # TODO: https://huggingface.co/datasets/CohereLabs/kaleidoscope#data-schema
                     data = {
@@ -149,6 +198,7 @@ async def main() -> None:
                         "title": title,
                         "question": question_text,
                         "choices": choices,
+                        "images": images_arr,
                         "year": year['text'],
                         "category": category['text'],
                         "type": qtype,
@@ -187,8 +237,8 @@ async def main() -> None:
         context.log.info(f"FLASH = {num_flash}")
         context.log.info(f"CANVAS = {num_canvas}")
         context.log.info(f"TEXT = {num_text}")
-        context.log.info(f"SINGLE IMAGE = {num_image_single}")
-        context.log.info(f"MULTIPLE IMAGES = {num_image_multiple}")
+        context.log.info(f"WITH IMAGE(S) = {num_image}")
+        context.log.info(f"ALL = {num_flash + num_canvas + num_text + num_image}")
 
     # run crawler on the single start URL
     await crawler.run(["http://demo.ibobor.sk/sutaz_demo/index.php"])
