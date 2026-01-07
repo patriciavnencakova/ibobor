@@ -122,16 +122,22 @@ async def main() -> None:
                         option_divs = await form.query_selector_all("div.moznosti")
 
                         for div in option_divs:
+                            import html, re
+                            from bs4 import BeautifulSoup
                             input_el = await div.query_selector("input")
                             label_el = await div.query_selector("label")
 
                             value = await input_el.get_attribute("value") if input_el else None
-                            label_text = (await label_el.inner_text()).strip() if label_el else None
+                            # label_text = (await label_el.inner_text()).strip() if label_el else None
+                            raw_label_html = await label_el.inner_html() if label_el else ""
+                            soup_l = BeautifulSoup(raw_label_html, "html.parser")
+                            label_html = html.unescape(" ".join(str(soup_l).split()))
+
                             # raw_html = await div.inner_html()
 
                             choices.append({
                                 "value": value,
-                                "label": label_text,
+                                "label": label_html,
                                 # "html": raw_html,
                             })
 
@@ -205,10 +211,11 @@ async def main() -> None:
                         "year": year['text'],
                         "category": category['text'],
                         "type": qtype,
+                        "correct_index": None,
+                        "correct_answer": None
                     }
                     questions.append(data)
 
-                    # await context.push_data(data)
                     serial_number += 1
 
                 await page.wait_for_selector('a[href="sutaz.php?ukonci=1"]')
@@ -228,12 +235,10 @@ async def main() -> None:
                     context.log.error("!!! Unable to click 'Vyhodnotenie môjho riešenia' selector!!!")
 
                 from bs4 import BeautifulSoup
-                import re
+                import re, html
 
-                html = await page.content()
-                soup = BeautifulSoup(html, "html.parser")
-
-                results = []
+                page_html = await page.content()
+                soup = BeautifulSoup(page_html, "html.parser")
 
                 h3_blocks = soup.find_all(
                     lambda tag: tag.name == "h3" and tag.find("a", attrs={"name": re.compile(r"^otazka\d+$")})
@@ -260,6 +265,9 @@ async def main() -> None:
                                 for li in node.find_all("li"):
                                     img_marker = li.find("img", src=lambda x: x and "spravna" in x)
                                     if img_marker:
+                                        for img in li.find_all("img", src=lambda x: x and "spravna" in x):
+                                            img.decompose()
+
                                         answer_img = li.find("img", src=lambda x: x and "sutaz/images" in x)
                                         if answer_img:
                                             src = answer_img.get("src")
@@ -269,7 +277,7 @@ async def main() -> None:
                                                 else:
                                                     correct_answer = f"http://demo.ibobor.sk{src[2:]}"
                                         else:
-                                            correct_answer = li.get_text(strip=True)
+                                            correct_answer = html.unescape("".join(str(c) for c in li.contents))
                                         break
 
                             # CASE 2: text answer
@@ -278,13 +286,42 @@ async def main() -> None:
                                 if img:
                                     next_p = node.find_next_sibling("p")
                                     if next_p:
-                                        correct_answer = next_p.get_text(strip=True)
-
-                            if correct_answer:
-                                matching_question["correct_answer"] = correct_answer
-                                break
-
+                                        for img in next_p.find_all("img", src=lambda x: x and "spravna" in x):
+                                            img.decompose()
+                                        correct_answer = html.unescape("".join(str(c) for c in next_p.contents))
+                                        break
                             node = node.next_sibling
+
+                        if correct_answer:
+                            correct_index = None
+                            has_image_choices = any(
+                                "<image_" in choice.get("label", "") for choice in matching_question["choices"])
+                            if has_image_choices:
+                                # Image choices: map URL → <image_N> → index
+                                try:
+                                    img_idx = matching_question["images"].index(correct_answer)
+                                    target_label = f"<image_{img_idx + 1}>"
+                                    for idx, choice in enumerate(matching_question["choices"]):
+                                        if choice.get("label") == target_label:
+                                            correct_index = idx
+                                            break
+                                except ValueError:
+                                    correct_index = None
+                            else:
+                                # Text choices: normalize text and match
+                                def norm(s):
+                                    return " ".join(s.split()).strip()
+
+                                for idx, choice in enumerate(matching_question["choices"]):
+                                    if norm(choice.get("label", "")) == norm(correct_answer):
+                                        correct_index = idx
+                                        break
+                        else:
+                            correct_index = None
+
+                        matching_question["correct_index"] = correct_index
+                        matching_question["correct_answer"] = correct_answer
+
 
                 for question in questions:
                     await context.push_data(question)
