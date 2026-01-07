@@ -74,6 +74,7 @@ async def main() -> None:
 
                 question_links = await page.query_selector_all("a.otazka")
                 question_urls = [f"http://demo.ibobor.sk/sutaz_demo/sutaz.php?id=1"]
+                questions = []
 
                 for link in question_links:
                     href = await link.get_attribute("href")
@@ -88,8 +89,11 @@ async def main() -> None:
                     form = await page.query_selector("form[name='otazka']")
                     form_html = await form.inner_html()
 
+                    import re
                     title = await page.inner_text("h3")
-                    context.log.info(f"\t\t-> {title}")
+                    # Remove leading number, dot, and spaces
+                    question_name = re.sub(r"^\d+\.\s*", "", title)
+                    context.log.info(f"\t\t-> {question_name}")
 
                     canvas = await form.query_selector_all("canvas")
                     images = await form.query_selector_all("img")
@@ -142,7 +146,6 @@ async def main() -> None:
                         images_arr = []
                         img_counter = 1
 
-                        # ---- collect image URLs (global order) ----
                         for img in images:
                             src = await img.get_attribute("src")
                             if src:
@@ -195,7 +198,7 @@ async def main() -> None:
                     # TODO: https://huggingface.co/datasets/CohereLabs/kaleidoscope#data-schema
                     data = {
                         "serial_number": serial_number,
-                        "title": title,
+                        "title": question_name,
                         "question": question_text,
                         "choices": choices,
                         "images": images_arr,
@@ -203,8 +206,9 @@ async def main() -> None:
                         "category": category['text'],
                         "type": qtype,
                     }
+                    questions.append(data)
 
-                    await context.push_data(data)
+                    # await context.push_data(data)
                     serial_number += 1
 
                 await page.wait_for_selector('a[href="sutaz.php?ukonci=1"]')
@@ -222,6 +226,68 @@ async def main() -> None:
                         await page.click('a[href="vysledky.php"]')
                 except Exception:
                     context.log.error("!!! Unable to click 'Vyhodnotenie môjho riešenia' selector!!!")
+
+                from bs4 import BeautifulSoup
+                import re
+
+                html = await page.content()
+                soup = BeautifulSoup(html, "html.parser")
+
+                results = []
+
+                h3_blocks = soup.find_all(
+                    lambda tag: tag.name == "h3" and tag.find("a", attrs={"name": re.compile(r"^otazka\d+$")})
+                )
+
+                for h3 in h3_blocks:
+                    title = h3.get_text(strip=True)
+                    question_name = re.sub(r"^\d+\.\s*", "", title)
+
+                    matching_question = next((q for q in questions if q["title"] == question_name), None)
+                    if not matching_question:
+                        continue
+
+                    q_type = matching_question["type"]
+                    if q_type in ["Flash", "canvas"]:
+                        continue
+                    else:
+                        node = h3.next_sibling
+                        correct_answer = None
+
+                        while node and getattr(node, "name", None) != "h3":
+                            # CASE 1: multiple-choice (text or image)
+                            if getattr(node, "name", None) == "ol":
+                                for li in node.find_all("li"):
+                                    img_marker = li.find("img", src=lambda x: x and "spravna" in x)
+                                    if img_marker:
+                                        answer_img = li.find("img", src=lambda x: x and "sutaz/images" in x)
+                                        if answer_img:
+                                            src = answer_img.get("src")
+                                            if src:
+                                                if src.startswith("http"):
+                                                    correct_answer = src
+                                                else:
+                                                    correct_answer = f"http://demo.ibobor.sk{src[2:]}"
+                                        else:
+                                            correct_answer = li.get_text(strip=True)
+                                        break
+
+                            # CASE 2: text answer
+                            if getattr(node, "name", None) == "p":
+                                img = node.find("img", src=lambda x: x and "spravna" in x)
+                                if img:
+                                    next_p = node.find_next_sibling("p")
+                                    if next_p:
+                                        correct_answer = next_p.get_text(strip=True)
+
+                            if correct_answer:
+                                matching_question["correct_answer"] = correct_answer
+                                break
+
+                            node = node.next_sibling
+
+                for question in questions:
+                    await context.push_data(question)
 
                 await page.wait_for_timeout(GENERAL_TIMEOUT)
 
