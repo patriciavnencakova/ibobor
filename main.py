@@ -29,6 +29,7 @@ async def main() -> None:
         all_years = [{"value": await year.get_attribute("value"), "text": (await year.inner_text()).strip()} for year in
                      year_options]
         num_canvas, num_flash, num_text, num_image = 0, 0, 0, 0
+        question_id = 0
         for year in all_years:
             if year['value'] is None or year['value'] == "":
                 continue
@@ -85,6 +86,11 @@ async def main() -> None:
                 for qurl in question_urls:
                     context.log.info(f"\t\tVisiting {qurl}")
                     await page.goto(qurl)
+
+                    screenshot = await page.query_selector("div#columnA_pozadie")
+                    await screenshot.screenshot(
+                        path=f"questions/{question_id}.png"
+                    )
 
                     form = await page.query_selector("form[name='otazka']")
                     form_html = await form.inner_html()
@@ -201,8 +207,8 @@ async def main() -> None:
                                 "label": label_html
                             })
 
-                    # TODO: https://huggingface.co/datasets/CohereLabs/kaleidoscope#data-schema
                     data = {
+                        "id": question_id,
                         "serial_number": serial_number,
                         "title": question_name,
                         "question": question_text,
@@ -217,6 +223,7 @@ async def main() -> None:
                     questions.append(data)
 
                     serial_number += 1
+                    question_id += 1
 
                 await page.wait_for_selector('a[href="sutaz.php?ukonci=1"]')
                 try:
@@ -235,7 +242,7 @@ async def main() -> None:
                     context.log.error("!!! Unable to click 'Vyhodnotenie môjho riešenia' selector!!!")
 
                 from bs4 import BeautifulSoup
-                import re, html
+                import re, html, os
 
                 page_html = await page.content()
                 soup = BeautifulSoup(page_html, "html.parser")
@@ -253,7 +260,10 @@ async def main() -> None:
                         continue
 
                     q_type = matching_question["type"]
+                    question_id = matching_question["id"]
                     if q_type in ["Flash", "canvas"]:
+                        if os.path.exists(f"questions/{question_id}.png"):
+                            os.remove(f"questions/{question_id}.png")
                         continue
                     else:
                         node = h3.next_sibling
@@ -270,6 +280,8 @@ async def main() -> None:
 
                                         answer_img = li.find("img", src=lambda x: x and "sutaz/images" in x)
                                         if answer_img:
+                                            if os.path.exists(f"questions/{question_id}.png"):
+                                                os.remove(f"questions/{question_id}.png")
                                             src = answer_img.get("src")
                                             if src:
                                                 if src.startswith("http"):
