@@ -30,6 +30,7 @@ async def main() -> None:
                      year_options]
         num_canvas, num_flash, num_text, num_image = 0, 0, 0, 0
         question_id = 0
+        state = {"question_id": 0}
         for year in all_years:
             if year['value'] is None or year['value'] == "":
                 continue
@@ -87,6 +88,7 @@ async def main() -> None:
                     context.log.info(f"\t\tVisiting {qurl}")
                     await page.goto(qurl)
 
+                    question_id = state["question_id"]
                     screenshot = await page.query_selector("div#columnA_pozadie")
                     await screenshot.screenshot(
                         path=f"questions/{question_id}.png"
@@ -99,6 +101,7 @@ async def main() -> None:
                     title = await page.inner_text("h3")
                     # Remove leading number, dot, and spaces
                     question_name = re.sub(r"^\d+\.\s*", "", title)
+                    context.log.info(f"\t\t-> {question_id}")
                     context.log.info(f"\t\t-> {question_name}")
 
                     canvas = await form.query_selector_all("canvas")
@@ -218,12 +221,13 @@ async def main() -> None:
                         "category": category['text'],
                         "type": qtype,
                         "correct_index": None,
-                        "correct_answer": None
+                        "correct_answer": None,
+                        "correct_answer_plain": None
                     }
                     questions.append(data)
 
                     serial_number += 1
-                    question_id += 1
+                    state["question_id"] += 1
 
                 await page.wait_for_selector('a[href="sutaz.php?ukonci=1"]')
                 try:
@@ -268,6 +272,7 @@ async def main() -> None:
                     else:
                         node = h3.next_sibling
                         correct_answer = None
+                        correct_answer_plain = None
 
                         while node and getattr(node, "name", None) != "h3":
                             # CASE 1: multiple-choice (text or image)
@@ -290,6 +295,8 @@ async def main() -> None:
                                                     correct_answer = f"http://demo.ibobor.sk{src[2:]}"
                                         else:
                                             correct_answer = html.unescape("".join(str(c) for c in li.contents))
+                                            soup = BeautifulSoup("".join(str(c) for c in li.contents), "html.parser")
+                                            correct_answer_plain = soup.get_text(separator=" ", strip=True)
                                         break
 
                             # CASE 2: text answer
@@ -301,6 +308,8 @@ async def main() -> None:
                                         for img in next_p.find_all("img", src=lambda x: x and "spravna" in x):
                                             img.decompose()
                                         correct_answer = html.unescape("".join(str(c) for c in next_p.contents))
+                                        soup = BeautifulSoup("".join(str(c) for c in li.contents), "html.parser")
+                                        correct_answer_plain = soup.get_text(separator=" ", strip=True)
                                         break
                             node = node.next_sibling
 
@@ -333,7 +342,7 @@ async def main() -> None:
 
                         matching_question["correct_index"] = correct_index
                         matching_question["correct_answer"] = correct_answer
-
+                        matching_question["correct_answer_plain"] = correct_answer_plain
 
                 for question in questions:
                     await context.push_data(question)
