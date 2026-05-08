@@ -1,6 +1,6 @@
 # iBobor Task Scraper
 
-This repository contains the source code of an automated data collection pipeline used to retrieve tasks from the Slovak iBobor demo platform. The scraper was developed as part of a diploma thesis focused on evaluating the performance of language models on tasks from the Slovak Bebras Challenge.
+This repository contains the source code of an automated data collection pipeline used to retrieve tasks from the Slovak iBobor demo platform (http://demo.ibobor.sk/sutaz_demo/). The scraper was developed as part of a diploma thesis focused on evaluating the performance of language models on tasks from the Slovak Bebras Challenge.
 
 The collected data was later transformed into a structured dataset and used for experimental evaluation. The resulting dataset is publicly available on Hugging Face:
 
