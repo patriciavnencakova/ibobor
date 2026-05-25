@@ -1,0 +1,2139 @@
+{
+  "model": "meta-llama/llama-4-scout",
+  "timestamp": "2026-04-13T14:14:07.170877",
+  "results": [
+    {
+      "id": 95,
+      "choice_value": "3",
+      "raw_response": "{\n  \"id\": 95,\n  \"choice_value\": \"3\"\n}",
+      "usage": {
+        "prompt_tokens": 409,
+        "completion_tokens": 18,
+        "total_tokens": 427,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 582,
+      "choice_value": "1",
+      "raw_response": "{\n  \"id\": 582,\n  \"choice_value\": \"jpg\"\n}",
+      "usage": {
+        "prompt_tokens": 229,
+        "completion_tokens": 18,
+        "total_tokens": 247,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 1053,
+      "choice_value": "2",
+      "raw_response": "{\n  \"id\": 1053,\n  \"choice_value\": \"2\"\n}",
+      "usage": {
+        "prompt_tokens": 179,
+        "completion_tokens": 19,
+        "total_tokens": 198,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 183,
+      "choice_value": "2",
+      "raw_response": "{\n  \"id\": 183,\n  \"choice_value\": \"2\"\n}",
+      "usage": {
+        "prompt_tokens": 696,
+        "completion_tokens": 18,
+        "total_tokens": 714,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 611,
+      "choice_value": "3",
+      "raw_response": "{\n  \"id\": 611,\n  \"choice_value\": \"3\"\n}",
+      "usage": {
+        "prompt_tokens": 321,
+        "completion_tokens": 18,
+        "total_tokens": 339,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 191,
+      "choice_value": "3",
+      "raw_response": "{\n\"id\": 191,\n  \"choice_value\": \"3\"\n}",
+      "usage": {
+        "prompt_tokens": 319,
+        "completion_tokens": 18,
+        "total_tokens": 337,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 828,
+      "choice_value": "2",
+      "raw_response": "{\n\"id\": 828,\n  \"choice_value\": \"VĽAVO\"\n}",
+      "usage": {
+        "prompt_tokens": 242,
+        "completion_tokens": 22,
+        "total_tokens": 264,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 715,
+      "choice_value": "0",
+      "raw_response": "{\n\"id\": 715,\n  \"choice_value\": \"DZZMER\"\n}",
+      "usage": {
+        "prompt_tokens": 236,
+        "completion_tokens": 20,
+        "total_tokens": 256,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 652,
+      "choice_value": "2",
+      "raw_response": "{\n  \"id\": 652,\n  \"choice_value\": \"2\"\n}",
+      "usage": {
+        "prompt_tokens": 501,
+        "completion_tokens": 18,
+        "total_tokens": 519,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 1041,
+      "choice_value": "0",
+      "raw_response": "{\n  \"id\": 1041,\n  \"choice_value\": \"0\"\n}",
+      "usage": {
+        "prompt_tokens": 285,
+        "completion_tokens": 19,
+        "total_tokens": 304,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 150,
+      "choice_value": "1",
+      "raw_response": "{\n  \"id\": 150,\n  \"choice_value\": \"1\"\n}",
+      "usage": {
+        "prompt_tokens": 458,
+        "completion_tokens": 18,
+        "total_tokens": 476,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 1038,
+      "choice_value": "3",
+      "raw_response": "{\n  \"id\": 1038,\n  \"choice_value\": \"3\"\n}",
+      "usage": {
+        "prompt_tokens": 248,
+        "completion_tokens": 19,
+        "total_tokens": 267,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 296,
+      "choice_value": "1",
+      "raw_response": "{\n\"id\": 296,\n  \"choice_value\": \"1\"\n}",
+      "usage": {
+        "prompt_tokens": 415,
+        "completion_tokens": 18,
+        "total_tokens": 433,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 804,
+      "choice_value": "2",
+      "raw_response": "{\n\"id\": 804,\n  \"choice_value\": \"2\"\n}",
+      "usage": {
+        "prompt_tokens": 352,
+        "completion_tokens": 18,
+        "total_tokens": 370,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 384,
+      "choice_value": "2",
+      "raw_response": "{\n  \"id\": 384,\n  \"choice_value\": \"2\"\n}",
+      "usage": {
+        "prompt_tokens": 310,
+        "completion_tokens": 18,
+        "total_tokens": 328,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 392,
+      "choice_value": null,
+      "error": "Extra data: line 1 column 7 (char 6)",
+      "raw_response": "  \"id\": 392,\n  \"choice_value\": \"2\"\n}",
+      "usage": {
+        "prompt_tokens": 227,
+        "completion_tokens": 11,
+        "total_tokens": 238,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 1096,
+      "choice_value": "2",
+      "raw_response": "{\n  \"id\": 1096,\n  \"choice_value\": \"2\"\n}",
+      "usage": {
+        "prompt_tokens": 341,
+        "completion_tokens": 19,
+        "total_tokens": 360,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 685,
+      "choice_value": null,
+      "error": "Extra data: line 1 column 7 (char 6)",
+      "raw_response": "  \"id\": 685,\n  \"choice_value\": \"2\"\n}",
+      "usage": {
+        "prompt_tokens": 209,
+        "completion_tokens": 11,
+        "total_tokens": 220,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 280,
+      "choice_value": "2",
+      "raw_response": "{\n  \"id\": 280,\n  \"choice_value\": \"2\"\n}",
+      "usage": {
+        "prompt_tokens": 407,
+        "completion_tokens": 18,
+        "total_tokens": 425,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 187,
+      "choice_value": "1",
+      "raw_response": "{\n\"id\": 187,\n  \"choice_value\": \"1\"\n}",
+      "usage": {
+        "prompt_tokens": 383,
+        "completion_tokens": 18,
+        "total_tokens": 401,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 959,
+      "choice_value": "2",
+      "raw_response": "{\n  \"id\": 959,\n  \"choice_value\": \"((bing 2) (dang 3) (dong 4))\"\n}",
+      "usage": {
+        "prompt_tokens": 408,
+        "completion_tokens": 32,
+        "total_tokens": 440,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 388,
+      "choice_value": null,
+      "error": "Extra data: line 1 column 7 (char 6)",
+      "raw_response": "  \"id\": 388,\n  \"choice_value\": \"3\"\n}",
+      "usage": {
+        "prompt_tokens": 310,
+        "completion_tokens": 11,
+        "total_tokens": 321,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 808,
+      "choice_value": "3",
+      "raw_response": "{\n  \"id\": 808,\n  \"choice_value\": \"3\"\n}",
+      "usage": {
+        "prompt_tokens": 381,
+        "completion_tokens": 18,
+        "total_tokens": 399,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 847,
+      "choice_value": "3",
+      "raw_response": "{\n  \"id\": 847,\n  \"choice_value\": \"3\"\n}",
+      "usage": {
+        "prompt_tokens": 250,
+        "completion_tokens": 18,
+        "total_tokens": 268,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 848,
+      "choice_value": "0",
+      "raw_response": "{\n\"id\": 848,\n  \"choice_value\": \"0\"\n}",
+      "usage": {
+        "prompt_tokens": 372,
+        "completion_tokens": 18,
+        "total_tokens": 390,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 262,
+      "choice_value": "1",
+      "raw_response": "{\n\"id\": 262,\n  \"choice_value\": \"1\"\n}",
+      "usage": {
+        "prompt_tokens": 410,
+        "completion_tokens": 18,
+        "total_tokens": 428,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 798,
+      "choice_value": null,
+      "error": "Invalid choice_value: 480",
+      "raw_response": "{\n  \"id\": 798,\n  \"choice_value\": \"480\"\n}",
+      "usage": {
+        "prompt_tokens": 357,
+        "completion_tokens": 18,
+        "total_tokens": 375,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 407,
+      "choice_value": "1",
+      "raw_response": "{\n  \"id\": 407,\n  \"choice_value\": \"1\"\n}",
+      "usage": {
+        "prompt_tokens": 410,
+        "completion_tokens": 18,
+        "total_tokens": 428,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 807,
+      "choice_value": "2",
+      "raw_response": "{\n  \"id\": 807,\n  \"choice_value\": \"2\"\n}",
+      "usage": {
+        "prompt_tokens": 341,
+        "completion_tokens": 18,
+        "total_tokens": 359,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 671,
+      "choice_value": "3",
+      "raw_response": "{\n\"id\": 671,\n  \"choice_value\": \"3\"\n}",
+      "usage": {
+        "prompt_tokens": 361,
+        "completion_tokens": 18,
+        "total_tokens": 379,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 387,
+      "choice_value": "3",
+      "raw_response": "{\n  \"id\": 387,\n  \"choice_value\": \"3\"\n}",
+      "usage": {
+        "prompt_tokens": 260,
+        "completion_tokens": 18,
+        "total_tokens": 278,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 1062,
+      "choice_value": "1",
+      "raw_response": "{\n  \"id\": 1062,\n  \"choice_value\": \"1\"\n}",
+      "usage": {
+        "prompt_tokens": 381,
+        "completion_tokens": 19,
+        "total_tokens": 400,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 448,
+      "choice_value": null,
+      "error": "Expecting value: line 1 column 1 (char 0)",
+      "raw_response": "choice_value\": \"6\"\n}",
+      "usage": {
+        "prompt_tokens": 368,
+        "completion_tokens": 6,
+        "total_tokens": 374,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 431,
+      "choice_value": "1",
+      "raw_response": "{\n\"id\": 431,\n  \"choice_value\": \"1\"\n}",
+      "usage": {
+        "prompt_tokens": 437,
+        "completion_tokens": 18,
+        "total_tokens": 455,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 960,
+      "choice_value": "3",
+      "raw_response": "{\n  \"id\": 960,\n  \"choice_value\": \"3\"\n}",
+      "usage": {
+        "prompt_tokens": 242,
+        "completion_tokens": 18,
+        "total_tokens": 260,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 519,
+      "choice_value": null,
+      "error": "Extra data: line 1 column 7 (char 6)",
+      "raw_response": "  \"id\": 519,\n  \"choice_value\": \"5\"\n}",
+      "usage": {
+        "prompt_tokens": 279,
+        "completion_tokens": 11,
+        "total_tokens": 290,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 165,
+      "choice_value": "3",
+      "raw_response": "{\n\"id\": 165,\n  \"choice_value\": \"3\"\n}",
+      "usage": {
+        "prompt_tokens": 738,
+        "completion_tokens": 18,
+        "total_tokens": 756,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 188,
+      "choice_value": "3",
+      "raw_response": "{\n  \"id\": 188,\n  \"choice_value\": \"3\"\n}",
+      "usage": {
+        "prompt_tokens": 342,
+        "completion_tokens": 18,
+        "total_tokens": 360,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 976,
+      "choice_value": "2",
+      "raw_response": "{\n  \"id\": 976,\n  \"choice_value\": \"2\"\n}",
+      "usage": {
+        "prompt_tokens": 383,
+        "completion_tokens": 18,
+        "total_tokens": 401,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 1058,
+      "choice_value": "3",
+      "raw_response": "{\n  \"id\": 1058,\n  \"choice_value\": \"3\"\n}",
+      "usage": {
+        "prompt_tokens": 223,
+        "completion_tokens": 19,
+        "total_tokens": 242,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 279,
+      "choice_value": "2",
+      "raw_response": "{\n  \"id\": 279,\n  \"choice_value\": \"2\"\n}",
+      "usage": {
+        "prompt_tokens": 351,
+        "completion_tokens": 18,
+        "total_tokens": 369,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 452,
+      "choice_value": "3",
+      "raw_response": "{\n  \"id\": 452,\n  \"choice_value\": \"3\"\n}",
+      "usage": {
+        "prompt_tokens": 551,
+        "completion_tokens": 18,
+        "total_tokens": 569,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 391,
+      "choice_value": "0",
+      "raw_response": "{\n\"id\": 391,\n  \"choice_value\": \"0\"\n}",
+      "usage": {
+        "prompt_tokens": 368,
+        "completion_tokens": 18,
+        "total_tokens": 386,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 53,
+      "choice_value": null,
+      "error": "Invalid choice_value: koláč(čokoláda, 177, 30); koláč(škorica, 180, 50)",
+      "raw_response": "{\n  \"id\": 53,\n  \"choice_value\": \"koláč(čokoláda, 177, 30); koláč(škorica, 180, 50)\"\n}",
+      "usage": {
+        "prompt_tokens": 479,
+        "completion_tokens": 43,
+        "total_tokens": 522,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 383,
+      "choice_value": "3",
+      "raw_response": "{\n  \"id\": 383,\n  \"choice_value\": \"3\"\n}",
+      "usage": {
+        "prompt_tokens": 333,
+        "completion_tokens": 18,
+        "total_tokens": 351,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 295,
+      "choice_value": "2",
+      "raw_response": "{\n  \"id\": 295,\n  \"choice_value\": \"2\"\n}",
+      "usage": {
+        "prompt_tokens": 470,
+        "completion_tokens": 18,
+        "total_tokens": 488,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 1013,
+      "choice_value": "3",
+      "raw_response": "{\n  \"id\": 1013,\n  \"choice_value\": \"3\"\n}",
+      "usage": {
+        "prompt_tokens": 305,
+        "completion_tokens": 19,
+        "total_tokens": 324,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 192,
+      "choice_value": "2",
+      "raw_response": "{\n  \"id\": 192,\n  \"choice_value\": \"2\"\n}",
+      "usage": {
+        "prompt_tokens": 295,
+        "completion_tokens": 18,
+        "total_tokens": 313,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 184,
+      "choice_value": "0",
+      "raw_response": "{\n  \"id\": 184,\n  \"choice_value\": \"fnroamitkc úsaťž\"\n}",
+      "usage": {
+        "prompt_tokens": 329,
+        "completion_tokens": 25,
+        "total_tokens": 354,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 700,
+      "choice_value": "1",
+      "raw_response": "{\n  \"id\": 700,\n  \"choice_value\": \"1\"\n}",
+      "usage": {
+        "prompt_tokens": 215,
+        "completion_tokens": 18,
+        "total_tokens": 233,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 1054,
+      "choice_value": "2",
+      "raw_response": "{\n\"id\": 1054,\n  \"choice_value\": \"2\"\n}",
+      "usage": {
+        "prompt_tokens": 301,
+        "completion_tokens": 19,
+        "total_tokens": 320,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 993,
+      "choice_value": "0",
+      "raw_response": "{\n  \"id\": 993,\n  \"choice_value\": \"6 sekúnd\"\n}",
+      "usage": {
+        "prompt_tokens": 320,
+        "completion_tokens": 21,
+        "total_tokens": 341,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 96,
+      "choice_value": "1",
+      "raw_response": "{\n  \"id\": 96,\n  \"choice_value\": \"1\"\n}",
+      "usage": {
+        "prompt_tokens": 280,
+        "completion_tokens": 18,
+        "total_tokens": 298,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 427,
+      "choice_value": "1",
+      "raw_response": "{\n  \"id\": 427,\n  \"choice_value\": \"1\"\n}",
+      "usage": {
+        "prompt_tokens": 372,
+        "completion_tokens": 18,
+        "total_tokens": 390,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 1008,
+      "choice_value": "3",
+      "raw_response": "{\n\"id\": 1008,\n  \"choice_value\": \"3\"\n}",
+      "usage": {
+        "prompt_tokens": 407,
+        "completion_tokens": 19,
+        "total_tokens": 426,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 861,
+      "choice_value": "3",
+      "raw_response": "{\n\"id\": 861,\n  \"choice_value\": \"3\"\n}",
+      "usage": {
+        "prompt_tokens": 343,
+        "completion_tokens": 18,
+        "total_tokens": 361,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 526,
+      "choice_value": "1",
+      "raw_response": "{\n  \"id\": 526,\n  \"choice_value\": \"1\"\n}",
+      "usage": {
+        "prompt_tokens": 351,
+        "completion_tokens": 18,
+        "total_tokens": 369,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 197,
+      "choice_value": "3",
+      "raw_response": "{\n  \"id\": 197,\n  \"choice_value\": \"3\"\n}",
+      "usage": {
+        "prompt_tokens": 334,
+        "completion_tokens": 18,
+        "total_tokens": 352,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 930,
+      "choice_value": "1",
+      "raw_response": "{\n  \"id\": 930,\n  \"choice_value\": \"1\"\n}",
+      "usage": {
+        "prompt_tokens": 310,
+        "completion_tokens": 18,
+        "total_tokens": 328,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 658,
+      "choice_value": "3",
+      "raw_response": "{\n  \"id\": 658,\n  \"choice_value\": \"3\"\n}",
+      "usage": {
+        "prompt_tokens": 393,
+        "completion_tokens": 18,
+        "total_tokens": 411,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 1047,
+      "choice_value": "1",
+      "raw_response": "{\n  \"id\": 1047,\n  \"choice_value\": \"MDMTEXAS.TXT\"\n}",
+      "usage": {
+        "prompt_tokens": 194,
+        "completion_tokens": 24,
+        "total_tokens": 218,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 857,
+      "choice_value": "0",
+      "raw_response": "{\n  \"id\": 857,\n  \"choice_value\": \"1200\"\n}",
+      "usage": {
+        "prompt_tokens": 338,
+        "completion_tokens": 19,
+        "total_tokens": 357,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 818,
+      "choice_value": "3",
+      "raw_response": "{\n  \"id\": 818,\n  \"choice_value\": \"3\"\n}",
+      "usage": {
+        "prompt_tokens": 455,
+        "completion_tokens": 18,
+        "total_tokens": 473,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 1024,
+      "choice_value": "3",
+      "raw_response": "{\n  \"id\": 1024,\n  \"choice_value\": \"3\"\n}",
+      "usage": {
+        "prompt_tokens": 164,
+        "completion_tokens": 19,
+        "total_tokens": 183,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 633,
+      "choice_value": "3",
+      "raw_response": "{\n\"id\": 633,\n  \"choice_value\": \"3\"\n}",
+      "usage": {
+        "prompt_tokens": 301,
+        "completion_tokens": 18,
+        "total_tokens": 319,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 770,
+      "choice_value": "0",
+      "raw_response": "{\n  \"id\": 770,\n  \"choice_value\": \"0\"\n}",
+      "usage": {
+        "prompt_tokens": 194,
+        "completion_tokens": 18,
+        "total_tokens": 212,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 89,
+      "choice_value": "3",
+      "raw_response": "{\n  \"id\": 89,\n  \"choice_value\": \"3\"\n}",
+      "usage": {
+        "prompt_tokens": 379,
+        "completion_tokens": 18,
+        "total_tokens": 397,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 992,
+      "choice_value": "1",
+      "raw_response": "{\n  \"id\": 992,\n  \"choice_value\": \"1\"\n}",
+      "usage": {
+        "prompt_tokens": 386,
+        "completion_tokens": 18,
+        "total_tokens": 404,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 642,
+      "choice_value": "1",
+      "raw_response": "{\n  \"id\": 642,\n  \"choice_value\": \"1\"\n}",
+      "usage": {
+        "prompt_tokens": 251,
+        "completion_tokens": 18,
+        "total_tokens": 269,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 181,
+      "choice_value": "2",
+      "raw_response": "{\n  \"id\": 181,\n  \"choice_value\": \"2\"\n}",
+      "usage": {
+        "prompt_tokens": 434,
+        "completion_tokens": 18,
+        "total_tokens": 452,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 880,
+      "choice_value": "2",
+      "raw_response": "{\n  \"id\": 880,\n  \"choice_value\": \"2\"\n}",
+      "usage": {
+        "prompt_tokens": 447,
+        "completion_tokens": 18,
+        "total_tokens": 465,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 1004,
+      "choice_value": "1",
+      "raw_response": "{\n  \"id\": 1004,\n  \"choice_value\": \"1\"\n}",
+      "usage": {
+        "prompt_tokens": 334,
+        "completion_tokens": 19,
+        "total_tokens": 353,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 480,
+      "choice_value": "2",
+      "raw_response": "{\n  \"id\": 480,\n  \"choice_value\": \"2\"\n}",
+      "usage": {
+        "prompt_tokens": 222,
+        "completion_tokens": 18,
+        "total_tokens": 240,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 877,
+      "choice_value": "0",
+      "raw_response": "{\n  \"id\": 877,\n  \"choice_value\": \"0\"\n}",
+      "usage": {
+        "prompt_tokens": 250,
+        "completion_tokens": 18,
+        "total_tokens": 268,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 193,
+      "choice_value": "1",
+      "raw_response": "{\n\"id\": 193,\n  \"choice_value\": \"5\"\n}",
+      "usage": {
+        "prompt_tokens": 368,
+        "completion_tokens": 18,
+        "total_tokens": 386,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 1012,
+      "choice_value": "3",
+      "raw_response": "{\n  \"id\": 1012,\n  \"choice_value\": \"3\"\n}",
+      "usage": {
+        "prompt_tokens": 322,
+        "completion_tokens": 12,
+        "total_tokens": 334,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 85,
+      "choice_value": "1",
+      "raw_response": "{\n  \"id\": 85,\n  \"choice_value\": \"1\"\n}",
+      "usage": {
+        "prompt_tokens": 345,
+        "completion_tokens": 18,
+        "total_tokens": 363,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 783,
+      "choice_value": "1",
+      "raw_response": "{\n  \"id\": 783,\n  \"choice_value\": \"1\"\n}",
+      "usage": {
+        "prompt_tokens": 173,
+        "completion_tokens": 18,
+        "total_tokens": 191,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 290,
+      "choice_value": "0",
+      "raw_response": "{\n  \"id\": 290,\n  \"choice_value\": \"0\"\n}",
+      "usage": {
+        "prompt_tokens": 236,
+        "completion_tokens": 18,
+        "total_tokens": 254,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 228,
+      "choice_value": "2",
+      "raw_response": "{\n  \"id\": 228,\n  \"choice_value\": \"Braňo – Dano – Emil – Cyril – Adam\"\n}",
+      "usage": {
+        "prompt_tokens": 292,
+        "completion_tokens": 29,
+        "total_tokens": 321,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 382,
+      "choice_value": "3",
+      "raw_response": "{\n  \"id\": 382,\n  \"choice_value\": \"3\"\n}",
+      "usage": {
+        "prompt_tokens": 436,
+        "completion_tokens": 18,
+        "total_tokens": 454,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 394,
+      "choice_value": "3",
+      "raw_response": "{\n  \"id\": 394,\n  \"choice_value\": \"3\"\n}",
+      "usage": {
+        "prompt_tokens": 298,
+        "completion_tokens": 18,
+        "total_tokens": 316,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 1028,
+      "choice_value": "1",
+      "raw_response": "{\n  \"id\": 1028,\n  \"choice_value\": \"1\"\n}",
+      "usage": {
+        "prompt_tokens": 246,
+        "completion_tokens": 19,
+        "total_tokens": 265,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 286,
+      "choice_value": "2",
+      "raw_response": "{\n  \"id\": 286,\n  \"choice_value\": \"2\"\n}",
+      "usage": {
+        "prompt_tokens": 356,
+        "completion_tokens": 18,
+        "total_tokens": 374,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 285,
+      "choice_value": "2",
+      "raw_response": "{\n  \"id\": 285,\n  \"choice_value\": \"2\"\n}",
+      "usage": {
+        "prompt_tokens": 624,
+        "completion_tokens": 18,
+        "total_tokens": 642,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 393,
+      "choice_value": "2",
+      "raw_response": "{\n\"id\": 393,\n  \"choice_value\": \"2\"\n}",
+      "usage": {
+        "prompt_tokens": 407,
+        "completion_tokens": 18,
+        "total_tokens": 425,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 950,
+      "choice_value": "0",
+      "raw_response": "{\n  \"id\": 950,\n  \"choice_value\": \"0\"\n}",
+      "usage": {
+        "prompt_tokens": 466,
+        "completion_tokens": 12,
+        "total_tokens": 478,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 381,
+      "choice_value": "1",
+      "raw_response": "{\n\"id\": 381,\n  \"choice_value\": \"1\"\n}",
+      "usage": {
+        "prompt_tokens": 416,
+        "completion_tokens": 18,
+        "total_tokens": 434,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 289,
+      "choice_value": "3",
+      "raw_response": "{\n  \"id\": 289,\n  \"choice_value\": \"3\"\n}",
+      "usage": {
+        "prompt_tokens": 237,
+        "completion_tokens": 18,
+        "total_tokens": 255,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 442,
+      "choice_value": "2",
+      "raw_response": "{\n\"id\": 442,\n  \"choice_value\": \"0,0\"\n}",
+      "usage": {
+        "prompt_tokens": 437,
+        "completion_tokens": 20,
+        "total_tokens": 457,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 1044,
+      "choice_value": "1",
+      "raw_response": "{\n  \"id\": 1044,\n  \"choice_value\": \"1\"\n}",
+      "usage": {
+        "prompt_tokens": 196,
+        "completion_tokens": 19,
+        "total_tokens": 215,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 86,
+      "choice_value": "3",
+      "raw_response": "{\n  \"id\": 86,\n  \"choice_value\": \"3\"\n}",
+      "usage": {
+        "prompt_tokens": 325,
+        "completion_tokens": 18,
+        "total_tokens": 343,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 745,
+      "choice_value": "3",
+      "raw_response": "{\n  \"id\": 745,\n  \"choice_value\": \"3\"\n}",
+      "usage": {
+        "prompt_tokens": 639,
+        "completion_tokens": 18,
+        "total_tokens": 657,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 194,
+      "choice_value": null,
+      "error": "Invalid choice_value: E2",
+      "raw_response": "{\n  \"id\": 194,\n  \"choice_value\": \"E2\"\n}",
+      "usage": {
+        "prompt_tokens": 392,
+        "completion_tokens": 19,
+        "total_tokens": 411,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 182,
+      "choice_value": "2",
+      "raw_response": "{\n  \"id\": 182,\n  \"choice_value\": \"A2 D5\"\n}",
+      "usage": {
+        "prompt_tokens": 346,
+        "completion_tokens": 21,
+        "total_tokens": 367,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 641,
+      "choice_value": "1",
+      "raw_response": "{\n  \"id\": 641,\n  \"choice_value\": \"1\"\n}",
+      "usage": {
+        "prompt_tokens": 287,
+        "completion_tokens": 18,
+        "total_tokens": 305,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 1052,
+      "choice_value": "0",
+      "raw_response": "{\n  \"id\": 1052,\n  \"choice_value\": \"0\"\n}",
+      "usage": {
+        "prompt_tokens": 304,
+        "completion_tokens": 19,
+        "total_tokens": 323,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 90,
+      "choice_value": "2",
+      "raw_response": "{\n  \"id\": 90,\n  \"choice_value\": \"2\"\n}",
+      "usage": {
+        "prompt_tokens": 354,
+        "completion_tokens": 18,
+        "total_tokens": 372,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 837,
+      "choice_value": "2",
+      "raw_response": "{\n  \"id\": 837,\n  \"choice_value\": \"2\"\n}",
+      "usage": {
+        "prompt_tokens": 414,
+        "completion_tokens": 18,
+        "total_tokens": 432,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 458,
+      "choice_value": "1",
+      "raw_response": "{\n  \"id\": 458,\n  \"choice_value\": \"1\"\n}",
+      "usage": {
+        "prompt_tokens": 491,
+        "completion_tokens": 18,
+        "total_tokens": 509,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 726,
+      "choice_value": "2",
+      "raw_response": "{\n  \"id\": 726,\n  \"choice_value\": \"Tesim sa ked sa vratis Babsi\"\n}",
+      "usage": {
+        "prompt_tokens": 331,
+        "completion_tokens": 27,
+        "total_tokens": 358,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 1064,
+      "choice_value": "0",
+      "raw_response": "{\n\"id\": 1064,\n  \"choice_value\": \"0\"\n}",
+      "usage": {
+        "prompt_tokens": 442,
+        "completion_tokens": 19,
+        "total_tokens": 461,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 858,
+      "choice_value": "2",
+      "raw_response": "{\n  \"id\": 858,\n  \"choice_value\": \"2\"\n}",
+      "usage": {
+        "prompt_tokens": 276,
+        "completion_tokens": 18,
+        "total_tokens": 294,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 272,
+      "choice_value": "1",
+      "raw_response": "{\n  \"id\": 272,\n  \"choice_value\": \"1\"\n}",
+      "usage": {
+        "prompt_tokens": 397,
+        "completion_tokens": 18,
+        "total_tokens": 415,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 1031,
+      "choice_value": "1",
+      "raw_response": "{\n  \"id\": 1031,\n  \"choice_value\": \"1\"\n}",
+      "usage": {
+        "prompt_tokens": 202,
+        "completion_tokens": 19,
+        "total_tokens": 221,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 1048,
+      "choice_value": "3",
+      "raw_response": "{\n  \"id\": 1048,\n  \"choice_value\": \"3\"\n}",
+      "usage": {
+        "prompt_tokens": 212,
+        "completion_tokens": 19,
+        "total_tokens": 231,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 159,
+      "choice_value": "1",
+      "raw_response": "{\n  \"id\": 159,\n  \"choice_value\": \"1\"\n}",
+      "usage": {
+        "prompt_tokens": 391,
+        "completion_tokens": 18,
+        "total_tokens": 409,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 288,
+      "choice_value": "3",
+      "raw_response": "{\n  \"id\": 288,\n  \"choice_value\": \"3\"\n}",
+      "usage": {
+        "prompt_tokens": 256,
+        "completion_tokens": 18,
+        "total_tokens": 274,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 947,
+      "choice_value": "2",
+      "raw_response": "{\n\"id\": 947,\n  \"choice_value\": \"2\"\n}",
+      "usage": {
+        "prompt_tokens": 290,
+        "completion_tokens": 18,
+        "total_tokens": 308,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 158,
+      "choice_value": "2",
+      "raw_response": "{\n  \"id\": 158,\n  \"choice_value\": \"fnroamitkc úsaťž\"\n}",
+      "usage": {
+        "prompt_tokens": 361,
+        "completion_tokens": 25,
+        "total_tokens": 386,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 87,
+      "choice_value": "1",
+      "raw_response": "{\n\"id\": 87,\n  \"choice_value\": \"1\"\n}",
+      "usage": {
+        "prompt_tokens": 448,
+        "completion_tokens": 18,
+        "total_tokens": 466,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 318,
+      "choice_value": "0",
+      "raw_response": "{\n  \"id\": 318,\n  \"choice_value\": \"0\"\n}",
+      "usage": {
+        "prompt_tokens": 285,
+        "completion_tokens": 18,
+        "total_tokens": 303,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 284,
+      "choice_value": "1",
+      "raw_response": "{\n  \"id\": 284,\n  \"choice_value\": \"1\"\n}",
+      "usage": {
+        "prompt_tokens": 361,
+        "completion_tokens": 18,
+        "total_tokens": 379,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 839,
+      "choice_value": "3",
+      "raw_response": "{\n\"id\": 839,\n  \"choice_value\": \"3\"\n}",
+      "usage": {
+        "prompt_tokens": 289,
+        "completion_tokens": 18,
+        "total_tokens": 307,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 512,
+      "choice_value": "3",
+      "raw_response": "{\n  \"id\": 512,\n  \"choice_value\": \"3\"\n}",
+      "usage": {
+        "prompt_tokens": 327,
+        "completion_tokens": 18,
+        "total_tokens": 345,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 377,
+      "choice_value": "1",
+      "raw_response": "{\n\"id\": 377,\n  \"choice_value\": \"1\"\n}",
+      "usage": {
+        "prompt_tokens": 652,
+        "completion_tokens": 18,
+        "total_tokens": 670,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 380,
+      "choice_value": "0",
+      "raw_response": "{\n\"id\": 380,\n  \"choice_value\": \"0\"\n}",
+      "usage": {
+        "prompt_tokens": 301,
+        "completion_tokens": 18,
+        "total_tokens": 319,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 292,
+      "choice_value": "2",
+      "raw_response": "{\n  \"id\": 292,\n  \"choice_value\": \"2\"\n}",
+      "usage": {
+        "prompt_tokens": 401,
+        "completion_tokens": 18,
+        "total_tokens": 419,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 154,
+      "choice_value": "2",
+      "raw_response": "{\n  \"id\": 154,\n  \"choice_value\": \"2\"\n}",
+      "usage": {
+        "prompt_tokens": 339,
+        "completion_tokens": 18,
+        "total_tokens": 357,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 504,
+      "choice_value": "2",
+      "raw_response": "{\n  \"id\": 504,\n  \"choice_value\": \"2\"\n}",
+      "usage": {
+        "prompt_tokens": 315,
+        "completion_tokens": 18,
+        "total_tokens": 333,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 1045,
+      "choice_value": "2",
+      "raw_response": "{\n\"id\": 1045,\n  \"choice_value\": \"2\"\n}",
+      "usage": {
+        "prompt_tokens": 440,
+        "completion_tokens": 19,
+        "total_tokens": 459,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 83,
+      "choice_value": "3",
+      "raw_response": "{\n  \"id\": 83,\n  \"choice_value\": \"41\"\n}",
+      "usage": {
+        "prompt_tokens": 347,
+        "completion_tokens": 18,
+        "total_tokens": 365,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 249,
+      "choice_value": "0",
+      "raw_response": "{\n  \"id\": 249,\n  \"choice_value\": \"Bvfgr zhu\"\n}",
+      "usage": {
+        "prompt_tokens": 306,
+        "completion_tokens": 22,
+        "total_tokens": 328,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 195,
+      "choice_value": "2",
+      "raw_response": "{\n\"id\": 195,\n  \"choice_value\": \"2\"\n}",
+      "usage": {
+        "prompt_tokens": 284,
+        "completion_tokens": 18,
+        "total_tokens": 302,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 1049,
+      "choice_value": "1",
+      "raw_response": "{\n  \"id\": 1049,\n  \"choice_value\": \"0,5GB\"\n}",
+      "usage": {
+        "prompt_tokens": 375,
+        "completion_tokens": 22,
+        "total_tokens": 397,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 990,
+      "choice_value": "2",
+      "raw_response": "{\n  \"id\": 990,\n  \"choice_value\": \"2\"\n}",
+      "usage": {
+        "prompt_tokens": 339,
+        "completion_tokens": 18,
+        "total_tokens": 357,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 91,
+      "choice_value": "1",
+      "raw_response": "{\n  \"id\": 91,\n  \"choice_value\": \"1\"\n}",
+      "usage": {
+        "prompt_tokens": 303,
+        "completion_tokens": 18,
+        "total_tokens": 321,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 585,
+      "choice_value": "2",
+      "raw_response": "{\n\"id\": 585,\n  \"choice_value\": \"2\"\n}",
+      "usage": {
+        "prompt_tokens": 398,
+        "completion_tokens": 18,
+        "total_tokens": 416,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 92,
+      "choice_value": "3",
+      "raw_response": "{\n  \"id\": 92,\n  \"choice_value\": \"B4m2s5i6\"\n}",
+      "usage": {
+        "prompt_tokens": 341,
+        "completion_tokens": 25,
+        "total_tokens": 366,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 180,
+      "choice_value": "2",
+      "raw_response": "{\n\"id\": 180,\n  \"choice_value\": \"14\"\n}",
+      "usage": {
+        "prompt_tokens": 266,
+        "completion_tokens": 18,
+        "total_tokens": 284,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 493,
+      "choice_value": "2",
+      "raw_response": "{\n\"id\": 493,\n  \"choice_value\": \"2\"\n}",
+      "usage": {
+        "prompt_tokens": 325,
+        "completion_tokens": 18,
+        "total_tokens": 343,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 196,
+      "choice_value": "2",
+      "raw_response": "{\n  \"id\": 196,\n  \"choice_value\": \"2\"\n}",
+      "usage": {
+        "prompt_tokens": 278,
+        "completion_tokens": 18,
+        "total_tokens": 296,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 1009,
+      "choice_value": "1",
+      "raw_response": "{\n  \"id\": 1009,\n  \"choice_value\": \"6 sekúnd\"\n}",
+      "usage": {
+        "prompt_tokens": 321,
+        "completion_tokens": 22,
+        "total_tokens": 343,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 968,
+      "choice_value": "0",
+      "raw_response": "{\n  \"id\": 968,\n  \"choice_value\": \"0\"\n}",
+      "usage": {
+        "prompt_tokens": 474,
+        "completion_tokens": 18,
+        "total_tokens": 492,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 84,
+      "choice_value": "1",
+      "raw_response": "{\n  \"id\": 84,\n  \"choice_value\": \"SMFTRS2079\"\n}",
+      "usage": {
+        "prompt_tokens": 351,
+        "completion_tokens": 22,
+        "total_tokens": 373,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 655,
+      "choice_value": "1",
+      "raw_response": "{\n  \"id\": 655,\n  \"choice_value\": \"1\"\n}",
+      "usage": {
+        "prompt_tokens": 277,
+        "completion_tokens": 18,
+        "total_tokens": 295,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 291,
+      "choice_value": "1",
+      "raw_response": "{\n\"id\": 291,\n  \"choice_value\": \"1\"\n}",
+      "usage": {
+        "prompt_tokens": 273,
+        "completion_tokens": 18,
+        "total_tokens": 291,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 379,
+      "choice_value": "2",
+      "raw_response": "{\n\"id\": 379,\n  \"choice_value\": \"2\"\n}",
+      "usage": {
+        "prompt_tokens": 314,
+        "completion_tokens": 18,
+        "total_tokens": 332,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 952,
+      "choice_value": null,
+      "error": "Invalid choice_value: A",
+      "raw_response": "{\n  \"id\": 952,\n  \"choice_value\": \"A\"\n}",
+      "usage": {
+        "prompt_tokens": 302,
+        "completion_tokens": 18,
+        "total_tokens": 320,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 399,
+      "choice_value": "3",
+      "raw_response": "{\n  \"id\": 399,\n  \"choice_value\": \"Caps Lock\"\n}",
+      "usage": {
+        "prompt_tokens": 202,
+        "completion_tokens": 19,
+        "total_tokens": 221,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 378,
+      "choice_value": "0",
+      "raw_response": "{\n  \"id\": 378,\n  \"choice_value\": \"C\"\n}",
+      "usage": {
+        "prompt_tokens": 285,
+        "completion_tokens": 18,
+        "total_tokens": 303,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 682,
+      "choice_value": "1",
+      "raw_response": "{\n  \"id\": 682,\n  \"choice_value\": \"1\"\n}",
+      "usage": {
+        "prompt_tokens": 383,
+        "completion_tokens": 18,
+        "total_tokens": 401,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 395,
+      "choice_value": "3",
+      "raw_response": "{\n  \"id\": 395,\n  \"choice_value\": \"3\"\n}",
+      "usage": {
+        "prompt_tokens": 310,
+        "completion_tokens": 18,
+        "total_tokens": 328,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 903,
+      "choice_value": "3",
+      "raw_response": "{\n  \"id\": 903,\n  \"choice_value\": \"3\"\n}",
+      "usage": {
+        "prompt_tokens": 271,
+        "completion_tokens": 18,
+        "total_tokens": 289,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 283,
+      "choice_value": "0",
+      "raw_response": "{\n\"id\": 283,\n  \"choice_value\": \"Bvfhq tbo\"\n}",
+      "usage": {
+        "prompt_tokens": 350,
+        "completion_tokens": 23,
+        "total_tokens": 373,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 860,
+      "choice_value": "1",
+      "raw_response": "{\n  \"id\": 860,\n  \"choice_value\": \"1\"\n}",
+      "usage": {
+        "prompt_tokens": 238,
+        "completion_tokens": 18,
+        "total_tokens": 256,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 931,
+      "choice_value": "3",
+      "raw_response": "{\n  \"id\": 931,\n  \"choice_value\": \"3\"\n}",
+      "usage": {
+        "prompt_tokens": 268,
+        "completion_tokens": 18,
+        "total_tokens": 286,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 819,
+      "choice_value": "0",
+      "raw_response": "{\n  \"id\": 819,\n  \"choice_value\": \"0\"\n}",
+      "usage": {
+        "prompt_tokens": 434,
+        "completion_tokens": 18,
+        "total_tokens": 452,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 88,
+      "choice_value": "0",
+      "raw_response": "{\n  \"id\": 88,\n  \"choice_value\": \"E\"\n}",
+      "usage": {
+        "prompt_tokens": 405,
+        "completion_tokens": 18,
+        "total_tokens": 423,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 333,
+      "choice_value": "3",
+      "raw_response": "{\n\"id\": 333,\n  \"choice_value\": \"5\"\n}",
+      "usage": {
+        "prompt_tokens": 316,
+        "completion_tokens": 18,
+        "total_tokens": 334,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 1029,
+      "choice_value": "0",
+      "raw_response": "{\n\"id\": 1029,\n  \"choice_value\": \"0\"\n}",
+      "usage": {
+        "prompt_tokens": 194,
+        "completion_tokens": 19,
+        "total_tokens": 213,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 675,
+      "choice_value": "2",
+      "raw_response": "{\n\"id\": 675,\n  \"choice_value\": \"2\"\n}",
+      "usage": {
+        "prompt_tokens": 337,
+        "completion_tokens": 18,
+        "total_tokens": 355,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 287,
+      "choice_value": "3",
+      "raw_response": "{\n\"id\": 287,\n  \"choice_value\": \"3\"\n}",
+      "usage": {
+        "prompt_tokens": 462,
+        "completion_tokens": 18,
+        "total_tokens": 480,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 282,
+      "choice_value": "0",
+      "raw_response": "{\n  \"id\": 282,\n  \"choice_value\": \"0\"\n}",
+      "usage": {
+        "prompt_tokens": 292,
+        "completion_tokens": 18,
+        "total_tokens": 310,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 390,
+      "choice_value": "0",
+      "raw_response": "{\n\"id\": 390,\n  \"choice_value\": \"0\"\n}",
+      "usage": {
+        "prompt_tokens": 303,
+        "completion_tokens": 18,
+        "total_tokens": 321,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 386,
+      "choice_value": "1",
+      "raw_response": "{\n\"id\": 386,\n  \"choice_value\": \"1\"\n}",
+      "usage": {
+        "prompt_tokens": 386,
+        "completion_tokens": 18,
+        "total_tokens": 404,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 553,
+      "choice_value": "0",
+      "raw_response": "{\n  \"id\": 553,\n  \"choice_value\": \"tlačiareň\"\n}",
+      "usage": {
+        "prompt_tokens": 189,
+        "completion_tokens": 21,
+        "total_tokens": 210,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 806,
+      "choice_value": "2",
+      "raw_response": "{\n\"id\": 806,\n  \"choice_value\": \"2\"\n}",
+      "usage": {
+        "prompt_tokens": 291,
+        "completion_tokens": 18,
+        "total_tokens": 309,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 294,
+      "choice_value": "3",
+      "raw_response": "{\n  \"id\": 294,\n  \"choice_value\": \"3\"\n}",
+      "usage": {
+        "prompt_tokens": 313,
+        "completion_tokens": 18,
+        "total_tokens": 331,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 1039,
+      "choice_value": "3",
+      "raw_response": "{\n  \"id\": 1039,\n  \"choice_value\": \"obrázok\"\n}",
+      "usage": {
+        "prompt_tokens": 177,
+        "completion_tokens": 22,
+        "total_tokens": 199,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 200,
+      "choice_value": "0",
+      "raw_response": "{\n  \"id\": 200,\n  \"choice_value\": \"PRI RIEKE\"\n}",
+      "usage": {
+        "prompt_tokens": 232,
+        "completion_tokens": 21,
+        "total_tokens": 253,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 81,
+      "choice_value": "1",
+      "raw_response": "{\n  \"id\": 81,\n  \"choice_value\": \"30\"\n}",
+      "usage": {
+        "prompt_tokens": 340,
+        "completion_tokens": 18,
+        "total_tokens": 358,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 189,
+      "choice_value": "1",
+      "raw_response": "{\n  \"id\": 189,\n  \"choice_value\": \"1\"\n}",
+      "usage": {
+        "prompt_tokens": 257,
+        "completion_tokens": 18,
+        "total_tokens": 275,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 239,
+      "choice_value": "2",
+      "raw_response": "{\n  \"id\": 239,\n  \"choice_value\": \"2\"\n}",
+      "usage": {
+        "prompt_tokens": 485,
+        "completion_tokens": 18,
+        "total_tokens": 503,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 185,
+      "choice_value": "2",
+      "raw_response": "{\n  \"id\": 185,\n  \"choice_value\": \"2\"\n}",
+      "usage": {
+        "prompt_tokens": 271,
+        "completion_tokens": 18,
+        "total_tokens": 289,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 977,
+      "choice_value": "2",
+      "raw_response": "{\n  \"id\": 977,\n  \"choice_value\": \"2\"\n}",
+      "usage": {
+        "prompt_tokens": 226,
+        "completion_tokens": 18,
+        "total_tokens": 244,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 93,
+      "choice_value": "0",
+      "raw_response": "{\n\"id\": 93,\n  \"choice_value\": \"0\"\n}",
+      "usage": {
+        "prompt_tokens": 318,
+        "completion_tokens": 18,
+        "total_tokens": 336,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 1020,
+      "choice_value": "0",
+      "raw_response": "{\n  \"id\": 1020,\n  \"choice_value\": \"FPFT P VSFVFK RSFF FPNPN\"\n}",
+      "usage": {
+        "prompt_tokens": 326,
+        "completion_tokens": 29,
+        "total_tokens": 355,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 298,
+      "choice_value": "2",
+      "raw_response": "{\n  \"id\": 298,\n  \"choice_value\": \"2\"\n}",
+      "usage": {
+        "prompt_tokens": 258,
+        "completion_tokens": 18,
+        "total_tokens": 276,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 625,
+      "choice_value": "3",
+      "raw_response": "{\n  \"id\": 625,\n  \"choice_value\": \"3\"\n}",
+      "usage": {
+        "prompt_tokens": 260,
+        "completion_tokens": 18,
+        "total_tokens": 278,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 961,
+      "choice_value": "0",
+      "raw_response": "{\n  \"id\": 961,\n  \"choice_value\": \"0\"\n}",
+      "usage": {
+        "prompt_tokens": 277,
+        "completion_tokens": 18,
+        "total_tokens": 295,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 826,
+      "choice_value": "3",
+      "raw_response": "{\n  \"id\": 826,\n  \"choice_value\": \"3\"\n}",
+      "usage": {
+        "prompt_tokens": 311,
+        "completion_tokens": 18,
+        "total_tokens": 329,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 934,
+      "choice_value": "0",
+      "raw_response": "{\n\"id\": 934,\n  \"choice_value\": \"0\"\n}",
+      "usage": {
+        "prompt_tokens": 313,
+        "completion_tokens": 18,
+        "total_tokens": 331,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 534,
+      "choice_value": "1",
+      "raw_response": "{\n  \"id\": 534,\n  \"choice_value\": \"1\"\n}",
+      "usage": {
+        "prompt_tokens": 395,
+        "completion_tokens": 18,
+        "total_tokens": 413,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 830,
+      "choice_value": "1",
+      "raw_response": "{\n  \"id\": 830,\n  \"choice_value\": \"1\"\n}",
+      "usage": {
+        "prompt_tokens": 195,
+        "completion_tokens": 18,
+        "total_tokens": 213,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 97,
+      "choice_value": "2",
+      "raw_response": "{\n\"id\": 97,\n  \"choice_value\": \"2\"\n}",
+      "usage": {
+        "prompt_tokens": 329,
+        "completion_tokens": 18,
+        "total_tokens": 347,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 98,
+      "choice_value": "3",
+      "raw_response": "{\n  \"id\": 98,\n  \"choice_value\": \"4\"\n}",
+      "usage": {
+        "prompt_tokens": 303,
+        "completion_tokens": 18,
+        "total_tokens": 321,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 348,
+      "choice_value": "2",
+      "raw_response": "{\n  \"id\": 348,\n  \"choice_value\": \"toast a bagetu\"\n}",
+      "usage": {
+        "prompt_tokens": 302,
+        "completion_tokens": 21,
+        "total_tokens": 323,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 962,
+      "choice_value": "1",
+      "raw_response": "{\n  \"id\": 962,\n  \"choice_value\": \"1\"\n}",
+      "usage": {
+        "prompt_tokens": 208,
+        "completion_tokens": 18,
+        "total_tokens": 226,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 917,
+      "choice_value": "0",
+      "raw_response": "{\n  \"id\": 917,\n  \"choice_value\": \"0\"\n}",
+      "usage": {
+        "prompt_tokens": 254,
+        "completion_tokens": 18,
+        "total_tokens": 272,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 94,
+      "choice_value": "1",
+      "raw_response": "{\n  \"id\": 94,\n  \"choice_value\": \"POHODA\"\n}",
+      "usage": {
+        "prompt_tokens": 334,
+        "completion_tokens": 20,
+        "total_tokens": 354,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 186,
+      "choice_value": "2",
+      "raw_response": "{\n      \"id\": 186,\n      \"choice_value\": \"7\"\n    }",
+      "usage": {
+        "prompt_tokens": 687,
+        "completion_tokens": 19,
+        "total_tokens": 706,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 190,
+      "choice_value": "1",
+      "raw_response": "{\n  \"id\": 190,\n  \"choice_value\": \"10110 €\"\n}",
+      "usage": {
+        "prompt_tokens": 220,
+        "completion_tokens": 20,
+        "total_tokens": 240,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 741,
+      "choice_value": "1",
+      "raw_response": "{\n\"id\": 741,\n  \"choice_value\": \"OSELOK\"\n}",
+      "usage": {
+        "prompt_tokens": 283,
+        "completion_tokens": 20,
+        "total_tokens": 303,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 979,
+      "choice_value": "2",
+      "raw_response": "{\n  \"id\": 979,\n  \"choice_value\": \"2\"\n}",
+      "usage": {
+        "prompt_tokens": 474,
+        "completion_tokens": 18,
+        "total_tokens": 492,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 82,
+      "choice_value": null,
+      "error": "Extra data: line 1 column 7 (char 6)",
+      "raw_response": "  \"id\": 82,\n  \"choice_value\": \"Koláč(čokoláda, 180, 50)\"\n}",
+      "usage": {
+        "prompt_tokens": 385,
+        "completion_tokens": 19,
+        "total_tokens": 404,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 293,
+      "choice_value": "3",
+      "raw_response": "{\n  \"id\": 293,\n  \"choice_value\": \"3\"\n}",
+      "usage": {
+        "prompt_tokens": 339,
+        "completion_tokens": 12,
+        "total_tokens": 351,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 780,
+      "choice_value": "1",
+      "raw_response": "{\n  \"id\": 780,\n  \"choice_value\": \"1\"\n}",
+      "usage": {
+        "prompt_tokens": 385,
+        "completion_tokens": 18,
+        "total_tokens": 403,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 942,
+      "choice_value": "2",
+      "raw_response": "{\n\"id\": 942,\n  \"choice_value\": \"2\"\n}",
+      "usage": {
+        "prompt_tokens": 392,
+        "completion_tokens": 18,
+        "total_tokens": 410,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 385,
+      "choice_value": "1",
+      "raw_response": "{\n  \"id\": 385,\n  \"choice_value\": \"1\"\n}",
+      "usage": {
+        "prompt_tokens": 362,
+        "completion_tokens": 18,
+        "total_tokens": 380,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 389,
+      "choice_value": "2",
+      "raw_response": "{\n  \"id\": 389,\n  \"choice_value\": \"2\"\n}",
+      "usage": {
+        "prompt_tokens": 292,
+        "completion_tokens": 18,
+        "total_tokens": 310,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 450,
+      "choice_value": "3",
+      "raw_response": "{\n  \"id\": 450,\n  \"choice_value\": \"45 minút\"\n}",
+      "usage": {
+        "prompt_tokens": 332,
+        "completion_tokens": 20,
+        "total_tokens": 352,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "id": 281,
+      "choice_value": "2",
+      "raw_response": "{\n\"id\": 281,\n  \"choice_value\": \"2\"\n}",
+      "usage": {
+        "prompt_tokens": 466,
+        "completion_tokens": 18,
+        "total_tokens": 484,
+        "reasoning_tokens": 0
+      }
+    }
+  ]
+}

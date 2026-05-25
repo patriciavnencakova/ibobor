@@ -1,0 +1,3143 @@
+{
+  "model": "google/gemini-2.5-pro",
+  "timestamp": "2026-04-13T23:23:14.424273",
+  "results": [
+    {
+      "id": 994,
+      "choice_value": "1",
+      "raw_response": "{\n  \"id\": 994,\n  \"choice_value\": \"1\"\n}",
+      "usage": {
+        "prompt_tokens": 2141,
+        "completion_tokens": 1648,
+        "total_tokens": 3789
+      }
+    },
+    {
+      "id": 428,
+      "choice_value": "2",
+      "raw_response": "{\n  \"id\": 428,\n  \"choice_value\": \"2\"\n}",
+      "usage": {
+        "prompt_tokens": 1440,
+        "completion_tokens": 1007,
+        "total_tokens": 2447
+      }
+    },
+    {
+      "id": 644,
+      "choice_value": "2",
+      "raw_response": "{\n  \"id\": 644,\n  \"choice_value\": \"2\"\n}",
+      "usage": {
+        "prompt_tokens": 2129,
+        "completion_tokens": 1790,
+        "total_tokens": 3919
+      }
+    },
+    {
+      "id": 867,
+      "choice_value": "0",
+      "raw_response": "{\n  \"id\": 867,\n  \"choice_value\": \"0\"\n}",
+      "usage": {
+        "prompt_tokens": 681,
+        "completion_tokens": 2149,
+        "total_tokens": 2830
+      }
+    },
+    {
+      "id": 886,
+      "choice_value": "3",
+      "raw_response": "{\n  \"id\": 886,\n  \"choice_value\": \"3\"\n}",
+      "usage": {
+        "prompt_tokens": 1563,
+        "completion_tokens": 1454,
+        "total_tokens": 3017
+      }
+    },
+    {
+      "id": 306,
+      "choice_value": "1",
+      "raw_response": "{\n  \"id\": 306,\n  \"choice_value\": \"1\"\n}",
+      "usage": {
+        "prompt_tokens": 547,
+        "completion_tokens": 928,
+        "total_tokens": 1475
+      }
+    },
+    {
+      "id": 467,
+      "choice_value": "3",
+      "raw_response": "{\n  \"id\": 467,\n  \"choice_value\": \"3\"\n}",
+      "usage": {
+        "prompt_tokens": 732,
+        "completion_tokens": 8692,
+        "total_tokens": 9424
+      }
+    },
+    {
+      "id": 310,
+      "choice_value": "1",
+      "raw_response": "{\n  \"id\": 310,\n  \"choice_value\": \"1\"\n}",
+      "usage": {
+        "prompt_tokens": 2081,
+        "completion_tokens": 595,
+        "total_tokens": 2676
+      }
+    },
+    {
+      "id": 982,
+      "choice_value": "1",
+      "raw_response": "{\n  \"id\": 982,\n  \"choice_value\": \"1\"\n}",
+      "usage": {
+        "prompt_tokens": 531,
+        "completion_tokens": 2625,
+        "total_tokens": 3156
+      }
+    },
+    {
+      "id": 916,
+      "choice_value": "3",
+      "raw_response": "{\n  \"id\": 916,\n  \"choice_value\": \"3\"\n}",
+      "usage": {
+        "prompt_tokens": 511,
+        "completion_tokens": 2704,
+        "total_tokens": 3215
+      }
+    },
+    {
+      "id": 851,
+      "choice_value": "1",
+      "raw_response": "{\n  \"id\": 851,\n  \"choice_value\": \"1\"\n}",
+      "usage": {
+        "prompt_tokens": 681,
+        "completion_tokens": 1979,
+        "total_tokens": 2660
+      }
+    },
+    {
+      "id": 627,
+      "choice_value": "0",
+      "raw_response": "{\n  \"id\": 627,\n  \"choice_value\": \"0\"\n}",
+      "usage": {
+        "prompt_tokens": 463,
+        "completion_tokens": 9690,
+        "total_tokens": 10153
+      }
+    },
+    {
+      "id": 277,
+      "choice_value": "0",
+      "raw_response": "{\n  \"id\": 277,\n  \"choice_value\": \"0\"\n}",
+      "usage": {
+        "prompt_tokens": 542,
+        "completion_tokens": 1617,
+        "total_tokens": 2159
+      }
+    },
+    {
+      "id": 42,
+      "choice_value": "3",
+      "raw_response": "{\n  \"id\": 42,\n  \"choice_value\": \"3\"\n}",
+      "usage": {
+        "prompt_tokens": 595,
+        "completion_tokens": 1760,
+        "total_tokens": 2355
+      }
+    },
+    {
+      "id": 555,
+      "choice_value": "2",
+      "raw_response": "{\n  \"id\": 555,\n  \"choice_value\": \"2\"\n}",
+      "usage": {
+        "prompt_tokens": 1406,
+        "completion_tokens": 10511,
+        "total_tokens": 11917
+      }
+    },
+    {
+      "id": 1080,
+      "choice_value": "0",
+      "raw_response": "{\n  \"id\": 1080,\n  \"choice_value\": \"0\"\n}",
+      "usage": {
+        "prompt_tokens": 1728,
+        "completion_tokens": 1122,
+        "total_tokens": 2850
+      }
+    },
+    {
+      "id": 109,
+      "choice_value": "3",
+      "raw_response": "{\n  \"id\": 109,\n  \"choice_value\": \"3\"\n}",
+      "usage": {
+        "prompt_tokens": 574,
+        "completion_tokens": 780,
+        "total_tokens": 1354
+      }
+    },
+    {
+      "id": 668,
+      "choice_value": "0",
+      "raw_response": "{\n  \"id\": 668,\n  \"choice_value\": \"0\"\n}",
+      "usage": {
+        "prompt_tokens": 2240,
+        "completion_tokens": 1730,
+        "total_tokens": 3970
+      }
+    },
+    {
+      "id": 516,
+      "choice_value": "2",
+      "raw_response": "{\n  \"id\": 516,\n  \"choice_value\": \"2\"\n}",
+      "usage": {
+        "prompt_tokens": 1724,
+        "completion_tokens": 2013,
+        "total_tokens": 3737
+      }
+    },
+    {
+      "id": 1057,
+      "choice_value": "0",
+      "raw_response": "{\n  \"id\": 1057,\n  \"choice_value\": \"0\"\n}",
+      "usage": {
+        "prompt_tokens": 2155,
+        "completion_tokens": 11565,
+        "total_tokens": 13720
+      }
+    },
+    {
+      "id": 559,
+      "choice_value": "3",
+      "raw_response": "{\n  \"id\": 559,\n  \"choice_value\": \"3\"\n}",
+      "usage": {
+        "prompt_tokens": 1695,
+        "completion_tokens": 1625,
+        "total_tokens": 3320
+      }
+    },
+    {
+      "id": 536,
+      "choice_value": "3",
+      "raw_response": "{\n  \"id\": 536,\n  \"choice_value\": \"3\"\n}",
+      "usage": {
+        "prompt_tokens": 1624,
+        "completion_tokens": 3552,
+        "total_tokens": 5176
+      }
+    },
+    {
+      "id": 21,
+      "choice_value": "0",
+      "raw_response": "{\n  \"id\": 21,\n  \"choice_value\": \"0\"\n}",
+      "usage": {
+        "prompt_tokens": 627,
+        "completion_tokens": 1311,
+        "total_tokens": 1938
+      }
+    },
+    {
+      "id": 871,
+      "choice_value": "0",
+      "raw_response": "{\n  \"id\": 871,\n  \"choice_value\": \"0\"\n}",
+      "usage": {
+        "prompt_tokens": 2997,
+        "completion_tokens": 5446,
+        "total_tokens": 8443
+      }
+    },
+    {
+      "id": 33,
+      "choice_value": "2",
+      "raw_response": "{\n  \"id\": 33,\n  \"choice_value\": \"2\"\n}",
+      "usage": {
+        "prompt_tokens": 2141,
+        "completion_tokens": 1926,
+        "total_tokens": 4067
+      }
+    },
+    {
+      "id": 125,
+      "choice_value": "2",
+      "raw_response": "{\n  \"id\": 125,\n  \"choice_value\": \"2\"\n}",
+      "usage": {
+        "prompt_tokens": 636,
+        "completion_tokens": 613,
+        "total_tokens": 1249
+      }
+    },
+    {
+      "id": 598,
+      "choice_value": "3",
+      "raw_response": "{\n  \"id\": 598,\n  \"choice_value\": \"3\"\n}",
+      "usage": {
+        "prompt_tokens": 2115,
+        "completion_tokens": 3398,
+        "total_tokens": 5513
+      }
+    },
+    {
+      "id": 672,
+      "choice_value": "0",
+      "raw_response": "{\n  \"id\": 672,\n  \"choice_value\": \"0\"\n}",
+      "usage": {
+        "prompt_tokens": 1567,
+        "completion_tokens": 2590,
+        "total_tokens": 4157
+      }
+    },
+    {
+      "id": 1073,
+      "choice_value": "0",
+      "raw_response": "{\n  \"id\": 1073,\n  \"choice_value\": \"0\"\n}",
+      "usage": {
+        "prompt_tokens": 1534,
+        "completion_tokens": 7065,
+        "total_tokens": 8599
+      }
+    },
+    {
+      "id": 719,
+      "choice_value": "3",
+      "raw_response": "{\n  \"id\": 719,\n  \"choice_value\": \"3\"\n}",
+      "usage": {
+        "prompt_tokens": 2157,
+        "completion_tokens": 2044,
+        "total_tokens": 4201
+      }
+    },
+    {
+      "id": 261,
+      "choice_value": "0",
+      "raw_response": "{\n  \"id\": 261,\n  \"choice_value\": \"0\"\n}",
+      "usage": {
+        "prompt_tokens": 716,
+        "completion_tokens": 8520,
+        "total_tokens": 9236
+      }
+    },
+    {
+      "id": 1022,
+      "choice_value": "3",
+      "raw_response": "{\n  \"id\": 1022,\n  \"choice_value\": \"3\"\n}",
+      "usage": {
+        "prompt_tokens": 457,
+        "completion_tokens": 572,
+        "total_tokens": 1029
+      }
+    },
+    {
+      "id": 776,
+      "choice_value": "0",
+      "raw_response": "{\n  \"id\": 776,\n  \"choice_value\": \"0\"\n}",
+      "usage": {
+        "prompt_tokens": 1494,
+        "completion_tokens": 19820,
+        "total_tokens": 21314
+      }
+    },
+    {
+      "id": 775,
+      "choice_value": "2",
+      "raw_response": "{\n  \"id\": 775,\n  \"choice_value\": \"2\"\n}",
+      "usage": {
+        "prompt_tokens": 665,
+        "completion_tokens": 1470,
+        "total_tokens": 2135
+      }
+    },
+    {
+      "id": 325,
+      "choice_value": "0",
+      "raw_response": "{\n  \"id\": 325,\n  \"choice_value\": \"0\"\n}",
+      "usage": {
+        "prompt_tokens": 2085,
+        "completion_tokens": 10177,
+        "total_tokens": 12262
+      }
+    },
+    {
+      "id": 1074,
+      "choice_value": "1",
+      "raw_response": "{\n  \"id\": 1074,\n  \"choice_value\": \"1\"\n}",
+      "usage": {
+        "prompt_tokens": 610,
+        "completion_tokens": 9084,
+        "total_tokens": 9694
+      }
+    },
+    {
+      "id": 370,
+      "choice_value": "1",
+      "raw_response": "{\n  \"id\": 370,\n  \"choice_value\": \"1\"\n}",
+      "usage": {
+        "prompt_tokens": 527,
+        "completion_tokens": 18383,
+        "total_tokens": 18910
+      }
+    },
+    {
+      "id": 1033,
+      "choice_value": "2",
+      "raw_response": "{\n  \"id\": 1033,\n  \"choice_value\": \"2\"\n}",
+      "usage": {
+        "prompt_tokens": 2283,
+        "completion_tokens": 1991,
+        "total_tokens": 4274
+      }
+    },
+    {
+      "id": 576,
+      "choice_value": "1",
+      "raw_response": "{\n  \"id\": 576,\n  \"choice_value\": \"1\"\n}",
+      "usage": {
+        "prompt_tokens": 530,
+        "completion_tokens": 3935,
+        "total_tokens": 4465
+      }
+    },
+    {
+      "id": 597,
+      "choice_value": "3",
+      "raw_response": "{\n  \"id\": 597,\n  \"choice_value\": \"3\"\n}",
+      "usage": {
+        "prompt_tokens": 1652,
+        "completion_tokens": 14864,
+        "total_tokens": 16516
+      }
+    },
+    {
+      "id": 872,
+      "choice_value": "0",
+      "raw_response": "{\n  \"id\": 872,\n  \"choice_value\": \"0\"\n}",
+      "usage": {
+        "prompt_tokens": 1704,
+        "completion_tokens": 2776,
+        "total_tokens": 4480
+      }
+    },
+    {
+      "id": 464,
+      "choice_value": "1",
+      "raw_response": "{\n  \"id\": 464,\n  \"choice_value\": \"1\"\n}",
+      "usage": {
+        "prompt_tokens": 527,
+        "completion_tokens": 21499,
+        "total_tokens": 22026
+      }
+    },
+    {
+      "id": 608,
+      "choice_value": "0",
+      "raw_response": "{\n  \"id\": 608,\n  \"choice_value\": \"0\"\n}",
+      "usage": {
+        "prompt_tokens": 619,
+        "completion_tokens": 19529,
+        "total_tokens": 20148
+      }
+    },
+    {
+      "id": 864,
+      "choice_value": "3",
+      "raw_response": "{\n  \"id\": 864,\n  \"choice_value\": \"3\"\n}",
+      "usage": {
+        "prompt_tokens": 2498,
+        "completion_tokens": 5996,
+        "total_tokens": 8494
+      }
+    },
+    {
+      "id": 22,
+      "choice_value": "0",
+      "raw_response": "{\n  \"id\": 22,\n  \"choice_value\": \"0\"\n}",
+      "usage": {
+        "prompt_tokens": 1323,
+        "completion_tokens": 2290,
+        "total_tokens": 3613
+      }
+    },
+    {
+      "id": 919,
+      "choice_value": "1",
+      "raw_response": "{\n  \"id\": 919,\n  \"choice_value\": \"1\"\n}",
+      "usage": {
+        "prompt_tokens": 584,
+        "completion_tokens": 816,
+        "total_tokens": 1400
+      }
+    },
+    {
+      "id": 560,
+      "choice_value": "1",
+      "raw_response": "{\n  \"id\": 560,\n  \"choice_value\": \"1\"\n}",
+      "usage": {
+        "prompt_tokens": 582,
+        "completion_tokens": 983,
+        "total_tokens": 1565
+      }
+    },
+    {
+      "id": 831,
+      "choice_value": "1",
+      "raw_response": "{\n  \"id\": 831,\n  \"choice_value\": \"1\"\n}",
+      "usage": {
+        "prompt_tokens": 2025,
+        "completion_tokens": 1869,
+        "total_tokens": 3894
+      }
+    },
+    {
+      "id": 667,
+      "choice_value": "3",
+      "raw_response": "{\n  \"id\": 667,\n  \"choice_value\": \"3\"\n}",
+      "usage": {
+        "prompt_tokens": 745,
+        "completion_tokens": 3423,
+        "total_tokens": 4168
+      }
+    },
+    {
+      "id": 686,
+      "choice_value": "3",
+      "raw_response": "{\n  \"id\": 686,\n  \"choice_value\": \"3\"\n}",
+      "usage": {
+        "prompt_tokens": 1505,
+        "completion_tokens": 821,
+        "total_tokens": 2326
+      }
+    },
+    {
+      "id": 956,
+      "choice_value": null,
+      "error": "Could not download image for question ID 956: http://demo.ibobor.sk/sutaz/images/09/robot_Karel.jpg ",
+      "raw_response": null,
+      "usage": {
+        "prompt_tokens": null,
+        "completion_tokens": null,
+        "total_tokens": null
+      }
+    },
+    {
+      "id": 403,
+      "choice_value": "3",
+      "raw_response": "{\n  \"id\": 403,\n  \"choice_value\": \"3\"\n}",
+      "usage": {
+        "prompt_tokens": 502,
+        "completion_tokens": 997,
+        "total_tokens": 1499
+      }
+    },
+    {
+      "id": 540,
+      "choice_value": "1",
+      "raw_response": "{\n  \"id\": 540,\n  \"choice_value\": \"1\"\n}",
+      "usage": {
+        "prompt_tokens": 578,
+        "completion_tokens": 1063,
+        "total_tokens": 1641
+      }
+    },
+    {
+      "id": 811,
+      "choice_value": "0",
+      "raw_response": "{\n  \"id\": 811,\n  \"choice_value\": \"0\"\n}",
+      "usage": {
+        "prompt_tokens": 1790,
+        "completion_tokens": 23662,
+        "total_tokens": 25452
+      }
+    },
+    {
+      "id": 690,
+      "choice_value": "3",
+      "raw_response": "{\n  \"id\": 690,\n  \"choice_value\": \"3\"\n}",
+      "usage": {
+        "prompt_tokens": 550,
+        "completion_tokens": 6090,
+        "total_tokens": 6640
+      }
+    },
+    {
+      "id": 1079,
+      "choice_value": "2",
+      "raw_response": "{\n  \"id\": 1079,\n  \"choice_value\": \"2\"\n}",
+      "usage": {
+        "prompt_tokens": 1323,
+        "completion_tokens": 11218,
+        "total_tokens": 12541
+      }
+    },
+    {
+      "id": 940,
+      "choice_value": null,
+      "error": "Could not download image for question ID 940: http://demo.ibobor.sk/sutaz/images/09/robot_Karel.jpg ",
+      "raw_response": null,
+      "usage": {
+        "prompt_tokens": null,
+        "completion_tokens": null,
+        "total_tokens": null
+      }
+    },
+    {
+      "id": 803,
+      "choice_value": "0",
+      "raw_response": "{\n  \"id\": 803,\n  \"choice_value\": \"0\"\n}",
+      "usage": {
+        "prompt_tokens": 1692,
+        "completion_tokens": 12175,
+        "total_tokens": 13867
+      }
+    },
+    {
+      "id": 444,
+      "choice_value": "2",
+      "raw_response": "{\n  \"id\": 444,\n  \"choice_value\": \"2\"\n}",
+      "usage": {
+        "prompt_tokens": 781,
+        "completion_tokens": 15223,
+        "total_tokens": 16004
+      }
+    },
+    {
+      "id": 149,
+      "choice_value": "2",
+      "raw_response": "{\n  \"id\": 149,\n  \"choice_value\": \"2\"\n}",
+      "usage": {
+        "prompt_tokens": 579,
+        "completion_tokens": 22171,
+        "total_tokens": 22750
+      }
+    },
+    {
+      "id": 346,
+      "choice_value": "3",
+      "raw_response": "{\n  \"id\": 346,\n  \"choice_value\": \"3\"\n}",
+      "usage": {
+        "prompt_tokens": 527,
+        "completion_tokens": 20988,
+        "total_tokens": 21515
+      }
+    },
+    {
+      "id": 651,
+      "choice_value": "2",
+      "raw_response": "{\n  \"id\": 651,\n  \"choice_value\": \"2\"\n}",
+      "usage": {
+        "prompt_tokens": 1609,
+        "completion_tokens": 4830,
+        "total_tokens": 6439
+      }
+    },
+    {
+      "id": 1042,
+      "choice_value": "0",
+      "raw_response": "{\n  \"id\": 1042,\n  \"choice_value\": \"0\"\n}",
+      "usage": {
+        "prompt_tokens": 1571,
+        "completion_tokens": 1130,
+        "total_tokens": 2701
+      }
+    },
+    {
+      "id": 981,
+      "choice_value": "2",
+      "raw_response": "{\n  \"id\": 981,\n  \"choice_value\": \"2\"\n}",
+      "usage": {
+        "prompt_tokens": 1182,
+        "completion_tokens": 11433,
+        "total_tokens": 12615
+      }
+    },
+    {
+      "id": 604,
+      "choice_value": "0",
+      "raw_response": "{\n  \"id\": 604,\n  \"choice_value\": \"0\"\n}",
+      "usage": {
+        "prompt_tokens": 580,
+        "completion_tokens": 1385,
+        "total_tokens": 1965
+      }
+    },
+    {
+      "id": 305,
+      "choice_value": "0",
+      "raw_response": "{\n  \"id\": 305,\n  \"choice_value\": \"0\"\n}",
+      "usage": {
+        "prompt_tokens": 491,
+        "completion_tokens": 28226,
+        "total_tokens": 28717
+      }
+    },
+    {
+      "id": 489,
+      "choice_value": "0",
+      "raw_response": "{\n  \"id\": 489,\n  \"choice_value\": \"0\"\n}",
+      "usage": {
+        "prompt_tokens": 1983,
+        "completion_tokens": 2067,
+        "total_tokens": 4050
+      }
+    },
+    {
+      "id": 350,
+      "choice_value": "2",
+      "raw_response": "{\n  \"id\": 350,\n  \"choice_value\": \"2\"\n}",
+      "usage": {
+        "prompt_tokens": 1586,
+        "completion_tokens": 1439,
+        "total_tokens": 3025
+      }
+    },
+    {
+      "id": 213,
+      "choice_value": "1",
+      "raw_response": "{\n  \"id\": 213,\n  \"choice_value\": \"1\"\n}",
+      "usage": {
+        "prompt_tokens": 2129,
+        "completion_tokens": 13733,
+        "total_tokens": 15862
+      }
+    },
+    {
+      "id": 834,
+      "choice_value": "1",
+      "raw_response": "{\n  \"id\": 834,\n  \"choice_value\": \"1\"\n}",
+      "usage": {
+        "prompt_tokens": 556,
+        "completion_tokens": 1169,
+        "total_tokens": 1725
+      }
+    },
+    {
+      "id": 588,
+      "choice_value": "0",
+      "raw_response": "{\n  \"id\": 588,\n  \"choice_value\": \"0\"\n}",
+      "usage": {
+        "prompt_tokens": 646,
+        "completion_tokens": 1192,
+        "total_tokens": 1838
+      }
+    },
+    {
+      "id": 969,
+      "choice_value": "1",
+      "raw_response": "{\n  \"id\": 969,\n  \"choice_value\": \"1\"\n}",
+      "usage": {
+        "prompt_tokens": 1182,
+        "completion_tokens": 1035,
+        "total_tokens": 2217
+      }
+    },
+    {
+      "id": 247,
+      "choice_value": "3",
+      "raw_response": "{\n  \"id\": 247,\n  \"choice_value\": \"3\"\n}",
+      "usage": {
+        "prompt_tokens": 2112,
+        "completion_tokens": 7054,
+        "total_tokens": 9166
+      }
+    },
+    {
+      "id": 473,
+      "choice_value": "2",
+      "raw_response": "{\n  \"id\": 473,\n  \"choice_value\": \"2\"\n}",
+      "usage": {
+        "prompt_tokens": 2137,
+        "completion_tokens": 22350,
+        "total_tokens": 24487
+      }
+    },
+    {
+      "id": 23,
+      "choice_value": "2",
+      "raw_response": "{\n  \"id\": 23,\n  \"choice_value\": \"2\"\n}",
+      "usage": {
+        "prompt_tokens": 1562,
+        "completion_tokens": 697,
+        "total_tokens": 2259
+      }
+    },
+    {
+      "id": 873,
+      "choice_value": "0",
+      "raw_response": "{\n  \"id\": 873,\n  \"choice_value\": \"0\"\n}",
+      "usage": {
+        "prompt_tokens": 681,
+        "completion_tokens": 1843,
+        "total_tokens": 2524
+      }
+    },
+    {
+      "id": 569,
+      "choice_value": "3",
+      "raw_response": "{\n  \"id\": 569,\n  \"choice_value\": \"3\"\n}",
+      "usage": {
+        "prompt_tokens": 2143,
+        "completion_tokens": 861,
+        "total_tokens": 3004
+      }
+    },
+    {
+      "id": 822,
+      "choice_value": "1",
+      "raw_response": "{\n  \"id\": 822,\n  \"choice_value\": \"1\"\n}",
+      "usage": {
+        "prompt_tokens": 2276,
+        "completion_tokens": 2778,
+        "total_tokens": 5054
+      }
+    },
+    {
+      "id": 621,
+      "choice_value": null,
+      "error": "the JSON object must be str, bytes or bytearray, not NoneType",
+      "raw_response": null,
+      "usage": {
+        "prompt_tokens": 0,
+        "completion_tokens": 0,
+        "total_tokens": 0
+      }
+    },
+    {
+      "id": 1032,
+      "choice_value": "2",
+      "raw_response": "{\n  \"id\": 1032,\n  \"choice_value\": \"2\"\n}",
+      "usage": {
+        "prompt_tokens": 2028,
+        "completion_tokens": 950,
+        "total_tokens": 2978
+      }
+    },
+    {
+      "id": 336,
+      "choice_value": "0",
+      "raw_response": "{\n  \"id\": 336,\n  \"choice_value\": \"0\"\n}",
+      "usage": {
+        "prompt_tokens": 583,
+        "completion_tokens": 1341,
+        "total_tokens": 1924
+      }
+    },
+    {
+      "id": 729,
+      "choice_value": "3",
+      "raw_response": "{\n  \"id\": 729,\n  \"choice_value\": \"3\"\n}",
+      "usage": {
+        "prompt_tokens": 1452,
+        "completion_tokens": 634,
+        "total_tokens": 2086
+      }
+    },
+    {
+      "id": 359,
+      "choice_value": null,
+      "error": "the JSON object must be str, bytes or bytearray, not NoneType",
+      "raw_response": null,
+      "usage": {
+        "prompt_tokens": 0,
+        "completion_tokens": 0,
+        "total_tokens": 0
+      }
+    },
+    {
+      "id": 375,
+      "choice_value": "2",
+      "raw_response": "{\n  \"id\": 375,\n  \"choice_value\": \"2\"\n}",
+      "usage": {
+        "prompt_tokens": 534,
+        "completion_tokens": 1871,
+        "total_tokens": 2405
+      }
+    },
+    {
+      "id": 457,
+      "choice_value": "3",
+      "raw_response": "{\n  \"id\": 457,\n  \"choice_value\": \"3\"\n}",
+      "usage": {
+        "prompt_tokens": 607,
+        "completion_tokens": 18937,
+        "total_tokens": 19544
+      }
+    },
+    {
+      "id": 838,
+      "choice_value": "0",
+      "raw_response": "{\n  \"id\": 838,\n  \"choice_value\": \"0\"\n}",
+      "usage": {
+        "prompt_tokens": 711,
+        "completion_tokens": 5404,
+        "total_tokens": 6115
+      }
+    },
+    {
+      "id": 355,
+      "choice_value": "0",
+      "raw_response": "{\n  \"id\": 355,\n  \"choice_value\": \"0\"\n}",
+      "usage": {
+        "prompt_tokens": 607,
+        "completion_tokens": 7470,
+        "total_tokens": 8077
+      }
+    },
+    {
+      "id": 212,
+      "choice_value": "1",
+      "raw_response": "{\n  \"id\": 212,\n  \"choice_value\": \"1\"\n}",
+      "usage": {
+        "prompt_tokens": 1580,
+        "completion_tokens": 1513,
+        "total_tokens": 3093
+      }
+    },
+    {
+      "id": 984,
+      "choice_value": "1",
+      "raw_response": "{\n  \"id\": 984,\n  \"choice_value\": \"1\"\n}",
+      "usage": {
+        "prompt_tokens": 2113,
+        "completion_tokens": 784,
+        "total_tokens": 2897
+      }
+    },
+    {
+      "id": 68,
+      "choice_value": "1",
+      "raw_response": "{\n  \"id\": 68,\n  \"choice_value\": \"1\"\n}",
+      "usage": {
+        "prompt_tokens": 1580,
+        "completion_tokens": 7570,
+        "total_tokens": 9150
+      }
+    },
+    {
+      "id": 709,
+      "choice_value": "2",
+      "raw_response": "{\n  \"id\": 709,\n  \"choice_value\": \"2\"\n}",
+      "usage": {
+        "prompt_tokens": 2157,
+        "completion_tokens": 1460,
+        "total_tokens": 3617
+      }
+    },
+    {
+      "id": 1043,
+      "choice_value": "1",
+      "raw_response": "{\n  \"id\": 1043,\n  \"choice_value\": \"1\"\n}",
+      "usage": {
+        "prompt_tokens": 496,
+        "completion_tokens": 26858,
+        "total_tokens": 27354
+      }
+    },
+    {
+      "id": 654,
+      "choice_value": "2",
+      "raw_response": "{\n  \"id\": 654,\n  \"choice_value\": \"2\"\n}",
+      "usage": {
+        "prompt_tokens": 1297,
+        "completion_tokens": 3933,
+        "total_tokens": 5230
+      }
+    },
+    {
+      "id": 441,
+      "choice_value": "3",
+      "raw_response": "{\n  \"id\": 441,\n  \"choice_value\": \"3\"\n}",
+      "usage": {
+        "prompt_tokens": 701,
+        "completion_tokens": 2463,
+        "total_tokens": 3164
+      }
+    },
+    {
+      "id": 853,
+      "choice_value": "1",
+      "raw_response": "{\n  \"id\": 853,\n  \"choice_value\": \"1\"\n}",
+      "usage": {
+        "prompt_tokens": 1847,
+        "completion_tokens": 1572,
+        "total_tokens": 3419
+      }
+    },
+    {
+      "id": 945,
+      "choice_value": "3",
+      "raw_response": "{\n  \"id\": 945,\n  \"choice_value\": \"3\"\n}",
+      "usage": {
+        "prompt_tokens": 559,
+        "completion_tokens": 2952,
+        "total_tokens": 3511
+      }
+    },
+    {
+      "id": 1067,
+      "choice_value": "1",
+      "raw_response": "{\n  \"id\": 1067,\n  \"choice_value\": \"1\"\n}",
+      "usage": {
+        "prompt_tokens": 1567,
+        "completion_tokens": 15806,
+        "total_tokens": 17373
+      }
+    },
+    {
+      "id": 949,
+      "choice_value": null,
+      "error": "Could not download image for question ID 949: http://demo.ibobor.sk/sutaz/images/09/S_citac_obrazovky.png ",
+      "raw_response": null,
+      "usage": {
+        "prompt_tokens": null,
+        "completion_tokens": null,
+        "total_tokens": null
+      }
+    },
+    {
+      "id": 679,
+      "choice_value": "3",
+      "raw_response": "{\n  \"id\": 679,\n  \"choice_value\": \"3\"\n}",
+      "usage": {
+        "prompt_tokens": 884,
+        "completion_tokens": 2031,
+        "total_tokens": 2915
+      }
+    },
+    {
+      "id": 906,
+      "choice_value": "2",
+      "raw_response": "{\n  \"id\": 906,\n  \"choice_value\": \"2\"\n}",
+      "usage": {
+        "prompt_tokens": 1351,
+        "completion_tokens": 17288,
+        "total_tokens": 18639
+      }
+    },
+    {
+      "id": 3,
+      "choice_value": "0",
+      "raw_response": "{\n  \"id\": 3,\n  \"choice_value\": \"0\"\n}",
+      "usage": {
+        "prompt_tokens": 2042,
+        "completion_tokens": 650,
+        "total_tokens": 2692
+      }
+    },
+    {
+      "id": 510,
+      "choice_value": "0",
+      "raw_response": "{\n  \"id\": 510,\n  \"choice_value\": \"0\"\n}",
+      "usage": {
+        "prompt_tokens": 548,
+        "completion_tokens": 1912,
+        "total_tokens": 2460
+      }
+    },
+    {
+      "id": 841,
+      "choice_value": "0",
+      "raw_response": "{\n  \"id\": 841,\n  \"choice_value\": \"0\"\n}",
+      "usage": {
+        "prompt_tokens": 567,
+        "completion_tokens": 1041,
+        "total_tokens": 1608
+      }
+    },
+    {
+      "id": 842,
+      "choice_value": "3",
+      "raw_response": "{\n  \"id\": 842,\n  \"choice_value\": \"3\"\n}",
+      "usage": {
+        "prompt_tokens": 681,
+        "completion_tokens": 13038,
+        "total_tokens": 13719
+      }
+    },
+    {
+      "id": 1089,
+      "choice_value": "3",
+      "raw_response": "{\n  \"id\": 1089,\n  \"choice_value\": \"3\"\n}",
+      "usage": {
+        "prompt_tokens": 1697,
+        "completion_tokens": 1674,
+        "total_tokens": 3371
+      }
+    },
+    {
+      "id": 677,
+      "choice_value": "1",
+      "raw_response": "{\n  \"id\": 677,\n  \"choice_value\": \"1\"\n}",
+      "usage": {
+        "prompt_tokens": 2225,
+        "completion_tokens": 1552,
+        "total_tokens": 3777
+      }
+    },
+    {
+      "id": 413,
+      "choice_value": "3",
+      "raw_response": "{\n  \"id\": 413,\n  \"choice_value\": \"3\"\n}",
+      "usage": {
+        "prompt_tokens": 1659,
+        "completion_tokens": 1093,
+        "total_tokens": 2752
+      }
+    },
+    {
+      "id": 43,
+      "choice_value": "1",
+      "raw_response": "{\n  \"id\": 43,\n  \"choice_value\": \"1\"\n}",
+      "usage": {
+        "prompt_tokens": 607,
+        "completion_tokens": 840,
+        "total_tokens": 1447
+      }
+    },
+    {
+      "id": 12,
+      "choice_value": "0",
+      "raw_response": "{\n  \"id\": 12,\n  \"choice_value\": \"0\"\n}",
+      "usage": {
+        "prompt_tokens": 2219,
+        "completion_tokens": 716,
+        "total_tokens": 2935
+      }
+    },
+    {
+      "id": 909,
+      "choice_value": null,
+      "error": "Could not download image for question ID 909: http://demo.ibobor.sk/sutaz/images/09/B_Cesta_do_skoly.gif ",
+      "raw_response": null,
+      "usage": {
+        "prompt_tokens": null,
+        "completion_tokens": null,
+        "total_tokens": null
+      }
+    },
+    {
+      "id": 854,
+      "choice_value": "3",
+      "raw_response": "{\n  \"id\": 854,\n  \"choice_value\": \"3\"\n}",
+      "usage": {
+        "prompt_tokens": 561,
+        "completion_tokens": 959,
+        "total_tokens": 1520
+      }
+    },
+    {
+      "id": 155,
+      "choice_value": "0",
+      "raw_response": "{\n  \"id\": 155,\n  \"choice_value\": \"0\"\n}",
+      "usage": {
+        "prompt_tokens": 2098,
+        "completion_tokens": 1901,
+        "total_tokens": 3999
+      }
+    },
+    {
+      "id": 505,
+      "choice_value": "2",
+      "raw_response": "{\n  \"id\": 505,\n  \"choice_value\": \"2\"\n}",
+      "usage": {
+        "prompt_tokens": 1649,
+        "completion_tokens": 2712,
+        "total_tokens": 4361
+      }
+    },
+    {
+      "id": 710,
+      "choice_value": "3",
+      "raw_response": "{\n  \"id\": 710,\n  \"choice_value\": \"3\"\n}",
+      "usage": {
+        "prompt_tokens": 2135,
+        "completion_tokens": 7588,
+        "total_tokens": 9723
+      }
+    },
+    {
+      "id": 315,
+      "choice_value": "2",
+      "raw_response": "{\n  \"id\": 315,\n  \"choice_value\": \"2\"\n}",
+      "usage": {
+        "prompt_tokens": 1579,
+        "completion_tokens": 1642,
+        "total_tokens": 3221
+      }
+    },
+    {
+      "id": 1011,
+      "choice_value": "0",
+      "raw_response": "{\n  \"id\": 1011,\n  \"choice_value\": \"0\"\n}",
+      "usage": {
+        "prompt_tokens": 1831,
+        "completion_tokens": 1868,
+        "total_tokens": 3699
+      }
+    },
+    {
+      "id": 895,
+      "choice_value": "1",
+      "raw_response": "{\n  \"id\": 895,\n  \"choice_value\": \"1\"\n}",
+      "usage": {
+        "prompt_tokens": 500,
+        "completion_tokens": 494,
+        "total_tokens": 994
+      }
+    },
+    {
+      "id": 1003,
+      "choice_value": "3",
+      "raw_response": "{\n  \"id\": 1003,\n  \"choice_value\": \"3\"\n}",
+      "usage": {
+        "prompt_tokens": 586,
+        "completion_tokens": 3724,
+        "total_tokens": 4310
+      }
+    },
+    {
+      "id": 244,
+      "choice_value": "1",
+      "raw_response": "{\n  \"id\": 244,\n  \"choice_value\": \"1\"\n}",
+      "usage": {
+        "prompt_tokens": 540,
+        "completion_tokens": 1974,
+        "total_tokens": 2514
+      }
+    },
+    {
+      "id": 634,
+      "choice_value": "3",
+      "raw_response": "{\n  \"id\": 634,\n  \"choice_value\": \"3\"\n}",
+      "usage": {
+        "prompt_tokens": 1598,
+        "completion_tokens": 32087,
+        "total_tokens": 33685
+      }
+    },
+    {
+      "id": 264,
+      "choice_value": "3",
+      "raw_response": "{\n  \"id\": 264,\n  \"choice_value\": \"3\"\n}",
+      "usage": {
+        "prompt_tokens": 642,
+        "completion_tokens": 1240,
+        "total_tokens": 1882
+      }
+    },
+    {
+      "id": 817,
+      "choice_value": "0",
+      "raw_response": "{\n  \"id\": 817,\n  \"choice_value\": \"0\"\n}",
+      "usage": {
+        "prompt_tokens": 1729,
+        "completion_tokens": 26750,
+        "total_tokens": 28479
+      }
+    },
+    {
+      "id": 661,
+      "choice_value": "3",
+      "raw_response": "{\n  \"id\": 661,\n  \"choice_value\": \"3\"\n}",
+      "usage": {
+        "prompt_tokens": 563,
+        "completion_tokens": 1537,
+        "total_tokens": 2100
+      }
+    },
+    {
+      "id": 397,
+      "choice_value": "1",
+      "raw_response": "{\n  \"id\": 397,\n  \"choice_value\": \"1\"\n}",
+      "usage": {
+        "prompt_tokens": 2055,
+        "completion_tokens": 2063,
+        "total_tokens": 4118
+      }
+    },
+    {
+      "id": 376,
+      "choice_value": "1",
+      "raw_response": "{\n  \"id\": 376,\n  \"choice_value\": \"1\"\n}",
+      "usage": {
+        "prompt_tokens": 663,
+        "completion_tokens": 29898,
+        "total_tokens": 30561
+      }
+    },
+    {
+      "id": 417,
+      "choice_value": "3",
+      "raw_response": "{\n  \"id\": 417,\n  \"choice_value\": \"3\"\n}",
+      "usage": {
+        "prompt_tokens": 664,
+        "completion_tokens": 1316,
+        "total_tokens": 1980
+      }
+    },
+    {
+      "id": 673,
+      "choice_value": "2",
+      "raw_response": "{\n  \"id\": 673,\n  \"choice_value\": \"2\"\n}",
+      "usage": {
+        "prompt_tokens": 1604,
+        "completion_tokens": 2604,
+        "total_tokens": 4208
+      }
+    },
+    {
+      "id": 360,
+      "choice_value": "0",
+      "raw_response": "{\n  \"id\": 360,\n  \"choice_value\": \"0\"\n}",
+      "usage": {
+        "prompt_tokens": 709,
+        "completion_tokens": 8928,
+        "total_tokens": 9637
+      }
+    },
+    {
+      "id": 966,
+      "choice_value": "1",
+      "raw_response": "{\n  \"id\": 966,\n  \"choice_value\": \"1\"\n}",
+      "usage": {
+        "prompt_tokens": 472,
+        "completion_tokens": 499,
+        "total_tokens": 971
+      }
+    },
+    {
+      "id": 433,
+      "choice_value": "0",
+      "raw_response": "{\n  \"id\": 433,\n  \"choice_value\": \"0\"\n}",
+      "usage": {
+        "prompt_tokens": 614,
+        "completion_tokens": 23300,
+        "total_tokens": 23914
+      }
+    },
+    {
+      "id": 657,
+      "choice_value": "1",
+      "raw_response": "{\n  \"id\": 657,\n  \"choice_value\": \"1\"\n}",
+      "usage": {
+        "prompt_tokens": 1500,
+        "completion_tokens": 2214,
+        "total_tokens": 3714
+      }
+    },
+    {
+      "id": 175,
+      "choice_value": "1",
+      "raw_response": "{\n  \"id\": 175,\n  \"choice_value\": \"1\"\n}",
+      "usage": {
+        "prompt_tokens": 1719,
+        "completion_tokens": 4635,
+        "total_tokens": 6354
+      }
+    },
+    {
+      "id": 462,
+      "choice_value": "1",
+      "raw_response": "{\n  \"id\": 462,\n  \"choice_value\": \"1\"\n}",
+      "usage": {
+        "prompt_tokens": 596,
+        "completion_tokens": 18148,
+        "total_tokens": 18744
+      }
+    },
+    {
+      "id": 929,
+      "choice_value": "0",
+      "raw_response": "{\n  \"id\": 929,\n  \"choice_value\": \"0\"\n}",
+      "usage": {
+        "prompt_tokens": 615,
+        "completion_tokens": 1788,
+        "total_tokens": 2403
+      }
+    },
+    {
+      "id": 618,
+      "choice_value": "1",
+      "raw_response": "{\n  \"id\": 618,\n  \"choice_value\": \"1\"\n}",
+      "usage": {
+        "prompt_tokens": 1584,
+        "completion_tokens": 672,
+        "total_tokens": 2256
+      }
+    },
+    {
+      "id": 566,
+      "choice_value": null,
+      "error": "the JSON object must be str, bytes or bytearray, not NoneType",
+      "raw_response": null,
+      "usage": {
+        "prompt_tokens": 0,
+        "completion_tokens": 0,
+        "total_tokens": 0
+      }
+    },
+    {
+      "id": 970,
+      "choice_value": "3",
+      "raw_response": "{\n  \"id\": 970,\n  \"choice_value\": \"3\"\n}",
+      "usage": {
+        "prompt_tokens": 2337,
+        "completion_tokens": 9848,
+        "total_tokens": 12185
+      }
+    },
+    {
+      "id": 322,
+      "choice_value": "0",
+      "raw_response": "{\n  \"id\": 322,\n  \"choice_value\": \"0\"\n}",
+      "usage": {
+        "prompt_tokens": 1270,
+        "completion_tokens": 1345,
+        "total_tokens": 2615
+      }
+    },
+    {
+      "id": 1026,
+      "choice_value": "3",
+      "raw_response": "{\n  \"id\": 1026,\n  \"choice_value\": \"3\"\n}",
+      "usage": {
+        "prompt_tokens": 2150,
+        "completion_tokens": 1782,
+        "total_tokens": 3932
+      }
+    },
+    {
+      "id": 547,
+      "choice_value": "3",
+      "raw_response": "{\n  \"id\": 547,\n  \"choice_value\": \"3\"\n}",
+      "usage": {
+        "prompt_tokens": 1617,
+        "completion_tokens": 5631,
+        "total_tokens": 7248
+      }
+    },
+    {
+      "id": 1069,
+      "choice_value": "1",
+      "raw_response": "{\n  \"id\": 1069,\n  \"choice_value\": \"1\"\n}",
+      "usage": {
+        "prompt_tokens": 512,
+        "completion_tokens": 1151,
+        "total_tokens": 1663
+      }
+    },
+    {
+      "id": 230,
+      "choice_value": "2",
+      "raw_response": "{\n  \"id\": 230,\n  \"choice_value\": \"2\"\n}",
+      "usage": {
+        "prompt_tokens": 2199,
+        "completion_tokens": 4281,
+        "total_tokens": 6480
+      }
+    },
+    {
+      "id": 660,
+      "choice_value": "1",
+      "raw_response": "{\n  \"id\": 660,\n  \"choice_value\": \"1\"\n}",
+      "usage": {
+        "prompt_tokens": 666,
+        "completion_tokens": 1278,
+        "total_tokens": 1944
+      }
+    },
+    {
+      "id": 361,
+      "choice_value": "1",
+      "raw_response": "{\n  \"id\": 361,\n  \"choice_value\": \"1\"\n}",
+      "usage": {
+        "prompt_tokens": 573,
+        "completion_tokens": 2882,
+        "total_tokens": 3455
+      }
+    },
+    {
+      "id": 226,
+      "choice_value": "0",
+      "raw_response": "{\n  \"id\": 226,\n  \"choice_value\": \"0\"\n}",
+      "usage": {
+        "prompt_tokens": 509,
+        "completion_tokens": 1303,
+        "total_tokens": 1812
+      }
+    },
+    {
+      "id": 619,
+      "choice_value": "2",
+      "raw_response": "{\n  \"id\": 619,\n  \"choice_value\": \"2\"\n}",
+      "usage": {
+        "prompt_tokens": 1700,
+        "completion_tokens": 1255,
+        "total_tokens": 2955
+      }
+    },
+    {
+      "id": 436,
+      "choice_value": "2",
+      "raw_response": "{\n  \"id\": 436,\n  \"choice_value\": \"2\"\n}",
+      "usage": {
+        "prompt_tokens": 536,
+        "completion_tokens": 10191,
+        "total_tokens": 10727
+      }
+    },
+    {
+      "id": 820,
+      "choice_value": "0",
+      "raw_response": "{\n  \"id\": 820,\n  \"choice_value\": \"0\"\n}",
+      "usage": {
+        "prompt_tokens": 934,
+        "completion_tokens": 18995,
+        "total_tokens": 19929
+      }
+    },
+    {
+      "id": 475,
+      "choice_value": "2",
+      "raw_response": "{\n  \"id\": 475,\n  \"choice_value\": \"2\"\n}",
+      "usage": {
+        "prompt_tokens": 555,
+        "completion_tokens": 903,
+        "total_tokens": 1458
+      }
+    },
+    {
+      "id": 924,
+      "choice_value": "0",
+      "raw_response": "{\n  \"id\": 924,\n  \"choice_value\": \"0\"\n}",
+      "usage": {
+        "prompt_tokens": 1565,
+        "completion_tokens": 3003,
+        "total_tokens": 4568
+      }
+    },
+    {
+      "id": 859,
+      "choice_value": "0",
+      "raw_response": "{\n  \"id\": 859,\n  \"choice_value\": \"0\"\n}",
+      "usage": {
+        "prompt_tokens": 1766,
+        "completion_tokens": 3877,
+        "total_tokens": 5643
+      }
+    },
+    {
+      "id": 162,
+      "choice_value": "3",
+      "raw_response": "{\n  \"id\": 162,\n  \"choice_value\": \"3\"\n}",
+      "usage": {
+        "prompt_tokens": 1605,
+        "completion_tokens": 11373,
+        "total_tokens": 12978
+      }
+    },
+    {
+      "id": 133,
+      "choice_value": "0",
+      "raw_response": "{\n  \"id\": 133,\n  \"choice_value\": \"0\"\n}",
+      "usage": {
+        "prompt_tokens": 2126,
+        "completion_tokens": 6518,
+        "total_tokens": 8644
+      }
+    },
+    {
+      "id": 836,
+      "choice_value": "0",
+      "raw_response": "{\n  \"id\": 836,\n  \"choice_value\": \"0\"\n}",
+      "usage": {
+        "prompt_tokens": 1601,
+        "completion_tokens": 762,
+        "total_tokens": 2363
+      }
+    },
+    {
+      "id": 357,
+      "choice_value": "3",
+      "raw_response": "{\n  \"id\": 357,\n  \"choice_value\": \"3\"\n}",
+      "usage": {
+        "prompt_tokens": 1589,
+        "completion_tokens": 3054,
+        "total_tokens": 4643
+      }
+    },
+    {
+      "id": 142,
+      "choice_value": "1",
+      "raw_response": "{\n  \"id\": 142,\n  \"choice_value\": \"1\"\n}",
+      "usage": {
+        "prompt_tokens": 528,
+        "completion_tokens": 3847,
+        "total_tokens": 4375
+      }
+    },
+    {
+      "id": 455,
+      "choice_value": "0",
+      "raw_response": "{\n  \"id\": 455,\n  \"choice_value\": \"0\"\n}",
+      "usage": {
+        "prompt_tokens": 576,
+        "completion_tokens": 1056,
+        "total_tokens": 1632
+      }
+    },
+    {
+      "id": 727,
+      "choice_value": "2",
+      "raw_response": "{\n  \"id\": 727,\n  \"choice_value\": \"2\"\n}",
+      "usage": {
+        "prompt_tokens": 2609,
+        "completion_tokens": 713,
+        "total_tokens": 3322
+      }
+    },
+    {
+      "id": 681,
+      "choice_value": "2",
+      "raw_response": "{\n  \"id\": 681,\n  \"choice_value\": \"2\"\n}",
+      "usage": {
+        "prompt_tokens": 546,
+        "completion_tokens": 35340,
+        "total_tokens": 35886
+      }
+    },
+    {
+      "id": 951,
+      "choice_value": null,
+      "error": "Could not download image for question ID 951: http://demo.ibobor.sk/sutaz/images/09/S_zeleznica.png ",
+      "raw_response": null,
+      "usage": {
+        "prompt_tokens": null,
+        "completion_tokens": null,
+        "total_tokens": null
+      }
+    },
+    {
+      "id": 46,
+      "choice_value": "1",
+      "raw_response": "{\n  \"id\": 46,\n  \"choice_value\": \"1\"\n}",
+      "usage": {
+        "prompt_tokens": 1848,
+        "completion_tokens": 8545,
+        "total_tokens": 10393
+      }
+    },
+    {
+      "id": 768,
+      "choice_value": "2",
+      "raw_response": "{\n  \"id\": 768,\n  \"choice_value\": \"2\"\n}",
+      "usage": {
+        "prompt_tokens": 1503,
+        "completion_tokens": 766,
+        "total_tokens": 2269
+      }
+    },
+    {
+      "id": 912,
+      "choice_value": "1",
+      "raw_response": "{\n  \"id\": 912,\n  \"choice_value\": \"1\"\n}",
+      "usage": {
+        "prompt_tokens": 1612,
+        "completion_tokens": 7374,
+        "total_tokens": 8986
+      }
+    },
+    {
+      "id": 439,
+      "choice_value": "0",
+      "raw_response": "{\n  \"id\": 439,\n  \"choice_value\": \"0\"\n}",
+      "usage": {
+        "prompt_tokens": 519,
+        "completion_tokens": 17213,
+        "total_tokens": 17732
+      }
+    },
+    {
+      "id": 656,
+      "choice_value": "3",
+      "raw_response": "{\n  \"id\": 656,\n  \"choice_value\": \"3\"\n}",
+      "usage": {
+        "prompt_tokens": 1573,
+        "completion_tokens": 1237,
+        "total_tokens": 2810
+      }
+    },
+    {
+      "id": 711,
+      "choice_value": "1",
+      "raw_response": "{\n  \"id\": 711,\n  \"choice_value\": \"1\"\n}",
+      "usage": {
+        "prompt_tokens": 602,
+        "completion_tokens": 755,
+        "total_tokens": 1357
+      }
+    },
+    {
+      "id": 341,
+      "choice_value": "0",
+      "raw_response": "{\n  \"id\": 341,\n  \"choice_value\": \"0\"\n}",
+      "usage": {
+        "prompt_tokens": 2859,
+        "completion_tokens": 1706,
+        "total_tokens": 4565
+      }
+    },
+    {
+      "id": 986,
+      "choice_value": "2",
+      "raw_response": "{\n  \"id\": 986,\n  \"choice_value\": \"2\"\n}",
+      "usage": {
+        "prompt_tokens": 803,
+        "completion_tokens": 2694,
+        "total_tokens": 3497
+      }
+    },
+    {
+      "id": 1010,
+      "choice_value": "1",
+      "raw_response": "{\n  \"id\": 1010,\n  \"choice_value\": \"1\"\n}",
+      "usage": {
+        "prompt_tokens": 569,
+        "completion_tokens": 1442,
+        "total_tokens": 2011
+      }
+    },
+    {
+      "id": 744,
+      "choice_value": "3",
+      "raw_response": "{\n  \"id\": 744,\n  \"choice_value\": \"3\"\n}",
+      "usage": {
+        "prompt_tokens": 689,
+        "completion_tokens": 985,
+        "total_tokens": 1674
+      }
+    },
+    {
+      "id": 245,
+      "choice_value": "2",
+      "raw_response": "{\n  \"id\": 245,\n  \"choice_value\": \"2\"\n}",
+      "usage": {
+        "prompt_tokens": 1727,
+        "completion_tokens": 1195,
+        "total_tokens": 2922
+      }
+    },
+    {
+      "id": 1006,
+      "choice_value": "2",
+      "raw_response": "{\n  \"id\": 1006,\n  \"choice_value\": \"2\"\n}",
+      "usage": {
+        "prompt_tokens": 490,
+        "completion_tokens": 1556,
+        "total_tokens": 2046
+      }
+    },
+    {
+      "id": 752,
+      "choice_value": "1",
+      "raw_response": "{\n  \"id\": 752,\n  \"choice_value\": \"1\"\n}",
+      "usage": {
+        "prompt_tokens": 664,
+        "completion_tokens": 1060,
+        "total_tokens": 1724
+      }
+    },
+    {
+      "id": 703,
+      "choice_value": "2",
+      "raw_response": "{\n  \"id\": 703,\n  \"choice_value\": \"2\"\n}",
+      "usage": {
+        "prompt_tokens": 2205,
+        "completion_tokens": 15642,
+        "total_tokens": 17847
+      }
+    },
+    {
+      "id": 586,
+      "choice_value": "3",
+      "raw_response": "{\n  \"id\": 586,\n  \"choice_value\": \"3\"\n}",
+      "usage": {
+        "prompt_tokens": 1354,
+        "completion_tokens": 941,
+        "total_tokens": 2295
+      }
+    },
+    {
+      "id": 138,
+      "choice_value": "2",
+      "raw_response": "{\n  \"id\": 138,\n  \"choice_value\": \"2\"\n}",
+      "usage": {
+        "prompt_tokens": 670,
+        "completion_tokens": 1579,
+        "total_tokens": 2249
+      }
+    },
+    {
+      "id": 1050,
+      "choice_value": "3",
+      "raw_response": "{\n  \"id\": 1050,\n  \"choice_value\": \"3\"\n}",
+      "usage": {
+        "prompt_tokens": 710,
+        "completion_tokens": 990,
+        "total_tokens": 1700
+      }
+    },
+    {
+      "id": 209,
+      "choice_value": "1",
+      "raw_response": "{\n  \"id\": 209,\n  \"choice_value\": \"1\"\n}",
+      "usage": {
+        "prompt_tokens": 518,
+        "completion_tokens": 1045,
+        "total_tokens": 1563
+      }
+    },
+    {
+      "id": 639,
+      "choice_value": "0",
+      "raw_response": "{\n  \"id\": 639,\n  \"choice_value\": \"0\"\n}",
+      "usage": {
+        "prompt_tokens": 1683,
+        "completion_tokens": 2671,
+        "total_tokens": 4354
+      }
+    },
+    {
+      "id": 881,
+      "choice_value": "3",
+      "raw_response": "{\n  \"id\": 881,\n  \"choice_value\": \"3\"\n}",
+      "usage": {
+        "prompt_tokens": 2095,
+        "completion_tokens": 2413,
+        "total_tokens": 4508
+      }
+    },
+    {
+      "id": 1005,
+      "choice_value": "0",
+      "raw_response": "{\n  \"id\": 1005,\n  \"choice_value\": \"0\"\n}",
+      "usage": {
+        "prompt_tokens": 605,
+        "completion_tokens": 2254,
+        "total_tokens": 2859
+      }
+    },
+    {
+      "id": 751,
+      "choice_value": "2",
+      "raw_response": "{\n  \"id\": 751,\n  \"choice_value\": \"2\"\n}",
+      "usage": {
+        "prompt_tokens": 1370,
+        "completion_tokens": 1982,
+        "total_tokens": 3352
+      }
+    },
+    {
+      "id": 481,
+      "choice_value": "0",
+      "raw_response": "{\n  \"id\": 481,\n  \"choice_value\": \"0\"\n}",
+      "usage": {
+        "prompt_tokens": 528,
+        "completion_tokens": 2115,
+        "total_tokens": 2643
+      }
+    },
+    {
+      "id": 250,
+      "choice_value": "1",
+      "raw_response": "{\n  \"id\": 250,\n  \"choice_value\": \"1\"\n}",
+      "usage": {
+        "prompt_tokens": 651,
+        "completion_tokens": 1617,
+        "total_tokens": 2268
+      }
+    },
+    {
+      "id": 313,
+      "choice_value": null,
+      "error": "the JSON object must be str, bytes or bytearray, not NoneType",
+      "raw_response": null,
+      "usage": {
+        "prompt_tokens": 0,
+        "completion_tokens": 0,
+        "total_tokens": 0
+      }
+    },
+    {
+      "id": 589,
+      "choice_value": "1",
+      "raw_response": "{\n  \"id\": 589,\n  \"choice_value\": \"1\"\n}",
+      "usage": {
+        "prompt_tokens": 808,
+        "completion_tokens": 9767,
+        "total_tokens": 10575
+      }
+    },
+    {
+      "id": 205,
+      "choice_value": "0",
+      "raw_response": "{\n  \"id\": 205,\n  \"choice_value\": \"0\"\n}",
+      "usage": {
+        "prompt_tokens": 1533,
+        "completion_tokens": 7473,
+        "total_tokens": 9006
+      }
+    },
+    {
+      "id": 712,
+      "choice_value": "3",
+      "raw_response": "{\n  \"id\": 712,\n  \"choice_value\": \"3\"\n}",
+      "usage": {
+        "prompt_tokens": 682,
+        "completion_tokens": 1057,
+        "total_tokens": 1739
+      }
+    },
+    {
+      "id": 342,
+      "choice_value": "3",
+      "raw_response": "{\n  \"id\": 342,\n  \"choice_value\": \"3\"\n}",
+      "usage": {
+        "prompt_tokens": 2102,
+        "completion_tokens": 1230,
+        "total_tokens": 3332
+      }
+    },
+    {
+      "id": 911,
+      "choice_value": "2",
+      "raw_response": "{\n  \"id\": 911,\n  \"choice_value\": \"2\"\n}",
+      "usage": {
+        "prompt_tokens": 1786,
+        "completion_tokens": 4017,
+        "total_tokens": 5803
+      }
+    },
+    {
+      "id": 10,
+      "choice_value": "0",
+      "raw_response": "{\n  \"id\": 10,\n  \"choice_value\": \"0\"\n}",
+      "usage": {
+        "prompt_tokens": 1562,
+        "completion_tokens": 841,
+        "total_tokens": 2403
+      }
+    },
+    {
+      "id": 440,
+      "choice_value": "0",
+      "raw_response": "{\n  \"id\": 440,\n  \"choice_value\": \"0\"\n}",
+      "usage": {
+        "prompt_tokens": 1084,
+        "completion_tokens": 5752,
+        "total_tokens": 6836
+      }
+    },
+    {
+      "id": 786,
+      "choice_value": "2",
+      "raw_response": "{\n  \"id\": 786,\n  \"choice_value\": \"2\"\n}",
+      "usage": {
+        "prompt_tokens": 573,
+        "completion_tokens": 12220,
+        "total_tokens": 12793
+      }
+    },
+    {
+      "id": 102,
+      "choice_value": "3",
+      "raw_response": "{\n  \"id\": 102,\n  \"choice_value\": \"3\"\n}",
+      "usage": {
+        "prompt_tokens": 545,
+        "completion_tokens": 705,
+        "total_tokens": 1250
+      }
+    },
+    {
+      "id": 544,
+      "choice_value": "2",
+      "raw_response": "{\n  \"id\": 544,\n  \"choice_value\": \"2\"\n}",
+      "usage": {
+        "prompt_tokens": 2057,
+        "completion_tokens": 10309,
+        "total_tokens": 12366
+      }
+    },
+    {
+      "id": 728,
+      "choice_value": "1",
+      "raw_response": "{\n  \"id\": 728,\n  \"choice_value\": \"1\"\n}",
+      "usage": {
+        "prompt_tokens": 694,
+        "completion_tokens": 1518,
+        "total_tokens": 2212
+      }
+    },
+    {
+      "id": 511,
+      "choice_value": "1",
+      "raw_response": "{\n  \"id\": 511,\n  \"choice_value\": \"1\"\n}",
+      "usage": {
+        "prompt_tokens": 704,
+        "completion_tokens": 1733,
+        "total_tokens": 2437
+      }
+    },
+    {
+      "id": 790,
+      "choice_value": "0",
+      "raw_response": "{\n  \"id\": 790,\n  \"choice_value\": \"0\"\n}",
+      "usage": {
+        "prompt_tokens": 1620,
+        "completion_tokens": 3140,
+        "total_tokens": 4760
+      }
+    },
+    {
+      "id": 708,
+      "choice_value": "2",
+      "raw_response": "{\n  \"id\": 708,\n  \"choice_value\": \"2\"\n}",
+      "usage": {
+        "prompt_tokens": 664,
+        "completion_tokens": 5120,
+        "total_tokens": 5784
+      }
+    },
+    {
+      "id": 835,
+      "choice_value": "2",
+      "raw_response": "{\n  \"id\": 835,\n  \"choice_value\": \"2\"\n}",
+      "usage": {
+        "prompt_tokens": 3619,
+        "completion_tokens": 1918,
+        "total_tokens": 5537
+      }
+    },
+    {
+      "id": 26,
+      "choice_value": "3",
+      "raw_response": "{\n  \"id\": 26,\n  \"choice_value\": \"3\"\n}",
+      "usage": {
+        "prompt_tokens": 1718,
+        "completion_tokens": 20744,
+        "total_tokens": 22462
+      }
+    },
+    {
+      "id": 747,
+      "choice_value": "2",
+      "raw_response": "{\n  \"id\": 747,\n  \"choice_value\": \"2\"\n}",
+      "usage": {
+        "prompt_tokens": 2157,
+        "completion_tokens": 1471,
+        "total_tokens": 3628
+      }
+    },
+    {
+      "id": 30,
+      "choice_value": "2",
+      "raw_response": "{\n  \"id\": 30,\n  \"choice_value\": \"2\"\n}",
+      "usage": {
+        "prompt_tokens": 496,
+        "completion_tokens": 1357,
+        "total_tokens": 1853
+      }
+    },
+    {
+      "id": 173,
+      "choice_value": "2",
+      "raw_response": "{\n  \"id\": 173,\n  \"choice_value\": \"2\"\n}",
+      "usage": {
+        "prompt_tokens": 1582,
+        "completion_tokens": 2318,
+        "total_tokens": 3900
+      }
+    },
+    {
+      "id": 572,
+      "choice_value": "0",
+      "raw_response": "{\n  \"id\": 572,\n  \"choice_value\": \"0\"\n}",
+      "usage": {
+        "prompt_tokens": 548,
+        "completion_tokens": 853,
+        "total_tokens": 1401
+      }
+    },
+    {
+      "id": 620,
+      "choice_value": "3",
+      "raw_response": "{\n  \"id\": 620,\n  \"choice_value\": \"3\"\n}",
+      "usage": {
+        "prompt_tokens": 1347,
+        "completion_tokens": 12787,
+        "total_tokens": 14134
+      }
+    },
+    {
+      "id": 1087,
+      "choice_value": "3",
+      "raw_response": "{\n  \"id\": 1087,\n  \"choice_value\": \"3\"\n}",
+      "usage": {
+        "prompt_tokens": 1520,
+        "completion_tokens": 977,
+        "total_tokens": 2497
+      }
+    },
+    {
+      "id": 732,
+      "choice_value": "3",
+      "raw_response": "{\n  \"id\": 732,\n  \"choice_value\": \"3\"\n}",
+      "usage": {
+        "prompt_tokens": 1582,
+        "completion_tokens": 6664,
+        "total_tokens": 8246
+      }
+    },
+    {
+      "id": 698,
+      "choice_value": "2",
+      "raw_response": "{\n  \"id\": 698,\n  \"choice_value\": \"2\"\n}",
+      "usage": {
+        "prompt_tokens": 602,
+        "completion_tokens": 746,
+        "total_tokens": 1348
+      }
+    },
+    {
+      "id": 1066,
+      "choice_value": "0",
+      "raw_response": "{\n  \"id\": 1066,\n  \"choice_value\": \"0\"\n}",
+      "usage": {
+        "prompt_tokens": 1291,
+        "completion_tokens": 905,
+        "total_tokens": 2196
+      }
+    },
+    {
+      "id": 948,
+      "choice_value": "0",
+      "raw_response": "{\n  \"id\": 948,\n  \"choice_value\": \"0\"\n}",
+      "usage": {
+        "prompt_tokens": 2071,
+        "completion_tokens": 1511,
+        "total_tokens": 3582
+      }
+    },
+    {
+      "id": 374,
+      "choice_value": "1",
+      "raw_response": "{\n  \"id\": 374,\n  \"choice_value\": \"1\"\n}",
+      "usage": {
+        "prompt_tokens": 709,
+        "completion_tokens": 11809,
+        "total_tokens": 12518
+      }
+    },
+    {
+      "id": 771,
+      "choice_value": "2",
+      "raw_response": "{\n  \"id\": 771,\n  \"choice_value\": \"2\"\n}",
+      "usage": {
+        "prompt_tokens": 2219,
+        "completion_tokens": 2389,
+        "total_tokens": 4608
+      }
+    },
+    {
+      "id": 636,
+      "choice_value": "1",
+      "raw_response": "{\n  \"id\": 636,\n  \"choice_value\": \"1\"\n}",
+      "usage": {
+        "prompt_tokens": 676,
+        "completion_tokens": 5744,
+        "total_tokens": 6420
+      }
+    },
+    {
+      "id": 266,
+      "choice_value": "2",
+      "raw_response": "{\n  \"id\": 266,\n  \"choice_value\": \"2\"\n}",
+      "usage": {
+        "prompt_tokens": 1078,
+        "completion_tokens": 5459,
+        "total_tokens": 6537
+      }
+    },
+    {
+      "id": 1025,
+      "choice_value": "1",
+      "raw_response": "{\n  \"id\": 1025,\n  \"choice_value\": \"1\"\n}",
+      "usage": {
+        "prompt_tokens": 1610,
+        "completion_tokens": 10309,
+        "total_tokens": 11919
+      }
+    },
+    {
+      "id": 328,
+      "choice_value": "3",
+      "raw_response": "{\n  \"id\": 328,\n  \"choice_value\": \"3\"\n}",
+      "usage": {
+        "prompt_tokens": 1463,
+        "completion_tokens": 8185,
+        "total_tokens": 9648
+      }
+    },
+    {
+      "id": 845,
+      "choice_value": "3",
+      "raw_response": "{\n  \"id\": 845,\n  \"choice_value\": \"3\"\n}",
+      "usage": {
+        "prompt_tokens": 547,
+        "completion_tokens": 1237,
+        "total_tokens": 1784
+      }
+    },
+    {
+      "id": 902,
+      "choice_value": "2",
+      "raw_response": "{\n  \"id\": 902,\n  \"choice_value\": \"2\"\n}",
+      "usage": {
+        "prompt_tokens": 1546,
+        "completion_tokens": 967,
+        "total_tokens": 2513
+      }
+    },
+    {
+      "id": 683,
+      "choice_value": "3",
+      "raw_response": "{\n  \"id\": 683,\n  \"choice_value\": \"3\"\n}",
+      "usage": {
+        "prompt_tokens": 569,
+        "completion_tokens": 14068,
+        "total_tokens": 14637
+      }
+    },
+    {
+      "id": 1094,
+      "choice_value": "2",
+      "raw_response": "{\n  \"id\": 1094,\n  \"choice_value\": \"2\"\n}",
+      "usage": {
+        "prompt_tokens": 680,
+        "completion_tokens": 1777,
+        "total_tokens": 2457
+      }
+    },
+    {
+      "id": 810,
+      "choice_value": "0",
+      "raw_response": "{\n  \"id\": 810,\n  \"choice_value\": \"0\"\n}",
+      "usage": {
+        "prompt_tokens": 613,
+        "completion_tokens": 4190,
+        "total_tokens": 4803
+      }
+    },
+    {
+      "id": 56,
+      "choice_value": "1",
+      "raw_response": "{\n  \"id\": 56,\n  \"choice_value\": \"1\"\n}",
+      "usage": {
+        "prompt_tokens": 1529,
+        "completion_tokens": 29581,
+        "total_tokens": 31110
+      }
+    },
+    {
+      "id": 406,
+      "choice_value": "2",
+      "raw_response": "{\n  \"id\": 406,\n  \"choice_value\": \"2\"\n}",
+      "usage": {
+        "prompt_tokens": 782,
+        "completion_tokens": 961,
+        "total_tokens": 1743
+      }
+    },
+    {
+      "id": 953,
+      "choice_value": null,
+      "error": "Could not download image for question ID 953: http://demo.ibobor.sk/sutaz/images/09/S_pismeno_e.png ",
+      "raw_response": null,
+      "usage": {
+        "prompt_tokens": null,
+        "completion_tokens": null,
+        "total_tokens": null
+      }
+    },
+    {
+      "id": 1082,
+      "choice_value": "3",
+      "raw_response": "{\n  \"id\": 1082,\n  \"choice_value\": \"3\"\n}",
+      "usage": {
+        "prompt_tokens": 537,
+        "completion_tokens": 11259,
+        "total_tokens": 11796
+      }
+    },
+    {
+      "id": 941,
+      "choice_value": "0",
+      "raw_response": "{\n  \"id\": 941,\n  \"choice_value\": \"0\"\n}",
+      "usage": {
+        "prompt_tokens": 1271,
+        "completion_tokens": 1725,
+        "total_tokens": 2996
+      }
+    },
+    {
+      "id": 849,
+      "choice_value": "0",
+      "raw_response": "{\n  \"id\": 849,\n  \"choice_value\": \"0\"\n}",
+      "usage": {
+        "prompt_tokens": 2155,
+        "completion_tokens": 13522,
+        "total_tokens": 15677
+      }
+    },
+    {
+      "id": 445,
+      "choice_value": "1",
+      "raw_response": "{\n  \"id\": 445,\n  \"choice_value\": \"1\"\n}",
+      "usage": {
+        "prompt_tokens": 802,
+        "completion_tokens": 6104,
+        "total_tokens": 6906
+      }
+    },
+    {
+      "id": 650,
+      "choice_value": "2",
+      "raw_response": "{\n  \"id\": 650,\n  \"choice_value\": \"2\"\n}",
+      "usage": {
+        "prompt_tokens": 563,
+        "completion_tokens": 1555,
+        "total_tokens": 2118
+      }
+    },
+    {
+      "id": 713,
+      "choice_value": "1",
+      "raw_response": "{\n  \"id\": 713,\n  \"choice_value\": \"1\"\n}",
+      "usage": {
+        "prompt_tokens": 2730,
+        "completion_tokens": 518,
+        "total_tokens": 3248
+      }
+    },
+    {
+      "id": 343,
+      "choice_value": "0",
+      "raw_response": "{\n  \"id\": 343,\n  \"choice_value\": \"0\"\n}",
+      "usage": {
+        "prompt_tokens": 2688,
+        "completion_tokens": 16172,
+        "total_tokens": 18860
+      }
+    },
+    {
+      "id": 596,
+      "choice_value": "1",
+      "raw_response": "{\n  \"id\": 596,\n  \"choice_value\": \"1\"\n}",
+      "usage": {
+        "prompt_tokens": 1194,
+        "completion_tokens": 3912,
+        "total_tokens": 5106
+      }
+    },
+    {
+      "id": 255,
+      "choice_value": "0",
+      "raw_response": "{\n  \"id\": 255,\n  \"choice_value\": \"0\"\n}",
+      "usage": {
+        "prompt_tokens": 632,
+        "completion_tokens": 26161,
+        "total_tokens": 26793
+      }
+    },
+    {
+      "id": 605,
+      "choice_value": "3",
+      "raw_response": "{\n  \"id\": 605,\n  \"choice_value\": \"3\"\n}",
+      "usage": {
+        "prompt_tokens": 540,
+        "completion_tokens": 13357,
+        "total_tokens": 13897
+      }
+    },
+    {
+      "id": 1016,
+      "choice_value": "1",
+      "raw_response": "{\n  \"id\": 1016,\n  \"choice_value\": \"1\"\n}",
+      "usage": {
+        "prompt_tokens": 1299,
+        "completion_tokens": 2542,
+        "total_tokens": 3841
+      }
+    },
+    {
+      "id": 742,
+      "choice_value": "3",
+      "raw_response": "{\n  \"id\": 742,\n  \"choice_value\": \"3\"\n}",
+      "usage": {
+        "prompt_tokens": 602,
+        "completion_tokens": 816,
+        "total_tokens": 1418
+      }
+    },
+    {
+      "id": 484,
+      "choice_value": "2",
+      "raw_response": "{\n  \"id\": 484,\n  \"choice_value\": \"2\"\n}",
+      "usage": {
+        "prompt_tokens": 1514,
+        "completion_tokens": 778,
+        "total_tokens": 2292
+      }
+    },
+    {
+      "id": 609,
+      "choice_value": "1",
+      "raw_response": "{\n  \"id\": 609,\n  \"choice_value\": \"1\"\n}",
+      "usage": {
+        "prompt_tokens": 567,
+        "completion_tokens": 5403,
+        "total_tokens": 5970
+      }
+    },
+    {
+      "id": 754,
+      "choice_value": "2",
+      "raw_response": "{\n  \"id\": 754,\n  \"choice_value\": \"2\"\n}",
+      "usage": {
+        "prompt_tokens": 632,
+        "completion_tokens": 2672,
+        "total_tokens": 3304
+      }
+    },
+    {
+      "id": 304,
+      "choice_value": "3",
+      "raw_response": "{\n  \"id\": 304,\n  \"choice_value\": \"3\"\n}",
+      "usage": {
+        "prompt_tokens": 1566,
+        "completion_tokens": 17387,
+        "total_tokens": 18953
+      }
+    },
+    {
+      "id": 168,
+      "choice_value": "3",
+      "raw_response": "{\n  \"id\": 168,\n  \"choice_value\": \"3\"\n}",
+      "usage": {
+        "prompt_tokens": 2098,
+        "completion_tokens": 1772,
+        "total_tokens": 3870
+      }
+    },
+    {
+      "id": 351,
+      "choice_value": "0",
+      "raw_response": "{\n  \"id\": 351,\n  \"choice_value\": \"0\"\n}",
+      "usage": {
+        "prompt_tokens": 3108,
+        "completion_tokens": 7530,
+        "total_tokens": 10638
+      }
+    },
+    {
+      "id": 518,
+      "choice_value": "3",
+      "raw_response": "{\n  \"id\": 518,\n  \"choice_value\": \"3\"\n}",
+      "usage": {
+        "prompt_tokens": 657,
+        "completion_tokens": 1229,
+        "total_tokens": 1886
+      }
+    },
+    {
+      "id": 774,
+      "choice_value": "0",
+      "raw_response": "{\n  \"id\": 774,\n  \"choice_value\": \"0\"\n}",
+      "usage": {
+        "prompt_tokens": 2162,
+        "completion_tokens": 1869,
+        "total_tokens": 4031
+      }
+    },
+    {
+      "id": 324,
+      "choice_value": "2",
+      "raw_response": "{\n  \"id\": 324,\n  \"choice_value\": \"2\"\n}",
+      "usage": {
+        "prompt_tokens": 587,
+        "completion_tokens": 18243,
+        "total_tokens": 18830
+      }
+    },
+    {
+      "id": 259,
+      "choice_value": "3",
+      "raw_response": "{\n  \"id\": 259,\n  \"choice_value\": \"3\"\n}",
+      "usage": {
+        "prompt_tokens": 1399,
+        "completion_tokens": 7867,
+        "total_tokens": 9266
+      }
+    },
+    {
+      "id": 371,
+      "choice_value": "0",
+      "raw_response": "{\n  \"id\": 371,\n  \"choice_value\": \"0\"\n}",
+      "usage": {
+        "prompt_tokens": 2217,
+        "completion_tokens": 4059,
+        "total_tokens": 6276
+      }
+    },
+    {
+      "id": 107,
+      "choice_value": "2",
+      "raw_response": "{\n  \"id\": 107,\n  \"choice_value\": \"2\"\n}",
+      "usage": {
+        "prompt_tokens": 1290,
+        "completion_tokens": 1458,
+        "total_tokens": 2748
+      }
+    },
+    {
+      "id": 1059,
+      "choice_value": "1",
+      "raw_response": "{\n  \"id\": 1059,\n  \"choice_value\": \"1\"\n}",
+      "usage": {
+        "prompt_tokens": 1610,
+        "completion_tokens": 12396,
+        "total_tokens": 14006
+      }
+    },
+    {
+      "id": 918,
+      "choice_value": "1",
+      "raw_response": "{\n  \"id\": 918,\n  \"choice_value\": \"1\"\n}",
+      "usage": {
+        "prompt_tokens": 2099,
+        "completion_tokens": 24486,
+        "total_tokens": 26585
+      }
+    },
+    {
+      "id": 762,
+      "choice_value": "1",
+      "raw_response": "{\n  \"id\": 762,\n  \"choice_value\": \"1\"\n}",
+      "usage": {
+        "prompt_tokens": 2219,
+        "completion_tokens": 1424,
+        "total_tokens": 3643
+      }
+    },
+    {
+      "id": 275,
+      "choice_value": "1",
+      "raw_response": "{\n  \"id\": 275,\n  \"choice_value\": \"1\"\n}",
+      "usage": {
+        "prompt_tokens": 2262,
+        "completion_tokens": 13520,
+        "total_tokens": 15782
+      }
+    },
+    {
+      "id": 430,
+      "choice_value": "3",
+      "raw_response": "{\n  \"id\": 430,\n  \"choice_value\": \"3\"\n}",
+      "usage": {
+        "prompt_tokens": 1283,
+        "completion_tokens": 7470,
+        "total_tokens": 8753
+      }
+    },
+    {
+      "id": 717,
+      "choice_value": "2",
+      "raw_response": "{\n  \"id\": 717,\n  \"choice_value\": \"2\"\n}",
+      "usage": {
+        "prompt_tokens": 628,
+        "completion_tokens": 20524,
+        "total_tokens": 21152
+      }
+    },
+    {
+      "id": 35,
+      "choice_value": "0",
+      "raw_response": "{\n  \"id\": 35,\n  \"choice_value\": \"0\"\n}",
+      "usage": {
+        "prompt_tokens": 2608,
+        "completion_tokens": 6721,
+        "total_tokens": 9329
+      }
+    },
+    {
+      "id": 465,
+      "choice_value": "1",
+      "raw_response": "{\n  \"id\": 465,\n  \"choice_value\": \"1\"\n}",
+      "usage": {
+        "prompt_tokens": 727,
+        "completion_tokens": 5633,
+        "total_tokens": 6360
+      }
+    },
+    {
+      "id": 869,
+      "choice_value": "2",
+      "raw_response": "{\n  \"id\": 869,\n  \"choice_value\": \"2\"\n}",
+      "usage": {
+        "prompt_tokens": 1294,
+        "completion_tokens": 13095,
+        "total_tokens": 14389
+      }
+    },
+    {
+      "id": 172,
+      "choice_value": "3",
+      "raw_response": "{\n  \"id\": 172,\n  \"choice_value\": \"3\"\n}",
+      "usage": {
+        "prompt_tokens": 600,
+        "completion_tokens": 23088,
+        "total_tokens": 23688
+      }
+    },
+    {
+      "id": 488,
+      "choice_value": "1",
+      "raw_response": "{\n  \"id\": 488,\n  \"choice_value\": \"1\"\n}",
+      "usage": {
+        "prompt_tokens": 2148,
+        "completion_tokens": 2067,
+        "total_tokens": 4215
+      }
+    },
+    {
+      "id": 922,
+      "choice_value": "1",
+      "raw_response": "{\n  \"id\": 922,\n  \"choice_value\": \"1\"\n}",
+      "usage": {
+        "prompt_tokens": 733,
+        "completion_tokens": 12670,
+        "total_tokens": 13403
+      }
+    },
+    {
+      "id": 865,
+      "choice_value": null,
+      "error": "Error code: 402 - {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 65536 tokens, but can only afford 54099. To increase, visit https://openrouter.ai/settings/credits and add more credits', 'code': 402, 'metadata': {'provider_name': None}}, 'user_id': 'user_2uTJvTtpryyQ2qzlNSxO8JvR824'}",
+      "raw_response": null,
+      "usage": {
+        "prompt_tokens": null,
+        "completion_tokens": null,
+        "total_tokens": null
+      }
+    },
+    {
+      "id": 76,
+      "choice_value": null,
+      "error": "Error code: 402 - {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 65536 tokens, but can only afford 54099. To increase, visit https://openrouter.ai/settings/credits and add more credits', 'code': 402, 'metadata': {'provider_name': None}}, 'user_id': 'user_2uTJvTtpryyQ2qzlNSxO8JvR824'}",
+      "raw_response": null,
+      "usage": {
+        "prompt_tokens": null,
+        "completion_tokens": null,
+        "total_tokens": null
+      }
+    },
+    {
+      "id": 132,
+      "choice_value": null,
+      "error": "Error code: 402 - {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 65536 tokens, but can only afford 54099. To increase, visit https://openrouter.ai/settings/credits and add more credits', 'code': 402, 'metadata': {'provider_name': None}}, 'user_id': 'user_2uTJvTtpryyQ2qzlNSxO8JvR824'}",
+      "raw_response": null,
+      "usage": {
+        "prompt_tokens": null,
+        "completion_tokens": null,
+        "total_tokens": null
+      }
+    },
+    {
+      "id": 307,
+      "choice_value": null,
+      "error": "Could not download image for question ID 307: http://demo.ibobor.sk/sutaz/images/17/2017-HR-02_tabulka.png ",
+      "raw_response": null,
+      "usage": {
+        "prompt_tokens": null,
+        "completion_tokens": null,
+        "total_tokens": null
+      }
+    },
+    {
+      "id": 887,
+      "choice_value": null,
+      "error": "Error code: 402 - {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 65536 tokens, but can only afford 54099. To increase, visit https://openrouter.ai/settings/credits and add more credits', 'code': 402, 'metadata': {'provider_name': None}}, 'user_id': 'user_2uTJvTtpryyQ2qzlNSxO8JvR824'}",
+      "raw_response": null,
+      "usage": {
+        "prompt_tokens": null,
+        "completion_tokens": null,
+        "total_tokens": null
+      }
+    },
+    {
+      "id": 470,
+      "choice_value": null,
+      "error": "Error code: 402 - {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 65536 tokens, but can only afford 54099. To increase, visit https://openrouter.ai/settings/credits and add more credits', 'code': 402, 'metadata': {'provider_name': None}}, 'user_id': 'user_2uTJvTtpryyQ2qzlNSxO8JvR824'}",
+      "raw_response": null,
+      "usage": {
+        "prompt_tokens": null,
+        "completion_tokens": null,
+        "total_tokens": null
+      }
+    },
+    {
+      "id": 36,
+      "choice_value": null,
+      "error": "Error code: 402 - {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 65536 tokens, but can only afford 54099. To increase, visit https://openrouter.ai/settings/credits and add more credits', 'code': 402, 'metadata': {'provider_name': None}}, 'user_id': 'user_2uTJvTtpryyQ2qzlNSxO8JvR824'}",
+      "raw_response": null,
+      "usage": {
+        "prompt_tokens": null,
+        "completion_tokens": null,
+        "total_tokens": null
+      }
+    },
+    {
+      "id": 933,
+      "choice_value": null,
+      "error": "Error code: 402 - {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 65536 tokens, but can only afford 54099. To increase, visit https://openrouter.ai/settings/credits and add more credits', 'code': 402, 'metadata': {'provider_name': None}}, 'user_id': 'user_2uTJvTtpryyQ2qzlNSxO8JvR824'}",
+      "raw_response": null,
+      "usage": {
+        "prompt_tokens": null,
+        "completion_tokens": null,
+        "total_tokens": null
+      }
+    },
+    {
+      "id": 171,
+      "choice_value": null,
+      "error": "Error code: 402 - {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 65536 tokens, but can only afford 54099. To increase, visit https://openrouter.ai/settings/credits and add more credits', 'code': 402, 'metadata': {'provider_name': None}}, 'user_id': 'user_2uTJvTtpryyQ2qzlNSxO8JvR824'}",
+      "raw_response": null,
+      "usage": {
+        "prompt_tokens": null,
+        "completion_tokens": null,
+        "total_tokens": null
+      }
+    },
+    {
+      "id": 487,
+      "choice_value": null,
+      "error": "Error code: 402 - {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 65536 tokens, but can only afford 54099. To increase, visit https://openrouter.ai/settings/credits and add more credits', 'code': 402, 'metadata': {'provider_name': None}}, 'user_id': 'user_2uTJvTtpryyQ2qzlNSxO8JvR824'}",
+      "raw_response": null,
+      "usage": {
+        "prompt_tokens": null,
+        "completion_tokens": null,
+        "total_tokens": null
+      }
+    },
+    {
+      "id": 521,
+      "choice_value": null,
+      "error": "Error code: 402 - {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 65536 tokens, but can only afford 54099. To increase, visit https://openrouter.ai/settings/credits and add more credits', 'code': 402, 'metadata': {'provider_name': None}}, 'user_id': 'user_2uTJvTtpryyQ2qzlNSxO8JvR824'}",
+      "raw_response": null,
+      "usage": {
+        "prompt_tokens": null,
+        "completion_tokens": null,
+        "total_tokens": null
+      }
+    },
+    {
+      "id": 1035,
+      "choice_value": null,
+      "error": "Error code: 402 - {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 65536 tokens, but can only afford 54099. To increase, visit https://openrouter.ai/settings/credits and add more credits', 'code': 402, 'metadata': {'provider_name': None}}, 'user_id': 'user_2uTJvTtpryyQ2qzlNSxO8JvR824'}",
+      "raw_response": null,
+      "usage": {
+        "prompt_tokens": null,
+        "completion_tokens": null,
+        "total_tokens": null
+      }
+    },
+    {
+      "id": 734,
+      "choice_value": null,
+      "error": "Error code: 402 - {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 65536 tokens, but can only afford 54099. To increase, visit https://openrouter.ai/settings/credits and add more credits', 'code': 402, 'metadata': {'provider_name': None}}, 'user_id': 'user_2uTJvTtpryyQ2qzlNSxO8JvR824'}",
+      "raw_response": null,
+      "usage": {
+        "prompt_tokens": null,
+        "completion_tokens": null,
+        "total_tokens": null
+      }
+    },
+    {
+      "id": 364,
+      "choice_value": null,
+      "error": "Error code: 402 - {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 65536 tokens, but can only afford 54099. To increase, visit https://openrouter.ai/settings/credits and add more credits', 'code': 402, 'metadata': {'provider_name': None}}, 'user_id': 'user_2uTJvTtpryyQ2qzlNSxO8JvR824'}",
+      "raw_response": null,
+      "usage": {
+        "prompt_tokens": null,
+        "completion_tokens": null,
+        "total_tokens": null
+      }
+    },
+    {
+      "id": 558,
+      "choice_value": null,
+      "error": "Error code: 402 - {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 65536 tokens, but can only afford 54099. To increase, visit https://openrouter.ai/settings/credits and add more credits', 'code': 402, 'metadata': {'provider_name': None}}, 'user_id': 'user_2uTJvTtpryyQ2qzlNSxO8JvR824'}",
+      "raw_response": null,
+      "usage": {
+        "prompt_tokens": null,
+        "completion_tokens": null,
+        "total_tokens": null
+      }
+    },
+    {
+      "id": 1097,
+      "choice_value": null,
+      "error": "Error code: 402 - {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 65536 tokens, but can only afford 54099. To increase, visit https://openrouter.ai/settings/credits and add more credits', 'code': 402, 'metadata': {'provider_name': None}}, 'user_id': 'user_2uTJvTtpryyQ2qzlNSxO8JvR824'}",
+      "raw_response": null,
+      "usage": {
+        "prompt_tokens": null,
+        "completion_tokens": null,
+        "total_tokens": null
+      }
+    },
+    {
+      "id": 372,
+      "choice_value": null,
+      "error": "Error code: 402 - {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 65536 tokens, but can only afford 54099. To increase, visit https://openrouter.ai/settings/credits and add more credits', 'code': 402, 'metadata': {'provider_name': None}}, 'user_id': 'user_2uTJvTtpryyQ2qzlNSxO8JvR824'}",
+      "raw_response": null,
+      "usage": {
+        "prompt_tokens": null,
+        "completion_tokens": null,
+        "total_tokens": null
+      }
+    },
+    {
+      "id": 722,
+      "choice_value": null,
+      "error": "Error code: 402 - {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 65536 tokens, but can only afford 54099. To increase, visit https://openrouter.ai/settings/credits and add more credits', 'code': 402, 'metadata': {'provider_name': None}}, 'user_id': 'user_2uTJvTtpryyQ2qzlNSxO8JvR824'}",
+      "raw_response": null,
+      "usage": {
+        "prompt_tokens": null,
+        "completion_tokens": null,
+        "total_tokens": null
+      }
+    },
+    {
+      "id": 665,
+      "choice_value": null,
+      "error": "Error code: 402 - {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 65536 tokens, but can only afford 54099. To increase, visit https://openrouter.ai/settings/credits and add more credits', 'code': 402, 'metadata': {'provider_name': None}}, 'user_id': 'user_2uTJvTtpryyQ2qzlNSxO8JvR824'}",
+      "raw_response": null,
+      "usage": {
+        "prompt_tokens": null,
+        "completion_tokens": null,
+        "total_tokens": null
+      }
+    },
+    {
+      "id": 1076,
+      "choice_value": null,
+      "error": "Error code: 402 - {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 65536 tokens, but can only afford 54099. To increase, visit https://openrouter.ai/settings/credits and add more credits', 'code': 402, 'metadata': {'provider_name': None}}, 'user_id': 'user_2uTJvTtpryyQ2qzlNSxO8JvR824'}",
+      "raw_response": null,
+      "usage": {
+        "prompt_tokens": null,
+        "completion_tokens": null,
+        "total_tokens": null
+      }
+    },
+    {
+      "id": 958,
+      "choice_value": null,
+      "error": "Could not download image for question ID 958: http://demo.ibobor.sk/sutaz/images/09/S_spoluprac_roboti.gif ",
+      "raw_response": null,
+      "usage": {
+        "prompt_tokens": null,
+        "completion_tokens": null,
+        "total_tokens": null
+      }
+    },
+    {
+      "id": 260,
+      "choice_value": null,
+      "error": "Error code: 402 - {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 65536 tokens, but can only afford 54099. To increase, visit https://openrouter.ai/settings/credits and add more credits', 'code': 402, 'metadata': {'provider_name': None}}, 'user_id': 'user_2uTJvTtpryyQ2qzlNSxO8JvR824'}",
+      "raw_response": null,
+      "usage": {
+        "prompt_tokens": null,
+        "completion_tokens": null,
+        "total_tokens": null
+      }
+    },
+    {
+      "id": 147,
+      "choice_value": null,
+      "error": "Error code: 402 - {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 65536 tokens, but can only afford 54099. To increase, visit https://openrouter.ai/settings/credits and add more credits', 'code': 402, 'metadata': {'provider_name': None}}, 'user_id': 'user_2uTJvTtpryyQ2qzlNSxO8JvR824'}",
+      "raw_response": null,
+      "usage": {
+        "prompt_tokens": null,
+        "completion_tokens": null,
+        "total_tokens": null
+      }
+    },
+    {
+      "id": 579,
+      "choice_value": null,
+      "error": "Error code: 402 - {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 65536 tokens, but can only afford 54099. To increase, visit https://openrouter.ai/settings/credits and add more credits', 'code': 402, 'metadata': {'provider_name': None}}, 'user_id': 'user_2uTJvTtpryyQ2qzlNSxO8JvR824'}",
+      "raw_response": null,
+      "usage": {
+        "prompt_tokens": null,
+        "completion_tokens": null,
+        "total_tokens": null
+      }
+    },
+    {
+      "id": 645,
+      "choice_value": null,
+      "error": "Error code: 402 - {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 65536 tokens, but can only afford 54099. To increase, visit https://openrouter.ai/settings/credits and add more credits', 'code': 402, 'metadata': {'provider_name': None}}, 'user_id': 'user_2uTJvTtpryyQ2qzlNSxO8JvR824'}",
+      "raw_response": null,
+      "usage": {
+        "prompt_tokens": null,
+        "completion_tokens": null,
+        "total_tokens": null
+      }
+    },
+    {
+      "id": 702,
+      "choice_value": null,
+      "error": "Error code: 402 - {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 65536 tokens, but can only afford 54099. To increase, visit https://openrouter.ai/settings/credits and add more credits', 'code': 402, 'metadata': {'provider_name': None}}, 'user_id': 'user_2uTJvTtpryyQ2qzlNSxO8JvR824'}",
+      "raw_response": null,
+      "usage": {
+        "prompt_tokens": null,
+        "completion_tokens": null,
+        "total_tokens": null
+      }
+    },
+    {
+      "id": 537,
+      "choice_value": null,
+      "error": "Error code: 402 - {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 65536 tokens, but can only afford 54099. To increase, visit https://openrouter.ai/settings/credits and add more credits', 'code': 402, 'metadata': {'provider_name': None}}, 'user_id': 'user_2uTJvTtpryyQ2qzlNSxO8JvR824'}",
+      "raw_response": null,
+      "usage": {
+        "prompt_tokens": null,
+        "completion_tokens": null,
+        "total_tokens": null
+      }
+    },
+    {
+      "id": 999,
+      "choice_value": null,
+      "error": "Error code: 402 - {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 65536 tokens, but can only afford 54099. To increase, visit https://openrouter.ai/settings/credits and add more credits', 'code': 402, 'metadata': {'provider_name': None}}, 'user_id': 'user_2uTJvTtpryyQ2qzlNSxO8JvR824'}",
+      "raw_response": null,
+      "usage": {
+        "prompt_tokens": null,
+        "completion_tokens": null,
+        "total_tokens": null
+      }
+    },
+    {
+      "id": 610,
+      "choice_value": null,
+      "error": "Error code: 402 - {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 65536 tokens, but can only afford 54099. To increase, visit https://openrouter.ai/settings/credits and add more credits', 'code': 402, 'metadata': {'provider_name': None}}, 'user_id': 'user_2uTJvTtpryyQ2qzlNSxO8JvR824'}",
+      "raw_response": null,
+      "usage": {
+        "prompt_tokens": null,
+        "completion_tokens": null,
+        "total_tokens": null
+      }
+    },
+    {
+      "id": 937,
+      "choice_value": null,
+      "error": "Error code: 402 - {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 65536 tokens, but can only afford 54099. To increase, visit https://openrouter.ai/settings/credits and add more credits', 'code': 402, 'metadata': {'provider_name': None}}, 'user_id': 'user_2uTJvTtpryyQ2qzlNSxO8JvR824'}",
+      "raw_response": null,
+      "usage": {
+        "prompt_tokens": null,
+        "completion_tokens": null,
+        "total_tokens": null
+      }
+    },
+    {
+      "id": 483,
+      "choice_value": null,
+      "error": "Error code: 402 - {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 65536 tokens, but can only afford 54099. To increase, visit https://openrouter.ai/settings/credits and add more credits', 'code': 402, 'metadata': {'provider_name': None}}, 'user_id': 'user_2uTJvTtpryyQ2qzlNSxO8JvR824'}",
+      "raw_response": null,
+      "usage": {
+        "prompt_tokens": null,
+        "completion_tokens": null,
+        "total_tokens": null
+      }
+    },
+    {
+      "id": 256,
+      "choice_value": null,
+      "error": "Error code: 402 - {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 65536 tokens, but can only afford 54099. To increase, visit https://openrouter.ai/settings/credits and add more credits', 'code': 402, 'metadata': {'provider_name': None}}, 'user_id': 'user_2uTJvTtpryyQ2qzlNSxO8JvR824'}",
+      "raw_response": null,
+      "usage": {
+        "prompt_tokens": null,
+        "completion_tokens": null,
+        "total_tokens": null
+      }
+    },
+    {
+      "id": 606,
+      "choice_value": null,
+      "error": "Error code: 402 - {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 65536 tokens, but can only afford 54099. To increase, visit https://openrouter.ai/settings/credits and add more credits', 'code': 402, 'metadata': {'provider_name': None}}, 'user_id': 'user_2uTJvTtpryyQ2qzlNSxO8JvR824'}",
+      "raw_response": null,
+      "usage": {
+        "prompt_tokens": null,
+        "completion_tokens": null,
+        "total_tokens": null
+      }
+    },
+    {
+      "id": 1015,
+      "choice_value": null,
+      "error": "Error code: 402 - {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 65536 tokens, but can only afford 54099. To increase, visit https://openrouter.ai/settings/credits and add more credits', 'code': 402, 'metadata': {'provider_name': None}}, 'user_id': 'user_2uTJvTtpryyQ2qzlNSxO8JvR824'}",
+      "raw_response": null,
+      "usage": {
+        "prompt_tokens": null,
+        "completion_tokens": null,
+        "total_tokens": null
+      }
+    },
+    {
+      "id": 199,
+      "choice_value": null,
+      "error": "Error code: 402 - {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 65536 tokens, but can only afford 54099. To increase, visit https://openrouter.ai/settings/credits and add more credits', 'code': 402, 'metadata': {'provider_name': None}}, 'user_id': 'user_2uTJvTtpryyQ2qzlNSxO8JvR824'}",
+      "raw_response": null,
+      "usage": {
+        "prompt_tokens": null,
+        "completion_tokens": null,
+        "total_tokens": null
+      }
+    },
+    {
+      "id": 714,
+      "choice_value": null,
+      "error": "Error code: 402 - {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 65536 tokens, but can only afford 54099. To increase, visit https://openrouter.ai/settings/credits and add more credits', 'code': 402, 'metadata': {'provider_name': None}}, 'user_id': 'user_2uTJvTtpryyQ2qzlNSxO8JvR824'}",
+      "raw_response": null,
+      "usage": {
+        "prompt_tokens": null,
+        "completion_tokens": null,
+        "total_tokens": null
+      }
+    },
+    {
+      "id": 850,
+      "choice_value": null,
+      "error": "Error code: 402 - {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 65536 tokens, but can only afford 54099. To increase, visit https://openrouter.ai/settings/credits and add more credits', 'code': 402, 'metadata': {'provider_name': None}}, 'user_id': 'user_2uTJvTtpryyQ2qzlNSxO8JvR824'}",
+      "raw_response": null,
+      "usage": {
+        "prompt_tokens": null,
+        "completion_tokens": null,
+        "total_tokens": null
+      }
+    },
+    {
+      "id": 151,
+      "choice_value": null,
+      "error": "Error code: 402 - {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 65536 tokens, but can only afford 54099. To increase, visit https://openrouter.ai/settings/credits and add more credits', 'code': 402, 'metadata': {'provider_name': None}}, 'user_id': 'user_2uTJvTtpryyQ2qzlNSxO8JvR824'}",
+      "raw_response": null,
+      "usage": {
+        "prompt_tokens": null,
+        "completion_tokens": null,
+        "total_tokens": null
+      }
+    },
+    {
+      "id": 501,
+      "choice_value": null,
+      "error": "Error code: 402 - {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 65536 tokens, but can only afford 54099. To increase, visit https://openrouter.ai/settings/credits and add more credits', 'code': 402, 'metadata': {'provider_name': None}}, 'user_id': 'user_2uTJvTtpryyQ2qzlNSxO8JvR824'}",
+      "raw_response": null,
+      "usage": {
+        "prompt_tokens": null,
+        "completion_tokens": null,
+        "total_tokens": null
+      }
+    },
+    {
+      "id": 913,
+      "choice_value": null,
+      "error": "Error code: 402 - {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 65536 tokens, but can only afford 54099. To increase, visit https://openrouter.ai/settings/credits and add more credits', 'code': 402, 'metadata': {'provider_name': None}}, 'user_id': 'user_2uTJvTtpryyQ2qzlNSxO8JvR824'}",
+      "raw_response": null,
+      "usage": {
+        "prompt_tokens": null,
+        "completion_tokens": null,
+        "total_tokens": null
+      }
+    },
+    {
+      "id": 554,
+      "choice_value": null,
+      "error": "Error code: 402 - {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 65536 tokens, but can only afford 54099. To increase, visit https://openrouter.ai/settings/credits and add more credits', 'code': 402, 'metadata': {'provider_name': None}}, 'user_id': 'user_2uTJvTtpryyQ2qzlNSxO8JvR824'}",
+      "raw_response": null,
+      "usage": {
+        "prompt_tokens": null,
+        "completion_tokens": null,
+        "total_tokens": null
+      }
+    },
+    {
+      "id": 805,
+      "choice_value": null,
+      "error": "Error code: 402 - {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 65536 tokens, but can only afford 41337. To increase, visit https://openrouter.ai/settings/credits and add more credits', 'code': 402, 'metadata': {'provider_name': None}}, 'user_id': 'user_2uTJvTtpryyQ2qzlNSxO8JvR824'}",
+      "raw_response": null,
+      "usage": {
+        "prompt_tokens": null,
+        "completion_tokens": null,
+        "total_tokens": null
+      }
+    },
+    {
+      "id": 39,
+      "choice_value": null,
+      "error": "Error code: 402 - {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 65536 tokens, but can only afford 41337. To increase, visit https://openrouter.ai/settings/credits and add more credits', 'code': 402, 'metadata': {'provider_name': None}}, 'user_id': 'user_2uTJvTtpryyQ2qzlNSxO8JvR824'}",
+      "raw_response": null,
+      "usage": {
+        "prompt_tokens": null,
+        "completion_tokens": null,
+        "total_tokens": null
+      }
+    },
+    {
+      "id": 1081,
+      "choice_value": null,
+      "error": "Error code: 402 - {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 65536 tokens, but can only afford 41337. To increase, visit https://openrouter.ai/settings/credits and add more credits', 'code': 402, 'metadata': {'provider_name': None}}, 'user_id': 'user_2uTJvTtpryyQ2qzlNSxO8JvR824'}",
+      "raw_response": null,
+      "usage": {
+        "prompt_tokens": null,
+        "completion_tokens": null,
+        "total_tokens": null
+      }
+    },
+    {
+      "id": 738,
+      "choice_value": null,
+      "error": "Error code: 402 - {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 65536 tokens, but can only afford 41337. To increase, visit https://openrouter.ai/settings/credits and add more credits', 'code': 402, 'metadata': {'provider_name': None}}, 'user_id': 'user_2uTJvTtpryyQ2qzlNSxO8JvR824'}",
+      "raw_response": null,
+      "usage": {
+        "prompt_tokens": null,
+        "completion_tokens": null,
+        "total_tokens": null
+      }
+    },
+    {
+      "id": 542,
+      "choice_value": null,
+      "error": "Error code: 402 - {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 65536 tokens, but can only afford 41337. To increase, visit https://openrouter.ai/settings/credits and add more credits', 'code': 402, 'metadata': {'provider_name': None}}, 'user_id': 'user_2uTJvTtpryyQ2qzlNSxO8JvR824'}",
+      "raw_response": null,
+      "usage": {
+        "prompt_tokens": null,
+        "completion_tokens": null,
+        "total_tokens": null
+      }
+    },
+    {
+      "id": 1093,
+      "choice_value": null,
+      "error": "Error code: 402 - {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 65536 tokens, but can only afford 41337. To increase, visit https://openrouter.ai/settings/credits and add more credits', 'code': 402, 'metadata': {'provider_name': None}}, 'user_id': 'user_2uTJvTtpryyQ2qzlNSxO8JvR824'}",
+      "raw_response": null,
+      "usage": {
+        "prompt_tokens": null,
+        "completion_tokens": null,
+        "total_tokens": null
+      }
+    }
+  ]
+}

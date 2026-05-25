@@ -6,4 +6,6 @@ readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [
     "crawlee[all]>=1.1.0",
+    "matplotlib>=3.10.9",
+    "openai>=2.15.0",
 ]
