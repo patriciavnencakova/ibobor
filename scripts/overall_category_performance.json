@@ -1,0 +1,410 @@
+{
+  "google/gemini-2.5-pro": {
+    "3.-4.roč.": {
+      "correct": 3,
+      "incorrect": 5,
+      "accuracy": 0.375,
+      "total_tokens": 29831
+    },
+    "5.-7.roč.": {
+      "correct": 2,
+      "incorrect": 6,
+      "accuracy": 0.25,
+      "total_tokens": 36881
+    },
+    "6.-9.roč.": {
+      "correct": 8,
+      "incorrect": 5,
+      "accuracy": 0.615,
+      "total_tokens": 11131
+    },
+    "Benjamín": {
+      "correct": 99,
+      "incorrect": 55,
+      "accuracy": 0.643,
+      "total_tokens": 409277
+    },
+    "Bobrík": {
+      "correct": 38,
+      "incorrect": 37,
+      "accuracy": 0.507,
+      "total_tokens": 124301
+    },
+    "Drobec": {
+      "correct": 11,
+      "incorrect": 7,
+      "accuracy": 0.611,
+      "total_tokens": 64998
+    },
+    "Junior": {
+      "correct": 109,
+      "incorrect": 61,
+      "accuracy": 0.641,
+      "total_tokens": 490829
+    },
+    "Kadet": {
+      "correct": 87,
+      "incorrect": 53,
+      "accuracy": 0.621,
+      "total_tokens": 382608
+    },
+    "Nevidiaci SŠ": {
+      "correct": 34,
+      "incorrect": 2,
+      "accuracy": 0.944,
+      "total_tokens": 107152
+    },
+    "Nevidiaci ZŠ": {
+      "correct": 33,
+      "incorrect": 3,
+      "accuracy": 0.917,
+      "total_tokens": 99481
+    },
+    "Senior": {
+      "correct": 92,
+      "incorrect": 72,
+      "accuracy": 0.561,
+      "total_tokens": 591777
+    }
+  },
+  "google/gemini-2.5-flash": {
+    "3.-4.roč.": {
+      "correct": 4,
+      "incorrect": 4,
+      "accuracy": 0.5,
+      "total_tokens": 12722
+    },
+    "5.-7.roč.": {
+      "correct": 3,
+      "incorrect": 5,
+      "accuracy": 0.375,
+      "total_tokens": 10790
+    },
+    "6.-9.roč.": {
+      "correct": 5,
+      "incorrect": 8,
+      "accuracy": 0.385,
+      "total_tokens": 17738
+    },
+    "Benjamín": {
+      "correct": 64,
+      "incorrect": 90,
+      "accuracy": 0.416,
+      "total_tokens": 194616
+    },
+    "Bobrík": {
+      "correct": 35,
+      "incorrect": 40,
+      "accuracy": 0.467,
+      "total_tokens": 105030
+    },
+    "Drobec": {
+      "correct": 9,
+      "incorrect": 9,
+      "accuracy": 0.5,
+      "total_tokens": 21579
+    },
+    "Junior": {
+      "correct": 79,
+      "incorrect": 91,
+      "accuracy": 0.465,
+      "total_tokens": 188535
+    },
+    "Kadet": {
+      "correct": 64,
+      "incorrect": 76,
+      "accuracy": 0.457,
+      "total_tokens": 185529
+    },
+    "Nevidiaci SŠ": {
+      "correct": 13,
+      "incorrect": 23,
+      "accuracy": 0.361,
+      "total_tokens": 14963
+    },
+    "Nevidiaci ZŠ": {
+      "correct": 23,
+      "incorrect": 13,
+      "accuracy": 0.639,
+      "total_tokens": 12388
+    },
+    "Senior": {
+      "correct": 58,
+      "incorrect": 106,
+      "accuracy": 0.354,
+      "total_tokens": 183828
+    }
+  },
+  "openai/gpt-5.4-mini": {
+    "3.-4.roč.": {
+      "correct": 5,
+      "incorrect": 3,
+      "accuracy": 0.625,
+      "total_tokens": 4634
+    },
+    "5.-7.roč.": {
+      "correct": 1,
+      "incorrect": 7,
+      "accuracy": 0.125,
+      "total_tokens": 4151
+    },
+    "6.-9.roč.": {
+      "correct": 2,
+      "incorrect": 11,
+      "accuracy": 0.154,
+      "total_tokens": 6398
+    },
+    "Benjamín": {
+      "correct": 56,
+      "incorrect": 98,
+      "accuracy": 0.364,
+      "total_tokens": 73599
+    },
+    "Bobrík": {
+      "correct": 32,
+      "incorrect": 43,
+      "accuracy": 0.427,
+      "total_tokens": 37978
+    },
+    "Drobec": {
+      "correct": 9,
+      "incorrect": 9,
+      "accuracy": 0.5,
+      "total_tokens": 8062
+    },
+    "Junior": {
+      "correct": 64,
+      "incorrect": 106,
+      "accuracy": 0.376,
+      "total_tokens": 84154
+    },
+    "Kadet": {
+      "correct": 60,
+      "incorrect": 80,
+      "accuracy": 0.429,
+      "total_tokens": 70752
+    },
+    "Nevidiaci SŠ": {
+      "correct": 11,
+      "incorrect": 25,
+      "accuracy": 0.306,
+      "total_tokens": 14720
+    },
+    "Nevidiaci ZŠ": {
+      "correct": 19,
+      "incorrect": 17,
+      "accuracy": 0.528,
+      "total_tokens": 12138
+    },
+    "Senior": {
+      "correct": 48,
+      "incorrect": 116,
+      "accuracy": 0.293,
+      "total_tokens": 85439
+    }
+  },
+  "openai/gpt-5.2": {
+    "3.-4.roč.": {
+      "correct": 7,
+      "incorrect": 1,
+      "accuracy": 0.875,
+      "total_tokens": 26856
+    },
+    "5.-7.roč.": {
+      "correct": 5,
+      "incorrect": 3,
+      "accuracy": 0.625,
+      "total_tokens": 9328
+    },
+    "6.-9.roč.": {
+      "correct": 12,
+      "incorrect": 1,
+      "accuracy": 0.923,
+      "total_tokens": 9621
+    },
+    "Benjamín": {
+      "correct": 123,
+      "incorrect": 31,
+      "accuracy": 0.799,
+      "total_tokens": 156903
+    },
+    "Bobrík": {
+      "correct": 55,
+      "incorrect": 20,
+      "accuracy": 0.733,
+      "total_tokens": 49964
+    },
+    "Drobec": {
+      "correct": 14,
+      "incorrect": 4,
+      "accuracy": 0.778,
+      "total_tokens": 26636
+    },
+    "Junior": {
+      "correct": 130,
+      "incorrect": 40,
+      "accuracy": 0.765,
+      "total_tokens": 174950
+    },
+    "Kadet": {
+      "correct": 112,
+      "incorrect": 28,
+      "accuracy": 0.8,
+      "total_tokens": 149451
+    },
+    "Nevidiaci SŠ": {
+      "correct": 35,
+      "incorrect": 1,
+      "accuracy": 0.972,
+      "total_tokens": 28633
+    },
+    "Nevidiaci ZŠ": {
+      "correct": 33,
+      "incorrect": 3,
+      "accuracy": 0.917,
+      "total_tokens": 27458
+    },
+    "Senior": {
+      "correct": 121,
+      "incorrect": 43,
+      "accuracy": 0.738,
+      "total_tokens": 193846
+    }
+  },
+  "meta-llama/llama-4-scout": {
+    "3.-4.roč.": {
+      "correct": 2,
+      "incorrect": 6,
+      "accuracy": 0.25,
+      "total_tokens": 12936
+    },
+    "5.-7.roč.": {
+      "correct": 2,
+      "incorrect": 6,
+      "accuracy": 0.25,
+      "total_tokens": 7805
+    },
+    "6.-9.roč.": {
+      "correct": 5,
+      "incorrect": 8,
+      "accuracy": 0.385,
+      "total_tokens": 14488
+    },
+    "Benjamín": {
+      "correct": 51,
+      "incorrect": 103,
+      "accuracy": 0.331,
+      "total_tokens": 165100
+    },
+    "Bobrík": {
+      "correct": 29,
+      "incorrect": 46,
+      "accuracy": 0.387,
+      "total_tokens": 101523
+    },
+    "Drobec": {
+      "correct": 5,
+      "incorrect": 13,
+      "accuracy": 0.278,
+      "total_tokens": 20484
+    },
+    "Junior": {
+      "correct": 58,
+      "incorrect": 112,
+      "accuracy": 0.341,
+      "total_tokens": 152053
+    },
+    "Kadet": {
+      "correct": 54,
+      "incorrect": 86,
+      "accuracy": 0.386,
+      "total_tokens": 147047
+    },
+    "Nevidiaci SŠ": {
+      "correct": 15,
+      "incorrect": 21,
+      "accuracy": 0.417,
+      "total_tokens": 14560
+    },
+    "Nevidiaci ZŠ": {
+      "correct": 17,
+      "incorrect": 19,
+      "accuracy": 0.472,
+      "total_tokens": 12073
+    },
+    "Senior": {
+      "correct": 46,
+      "incorrect": 118,
+      "accuracy": 0.28,
+      "total_tokens": 166433
+    }
+  },
+  "meta-llama/llama-4-maverick": {
+    "3.-4.roč.": {
+      "correct": 2,
+      "incorrect": 6,
+      "accuracy": 0.25,
+      "total_tokens": 11839
+    },
+    "5.-7.roč.": {
+      "correct": 4,
+      "incorrect": 4,
+      "accuracy": 0.5,
+      "total_tokens": 6817
+    },
+    "6.-9.roč.": {
+      "correct": 2,
+      "incorrect": 11,
+      "accuracy": 0.154,
+      "total_tokens": 14399
+    },
+    "Benjamín": {
+      "correct": 65,
+      "incorrect": 89,
+      "accuracy": 0.422,
+      "total_tokens": 138421
+    },
+    "Bobrík": {
+      "correct": 32,
+      "incorrect": 43,
+      "accuracy": 0.427,
+      "total_tokens": 84043
+    },
+    "Drobec": {
+      "correct": 6,
+      "incorrect": 12,
+      "accuracy": 0.333,
+      "total_tokens": 19079
+    },
+    "Junior": {
+      "correct": 65,
+      "incorrect": 105,
+      "accuracy": 0.382,
+      "total_tokens": 135179
+    },
+    "Kadet": {
+      "correct": 54,
+      "incorrect": 86,
+      "accuracy": 0.386,
+      "total_tokens": 143206
+    },
+    "Nevidiaci SŠ": {
+      "correct": 16,
+      "incorrect": 20,
+      "accuracy": 0.444,
+      "total_tokens": 14483
+    },
+    "Nevidiaci ZŠ": {
+      "correct": 21,
+      "incorrect": 15,
+      "accuracy": 0.583,
+      "total_tokens": 12028
+    },
+    "Senior": {
+      "correct": 68,
+      "incorrect": 96,
+      "accuracy": 0.415,
+      "total_tokens": 147913
+    }
+  }
+}

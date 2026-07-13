@@ -1,0 +1,3122 @@
+{
+  "google/gemini-2.5-flash": {
+    "2007/2008": {
+      "Benjamín": {
+        "correct": 6,
+        "incorrect": 6,
+        "accuracy": 0.5,
+        "total_tokens": 12997
+      },
+      "Junior": {
+        "correct": 9,
+        "incorrect": 3,
+        "accuracy": 0.75,
+        "total_tokens": 5926
+      },
+      "Senior": {
+        "correct": 7,
+        "incorrect": 5,
+        "accuracy": 0.583,
+        "total_tokens": 9764
+      }
+    },
+    "2008/2009": {
+      "Benjamín": {
+        "correct": 8,
+        "incorrect": 4,
+        "accuracy": 0.667,
+        "total_tokens": 11507
+      },
+      "Junior": {
+        "correct": 5,
+        "incorrect": 8,
+        "accuracy": 0.385,
+        "total_tokens": 14974
+      },
+      "Kadet": {
+        "correct": 8,
+        "incorrect": 4,
+        "accuracy": 0.667,
+        "total_tokens": 13002
+      },
+      "Senior": {
+        "correct": 6,
+        "incorrect": 8,
+        "accuracy": 0.429,
+        "total_tokens": 15957
+      }
+    },
+    "2009/2010": {
+      "Benjamín": {
+        "correct": 2,
+        "incorrect": 12,
+        "accuracy": 0.143,
+        "total_tokens": 20075
+      },
+      "Junior": {
+        "correct": 6,
+        "incorrect": 8,
+        "accuracy": 0.429,
+        "total_tokens": 13115
+      },
+      "Kadet": {
+        "correct": 4,
+        "incorrect": 9,
+        "accuracy": 0.308,
+        "total_tokens": 14899
+      },
+      "Senior": {
+        "correct": 1,
+        "incorrect": 13,
+        "accuracy": 0.071,
+        "total_tokens": 6119
+      }
+    },
+    "2010/2011": {
+      "Benjamín": {
+        "correct": 7,
+        "incorrect": 7,
+        "accuracy": 0.5,
+        "total_tokens": 15162
+      },
+      "Bobrík": {
+        "correct": 2,
+        "incorrect": 1,
+        "accuracy": 0.667,
+        "total_tokens": 3555
+      },
+      "Junior": {
+        "correct": 6,
+        "incorrect": 7,
+        "accuracy": 0.462,
+        "total_tokens": 16863
+      },
+      "Kadet": {
+        "correct": 9,
+        "incorrect": 6,
+        "accuracy": 0.6,
+        "total_tokens": 18353
+      },
+      "Senior": {
+        "correct": 5,
+        "incorrect": 6,
+        "accuracy": 0.455,
+        "total_tokens": 14608
+      }
+    },
+    "2011/2012": {
+      "Benjamín": {
+        "correct": 7,
+        "incorrect": 6,
+        "accuracy": 0.538,
+        "total_tokens": 16669
+      },
+      "Bobrík": {
+        "correct": 5,
+        "incorrect": 2,
+        "accuracy": 0.714,
+        "total_tokens": 11935
+      },
+      "Junior": {
+        "correct": 8,
+        "incorrect": 5,
+        "accuracy": 0.615,
+        "total_tokens": 11389
+      },
+      "Kadet": {
+        "correct": 2,
+        "incorrect": 9,
+        "accuracy": 0.182,
+        "total_tokens": 16315
+      },
+      "Senior": {
+        "correct": 4,
+        "incorrect": 8,
+        "accuracy": 0.333,
+        "total_tokens": 13659
+      }
+    },
+    "2012/2013": {
+      "Benjamín": {
+        "correct": 6,
+        "incorrect": 9,
+        "accuracy": 0.4,
+        "total_tokens": 19902
+      },
+      "Bobrík": {
+        "correct": 8,
+        "incorrect": 0,
+        "accuracy": 1.0,
+        "total_tokens": 11399
+      },
+      "Junior": {
+        "correct": 10,
+        "incorrect": 5,
+        "accuracy": 0.667,
+        "total_tokens": 22053
+      },
+      "Kadet": {
+        "correct": 8,
+        "incorrect": 6,
+        "accuracy": 0.571,
+        "total_tokens": 17624
+      },
+      "Senior": {
+        "correct": 8,
+        "incorrect": 5,
+        "accuracy": 0.615,
+        "total_tokens": 15311
+      }
+    },
+    "2013/2014": {
+      "Benjamín": {
+        "correct": 3,
+        "incorrect": 9,
+        "accuracy": 0.25,
+        "total_tokens": 11243
+      },
+      "Bobrík": {
+        "correct": 1,
+        "incorrect": 5,
+        "accuracy": 0.167,
+        "total_tokens": 7710
+      },
+      "Junior": {
+        "correct": 7,
+        "incorrect": 7,
+        "accuracy": 0.5,
+        "total_tokens": 16390
+      },
+      "Kadet": {
+        "correct": 4,
+        "incorrect": 8,
+        "accuracy": 0.333,
+        "total_tokens": 14237
+      },
+      "Senior": {
+        "correct": 4,
+        "incorrect": 9,
+        "accuracy": 0.308,
+        "total_tokens": 15246
+      }
+    },
+    "2014/2015": {
+      "Benjamín": {
+        "correct": 4,
+        "incorrect": 7,
+        "accuracy": 0.364,
+        "total_tokens": 14467
+      },
+      "Bobrík": {
+        "correct": 2,
+        "incorrect": 5,
+        "accuracy": 0.286,
+        "total_tokens": 11209
+      },
+      "Junior": {
+        "correct": 5,
+        "incorrect": 4,
+        "accuracy": 0.556,
+        "total_tokens": 8692
+      },
+      "Kadet": {
+        "correct": 6,
+        "incorrect": 3,
+        "accuracy": 0.667,
+        "total_tokens": 9927
+      },
+      "Senior": {
+        "correct": 3,
+        "incorrect": 10,
+        "accuracy": 0.231,
+        "total_tokens": 14313
+      }
+    },
+    "2015/2016": {
+      "Benjamín": {
+        "correct": 4,
+        "incorrect": 7,
+        "accuracy": 0.364,
+        "total_tokens": 14087
+      },
+      "Bobrík": {
+        "correct": 1,
+        "incorrect": 5,
+        "accuracy": 0.167,
+        "total_tokens": 9823
+      },
+      "Junior": {
+        "correct": 5,
+        "incorrect": 5,
+        "accuracy": 0.5,
+        "total_tokens": 10651
+      },
+      "Kadet": {
+        "correct": 3,
+        "incorrect": 8,
+        "accuracy": 0.273,
+        "total_tokens": 17861
+      },
+      "Senior": {
+        "correct": 2,
+        "incorrect": 9,
+        "accuracy": 0.182,
+        "total_tokens": 12876
+      }
+    },
+    "2016/2017": {
+      "Benjamín": {
+        "correct": 4,
+        "incorrect": 3,
+        "accuracy": 0.571,
+        "total_tokens": 9346
+      },
+      "Bobrík": {
+        "correct": 4,
+        "incorrect": 5,
+        "accuracy": 0.444,
+        "total_tokens": 9888
+      },
+      "Junior": {
+        "correct": 7,
+        "incorrect": 6,
+        "accuracy": 0.538,
+        "total_tokens": 11545
+      },
+      "Kadet": {
+        "correct": 8,
+        "incorrect": 4,
+        "accuracy": 0.667,
+        "total_tokens": 15398
+      },
+      "Senior": {
+        "correct": 6,
+        "incorrect": 6,
+        "accuracy": 0.5,
+        "total_tokens": 10393
+      }
+    },
+    "2017/2018": {
+      "Benjamín": {
+        "correct": 3,
+        "incorrect": 4,
+        "accuracy": 0.429,
+        "total_tokens": 9191
+      },
+      "Bobrík": {
+        "correct": 3,
+        "incorrect": 4,
+        "accuracy": 0.429,
+        "total_tokens": 7949
+      },
+      "Drobec": {
+        "correct": 1,
+        "incorrect": 3,
+        "accuracy": 0.25,
+        "total_tokens": 3220
+      },
+      "Junior": {
+        "correct": 3,
+        "incorrect": 9,
+        "accuracy": 0.25,
+        "total_tokens": 16512
+      },
+      "Kadet": {
+        "correct": 4,
+        "incorrect": 4,
+        "accuracy": 0.5,
+        "total_tokens": 13791
+      },
+      "Nevidiaci SŠ": {
+        "correct": 5,
+        "incorrect": 4,
+        "accuracy": 0.556,
+        "total_tokens": 3408
+      },
+      "Nevidiaci ZŠ": {
+        "correct": 6,
+        "incorrect": 3,
+        "accuracy": 0.667,
+        "total_tokens": 3019
+      },
+      "Senior": {
+        "correct": 4,
+        "incorrect": 6,
+        "accuracy": 0.4,
+        "total_tokens": 13658
+      }
+    },
+    "2018/2019": {
+      "Benjamín": {
+        "correct": 4,
+        "incorrect": 3,
+        "accuracy": 0.571,
+        "total_tokens": 11534
+      },
+      "Bobrík": {
+        "correct": 4,
+        "incorrect": 4,
+        "accuracy": 0.5,
+        "total_tokens": 9883
+      },
+      "Drobec": {
+        "correct": 4,
+        "incorrect": 2,
+        "accuracy": 0.667,
+        "total_tokens": 6580
+      },
+      "Junior": {
+        "correct": 2,
+        "incorrect": 8,
+        "accuracy": 0.2,
+        "total_tokens": 11850
+      },
+      "Kadet": {
+        "correct": 2,
+        "incorrect": 5,
+        "accuracy": 0.286,
+        "total_tokens": 12262
+      },
+      "Nevidiaci SŠ": {
+        "correct": 3,
+        "incorrect": 6,
+        "accuracy": 0.333,
+        "total_tokens": 3836
+      },
+      "Nevidiaci ZŠ": {
+        "correct": 7,
+        "incorrect": 2,
+        "accuracy": 0.778,
+        "total_tokens": 3188
+      },
+      "Senior": {
+        "correct": 2,
+        "incorrect": 7,
+        "accuracy": 0.222,
+        "total_tokens": 11128
+      }
+    },
+    "2019/2020": {
+      "Benjamín": {
+        "correct": 1,
+        "incorrect": 8,
+        "accuracy": 0.111,
+        "total_tokens": 13880
+      },
+      "Bobrík": {
+        "correct": 2,
+        "incorrect": 4,
+        "accuracy": 0.333,
+        "total_tokens": 8719
+      },
+      "Drobec": {
+        "correct": 3,
+        "incorrect": 2,
+        "accuracy": 0.6,
+        "total_tokens": 6024
+      },
+      "Junior": {
+        "correct": 2,
+        "incorrect": 10,
+        "accuracy": 0.167,
+        "total_tokens": 13970
+      },
+      "Kadet": {
+        "correct": 4,
+        "incorrect": 5,
+        "accuracy": 0.444,
+        "total_tokens": 12075
+      },
+      "Nevidiaci SŠ": {
+        "correct": 1,
+        "incorrect": 8,
+        "accuracy": 0.111,
+        "total_tokens": 4105
+      },
+      "Nevidiaci ZŠ": {
+        "correct": 4,
+        "incorrect": 5,
+        "accuracy": 0.444,
+        "total_tokens": 3017
+      },
+      "Senior": {
+        "correct": 4,
+        "incorrect": 6,
+        "accuracy": 0.4,
+        "total_tokens": 13495
+      }
+    },
+    "2020/2021": {
+      "Benjamín": {
+        "correct": 5,
+        "incorrect": 5,
+        "accuracy": 0.5,
+        "total_tokens": 14556
+      },
+      "Bobrík": {
+        "correct": 3,
+        "incorrect": 5,
+        "accuracy": 0.375,
+        "total_tokens": 12960
+      },
+      "Drobec": {
+        "correct": 1,
+        "incorrect": 2,
+        "accuracy": 0.333,
+        "total_tokens": 5755
+      },
+      "Junior": {
+        "correct": 4,
+        "incorrect": 6,
+        "accuracy": 0.4,
+        "total_tokens": 14605
+      },
+      "Kadet": {
+        "correct": 2,
+        "incorrect": 5,
+        "accuracy": 0.286,
+        "total_tokens": 9785
+      },
+      "Nevidiaci SŠ": {
+        "correct": 4,
+        "incorrect": 5,
+        "accuracy": 0.444,
+        "total_tokens": 3614
+      },
+      "Nevidiaci ZŠ": {
+        "correct": 6,
+        "incorrect": 3,
+        "accuracy": 0.667,
+        "total_tokens": 3164
+      },
+      "Senior": {
+        "correct": 2,
+        "incorrect": 8,
+        "accuracy": 0.2,
+        "total_tokens": 17301
+      }
+    },
+    "Karanténa": {
+      "6.-9.roč.": {
+        "correct": 5,
+        "incorrect": 8,
+        "accuracy": 0.385,
+        "total_tokens": 17738
+      }
+    },
+    "Prechádzky": {
+      "3.-4.roč.": {
+        "correct": 4,
+        "incorrect": 4,
+        "accuracy": 0.5,
+        "total_tokens": 12722
+      },
+      "5.-7.roč.": {
+        "correct": 3,
+        "incorrect": 5,
+        "accuracy": 0.375,
+        "total_tokens": 10790
+      }
+    }
+  },
+  "meta-llama/llama-4-maverick": {
+    "2007/2008": {
+      "Benjamín": {
+        "correct": 4,
+        "incorrect": 8,
+        "accuracy": 0.333,
+        "total_tokens": 7992
+      },
+      "Junior": {
+        "correct": 8,
+        "incorrect": 4,
+        "accuracy": 0.667,
+        "total_tokens": 5025
+      },
+      "Senior": {
+        "correct": 7,
+        "incorrect": 5,
+        "accuracy": 0.583,
+        "total_tokens": 8112
+      }
+    },
+    "2008/2009": {
+      "Benjamín": {
+        "correct": 9,
+        "incorrect": 3,
+        "accuracy": 0.75,
+        "total_tokens": 7666
+      },
+      "Junior": {
+        "correct": 6,
+        "incorrect": 7,
+        "accuracy": 0.462,
+        "total_tokens": 9616
+      },
+      "Kadet": {
+        "correct": 6,
+        "incorrect": 6,
+        "accuracy": 0.5,
+        "total_tokens": 11556
+      },
+      "Senior": {
+        "correct": 5,
+        "incorrect": 9,
+        "accuracy": 0.357,
+        "total_tokens": 9188
+      }
+    },
+    "2009/2010": {
+      "Benjamín": {
+        "correct": 6,
+        "incorrect": 8,
+        "accuracy": 0.429,
+        "total_tokens": 13749
+      },
+      "Junior": {
+        "correct": 5,
+        "incorrect": 9,
+        "accuracy": 0.357,
+        "total_tokens": 9824
+      },
+      "Kadet": {
+        "correct": 4,
+        "incorrect": 9,
+        "accuracy": 0.308,
+        "total_tokens": 11162
+      },
+      "Senior": {
+        "correct": 6,
+        "incorrect": 8,
+        "accuracy": 0.429,
+        "total_tokens": 3742
+      }
+    },
+    "2010/2011": {
+      "Benjamín": {
+        "correct": 5,
+        "incorrect": 9,
+        "accuracy": 0.357,
+        "total_tokens": 10994
+      },
+      "Bobrík": {
+        "correct": 2,
+        "incorrect": 1,
+        "accuracy": 0.667,
+        "total_tokens": 3751
+      },
+      "Junior": {
+        "correct": 6,
+        "incorrect": 7,
+        "accuracy": 0.462,
+        "total_tokens": 8992
+      },
+      "Kadet": {
+        "correct": 6,
+        "incorrect": 9,
+        "accuracy": 0.4,
+        "total_tokens": 14794
+      },
+      "Senior": {
+        "correct": 5,
+        "incorrect": 6,
+        "accuracy": 0.455,
+        "total_tokens": 12934
+      }
+    },
+    "2011/2012": {
+      "Benjamín": {
+        "correct": 9,
+        "incorrect": 4,
+        "accuracy": 0.692,
+        "total_tokens": 11315
+      },
+      "Bobrík": {
+        "correct": 3,
+        "incorrect": 4,
+        "accuracy": 0.429,
+        "total_tokens": 8067
+      },
+      "Junior": {
+        "correct": 4,
+        "incorrect": 9,
+        "accuracy": 0.308,
+        "total_tokens": 8090
+      },
+      "Kadet": {
+        "correct": 7,
+        "incorrect": 4,
+        "accuracy": 0.636,
+        "total_tokens": 12267
+      },
+      "Senior": {
+        "correct": 7,
+        "incorrect": 5,
+        "accuracy": 0.583,
+        "total_tokens": 11049
+      }
+    },
+    "2012/2013": {
+      "Benjamín": {
+        "correct": 7,
+        "incorrect": 8,
+        "accuracy": 0.467,
+        "total_tokens": 16346
+      },
+      "Bobrík": {
+        "correct": 3,
+        "incorrect": 5,
+        "accuracy": 0.375,
+        "total_tokens": 8503
+      },
+      "Junior": {
+        "correct": 7,
+        "incorrect": 8,
+        "accuracy": 0.467,
+        "total_tokens": 14983
+      },
+      "Kadet": {
+        "correct": 7,
+        "incorrect": 7,
+        "accuracy": 0.5,
+        "total_tokens": 15153
+      },
+      "Senior": {
+        "correct": 7,
+        "incorrect": 6,
+        "accuracy": 0.538,
+        "total_tokens": 13015
+      }
+    },
+    "2013/2014": {
+      "Benjamín": {
+        "correct": 5,
+        "incorrect": 7,
+        "accuracy": 0.417,
+        "total_tokens": 9036
+      },
+      "Bobrík": {
+        "correct": 2,
+        "incorrect": 4,
+        "accuracy": 0.333,
+        "total_tokens": 6486
+      },
+      "Junior": {
+        "correct": 4,
+        "incorrect": 10,
+        "accuracy": 0.286,
+        "total_tokens": 11901
+      },
+      "Kadet": {
+        "correct": 4,
+        "incorrect": 8,
+        "accuracy": 0.333,
+        "total_tokens": 9301
+      },
+      "Senior": {
+        "correct": 6,
+        "incorrect": 7,
+        "accuracy": 0.462,
+        "total_tokens": 11280
+      }
+    },
+    "2014/2015": {
+      "Benjamín": {
+        "correct": 5,
+        "incorrect": 6,
+        "accuracy": 0.455,
+        "total_tokens": 9401
+      },
+      "Bobrík": {
+        "correct": 3,
+        "incorrect": 4,
+        "accuracy": 0.429,
+        "total_tokens": 8684
+      },
+      "Junior": {
+        "correct": 5,
+        "incorrect": 4,
+        "accuracy": 0.556,
+        "total_tokens": 7111
+      },
+      "Kadet": {
+        "correct": 4,
+        "incorrect": 5,
+        "accuracy": 0.444,
+        "total_tokens": 7699
+      },
+      "Senior": {
+        "correct": 4,
+        "incorrect": 9,
+        "accuracy": 0.308,
+        "total_tokens": 13514
+      }
+    },
+    "2015/2016": {
+      "Benjamín": {
+        "correct": 2,
+        "incorrect": 9,
+        "accuracy": 0.182,
+        "total_tokens": 10171
+      },
+      "Bobrík": {
+        "correct": 2,
+        "incorrect": 4,
+        "accuracy": 0.333,
+        "total_tokens": 7481
+      },
+      "Junior": {
+        "correct": 4,
+        "incorrect": 6,
+        "accuracy": 0.4,
+        "total_tokens": 7947
+      },
+      "Kadet": {
+        "correct": 5,
+        "incorrect": 6,
+        "accuracy": 0.455,
+        "total_tokens": 15366
+      },
+      "Senior": {
+        "correct": 3,
+        "incorrect": 8,
+        "accuracy": 0.273,
+        "total_tokens": 11237
+      }
+    },
+    "2016/2017": {
+      "Benjamín": {
+        "correct": 3,
+        "incorrect": 4,
+        "accuracy": 0.429,
+        "total_tokens": 7180
+      },
+      "Bobrík": {
+        "correct": 7,
+        "incorrect": 2,
+        "accuracy": 0.778,
+        "total_tokens": 8569
+      },
+      "Junior": {
+        "correct": 1,
+        "incorrect": 12,
+        "accuracy": 0.077,
+        "total_tokens": 11101
+      },
+      "Kadet": {
+        "correct": 5,
+        "incorrect": 7,
+        "accuracy": 0.417,
+        "total_tokens": 13696
+      },
+      "Senior": {
+        "correct": 5,
+        "incorrect": 7,
+        "accuracy": 0.417,
+        "total_tokens": 9938
+      }
+    },
+    "2017/2018": {
+      "Benjamín": {
+        "correct": 2,
+        "incorrect": 5,
+        "accuracy": 0.286,
+        "total_tokens": 5544
+      },
+      "Bobrík": {
+        "correct": 2,
+        "incorrect": 5,
+        "accuracy": 0.286,
+        "total_tokens": 4637
+      },
+      "Drobec": {
+        "correct": 1,
+        "incorrect": 3,
+        "accuracy": 0.25,
+        "total_tokens": 2582
+      },
+      "Junior": {
+        "correct": 4,
+        "incorrect": 8,
+        "accuracy": 0.333,
+        "total_tokens": 11156
+      },
+      "Kadet": {
+        "correct": 1,
+        "incorrect": 7,
+        "accuracy": 0.125,
+        "total_tokens": 7819
+      },
+      "Nevidiaci SŠ": {
+        "correct": 2,
+        "incorrect": 7,
+        "accuracy": 0.222,
+        "total_tokens": 3256
+      },
+      "Nevidiaci ZŠ": {
+        "correct": 5,
+        "incorrect": 4,
+        "accuracy": 0.556,
+        "total_tokens": 2902
+      },
+      "Senior": {
+        "correct": 4,
+        "incorrect": 6,
+        "accuracy": 0.4,
+        "total_tokens": 9686
+      }
+    },
+    "2018/2019": {
+      "Benjamín": {
+        "correct": 2,
+        "incorrect": 5,
+        "accuracy": 0.286,
+        "total_tokens": 9479
+      },
+      "Bobrík": {
+        "correct": 3,
+        "incorrect": 5,
+        "accuracy": 0.375,
+        "total_tokens": 10383
+      },
+      "Drobec": {
+        "correct": 3,
+        "incorrect": 3,
+        "accuracy": 0.5,
+        "total_tokens": 8035
+      },
+      "Junior": {
+        "correct": 5,
+        "incorrect": 5,
+        "accuracy": 0.5,
+        "total_tokens": 7729
+      },
+      "Kadet": {
+        "correct": 2,
+        "incorrect": 5,
+        "accuracy": 0.286,
+        "total_tokens": 8679
+      },
+      "Nevidiaci SŠ": {
+        "correct": 6,
+        "incorrect": 3,
+        "accuracy": 0.667,
+        "total_tokens": 3795
+      },
+      "Nevidiaci ZŠ": {
+        "correct": 6,
+        "incorrect": 3,
+        "accuracy": 0.667,
+        "total_tokens": 3137
+      },
+      "Senior": {
+        "correct": 2,
+        "incorrect": 7,
+        "accuracy": 0.222,
+        "total_tokens": 9699
+      }
+    },
+    "2019/2020": {
+      "Benjamín": {
+        "correct": 3,
+        "incorrect": 6,
+        "accuracy": 0.333,
+        "total_tokens": 10883
+      },
+      "Bobrík": {
+        "correct": 3,
+        "incorrect": 3,
+        "accuracy": 0.5,
+        "total_tokens": 7571
+      },
+      "Drobec": {
+        "correct": 1,
+        "incorrect": 4,
+        "accuracy": 0.2,
+        "total_tokens": 4424
+      },
+      "Junior": {
+        "correct": 2,
+        "incorrect": 10,
+        "accuracy": 0.167,
+        "total_tokens": 10131
+      },
+      "Kadet": {
+        "correct": 2,
+        "incorrect": 7,
+        "accuracy": 0.222,
+        "total_tokens": 9676
+      },
+      "Nevidiaci SŠ": {
+        "correct": 3,
+        "incorrect": 6,
+        "accuracy": 0.333,
+        "total_tokens": 3893
+      },
+      "Nevidiaci ZŠ": {
+        "correct": 4,
+        "incorrect": 5,
+        "accuracy": 0.444,
+        "total_tokens": 2876
+      },
+      "Senior": {
+        "correct": 3,
+        "incorrect": 7,
+        "accuracy": 0.3,
+        "total_tokens": 10710
+      }
+    },
+    "2020/2021": {
+      "Benjamín": {
+        "correct": 3,
+        "incorrect": 7,
+        "accuracy": 0.3,
+        "total_tokens": 8665
+      },
+      "Bobrík": {
+        "correct": 2,
+        "incorrect": 6,
+        "accuracy": 0.25,
+        "total_tokens": 9911
+      },
+      "Drobec": {
+        "correct": 1,
+        "incorrect": 2,
+        "accuracy": 0.333,
+        "total_tokens": 4038
+      },
+      "Junior": {
+        "correct": 4,
+        "incorrect": 6,
+        "accuracy": 0.4,
+        "total_tokens": 11573
+      },
+      "Kadet": {
+        "correct": 1,
+        "incorrect": 6,
+        "accuracy": 0.143,
+        "total_tokens": 6038
+      },
+      "Nevidiaci SŠ": {
+        "correct": 5,
+        "incorrect": 4,
+        "accuracy": 0.556,
+        "total_tokens": 3539
+      },
+      "Nevidiaci ZŠ": {
+        "correct": 6,
+        "incorrect": 3,
+        "accuracy": 0.667,
+        "total_tokens": 3113
+      },
+      "Senior": {
+        "correct": 4,
+        "incorrect": 6,
+        "accuracy": 0.4,
+        "total_tokens": 13809
+      }
+    },
+    "Karanténa": {
+      "6.-9.roč.": {
+        "correct": 2,
+        "incorrect": 11,
+        "accuracy": 0.154,
+        "total_tokens": 14399
+      }
+    },
+    "Prechádzky": {
+      "3.-4.roč.": {
+        "correct": 2,
+        "incorrect": 6,
+        "accuracy": 0.25,
+        "total_tokens": 11839
+      },
+      "5.-7.roč.": {
+        "correct": 4,
+        "incorrect": 4,
+        "accuracy": 0.5,
+        "total_tokens": 6817
+      }
+    }
+  },
+  "openai/gpt-5.4-mini": {
+    "2007/2008": {
+      "Benjamín": {
+        "correct": 6,
+        "incorrect": 6,
+        "accuracy": 0.5,
+        "total_tokens": 5095
+      },
+      "Junior": {
+        "correct": 7,
+        "incorrect": 5,
+        "accuracy": 0.583,
+        "total_tokens": 3917
+      },
+      "Senior": {
+        "correct": 5,
+        "incorrect": 7,
+        "accuracy": 0.417,
+        "total_tokens": 5554
+      }
+    },
+    "2008/2009": {
+      "Benjamín": {
+        "correct": 6,
+        "incorrect": 6,
+        "accuracy": 0.5,
+        "total_tokens": 4436
+      },
+      "Junior": {
+        "correct": 5,
+        "incorrect": 8,
+        "accuracy": 0.385,
+        "total_tokens": 5909
+      },
+      "Kadet": {
+        "correct": 8,
+        "incorrect": 4,
+        "accuracy": 0.667,
+        "total_tokens": 5783
+      },
+      "Senior": {
+        "correct": 8,
+        "incorrect": 6,
+        "accuracy": 0.571,
+        "total_tokens": 5653
+      }
+    },
+    "2009/2010": {
+      "Benjamín": {
+        "correct": 7,
+        "incorrect": 7,
+        "accuracy": 0.5,
+        "total_tokens": 6452
+      },
+      "Junior": {
+        "correct": 7,
+        "incorrect": 7,
+        "accuracy": 0.5,
+        "total_tokens": 6876
+      },
+      "Kadet": {
+        "correct": 6,
+        "incorrect": 7,
+        "accuracy": 0.462,
+        "total_tokens": 6411
+      },
+      "Senior": {
+        "correct": 4,
+        "incorrect": 10,
+        "accuracy": 0.286,
+        "total_tokens": 3127
+      }
+    },
+    "2010/2011": {
+      "Benjamín": {
+        "correct": 8,
+        "incorrect": 6,
+        "accuracy": 0.571,
+        "total_tokens": 5892
+      },
+      "Bobrík": {
+        "correct": 3,
+        "incorrect": 0,
+        "accuracy": 1.0,
+        "total_tokens": 1249
+      },
+      "Junior": {
+        "correct": 7,
+        "incorrect": 6,
+        "accuracy": 0.538,
+        "total_tokens": 5694
+      },
+      "Kadet": {
+        "correct": 10,
+        "incorrect": 5,
+        "accuracy": 0.667,
+        "total_tokens": 7150
+      },
+      "Senior": {
+        "correct": 2,
+        "incorrect": 9,
+        "accuracy": 0.182,
+        "total_tokens": 5951
+      }
+    },
+    "2011/2012": {
+      "Benjamín": {
+        "correct": 3,
+        "incorrect": 10,
+        "accuracy": 0.231,
+        "total_tokens": 6074
+      },
+      "Bobrík": {
+        "correct": 4,
+        "incorrect": 3,
+        "accuracy": 0.571,
+        "total_tokens": 3373
+      },
+      "Junior": {
+        "correct": 3,
+        "incorrect": 10,
+        "accuracy": 0.231,
+        "total_tokens": 5798
+      },
+      "Kadet": {
+        "correct": 6,
+        "incorrect": 5,
+        "accuracy": 0.545,
+        "total_tokens": 5214
+      },
+      "Senior": {
+        "correct": 5,
+        "incorrect": 7,
+        "accuracy": 0.417,
+        "total_tokens": 6854
+      }
+    },
+    "2012/2013": {
+      "Benjamín": {
+        "correct": 6,
+        "incorrect": 9,
+        "accuracy": 0.4,
+        "total_tokens": 8437
+      },
+      "Bobrík": {
+        "correct": 3,
+        "incorrect": 5,
+        "accuracy": 0.375,
+        "total_tokens": 3862
+      },
+      "Junior": {
+        "correct": 6,
+        "incorrect": 9,
+        "accuracy": 0.4,
+        "total_tokens": 7933
+      },
+      "Kadet": {
+        "correct": 2,
+        "incorrect": 12,
+        "accuracy": 0.143,
+        "total_tokens": 7577
+      },
+      "Senior": {
+        "correct": 6,
+        "incorrect": 7,
+        "accuracy": 0.462,
+        "total_tokens": 7147
+      }
+    },
+    "2013/2014": {
+      "Benjamín": {
+        "correct": 4,
+        "incorrect": 8,
+        "accuracy": 0.333,
+        "total_tokens": 5198
+      },
+      "Bobrík": {
+        "correct": 0,
+        "incorrect": 6,
+        "accuracy": 0.0,
+        "total_tokens": 3062
+      },
+      "Junior": {
+        "correct": 3,
+        "incorrect": 11,
+        "accuracy": 0.214,
+        "total_tokens": 8438
+      },
+      "Kadet": {
+        "correct": 5,
+        "incorrect": 7,
+        "accuracy": 0.417,
+        "total_tokens": 5355
+      },
+      "Senior": {
+        "correct": 4,
+        "incorrect": 9,
+        "accuracy": 0.308,
+        "total_tokens": 7512
+      }
+    },
+    "2014/2015": {
+      "Benjamín": {
+        "correct": 2,
+        "incorrect": 9,
+        "accuracy": 0.182,
+        "total_tokens": 5375
+      },
+      "Bobrík": {
+        "correct": 5,
+        "incorrect": 2,
+        "accuracy": 0.714,
+        "total_tokens": 3763
+      },
+      "Junior": {
+        "correct": 3,
+        "incorrect": 6,
+        "accuracy": 0.333,
+        "total_tokens": 4629
+      },
+      "Kadet": {
+        "correct": 1,
+        "incorrect": 8,
+        "accuracy": 0.111,
+        "total_tokens": 4395
+      },
+      "Senior": {
+        "correct": 2,
+        "incorrect": 11,
+        "accuracy": 0.154,
+        "total_tokens": 7290
+      }
+    },
+    "2015/2016": {
+      "Benjamín": {
+        "correct": 2,
+        "incorrect": 9,
+        "accuracy": 0.182,
+        "total_tokens": 5497
+      },
+      "Bobrík": {
+        "correct": 1,
+        "incorrect": 5,
+        "accuracy": 0.167,
+        "total_tokens": 3253
+      },
+      "Junior": {
+        "correct": 3,
+        "incorrect": 7,
+        "accuracy": 0.3,
+        "total_tokens": 5350
+      },
+      "Kadet": {
+        "correct": 3,
+        "incorrect": 8,
+        "accuracy": 0.273,
+        "total_tokens": 6181
+      },
+      "Senior": {
+        "correct": 1,
+        "incorrect": 10,
+        "accuracy": 0.091,
+        "total_tokens": 6436
+      }
+    },
+    "2016/2017": {
+      "Benjamín": {
+        "correct": 2,
+        "incorrect": 5,
+        "accuracy": 0.286,
+        "total_tokens": 3766
+      },
+      "Bobrík": {
+        "correct": 7,
+        "incorrect": 2,
+        "accuracy": 0.778,
+        "total_tokens": 4257
+      },
+      "Junior": {
+        "correct": 5,
+        "incorrect": 8,
+        "accuracy": 0.385,
+        "total_tokens": 7269
+      },
+      "Kadet": {
+        "correct": 5,
+        "incorrect": 7,
+        "accuracy": 0.417,
+        "total_tokens": 6086
+      },
+      "Senior": {
+        "correct": 7,
+        "incorrect": 5,
+        "accuracy": 0.583,
+        "total_tokens": 6558
+      }
+    },
+    "2017/2018": {
+      "Benjamín": {
+        "correct": 3,
+        "incorrect": 4,
+        "accuracy": 0.429,
+        "total_tokens": 3219
+      },
+      "Bobrík": {
+        "correct": 2,
+        "incorrect": 5,
+        "accuracy": 0.286,
+        "total_tokens": 2551
+      },
+      "Drobec": {
+        "correct": 3,
+        "incorrect": 1,
+        "accuracy": 0.75,
+        "total_tokens": 1465
+      },
+      "Junior": {
+        "correct": 4,
+        "incorrect": 8,
+        "accuracy": 0.333,
+        "total_tokens": 5391
+      },
+      "Kadet": {
+        "correct": 3,
+        "incorrect": 5,
+        "accuracy": 0.375,
+        "total_tokens": 4211
+      },
+      "Nevidiaci SŠ": {
+        "correct": 1,
+        "incorrect": 8,
+        "accuracy": 0.111,
+        "total_tokens": 3332
+      },
+      "Nevidiaci ZŠ": {
+        "correct": 8,
+        "incorrect": 1,
+        "accuracy": 0.889,
+        "total_tokens": 2923
+      },
+      "Senior": {
+        "correct": 0,
+        "incorrect": 10,
+        "accuracy": 0.0,
+        "total_tokens": 5790
+      }
+    },
+    "2018/2019": {
+      "Benjamín": {
+        "correct": 2,
+        "incorrect": 5,
+        "accuracy": 0.286,
+        "total_tokens": 4068
+      },
+      "Bobrík": {
+        "correct": 2,
+        "incorrect": 6,
+        "accuracy": 0.25,
+        "total_tokens": 4841
+      },
+      "Drobec": {
+        "correct": 2,
+        "incorrect": 4,
+        "accuracy": 0.333,
+        "total_tokens": 3127
+      },
+      "Junior": {
+        "correct": 3,
+        "incorrect": 7,
+        "accuracy": 0.3,
+        "total_tokens": 5200
+      },
+      "Kadet": {
+        "correct": 5,
+        "incorrect": 2,
+        "accuracy": 0.714,
+        "total_tokens": 4122
+      },
+      "Nevidiaci SŠ": {
+        "correct": 3,
+        "incorrect": 6,
+        "accuracy": 0.333,
+        "total_tokens": 3835
+      },
+      "Nevidiaci ZŠ": {
+        "correct": 6,
+        "incorrect": 3,
+        "accuracy": 0.667,
+        "total_tokens": 3160
+      },
+      "Senior": {
+        "correct": 0,
+        "incorrect": 9,
+        "accuracy": 0.0,
+        "total_tokens": 5654
+      }
+    },
+    "2019/2020": {
+      "Benjamín": {
+        "correct": 4,
+        "incorrect": 5,
+        "accuracy": 0.444,
+        "total_tokens": 4902
+      },
+      "Bobrík": {
+        "correct": 3,
+        "incorrect": 3,
+        "accuracy": 0.5,
+        "total_tokens": 3202
+      },
+      "Drobec": {
+        "correct": 2,
+        "incorrect": 3,
+        "accuracy": 0.4,
+        "total_tokens": 1874
+      },
+      "Junior": {
+        "correct": 4,
+        "incorrect": 8,
+        "accuracy": 0.333,
+        "total_tokens": 6371
+      },
+      "Kadet": {
+        "correct": 4,
+        "incorrect": 5,
+        "accuracy": 0.444,
+        "total_tokens": 4442
+      },
+      "Nevidiaci SŠ": {
+        "correct": 3,
+        "incorrect": 6,
+        "accuracy": 0.333,
+        "total_tokens": 3949
+      },
+      "Nevidiaci ZŠ": {
+        "correct": 2,
+        "incorrect": 7,
+        "accuracy": 0.222,
+        "total_tokens": 2908
+      },
+      "Senior": {
+        "correct": 3,
+        "incorrect": 7,
+        "accuracy": 0.3,
+        "total_tokens": 5428
+      }
+    },
+    "2020/2021": {
+      "Benjamín": {
+        "correct": 1,
+        "incorrect": 9,
+        "accuracy": 0.1,
+        "total_tokens": 5188
+      },
+      "Bobrík": {
+        "correct": 2,
+        "incorrect": 6,
+        "accuracy": 0.25,
+        "total_tokens": 4565
+      },
+      "Drobec": {
+        "correct": 2,
+        "incorrect": 1,
+        "accuracy": 0.667,
+        "total_tokens": 1596
+      },
+      "Junior": {
+        "correct": 4,
+        "incorrect": 6,
+        "accuracy": 0.4,
+        "total_tokens": 5379
+      },
+      "Kadet": {
+        "correct": 2,
+        "incorrect": 5,
+        "accuracy": 0.286,
+        "total_tokens": 3825
+      },
+      "Nevidiaci SŠ": {
+        "correct": 4,
+        "incorrect": 5,
+        "accuracy": 0.444,
+        "total_tokens": 3604
+      },
+      "Nevidiaci ZŠ": {
+        "correct": 3,
+        "incorrect": 6,
+        "accuracy": 0.333,
+        "total_tokens": 3147
+      },
+      "Senior": {
+        "correct": 1,
+        "incorrect": 9,
+        "accuracy": 0.1,
+        "total_tokens": 6485
+      }
+    },
+    "Karanténa": {
+      "6.-9.roč.": {
+        "correct": 2,
+        "incorrect": 11,
+        "accuracy": 0.154,
+        "total_tokens": 6398
+      }
+    },
+    "Prechádzky": {
+      "3.-4.roč.": {
+        "correct": 5,
+        "incorrect": 3,
+        "accuracy": 0.625,
+        "total_tokens": 4634
+      },
+      "5.-7.roč.": {
+        "correct": 1,
+        "incorrect": 7,
+        "accuracy": 0.125,
+        "total_tokens": 4151
+      }
+    }
+  },
+  "openai/gpt-5.2": {
+    "2007/2008": {
+      "Benjamín": {
+        "correct": 12,
+        "incorrect": 0,
+        "accuracy": 1.0,
+        "total_tokens": 10548
+      },
+      "Junior": {
+        "correct": 11,
+        "incorrect": 1,
+        "accuracy": 0.917,
+        "total_tokens": 9752
+      },
+      "Senior": {
+        "correct": 10,
+        "incorrect": 2,
+        "accuracy": 0.833,
+        "total_tokens": 8659
+      }
+    },
+    "2008/2009": {
+      "Benjamín": {
+        "correct": 10,
+        "incorrect": 2,
+        "accuracy": 0.833,
+        "total_tokens": 5305
+      },
+      "Junior": {
+        "correct": 9,
+        "incorrect": 4,
+        "accuracy": 0.692,
+        "total_tokens": 4624
+      },
+      "Kadet": {
+        "correct": 11,
+        "incorrect": 1,
+        "accuracy": 0.917,
+        "total_tokens": 10184
+      },
+      "Senior": {
+        "correct": 12,
+        "incorrect": 2,
+        "accuracy": 0.857,
+        "total_tokens": 8726
+      }
+    },
+    "2009/2010": {
+      "Benjamín": {
+        "correct": 9,
+        "incorrect": 5,
+        "accuracy": 0.643,
+        "total_tokens": 14494
+      },
+      "Junior": {
+        "correct": 11,
+        "incorrect": 3,
+        "accuracy": 0.786,
+        "total_tokens": 7379
+      },
+      "Kadet": {
+        "correct": 7,
+        "incorrect": 6,
+        "accuracy": 0.538,
+        "total_tokens": 14726
+      },
+      "Senior": {
+        "correct": 6,
+        "incorrect": 8,
+        "accuracy": 0.429,
+        "total_tokens": 8260
+      }
+    },
+    "2010/2011": {
+      "Benjamín": {
+        "correct": 11,
+        "incorrect": 3,
+        "accuracy": 0.786,
+        "total_tokens": 18786
+      },
+      "Bobrík": {
+        "correct": 2,
+        "incorrect": 1,
+        "accuracy": 0.667,
+        "total_tokens": 1227
+      },
+      "Junior": {
+        "correct": 11,
+        "incorrect": 2,
+        "accuracy": 0.846,
+        "total_tokens": 13948
+      },
+      "Kadet": {
+        "correct": 14,
+        "incorrect": 1,
+        "accuracy": 0.933,
+        "total_tokens": 8373
+      },
+      "Senior": {
+        "correct": 10,
+        "incorrect": 1,
+        "accuracy": 0.909,
+        "total_tokens": 7115
+      }
+    },
+    "2011/2012": {
+      "Benjamín": {
+        "correct": 9,
+        "incorrect": 4,
+        "accuracy": 0.692,
+        "total_tokens": 10040
+      },
+      "Bobrík": {
+        "correct": 5,
+        "incorrect": 2,
+        "accuracy": 0.714,
+        "total_tokens": 2585
+      },
+      "Junior": {
+        "correct": 8,
+        "incorrect": 5,
+        "accuracy": 0.615,
+        "total_tokens": 11919
+      },
+      "Kadet": {
+        "correct": 6,
+        "incorrect": 5,
+        "accuracy": 0.545,
+        "total_tokens": 8365
+      },
+      "Senior": {
+        "correct": 8,
+        "incorrect": 4,
+        "accuracy": 0.667,
+        "total_tokens": 19185
+      }
+    },
+    "2012/2013": {
+      "Benjamín": {
+        "correct": 13,
+        "incorrect": 2,
+        "accuracy": 0.867,
+        "total_tokens": 9649
+      },
+      "Bobrík": {
+        "correct": 4,
+        "incorrect": 4,
+        "accuracy": 0.5,
+        "total_tokens": 3078
+      },
+      "Junior": {
+        "correct": 11,
+        "incorrect": 4,
+        "accuracy": 0.733,
+        "total_tokens": 6672
+      },
+      "Kadet": {
+        "correct": 12,
+        "incorrect": 2,
+        "accuracy": 0.857,
+        "total_tokens": 10458
+      },
+      "Senior": {
+        "correct": 11,
+        "incorrect": 2,
+        "accuracy": 0.846,
+        "total_tokens": 6067
+      }
+    },
+    "2013/2014": {
+      "Benjamín": {
+        "correct": 10,
+        "incorrect": 2,
+        "accuracy": 0.833,
+        "total_tokens": 10895
+      },
+      "Bobrík": {
+        "correct": 5,
+        "incorrect": 1,
+        "accuracy": 0.833,
+        "total_tokens": 7344
+      },
+      "Junior": {
+        "correct": 11,
+        "incorrect": 3,
+        "accuracy": 0.786,
+        "total_tokens": 31957
+      },
+      "Kadet": {
+        "correct": 10,
+        "incorrect": 2,
+        "accuracy": 0.833,
+        "total_tokens": 7411
+      },
+      "Senior": {
+        "correct": 10,
+        "incorrect": 3,
+        "accuracy": 0.769,
+        "total_tokens": 18463
+      }
+    },
+    "2014/2015": {
+      "Benjamín": {
+        "correct": 9,
+        "incorrect": 2,
+        "accuracy": 0.818,
+        "total_tokens": 9205
+      },
+      "Bobrík": {
+        "correct": 4,
+        "incorrect": 3,
+        "accuracy": 0.571,
+        "total_tokens": 9841
+      },
+      "Junior": {
+        "correct": 8,
+        "incorrect": 1,
+        "accuracy": 0.889,
+        "total_tokens": 8705
+      },
+      "Kadet": {
+        "correct": 6,
+        "incorrect": 3,
+        "accuracy": 0.667,
+        "total_tokens": 10897
+      },
+      "Senior": {
+        "correct": 10,
+        "incorrect": 3,
+        "accuracy": 0.769,
+        "total_tokens": 28000
+      }
+    },
+    "2015/2016": {
+      "Benjamín": {
+        "correct": 9,
+        "incorrect": 2,
+        "accuracy": 0.818,
+        "total_tokens": 13047
+      },
+      "Bobrík": {
+        "correct": 5,
+        "incorrect": 1,
+        "accuracy": 0.833,
+        "total_tokens": 7335
+      },
+      "Junior": {
+        "correct": 8,
+        "incorrect": 2,
+        "accuracy": 0.8,
+        "total_tokens": 7536
+      },
+      "Kadet": {
+        "correct": 8,
+        "incorrect": 3,
+        "accuracy": 0.727,
+        "total_tokens": 6654
+      },
+      "Senior": {
+        "correct": 7,
+        "incorrect": 4,
+        "accuracy": 0.636,
+        "total_tokens": 4128
+      }
+    },
+    "2016/2017": {
+      "Benjamín": {
+        "correct": 6,
+        "incorrect": 1,
+        "accuracy": 0.857,
+        "total_tokens": 4652
+      },
+      "Bobrík": {
+        "correct": 8,
+        "incorrect": 1,
+        "accuracy": 0.889,
+        "total_tokens": 3604
+      },
+      "Junior": {
+        "correct": 10,
+        "incorrect": 3,
+        "accuracy": 0.769,
+        "total_tokens": 15929
+      },
+      "Kadet": {
+        "correct": 11,
+        "incorrect": 1,
+        "accuracy": 0.917,
+        "total_tokens": 12762
+      },
+      "Senior": {
+        "correct": 10,
+        "incorrect": 2,
+        "accuracy": 0.833,
+        "total_tokens": 27782
+      }
+    },
+    "2017/2018": {
+      "Benjamín": {
+        "correct": 5,
+        "incorrect": 2,
+        "accuracy": 0.714,
+        "total_tokens": 15069
+      },
+      "Bobrík": {
+        "correct": 5,
+        "incorrect": 2,
+        "accuracy": 0.714,
+        "total_tokens": 5497
+      },
+      "Drobec": {
+        "correct": 4,
+        "incorrect": 0,
+        "accuracy": 1.0,
+        "total_tokens": 16127
+      },
+      "Junior": {
+        "correct": 10,
+        "incorrect": 2,
+        "accuracy": 0.833,
+        "total_tokens": 14327
+      },
+      "Kadet": {
+        "correct": 7,
+        "incorrect": 1,
+        "accuracy": 0.875,
+        "total_tokens": 21969
+      },
+      "Nevidiaci SŠ": {
+        "correct": 9,
+        "incorrect": 0,
+        "accuracy": 1.0,
+        "total_tokens": 6528
+      },
+      "Nevidiaci ZŠ": {
+        "correct": 8,
+        "incorrect": 1,
+        "accuracy": 0.889,
+        "total_tokens": 6223
+      },
+      "Senior": {
+        "correct": 7,
+        "incorrect": 3,
+        "accuracy": 0.7,
+        "total_tokens": 29982
+      }
+    },
+    "2018/2019": {
+      "Benjamín": {
+        "correct": 7,
+        "incorrect": 0,
+        "accuracy": 1.0,
+        "total_tokens": 5944
+      },
+      "Bobrík": {
+        "correct": 4,
+        "incorrect": 4,
+        "accuracy": 0.5,
+        "total_tokens": 6967
+      },
+      "Drobec": {
+        "correct": 4,
+        "incorrect": 2,
+        "accuracy": 0.667,
+        "total_tokens": 7423
+      },
+      "Junior": {
+        "correct": 8,
+        "incorrect": 2,
+        "accuracy": 0.8,
+        "total_tokens": 29842
+      },
+      "Kadet": {
+        "correct": 6,
+        "incorrect": 1,
+        "accuracy": 0.857,
+        "total_tokens": 4600
+      },
+      "Nevidiaci SŠ": {
+        "correct": 8,
+        "incorrect": 1,
+        "accuracy": 0.889,
+        "total_tokens": 7313
+      },
+      "Nevidiaci ZŠ": {
+        "correct": 8,
+        "incorrect": 1,
+        "accuracy": 0.889,
+        "total_tokens": 7373
+      },
+      "Senior": {
+        "correct": 7,
+        "incorrect": 2,
+        "accuracy": 0.778,
+        "total_tokens": 11190
+      }
+    },
+    "2019/2020": {
+      "Benjamín": {
+        "correct": 5,
+        "incorrect": 4,
+        "accuracy": 0.556,
+        "total_tokens": 14123
+      },
+      "Bobrík": {
+        "correct": 6,
+        "incorrect": 0,
+        "accuracy": 1.0,
+        "total_tokens": 484
+      },
+      "Drobec": {
+        "correct": 3,
+        "incorrect": 2,
+        "accuracy": 0.6,
+        "total_tokens": 2305
+      },
+      "Junior": {
+        "correct": 9,
+        "incorrect": 3,
+        "accuracy": 0.75,
+        "total_tokens": 8860
+      },
+      "Kadet": {
+        "correct": 7,
+        "incorrect": 2,
+        "accuracy": 0.778,
+        "total_tokens": 26355
+      },
+      "Nevidiaci SŠ": {
+        "correct": 9,
+        "incorrect": 0,
+        "accuracy": 1.0,
+        "total_tokens": 6776
+      },
+      "Nevidiaci ZŠ": {
+        "correct": 8,
+        "incorrect": 1,
+        "accuracy": 0.889,
+        "total_tokens": 8005
+      },
+      "Senior": {
+        "correct": 6,
+        "incorrect": 4,
+        "accuracy": 0.6,
+        "total_tokens": 12374
+      }
+    },
+    "2020/2021": {
+      "Benjamín": {
+        "correct": 8,
+        "incorrect": 2,
+        "accuracy": 0.8,
+        "total_tokens": 15146
+      },
+      "Bobrík": {
+        "correct": 7,
+        "incorrect": 1,
+        "accuracy": 0.875,
+        "total_tokens": 2002
+      },
+      "Drobec": {
+        "correct": 3,
+        "incorrect": 0,
+        "accuracy": 1.0,
+        "total_tokens": 781
+      },
+      "Junior": {
+        "correct": 5,
+        "incorrect": 5,
+        "accuracy": 0.5,
+        "total_tokens": 3500
+      },
+      "Kadet": {
+        "correct": 7,
+        "incorrect": 0,
+        "accuracy": 1.0,
+        "total_tokens": 6697
+      },
+      "Nevidiaci SŠ": {
+        "correct": 9,
+        "incorrect": 0,
+        "accuracy": 1.0,
+        "total_tokens": 8016
+      },
+      "Nevidiaci ZŠ": {
+        "correct": 9,
+        "incorrect": 0,
+        "accuracy": 1.0,
+        "total_tokens": 5857
+      },
+      "Senior": {
+        "correct": 7,
+        "incorrect": 3,
+        "accuracy": 0.7,
+        "total_tokens": 3915
+      }
+    },
+    "Karanténa": {
+      "6.-9.roč.": {
+        "correct": 12,
+        "incorrect": 1,
+        "accuracy": 0.923,
+        "total_tokens": 9621
+      }
+    },
+    "Prechádzky": {
+      "3.-4.roč.": {
+        "correct": 7,
+        "incorrect": 1,
+        "accuracy": 0.875,
+        "total_tokens": 26856
+      },
+      "5.-7.roč.": {
+        "correct": 5,
+        "incorrect": 3,
+        "accuracy": 0.625,
+        "total_tokens": 9328
+      }
+    }
+  },
+  "google/gemini-2.5-pro": {
+    "2007/2008": {
+      "Benjamín": {
+        "correct": 11,
+        "incorrect": 1,
+        "accuracy": 0.917,
+        "total_tokens": 30264
+      },
+      "Junior": {
+        "correct": 10,
+        "incorrect": 2,
+        "accuracy": 0.833,
+        "total_tokens": 46125
+      },
+      "Senior": {
+        "correct": 10,
+        "incorrect": 2,
+        "accuracy": 0.833,
+        "total_tokens": 36290
+      }
+    },
+    "2008/2009": {
+      "Benjamín": {
+        "correct": 8,
+        "incorrect": 4,
+        "accuracy": 0.667,
+        "total_tokens": 18875
+      },
+      "Junior": {
+        "correct": 6,
+        "incorrect": 7,
+        "accuracy": 0.462,
+        "total_tokens": 14500
+      },
+      "Kadet": {
+        "correct": 10,
+        "incorrect": 2,
+        "accuracy": 0.833,
+        "total_tokens": 25016
+      },
+      "Senior": {
+        "correct": 9,
+        "incorrect": 5,
+        "accuracy": 0.643,
+        "total_tokens": 22919
+      }
+    },
+    "2009/2010": {
+      "Benjamín": {
+        "correct": 6,
+        "incorrect": 8,
+        "accuracy": 0.429,
+        "total_tokens": 37159
+      },
+      "Junior": {
+        "correct": 9,
+        "incorrect": 5,
+        "accuracy": 0.643,
+        "total_tokens": 15233
+      },
+      "Kadet": {
+        "correct": 7,
+        "incorrect": 6,
+        "accuracy": 0.538,
+        "total_tokens": 52612
+      },
+      "Senior": {
+        "correct": 4,
+        "incorrect": 10,
+        "accuracy": 0.286,
+        "total_tokens": 56685
+      }
+    },
+    "2010/2011": {
+      "Benjamín": {
+        "correct": 11,
+        "incorrect": 3,
+        "accuracy": 0.786,
+        "total_tokens": 43674
+      },
+      "Bobrík": {
+        "correct": 2,
+        "incorrect": 1,
+        "accuracy": 0.667,
+        "total_tokens": 994
+      },
+      "Junior": {
+        "correct": 10,
+        "incorrect": 3,
+        "accuracy": 0.769,
+        "total_tokens": 47499
+      },
+      "Kadet": {
+        "correct": 10,
+        "incorrect": 5,
+        "accuracy": 0.667,
+        "total_tokens": 28671
+      },
+      "Senior": {
+        "correct": 8,
+        "incorrect": 3,
+        "accuracy": 0.727,
+        "total_tokens": 20043
+      }
+    },
+    "2011/2012": {
+      "Benjamín": {
+        "correct": 9,
+        "incorrect": 4,
+        "accuracy": 0.692,
+        "total_tokens": 37092
+      },
+      "Bobrík": {
+        "correct": 4,
+        "incorrect": 3,
+        "accuracy": 0.571,
+        "total_tokens": 3643
+      },
+      "Junior": {
+        "correct": 10,
+        "incorrect": 3,
+        "accuracy": 0.769,
+        "total_tokens": 60297
+      },
+      "Kadet": {
+        "correct": 4,
+        "incorrect": 7,
+        "accuracy": 0.364,
+        "total_tokens": 18058
+      },
+      "Senior": {
+        "correct": 8,
+        "incorrect": 4,
+        "accuracy": 0.667,
+        "total_tokens": 57520
+      }
+    },
+    "2012/2013": {
+      "Benjamín": {
+        "correct": 8,
+        "incorrect": 7,
+        "accuracy": 0.533,
+        "total_tokens": 38935
+      },
+      "Bobrík": {
+        "correct": 4,
+        "incorrect": 4,
+        "accuracy": 0.5,
+        "total_tokens": 9585
+      },
+      "Junior": {
+        "correct": 7,
+        "incorrect": 8,
+        "accuracy": 0.467,
+        "total_tokens": 17274
+      },
+      "Kadet": {
+        "correct": 9,
+        "incorrect": 5,
+        "accuracy": 0.643,
+        "total_tokens": 46768
+      },
+      "Senior": {
+        "correct": 8,
+        "incorrect": 5,
+        "accuracy": 0.615,
+        "total_tokens": 17024
+      }
+    },
+    "2013/2014": {
+      "Benjamín": {
+        "correct": 9,
+        "incorrect": 3,
+        "accuracy": 0.75,
+        "total_tokens": 52913
+      },
+      "Bobrík": {
+        "correct": 2,
+        "incorrect": 4,
+        "accuracy": 0.333,
+        "total_tokens": 19345
+      },
+      "Junior": {
+        "correct": 12,
+        "incorrect": 2,
+        "accuracy": 0.857,
+        "total_tokens": 26949
+      },
+      "Kadet": {
+        "correct": 10,
+        "incorrect": 2,
+        "accuracy": 0.833,
+        "total_tokens": 26039
+      },
+      "Senior": {
+        "correct": 9,
+        "incorrect": 4,
+        "accuracy": 0.692,
+        "total_tokens": 75627
+      }
+    },
+    "2014/2015": {
+      "Benjamín": {
+        "correct": 5,
+        "incorrect": 6,
+        "accuracy": 0.455,
+        "total_tokens": 17285
+      },
+      "Bobrík": {
+        "correct": 3,
+        "incorrect": 4,
+        "accuracy": 0.429,
+        "total_tokens": 21255
+      },
+      "Junior": {
+        "correct": 6,
+        "incorrect": 3,
+        "accuracy": 0.667,
+        "total_tokens": 22215
+      },
+      "Kadet": {
+        "correct": 6,
+        "incorrect": 3,
+        "accuracy": 0.667,
+        "total_tokens": 8870
+      },
+      "Senior": {
+        "correct": 7,
+        "incorrect": 6,
+        "accuracy": 0.538,
+        "total_tokens": 66126
+      }
+    },
+    "2015/2016": {
+      "Benjamín": {
+        "correct": 6,
+        "incorrect": 5,
+        "accuracy": 0.545,
+        "total_tokens": 18894
+      },
+      "Bobrík": {
+        "correct": 3,
+        "incorrect": 3,
+        "accuracy": 0.5,
+        "total_tokens": 25945
+      },
+      "Junior": {
+        "correct": 7,
+        "incorrect": 3,
+        "accuracy": 0.7,
+        "total_tokens": 15424
+      },
+      "Kadet": {
+        "correct": 3,
+        "incorrect": 8,
+        "accuracy": 0.273,
+        "total_tokens": 8699
+      },
+      "Senior": {
+        "correct": 6,
+        "incorrect": 5,
+        "accuracy": 0.545,
+        "total_tokens": 9219
+      }
+    },
+    "2016/2017": {
+      "Benjamín": {
+        "correct": 3,
+        "incorrect": 4,
+        "accuracy": 0.429,
+        "total_tokens": 4732
+      },
+      "Bobrík": {
+        "correct": 5,
+        "incorrect": 4,
+        "accuracy": 0.556,
+        "total_tokens": 8952
+      },
+      "Junior": {
+        "correct": 11,
+        "incorrect": 2,
+        "accuracy": 0.846,
+        "total_tokens": 70125
+      },
+      "Kadet": {
+        "correct": 9,
+        "incorrect": 3,
+        "accuracy": 0.75,
+        "total_tokens": 52246
+      },
+      "Senior": {
+        "correct": 8,
+        "incorrect": 4,
+        "accuracy": 0.667,
+        "total_tokens": 81475
+      }
+    },
+    "2017/2018": {
+      "Benjamín": {
+        "correct": 3,
+        "incorrect": 4,
+        "accuracy": 0.429,
+        "total_tokens": 44544
+      },
+      "Bobrík": {
+        "correct": 3,
+        "incorrect": 4,
+        "accuracy": 0.429,
+        "total_tokens": 7372
+      },
+      "Drobec": {
+        "correct": 3,
+        "incorrect": 1,
+        "accuracy": 0.75,
+        "total_tokens": 48472
+      },
+      "Junior": {
+        "correct": 6,
+        "incorrect": 6,
+        "accuracy": 0.5,
+        "total_tokens": 41151
+      },
+      "Kadet": {
+        "correct": 6,
+        "incorrect": 2,
+        "accuracy": 0.75,
+        "total_tokens": 56216
+      },
+      "Nevidiaci SŠ": {
+        "correct": 9,
+        "incorrect": 0,
+        "accuracy": 1.0,
+        "total_tokens": 27784
+      },
+      "Nevidiaci ZŠ": {
+        "correct": 8,
+        "incorrect": 1,
+        "accuracy": 0.889,
+        "total_tokens": 36318
+      },
+      "Senior": {
+        "correct": 6,
+        "incorrect": 4,
+        "accuracy": 0.6,
+        "total_tokens": 73095
+      }
+    },
+    "2018/2019": {
+      "Benjamín": {
+        "correct": 6,
+        "incorrect": 1,
+        "accuracy": 0.857,
+        "total_tokens": 9496
+      },
+      "Bobrík": {
+        "correct": 3,
+        "incorrect": 5,
+        "accuracy": 0.375,
+        "total_tokens": 20518
+      },
+      "Drobec": {
+        "correct": 3,
+        "incorrect": 3,
+        "accuracy": 0.5,
+        "total_tokens": 9836
+      },
+      "Junior": {
+        "correct": 5,
+        "incorrect": 5,
+        "accuracy": 0.5,
+        "total_tokens": 55146
+      },
+      "Kadet": {
+        "correct": 4,
+        "incorrect": 3,
+        "accuracy": 0.571,
+        "total_tokens": 15844
+      },
+      "Nevidiaci SŠ": {
+        "correct": 8,
+        "incorrect": 1,
+        "accuracy": 0.889,
+        "total_tokens": 31259
+      },
+      "Nevidiaci ZŠ": {
+        "correct": 8,
+        "incorrect": 1,
+        "accuracy": 0.889,
+        "total_tokens": 22745
+      },
+      "Senior": {
+        "correct": 4,
+        "incorrect": 5,
+        "accuracy": 0.444,
+        "total_tokens": 26360
+      }
+    },
+    "2019/2020": {
+      "Benjamín": {
+        "correct": 5,
+        "incorrect": 4,
+        "accuracy": 0.556,
+        "total_tokens": 9893
+      },
+      "Bobrík": {
+        "correct": 3,
+        "incorrect": 3,
+        "accuracy": 0.5,
+        "total_tokens": 1354
+      },
+      "Drobec": {
+        "correct": 3,
+        "incorrect": 2,
+        "accuracy": 0.6,
+        "total_tokens": 3998
+      },
+      "Junior": {
+        "correct": 6,
+        "incorrect": 6,
+        "accuracy": 0.5,
+        "total_tokens": 26349
+      },
+      "Kadet": {
+        "correct": 6,
+        "incorrect": 3,
+        "accuracy": 0.667,
+        "total_tokens": 29374
+      },
+      "Nevidiaci SŠ": {
+        "correct": 9,
+        "incorrect": 0,
+        "accuracy": 1.0,
+        "total_tokens": 23550
+      },
+      "Nevidiaci ZŠ": {
+        "correct": 9,
+        "incorrect": 0,
+        "accuracy": 1.0,
+        "total_tokens": 23520
+      },
+      "Senior": {
+        "correct": 4,
+        "incorrect": 6,
+        "accuracy": 0.4,
+        "total_tokens": 40244
+      }
+    },
+    "2020/2021": {
+      "Benjamín": {
+        "correct": 9,
+        "incorrect": 1,
+        "accuracy": 0.9,
+        "total_tokens": 45521
+      },
+      "Bobrík": {
+        "correct": 6,
+        "incorrect": 2,
+        "accuracy": 0.75,
+        "total_tokens": 5338
+      },
+      "Drobec": {
+        "correct": 2,
+        "incorrect": 1,
+        "accuracy": 0.667,
+        "total_tokens": 2692
+      },
+      "Junior": {
+        "correct": 4,
+        "incorrect": 6,
+        "accuracy": 0.4,
+        "total_tokens": 32542
+      },
+      "Kadet": {
+        "correct": 3,
+        "incorrect": 4,
+        "accuracy": 0.429,
+        "total_tokens": 14195
+      },
+      "Nevidiaci SŠ": {
+        "correct": 8,
+        "incorrect": 1,
+        "accuracy": 0.889,
+        "total_tokens": 24559
+      },
+      "Nevidiaci ZŠ": {
+        "correct": 8,
+        "incorrect": 1,
+        "accuracy": 0.889,
+        "total_tokens": 16898
+      },
+      "Senior": {
+        "correct": 1,
+        "incorrect": 9,
+        "accuracy": 0.1,
+        "total_tokens": 9150
+      }
+    },
+    "Karanténa": {
+      "6.-9.roč.": {
+        "correct": 8,
+        "incorrect": 5,
+        "accuracy": 0.615,
+        "total_tokens": 11131
+      }
+    },
+    "Prechádzky": {
+      "3.-4.roč.": {
+        "correct": 3,
+        "incorrect": 5,
+        "accuracy": 0.375,
+        "total_tokens": 29831
+      },
+      "5.-7.roč.": {
+        "correct": 2,
+        "incorrect": 6,
+        "accuracy": 0.25,
+        "total_tokens": 36881
+      }
+    }
+  },
+  "meta-llama/llama-4-scout": {
+    "2007/2008": {
+      "Benjamín": {
+        "correct": 5,
+        "incorrect": 7,
+        "accuracy": 0.417,
+        "total_tokens": 8075
+      },
+      "Junior": {
+        "correct": 7,
+        "incorrect": 5,
+        "accuracy": 0.583,
+        "total_tokens": 6370
+      },
+      "Senior": {
+        "correct": 3,
+        "incorrect": 9,
+        "accuracy": 0.25,
+        "total_tokens": 8165
+      }
+    },
+    "2008/2009": {
+      "Benjamín": {
+        "correct": 5,
+        "incorrect": 7,
+        "accuracy": 0.417,
+        "total_tokens": 10037
+      },
+      "Junior": {
+        "correct": 3,
+        "incorrect": 10,
+        "accuracy": 0.231,
+        "total_tokens": 9683
+      },
+      "Kadet": {
+        "correct": 6,
+        "incorrect": 6,
+        "accuracy": 0.5,
+        "total_tokens": 12771
+      },
+      "Senior": {
+        "correct": 6,
+        "incorrect": 8,
+        "accuracy": 0.429,
+        "total_tokens": 9261
+      }
+    },
+    "2009/2010": {
+      "Benjamín": {
+        "correct": 4,
+        "incorrect": 10,
+        "accuracy": 0.286,
+        "total_tokens": 20359
+      },
+      "Junior": {
+        "correct": 5,
+        "incorrect": 9,
+        "accuracy": 0.357,
+        "total_tokens": 9961
+      },
+      "Kadet": {
+        "correct": 4,
+        "incorrect": 9,
+        "accuracy": 0.308,
+        "total_tokens": 12513
+      },
+      "Senior": {
+        "correct": 0,
+        "incorrect": 14,
+        "accuracy": 0.0,
+        "total_tokens": 3750
+      }
+    },
+    "2010/2011": {
+      "Benjamín": {
+        "correct": 5,
+        "incorrect": 9,
+        "accuracy": 0.357,
+        "total_tokens": 11119
+      },
+      "Bobrík": {
+        "correct": 0,
+        "incorrect": 3,
+        "accuracy": 0.0,
+        "total_tokens": 9129
+      },
+      "Junior": {
+        "correct": 7,
+        "incorrect": 6,
+        "accuracy": 0.538,
+        "total_tokens": 9077
+      },
+      "Kadet": {
+        "correct": 6,
+        "incorrect": 9,
+        "accuracy": 0.4,
+        "total_tokens": 14894
+      },
+      "Senior": {
+        "correct": 5,
+        "incorrect": 6,
+        "accuracy": 0.455,
+        "total_tokens": 13000
+      }
+    },
+    "2011/2012": {
+      "Benjamín": {
+        "correct": 4,
+        "incorrect": 9,
+        "accuracy": 0.308,
+        "total_tokens": 22832
+      },
+      "Bobrík": {
+        "correct": 4,
+        "incorrect": 3,
+        "accuracy": 0.571,
+        "total_tokens": 8124
+      },
+      "Junior": {
+        "correct": 3,
+        "incorrect": 10,
+        "accuracy": 0.231,
+        "total_tokens": 10763
+      },
+      "Kadet": {
+        "correct": 4,
+        "incorrect": 7,
+        "accuracy": 0.364,
+        "total_tokens": 12312
+      },
+      "Senior": {
+        "correct": 5,
+        "incorrect": 7,
+        "accuracy": 0.417,
+        "total_tokens": 11165
+      }
+    },
+    "2012/2013": {
+      "Benjamín": {
+        "correct": 5,
+        "incorrect": 10,
+        "accuracy": 0.333,
+        "total_tokens": 16464
+      },
+      "Bobrík": {
+        "correct": 2,
+        "incorrect": 6,
+        "accuracy": 0.25,
+        "total_tokens": 8567
+      },
+      "Junior": {
+        "correct": 6,
+        "incorrect": 9,
+        "accuracy": 0.4,
+        "total_tokens": 16287
+      },
+      "Kadet": {
+        "correct": 8,
+        "incorrect": 6,
+        "accuracy": 0.571,
+        "total_tokens": 15917
+      },
+      "Senior": {
+        "correct": 5,
+        "incorrect": 8,
+        "accuracy": 0.385,
+        "total_tokens": 18145
+      }
+    },
+    "2013/2014": {
+      "Benjamín": {
+        "correct": 6,
+        "incorrect": 6,
+        "accuracy": 0.5,
+        "total_tokens": 9118
+      },
+      "Bobrík": {
+        "correct": 2,
+        "incorrect": 4,
+        "accuracy": 0.333,
+        "total_tokens": 7540
+      },
+      "Junior": {
+        "correct": 7,
+        "incorrect": 7,
+        "accuracy": 0.5,
+        "total_tokens": 12891
+      },
+      "Kadet": {
+        "correct": 7,
+        "incorrect": 5,
+        "accuracy": 0.583,
+        "total_tokens": 9350
+      },
+      "Senior": {
+        "correct": 4,
+        "incorrect": 9,
+        "accuracy": 0.308,
+        "total_tokens": 11390
+      }
+    },
+    "2014/2015": {
+      "Benjamín": {
+        "correct": 4,
+        "incorrect": 7,
+        "accuracy": 0.364,
+        "total_tokens": 12442
+      },
+      "Bobrík": {
+        "correct": 4,
+        "incorrect": 3,
+        "accuracy": 0.571,
+        "total_tokens": 8726
+      },
+      "Junior": {
+        "correct": 5,
+        "incorrect": 4,
+        "accuracy": 0.556,
+        "total_tokens": 8413
+      },
+      "Kadet": {
+        "correct": 2,
+        "incorrect": 7,
+        "accuracy": 0.222,
+        "total_tokens": 7766
+      },
+      "Senior": {
+        "correct": 6,
+        "incorrect": 7,
+        "accuracy": 0.462,
+        "total_tokens": 13577
+      }
+    },
+    "2015/2016": {
+      "Benjamín": {
+        "correct": 1,
+        "incorrect": 10,
+        "accuracy": 0.091,
+        "total_tokens": 11003
+      },
+      "Bobrík": {
+        "correct": 2,
+        "incorrect": 4,
+        "accuracy": 0.333,
+        "total_tokens": 7532
+      },
+      "Junior": {
+        "correct": 3,
+        "incorrect": 7,
+        "accuracy": 0.3,
+        "total_tokens": 12689
+      },
+      "Kadet": {
+        "correct": 2,
+        "incorrect": 9,
+        "accuracy": 0.182,
+        "total_tokens": 15377
+      },
+      "Senior": {
+        "correct": 2,
+        "incorrect": 9,
+        "accuracy": 0.182,
+        "total_tokens": 17494
+      }
+    },
+    "2016/2017": {
+      "Benjamín": {
+        "correct": 3,
+        "incorrect": 4,
+        "accuracy": 0.429,
+        "total_tokens": 7226
+      },
+      "Bobrík": {
+        "correct": 5,
+        "incorrect": 4,
+        "accuracy": 0.556,
+        "total_tokens": 8574
+      },
+      "Junior": {
+        "correct": 3,
+        "incorrect": 10,
+        "accuracy": 0.231,
+        "total_tokens": 12368
+      },
+      "Kadet": {
+        "correct": 4,
+        "incorrect": 8,
+        "accuracy": 0.333,
+        "total_tokens": 13785
+      },
+      "Senior": {
+        "correct": 3,
+        "incorrect": 9,
+        "accuracy": 0.25,
+        "total_tokens": 15296
+      }
+    },
+    "2017/2018": {
+      "Benjamín": {
+        "correct": 5,
+        "incorrect": 2,
+        "accuracy": 0.714,
+        "total_tokens": 6596
+      },
+      "Bobrík": {
+        "correct": 3,
+        "incorrect": 4,
+        "accuracy": 0.429,
+        "total_tokens": 4670
+      },
+      "Drobec": {
+        "correct": 0,
+        "incorrect": 4,
+        "accuracy": 0.0,
+        "total_tokens": 2605
+      },
+      "Junior": {
+        "correct": 3,
+        "incorrect": 9,
+        "accuracy": 0.25,
+        "total_tokens": 11220
+      },
+      "Kadet": {
+        "correct": 3,
+        "incorrect": 5,
+        "accuracy": 0.375,
+        "total_tokens": 7881
+      },
+      "Nevidiaci SŠ": {
+        "correct": 4,
+        "incorrect": 5,
+        "accuracy": 0.444,
+        "total_tokens": 3305
+      },
+      "Nevidiaci ZŠ": {
+        "correct": 3,
+        "incorrect": 6,
+        "accuracy": 0.333,
+        "total_tokens": 2923
+      },
+      "Senior": {
+        "correct": 4,
+        "incorrect": 6,
+        "accuracy": 0.4,
+        "total_tokens": 9728
+      }
+    },
+    "2018/2019": {
+      "Benjamín": {
+        "correct": 2,
+        "incorrect": 5,
+        "accuracy": 0.286,
+        "total_tokens": 9525
+      },
+      "Bobrík": {
+        "correct": 2,
+        "incorrect": 6,
+        "accuracy": 0.25,
+        "total_tokens": 14855
+      },
+      "Drobec": {
+        "correct": 3,
+        "incorrect": 3,
+        "accuracy": 0.5,
+        "total_tokens": 8070
+      },
+      "Junior": {
+        "correct": 1,
+        "incorrect": 9,
+        "accuracy": 0.1,
+        "total_tokens": 9790
+      },
+      "Kadet": {
+        "correct": 2,
+        "incorrect": 5,
+        "accuracy": 0.286,
+        "total_tokens": 8679
+      },
+      "Nevidiaci SŠ": {
+        "correct": 6,
+        "incorrect": 3,
+        "accuracy": 0.667,
+        "total_tokens": 3836
+      },
+      "Nevidiaci ZŠ": {
+        "correct": 6,
+        "incorrect": 3,
+        "accuracy": 0.667,
+        "total_tokens": 3096
+      },
+      "Senior": {
+        "correct": 0,
+        "incorrect": 9,
+        "accuracy": 0.0,
+        "total_tokens": 10708
+      }
+    },
+    "2019/2020": {
+      "Benjamín": {
+        "correct": 0,
+        "incorrect": 9,
+        "accuracy": 0.0,
+        "total_tokens": 10905
+      },
+      "Bobrík": {
+        "correct": 2,
+        "incorrect": 4,
+        "accuracy": 0.333,
+        "total_tokens": 7618
+      },
+      "Drobec": {
+        "correct": 1,
+        "incorrect": 4,
+        "accuracy": 0.2,
+        "total_tokens": 5716
+      },
+      "Junior": {
+        "correct": 3,
+        "incorrect": 9,
+        "accuracy": 0.25,
+        "total_tokens": 10219
+      },
+      "Kadet": {
+        "correct": 2,
+        "incorrect": 7,
+        "accuracy": 0.222,
+        "total_tokens": 9732
+      },
+      "Nevidiaci SŠ": {
+        "correct": 3,
+        "incorrect": 6,
+        "accuracy": 0.333,
+        "total_tokens": 3927
+      },
+      "Nevidiaci ZŠ": {
+        "correct": 3,
+        "incorrect": 6,
+        "accuracy": 0.333,
+        "total_tokens": 2912
+      },
+      "Senior": {
+        "correct": 0,
+        "incorrect": 10,
+        "accuracy": 0.0,
+        "total_tokens": 10777
+      }
+    },
+    "2020/2021": {
+      "Benjamín": {
+        "correct": 2,
+        "incorrect": 8,
+        "accuracy": 0.2,
+        "total_tokens": 9399
+      },
+      "Bobrík": {
+        "correct": 3,
+        "incorrect": 5,
+        "accuracy": 0.375,
+        "total_tokens": 16188
+      },
+      "Drobec": {
+        "correct": 1,
+        "incorrect": 2,
+        "accuracy": 0.333,
+        "total_tokens": 4093
+      },
+      "Junior": {
+        "correct": 2,
+        "incorrect": 8,
+        "accuracy": 0.2,
+        "total_tokens": 12322
+      },
+      "Kadet": {
+        "correct": 4,
+        "incorrect": 3,
+        "accuracy": 0.571,
+        "total_tokens": 6070
+      },
+      "Nevidiaci SŠ": {
+        "correct": 2,
+        "incorrect": 7,
+        "accuracy": 0.222,
+        "total_tokens": 3492
+      },
+      "Nevidiaci ZŠ": {
+        "correct": 5,
+        "incorrect": 4,
+        "accuracy": 0.556,
+        "total_tokens": 3142
+      },
+      "Senior": {
+        "correct": 3,
+        "incorrect": 7,
+        "accuracy": 0.3,
+        "total_tokens": 13977
+      }
+    },
+    "Karanténa": {
+      "6.-9.roč.": {
+        "correct": 5,
+        "incorrect": 8,
+        "accuracy": 0.385,
+        "total_tokens": 14488
+      }
+    },
+    "Prechádzky": {
+      "3.-4.roč.": {
+        "correct": 2,
+        "incorrect": 6,
+        "accuracy": 0.25,
+        "total_tokens": 12936
+      },
+      "5.-7.roč.": {
+        "correct": 2,
+        "incorrect": 6,
+        "accuracy": 0.25,
+        "total_tokens": 7805
+      }
+    }
+  }
+}
