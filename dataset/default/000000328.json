@@ -1,0 +1,37 @@
+{
+  "id": 327,
+  "serial_number": 10,
+  "title": "Zber papiera",
+  "question": "V tabuľke vidíme, koľko kilogramov papiera nazbierali žiaci šiestich tried v súťaži:<br/> <image_1><br/> Ktorý z nasledujúcich grafov zodpovedá tabuľke? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "<image_2>"
+    },
+    {
+      "value": "1",
+      "label": "<image_3>"
+    },
+    {
+      "value": "2",
+      "label": "<image_4>"
+    },
+    {
+      "value": "3",
+      "label": "<image_5>"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/17/2017-SK-13_tabulka.png",
+    "http://demo.ibobor.sk/sutaz/images/17/2017-SK-13_graf-c.png",
+    "http://demo.ibobor.sk/sutaz/images/17/2017-SK-13_graf-b.png",
+    "http://demo.ibobor.sk/sutaz/images/17/2017-SK-13_graf-d.png",
+    "http://demo.ibobor.sk/sutaz/images/17/2017-SK-13_graf-a.png"
+  ],
+  "year": "2017/2018",
+  "category": "Benjamín",
+  "type": "image",
+  "correct_index": 3,
+  "correct_answer": "http://demo.ibobor.sk/sutaz/images/17/2017-SK-13_graf-a.png",
+  "correct_answer_plain": null
+}

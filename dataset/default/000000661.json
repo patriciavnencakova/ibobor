@@ -1,0 +1,33 @@
+{
+  "id": 660,
+  "serial_number": 7,
+  "title": "Jablká",
+  "question": "Mama prekladá jablká z koša do vedra takýmto postupom: <br/> 1. krok: Zober jedno jablko z koša a polož ho na stôl pred seba.<br/> 2. krok: Zober ďalšie jablko z koša a sprav nasledujúce porovnanie:<br/> <ul><li>Ak je jablko v tvojej ruke menšie ako jablko na stole, daj jablko z ruky do vedra.</li><li>Ak je jablko v tvojej ruke väčšie ako jablko na stole, tak daj jablko zo stola do vedra a na stôl polož jablko, ktoré máš v ruke.</li></ul><br/> Krok 2. opakuj, kým kôš nie je prázdny.<br/> <image_1><br/> Aké jablko nakoniec ostane na stole? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "Vždy prvé jablko z koša."
+    },
+    {
+      "value": "1",
+      "label": "Vždy najväčšie jablko z koša."
+    },
+    {
+      "value": "2",
+      "label": "Vždy posledné jablko z koša."
+    },
+    {
+      "value": "3",
+      "label": "Vždy najmenšie jablko z koša."
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/13/2013-AT-06_SK.png"
+  ],
+  "year": "2013/2014",
+  "category": "Junior",
+  "type": "image",
+  "correct_index": 1,
+  "correct_answer": "Vždy najväčšie jablko z koša. ",
+  "correct_answer_plain": "Vždy najväčšie jablko z koša."
+}

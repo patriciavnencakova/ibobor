@@ -1,0 +1,31 @@
+{
+  "id": 287,
+  "serial_number": 9,
+  "title": "Triedenie čísel",
+  "question": "Šesť žiakov hrá hru Utrieď. Každý z nich drží kartičku, na ktorej je jedno z čísel od 1 do 6. <br> Hra má niekoľko kôl. V každom z nich môžu hráči robiť jeden z nasledujúcich ťahov:<br> <b>ťah A</b> - prvý, tretí a piaty hráč si môže (ale nemusí) vymeniť kartičku so susedom vpravo vedľa neho<br> <b>ťah B</b> - druhý a štvrtý hráč si môže (ale nemusí) vymeniť kartičku so susedom vpravo vedľa neho.<br> Na začiatku hry boli žiaci s kartičkami usporiadaní takto:<br> <b>5 1 6 3 4 2</b><br> Teda žiak s číslom 5 má vpravo žiaka s číslom 1, ten má vpravo žiaka s číslom 6 a tak ďalej.<br> V prvom kole všetci spravili ťah A.<br> Aký najmenší počet kôl musí mať hra, aby kartičky usporiadali sprava od 1 po 6? <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "4 kolá"
+    },
+    {
+      "value": "1",
+      "label": "3 kolá"
+    },
+    {
+      "value": "2",
+      "label": "5 kôl"
+    },
+    {
+      "value": "3",
+      "label": "6 kôl"
+    }
+  ],
+  "images": [],
+  "year": "2018/2019",
+  "category": "Nevidiaci SŠ",
+  "type": "text",
+  "correct_index": 0,
+  "correct_answer": "4 kolá ",
+  "correct_answer_plain": "4 kolá"
+}

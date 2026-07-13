@@ -1,0 +1,39 @@
+{
+  "id": 8,
+  "serial_number": 9,
+  "title": "Predstavenie",
+  "question": "Herci počas predstavenia prichádzajú <image_1> na divadelnú scénu a odchádzajú z nej <image_2> v poradí, ako je zobrazené na obrázku.<br/> <image_3> <br/> Kto zostal na scéne na konci predstavenia? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "<image_4>"
+    },
+    {
+      "value": "1",
+      "label": "<image_5>"
+    },
+    {
+      "value": "2",
+      "label": "<image_6>"
+    },
+    {
+      "value": "3",
+      "label": "<image_7>"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/20/2020-SK-01_prichod.png",
+    "http://demo.ibobor.sk/sutaz/images/20/2020-SK-01_odchod.png",
+    "http://demo.ibobor.sk/sutaz/images/20/2020-SK-01_D.png",
+    "http://demo.ibobor.sk/sutaz/images/20/2020-SK-01_D_D.png",
+    "http://demo.ibobor.sk/sutaz/images/20/2020-SK-01_D_C.png",
+    "http://demo.ibobor.sk/sutaz/images/20/2020-SK-01_D_A.png",
+    "http://demo.ibobor.sk/sutaz/images/20/2020-SK-01_D_B.png"
+  ],
+  "year": "2020/2021",
+  "category": "Drobec",
+  "type": "image",
+  "correct_index": 2,
+  "correct_answer": "http://demo.ibobor.sk/sutaz/images/20/2020-SK-01_D_A.png",
+  "correct_answer_plain": null
+}

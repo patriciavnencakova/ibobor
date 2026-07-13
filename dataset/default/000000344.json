@@ -1,0 +1,33 @@
+{
+  "id": 343,
+  "serial_number": 11,
+  "title": "Tanečníci",
+  "question": "Tanečníci Jakub a Ema sa so svojím trénerom dohodli na špeciálnych slovách. Keď im ich tréner zakričí, vedia, ako sa majú pri tanci pohybovať.<br/> Tabuľka vľavo zobrazuje slová a pohyb oboch tanečníkov. Napríklad, ak tréner zakričí KLAP! Jakub sa pohne o jeden štvorček vpravo a potom o jeden štvorček dolu a Ema o jeden štvorček hore a jeden štvorček vľavo.<br/> Tabuľka vpravo zobrazuje pozície, v ktorých Ema a Jakub teraz začínajú:<br/> <image_1><br/> Po ktorej postupnosti slov skončia <b>obaja tanečníci na rovnakom štvorčeku</b> tanečnej sály? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "HEJ! KLAP!"
+    },
+    {
+      "value": "1",
+      "label": "TROP! KLAP!"
+    },
+    {
+      "value": "2",
+      "label": "KLAP! KLAP!"
+    },
+    {
+      "value": "3",
+      "label": "HOP! KLAP!"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/17/2017-CA-05-tab_sal.png"
+  ],
+  "year": "2017/2018",
+  "category": "Kadet",
+  "type": "image",
+  "correct_index": 0,
+  "correct_answer": "HEJ! KLAP! ",
+  "correct_answer_plain": "HEJ! KLAP!"
+}

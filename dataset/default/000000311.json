@@ -1,0 +1,33 @@
+{
+  "id": 310,
+  "serial_number": 5,
+  "title": "Prefarbi cesty",
+  "question": "Janko si nakreslil obrázok parku s jazierkom a cestami okolo neho. Najprv cesty nakreslil sivou farbou, ale potom sa rozhodol, že chce, aby boli hnedé.<br/> Vybral si nástroj VÝPLŇ a hnedú farbu.<br/> <b>Najmenej</b> koľkokrát musel kliknúť do obrázka, aby v ňom prefarbil všetky cesty na hnedo?<br/> <image_1> <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "trikrát"
+    },
+    {
+      "value": "1",
+      "label": "dvakrát"
+    },
+    {
+      "value": "2",
+      "label": "štyrikrát"
+    },
+    {
+      "value": "3",
+      "label": "raz"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/17/2017-SK-01.png"
+  ],
+  "year": "2017/2018",
+  "category": "Bobrík",
+  "type": "image",
+  "correct_index": 0,
+  "correct_answer": "trikrát ",
+  "correct_answer_plain": "trikrát"
+}

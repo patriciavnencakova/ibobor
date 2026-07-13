@@ -1,0 +1,37 @@
+{
+  "id": 935,
+  "serial_number": 6,
+  "title": "Zoznam kancelárií",
+  "question": "Vo firme pracuje šesť počítačových expertov. Každý má vlastnú kanceláriu, ktoré sú očíslované od 1 do 6.<br/> Vo vchode do firmy je namiesto obyčajného zoznamu kancelárií takýto obrázok:<br/> <br/> <image_1><br/> <br/> Zobrazuje mená expertov a čísla ich kancelárií.<br/> <br/> Po istom čase odišiel Jan do inej firmy a namiesto neho prišiel Jim. Ako sa zmenil obrázok vo vchode pri zachovaní rovnakých pravidiel a tak, aby bolo potrebné urobiť čo najmenej zmien?<br/> <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "<image_2>"
+    },
+    {
+      "value": "1",
+      "label": "<image_3>"
+    },
+    {
+      "value": "2",
+      "label": "<image_4>"
+    },
+    {
+      "value": "3",
+      "label": "<image_5>"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/09/J_Zoznam_kancelarii.gif",
+    "http://demo.ibobor.sk/sutaz/images/09/J_Zoznam_kancelarii_A.gif",
+    "http://demo.ibobor.sk/sutaz/images/09/J_Zoznam_kancelarii_B.gif",
+    "http://demo.ibobor.sk/sutaz/images/09/J_Zoznam_kancelarii_D.gif",
+    "http://demo.ibobor.sk/sutaz/images/09/J_Zoznam_kancelarii_C.gif"
+  ],
+  "year": "2009/2010",
+  "category": "Junior",
+  "type": "image",
+  "correct_index": 1,
+  "correct_answer": "http://demo.ibobor.sk/sutaz/images/09/J_Zoznam_kancelarii_B.gif",
+  "correct_answer_plain": null
+}

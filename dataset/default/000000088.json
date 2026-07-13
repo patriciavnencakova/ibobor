@@ -1,0 +1,31 @@
+{
+  "id": 87,
+  "serial_number": 7,
+  "title": "Vkladaj slová",
+  "question": "Textový automat má na vstupe reťazec 10 hviezdičiek. Postupne v ňom prepisuje znaky slovami BABY, GIGA, GIBA.<br> Prepisovanie vykonáva podľa postupnosti príkazov <b>VLOŽ(slovo, pozícia)</b>, kde <b>slovo</b> určuje vkladané slovo a pozícia určuje pozíciu v prepisovanom reťazci, na ktorú ho treba dať.<br> Napríklad po vykonaní príkazu:<br> <b>VLOŽ(GIBA,1)</b> získame reťazec<br> GIBA******<br> Následne po vykonaní príkazu:<br> <b>VLOŽ(BABY,6)</b> získame reťazec<br> GIBA*BABY*<br> Aký reťazec vznikne zo vstupného reťazca vykonaním nasledujúcej postupnosti príkazov?<br> <b>VLOŽ(GIBA, 1)</b><br> <b>VLOŽ(GIGA, 3)</b><br> <b>VLOŽ(BABY, 7)</b> <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "GIBAGABABY"
+    },
+    {
+      "value": "1",
+      "label": "GIBAGIGABY"
+    },
+    {
+      "value": "2",
+      "label": "GIGABABABY"
+    },
+    {
+      "value": "3",
+      "label": "GIGIGABABY"
+    }
+  ],
+  "images": [],
+  "year": "2020/2021",
+  "category": "Nevidiaci SŠ",
+  "type": "text",
+  "correct_index": 3,
+  "correct_answer": "GIGIGABABY ",
+  "correct_answer_plain": "GIGIGABABY"
+}

@@ -1,0 +1,31 @@
+{
+  "id": 289,
+  "serial_number": 2,
+  "title": "Autobus",
+  "question": "Štyria kamaráti Adam, Cyril, Dano, Emil nastúpili do autobusu takto:<br> Dano pred Emilom<br> Dano pred Cyrilom<br> Emil pred Cyrilom <br> Adam pred Danom<br> V akom poradí nastupovali? <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "Emil – Cyril – Adam – Dano"
+    },
+    {
+      "value": "1",
+      "label": "Dano – Emil – Cyril – Adam"
+    },
+    {
+      "value": "2",
+      "label": "Adam – Dano – Cyril – Emil"
+    },
+    {
+      "value": "3",
+      "label": "Adam – Dano – Emil – Cyril"
+    }
+  ],
+  "images": [],
+  "year": "2018/2019",
+  "category": "Nevidiaci ZŠ",
+  "type": "text",
+  "correct_index": 3,
+  "correct_answer": "Adam – Dano – Emil – Cyril ",
+  "correct_answer_plain": "Adam – Dano – Emil – Cyril"
+}

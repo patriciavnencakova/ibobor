@@ -1,0 +1,33 @@
+{
+  "id": 916,
+  "serial_number": 2,
+  "title": "Rôzne trasy",
+  "question": "Monika chodí denne za babičkou cez park. Každý deň chce ísť inou trasou. Dve trasy sú rôzne, ak majú aspoň jednu rôznu cestičku. Všetky cestičky sú jednosmerné.<br/> <br/> <image_1><br/> <br/> Koľko rôznych trás môže zvoliť? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "12"
+    },
+    {
+      "value": "1",
+      "label": "32"
+    },
+    {
+      "value": "2",
+      "label": "16"
+    },
+    {
+      "value": "3",
+      "label": "9"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/09/K_Rozne_trasy.gif"
+  ],
+  "year": "2009/2010",
+  "category": "Kadet",
+  "type": "image",
+  "correct_index": 0,
+  "correct_answer": "12 ",
+  "correct_answer_plain": "12"
+}

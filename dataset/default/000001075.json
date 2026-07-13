@@ -1,0 +1,33 @@
+{
+  "id": 1074,
+  "serial_number": 1,
+  "title": "Orieškové cesty",
+  "question": "Veveričiak Riško si svoje oriešky na zimu odložil na stromy. Na obrázku sme ich očíslovali číslami 1 až 5 a tie, medzi ktorými dokáže preskočiť, sme spojili čiarami. Teraz je na strome s číslom 1 a chce sa pozrieť na svoje oriešky na každom strome a vrátiť sa na strom 1.<br/> <image_1><br/> <br/> V akom poradí nemohol Riško skákať?<br/> <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "1, 5, 3, 4, 2, 1"
+    },
+    {
+      "value": "1",
+      "label": "1, 2, 3, 4, 5, 1"
+    },
+    {
+      "value": "2",
+      "label": "1, 5, 2, 4, 3, 1"
+    },
+    {
+      "value": "3",
+      "label": "1, 2, 4, 3, 5, 1"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/10/2010_RO_09.png"
+  ],
+  "year": "Prechádzky",
+  "category": "5.-7.roč.",
+  "type": "image",
+  "correct_index": 2,
+  "correct_answer": "1, 5, 2, 4, 3, 1 ",
+  "correct_answer_plain": "1, 5, 2, 4, 3, 1"
+}

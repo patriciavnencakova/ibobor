@@ -1,0 +1,33 @@
+{
+  "id": 109,
+  "serial_number": 2,
+  "title": "Bobík",
+  "question": "Karolínka nakreslila svojho psíka Bobíka.<br/> <image_1><br/> Čo o ňom vieme povedať? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "Bobík nie je je celý biely, má po tele sivé škvrny. Má na krku modrý obojok."
+    },
+    {
+      "value": "1",
+      "label": "Bobík má sivú škvrnu na chrbte, inak je celý biely. Nemá na krku modrý obojok."
+    },
+    {
+      "value": "2",
+      "label": "Bobík je skoro celý biely, iba labku a chvostík má sivý. Má na krku červenú šatku."
+    },
+    {
+      "value": "3",
+      "label": "Bobík má sivú škvrnu na chrbte a sivý chvostík. Má na krku červenú šatku."
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/19/2019-SK-13_Bo.png"
+  ],
+  "year": "2019/2020",
+  "category": "Bobrík",
+  "type": "image",
+  "correct_index": 3,
+  "correct_answer": "Bobík má sivú škvrnu na chrbte a sivý chvostík. Má na krku červenú šatku. ",
+  "correct_answer_plain": "Bobík má sivú škvrnu na chrbte a sivý chvostík. Má na krku červenú šatku."
+}

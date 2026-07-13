@@ -1,0 +1,31 @@
+{
+  "id": 448,
+  "serial_number": 11,
+  "title": "Rýchle umocňovanie",
+  "question": "Peter potrebuje vypočítať hodnotu 2<sup>37</sup>, ale kláves umocňovania x<sup>y</sup> na jeho kalkulačke je pokazený. Kláves násobenia a aj kláves umocnenia x<sup>2</sup> však fungujú správne.<br> <br> Kamarát mu dal dve rady:<ul><li>Ak je exponent párny, vypočítaj 2 na polovicu exponentu a potom výsledok umocni na druhú, napríklad 2<sup>10</sup> = 2<sup>5</sup> × 2<sup>5</sup> = (2<sup>5</sup>)<sup>2</sup>.</li><li>Ak je exponent nepárny, vypočítaj 2 na exponent mínus jedna (čo je párne číslo) a výsledok vynásob 2, napríklad 2<sup>11</sup> = 2<sup>10</sup> × 2.</li></ul><br> Ak Peter použije obe rady, <b>najmenej koľkokrát</b> bude na svojej kalkulačke násobiť a umocňovať na druhú, aby vypočítal 2<sup>37</sup>? <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "7"
+    },
+    {
+      "value": "1",
+      "label": "36"
+    },
+    {
+      "value": "2",
+      "label": "6"
+    },
+    {
+      "value": "3",
+      "label": "1"
+    }
+  ],
+  "images": [],
+  "year": "2016/2017",
+  "category": "Junior",
+  "type": "text",
+  "correct_index": 0,
+  "correct_answer": "7 ",
+  "correct_answer_plain": "7"
+}

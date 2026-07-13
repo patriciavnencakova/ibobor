@@ -1,0 +1,31 @@
+{
+  "id": 378,
+  "serial_number": 1,
+  "title": "Korčuliari",
+  "question": "Päť korčuliarov ide v rade za sebou. Na tričku má každý z nich iné písmeno tak, že sú zoradení podľa abecedy. Na začiatku zapli stopky a prvý v rade bol korčuliar s písmenom A a posledný korčuliar s písmenom E.<br> Počas cesty dodržiavali stále toto poradie, ale každú minútu sa prvý korčuliar presunul na koniec radu.<br> <b>Kto bol prvý v rade, keď stopky ukazovali 62 minút a 30 sekúnd?</b> <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "C"
+    },
+    {
+      "value": "1",
+      "label": "B"
+    },
+    {
+      "value": "2",
+      "label": "D"
+    },
+    {
+      "value": "3",
+      "label": "A"
+    }
+  ],
+  "images": [],
+  "year": "2017/2018",
+  "category": "Nevidiaci SŠ",
+  "type": "text",
+  "correct_index": 0,
+  "correct_answer": "C ",
+  "correct_answer_plain": "C"
+}

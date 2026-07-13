@@ -1,0 +1,31 @@
+{
+  "id": 197,
+  "serial_number": 9,
+  "title": "Koráliky",
+  "question": "Na troch zvislých tyčiach sú navlečené koráliky:<br> Na prvej tyči sú 2 koráliky v tvare kruhu.<br> Na druhej tyči je 1 korálik v tvare trojuholníka.<br> Na tretej tyči je 1 korálik v tvare srdca.<br> Z jednej tyče na druhú môžeme presunúť vždy len jeden korálik, ktorý je navrchu. <br> Zdenka postupne medzi tyčami popresúvala koráliky tak, že na jednej tyči boli v smere odspodu nahor koráliky v poradí:<br> kruh, trojuholník, srdce, kruh <br> Najmenej koľko presunov musela Zdenka urobiť? <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "5"
+    },
+    {
+      "value": "1",
+      "label": "8"
+    },
+    {
+      "value": "2",
+      "label": "6"
+    },
+    {
+      "value": "3",
+      "label": "4"
+    }
+  ],
+  "images": [],
+  "year": "2019/2020",
+  "category": "Nevidiaci ZŠ",
+  "type": "text",
+  "correct_index": 0,
+  "correct_answer": "5 ",
+  "correct_answer_plain": "5"
+}

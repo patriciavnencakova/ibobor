@@ -1,0 +1,33 @@
+{
+  "id": 714,
+  "serial_number": 4,
+  "title": "Pyramída",
+  "question": "Faraón dal postaviť pyramídu z tehličiek, ktorých šírka sa zdola nahor zmenšuje. Na každej tehličke je zapísaná jej šírka. <br/> Po postavení pyramídy zistil, že je v nej niekoľko nesprávnych tehličiek, a preto ich dal nahradiť inými.<br/> <image_1><br/> Nahradenie tehličky so šírkou 40 tehličkou so šírkou 5 zapíšeme: 40 → 5.<br/> Ktorá postupnosť nahrádzaní tehličiek opraví jeho pyramídu? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "40 → 12, 8 → 15, 10 → 42"
+    },
+    {
+      "value": "1",
+      "label": "40 → 6, 13 → 7, 8 → 24"
+    },
+    {
+      "value": "2",
+      "label": "40 → 15, 13 → 16, 10 → 42"
+    },
+    {
+      "value": "3",
+      "label": "40 → 5, 13 → 7, 10 → 40"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/12/2012-SK-08.png"
+  ],
+  "year": "2012/2013",
+  "category": "Kadet",
+  "type": "image",
+  "correct_index": 0,
+  "correct_answer": "40 → 12, 8 → 15, 10 → 42 ",
+  "correct_answer_plain": "40 → 12, 8 → 15, 10 → 42"
+}

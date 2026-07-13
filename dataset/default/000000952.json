@@ -1,0 +1,33 @@
+{
+  "id": 951,
+  "serial_number": 7,
+  "title": "Bobria železnica",
+  "question": "V Bobrom údolí premávajú dva vlaky:<ul><li>zelený vlak premáva medzi stanicami Zelený les (1) a Hrad (3),<br/> </li> <li>modrý vlak premáva medzi stanicami Priehrada (2) a Hrad (3). </li></ul><br/> V bode (5) je kameň, ktorý riadi oba vlaky. Kameň má dve strany, jednu bielu, druhú čiernu. Rušňovodiči oboch vlakov môžu otočiť kameň len ak zastanú v bode (5).<br/> <image_1><br/> Zaviedli sa dve pravidlá. Prvé pravidlo „Do Hradu“: <ul><li>Choď do (5)</li><li>Ak je kameň čierny, minútu počkaj a skús pravidlo „Do hradu“ znova.<br/> </li> <li>Ak je kameň biely, otoč ho na čierny a choď do (3)<br/> </li></ul><br/> Aké by malo byť druhé pravidlo „Z Hradu“, aby sme sa na železnici vyhli zápcham a kolíziám.<br/> <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "Choď do (2). Ak je kameň čierny, otoč ho na biely."
+    },
+    {
+      "value": "1",
+      "label": "Choď do (4). Zelený vlak ide smerom na Zelený les (1), modrý vlak ide smerom na Priehradu(2). Choď do (5). Ak je kameň biely, otoč ho na čierny."
+    },
+    {
+      "value": "2",
+      "label": "Choď do (4). Zelený vlak ide smerom na Zelený les (1), modrý vlak ide smerom na Priehradu (2). Choď do (5) a otoč kameň na biely."
+    },
+    {
+      "value": "3",
+      "label": "Choď do (4). Otoč kameň na biely."
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/09/S_zeleznica.png "
+  ],
+  "year": "2009/2010",
+  "category": "Senior",
+  "type": "image",
+  "correct_index": 2,
+  "correct_answer": "Choď do (4). Zelený vlak ide smerom na Zelený les (1), modrý vlak ide smerom na Priehradu (2). Choď do (5) a otoč kameň na biely. ",
+  "correct_answer_plain": "Choď do (4). Zelený vlak ide smerom na Zelený les (1), modrý vlak ide smerom na Priehradu (2). Choď do (5) a otoč kameň na biely."
+}

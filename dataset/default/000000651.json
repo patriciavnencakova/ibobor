@@ -1,0 +1,33 @@
+{
+  "id": 650,
+  "serial_number": 12,
+  "title": "Potomkovia",
+  "question": "Adam, bobor, ktorý sa ako prvý presťahoval do Veľkého Lesa, má 4 deti: Tomáša, Sofiu, Petra a Lauru. Tomáš má 2 deti: Nelu a Jozefa. Sofia má len syna: Alexandra, atď.<br/> Všetci rodičia a ich deti sú zapísané v tabuľke:<br/> <image_1><br/> <b>Peter pozval</b> na obed všetkých svojich potomkov (deti, vnukov, pravnukov...).<br/> Koľko bobrov prišlo k Petrovi, ak nikto jeho pozvanie neodmietol? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "11"
+    },
+    {
+      "value": "1",
+      "label": "7"
+    },
+    {
+      "value": "2",
+      "label": "9"
+    },
+    {
+      "value": "3",
+      "label": "5"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/13/2013-SI-02_SK.png"
+  ],
+  "year": "2013/2014",
+  "category": "Kadet",
+  "type": "image",
+  "correct_index": 2,
+  "correct_answer": "9 ",
+  "correct_answer_plain": "9"
+}

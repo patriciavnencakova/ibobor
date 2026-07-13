@@ -1,0 +1,31 @@
+{
+  "id": 280,
+  "serial_number": 2,
+  "title": "Pridaj – Odober",
+  "question": "Ferko sa hrá s počítačom hru Pridaj - Odober. Počítač najprv vygeneruje niekoľko čísel. Potom vygeneruje niektoré z operácií:<br> <b>Pridaj N</b> znamená, že ku každému číslu sa pripočíta číslo N.<br> <b>Odober D</b> znamená, že od každého čísla sa odpočíta číslo D. <br> Úlohou hráča je vykonať s číslami vygenerovanú postupnosť operácií a zadať výsledné čísla.<br> Počítač vygeneroval čísla<br> <b>58, 24, 82, 37, 79</b><br> a operácie <br> <b>Odober 12, Pridaj 10, Odober 5</b><br> Aká je výsledná postupnosť čísel? <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "51, 19, 77, 32, 74"
+    },
+    {
+      "value": "1",
+      "label": "56, 22, 80, 35, 77"
+    },
+    {
+      "value": "2",
+      "label": "51, 17, 75, 30, 72"
+    },
+    {
+      "value": "3",
+      "label": "51, 17, 75, 30, 70"
+    }
+  ],
+  "images": [],
+  "year": "2018/2019",
+  "category": "Nevidiaci SŠ",
+  "type": "text",
+  "correct_index": 2,
+  "correct_answer": "51, 17, 75, 30, 72 ",
+  "correct_answer_plain": "51, 17, 75, 30, 72"
+}

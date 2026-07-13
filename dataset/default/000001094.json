@@ -1,0 +1,33 @@
+{
+  "id": 1093,
+  "serial_number": 11,
+  "title": "Rozdelenie priehrady",
+  "question": "Priehradu sme zakreslili do štvorčekovej siete. Modré políčka sú voda, hnedé políčka sú breh alebo kamene.<br/> Na priehrade bývajú 3 bobry: A, B a C.<br/> Každý bobor prepláva z políčka na susedné políčko (hore, dolu, doľava alebo doprava) za 1 minútu.<br/> Bobrovi patria všetky políčka s vodou, na ktoré dopláva najviac za 3 minúty.<br/> <image_1> <br/> <br/> Ktorému bobrovi patrí najviac políčok s vodou?<br/> <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "C"
+    },
+    {
+      "value": "1",
+      "label": "každému bobrovi patrí rovnaký počet políčok"
+    },
+    {
+      "value": "2",
+      "label": "A"
+    },
+    {
+      "value": "3",
+      "label": "B"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/20k/2020-SK-14.png"
+  ],
+  "year": "Karanténa",
+  "category": "6.-9.roč.",
+  "type": "image",
+  "correct_index": 0,
+  "correct_answer": "C ",
+  "correct_answer_plain": "C"
+}

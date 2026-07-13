@@ -1,0 +1,31 @@
+{
+  "id": 1004,
+  "serial_number": 15,
+  "title": "Označenie izieb",
+  "question": "Bobor Robo, veľký to architekt, vymyslel systém označovania izieb v hotelovom komplexe. Označenie izby sa zloží z troch častí v poradí: číslo budovy, číslo poschodia a číslo izby na uvedenom poschodí. Budovy, poschodia aj izby sa číslujú od 1. Napríklad izba číslo 2 na 3. poschodí v budove 4 dostane označenie 432.<br> Hotel má 5 budov, v každej 12 poschodí, na každom 120 izieb.<br> Robov systém však spôsobuje problémy, lebo niekoľko rôznych izieb môže mať rovnaké označenie.<br> <br> Ktoré z nasledujúcich označení má len jediná izba v hoteli? <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "3131"
+    },
+    {
+      "value": "1",
+      "label": "11111"
+    },
+    {
+      "value": "2",
+      "label": "3113"
+    },
+    {
+      "value": "3",
+      "label": "1122"
+    }
+  ],
+  "images": [],
+  "year": "2008/2009",
+  "category": "Junior",
+  "type": "text",
+  "correct_index": 0,
+  "correct_answer": "3131 ",
+  "correct_answer_plain": "3131"
+}

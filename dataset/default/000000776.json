@@ -1,0 +1,33 @@
+{
+  "id": 775,
+  "serial_number": 8,
+  "title": "Čierno-biele obrázky",
+  "question": "V počítači sa obrázky zobrazujú tak, že sú rozdelené do mriežky obrazových bodov. Pri čierno-bielych obrázkoch je každý bod čierny alebo biely. Počítač môže reprezentovať takéto obrázky pomocou čísel, napr.<br/> <image_1><br/> Prvé číslo v každom riadku označuje počet bielych bodov, nasledujúce číslo počet čiernych, ďalšie opäť počet bielych atď. <br/> Takže na našom obrázku je v prvom riadku najprv 0 bielych bodov a potom 5 čiernych. V druhom riadku sú 2 biele, 1 čierny a opäť 2 biele atď.<br/> <br/> Aké písmeno reprezentujú nasledujúce čísla?<br/> 0,1,3,1<br/> 0,1,3,1<br/> 0,5<br/> 0,1,3,1<br/> 0,1,3,1<br/> <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "E"
+    },
+    {
+      "value": "1",
+      "label": "B"
+    },
+    {
+      "value": "2",
+      "label": "H"
+    },
+    {
+      "value": "3",
+      "label": "U"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/11/2011-NL-08.png"
+  ],
+  "year": "2011/2012",
+  "category": "Benjamín",
+  "type": "image",
+  "correct_index": 2,
+  "correct_answer": "H ",
+  "correct_answer_plain": "H"
+}

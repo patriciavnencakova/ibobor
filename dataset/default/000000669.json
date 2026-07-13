@@ -1,0 +1,33 @@
+{
+  "id": 668,
+  "serial_number": 15,
+  "title": "Bobrí les",
+  "question": "Na mape je Bobrí les. Bodkami sú označené stromy a pri každom je zapísaná jeho výška. Medzi niektorými stromami sú skaly, takže bobor kvôli nim nevidí všetky stromy. Dva stromy sú spojené čiarou, ak bobor vidí z jedného stromu na druhý.<br/> <image_1><br/> Bobor Jakub chce zapôsobiť na Sáru svojou silou tým, že nájde a zotne čo najvyšší strom v Bobrom lese. Stojí pri strome s výškou 5 (pozri obrázok) a čo najvyšší strom hľadá nasledujúcim postupom:<ul><li>Pozrie sa na stromy, ktoré vidí z miesta, na ktorom práve stojí.</li><li>Prejde k najvyššiemu z nich (na začiatku si vyberá medzi stromami s výškou 4, 7 a 8 a teda prejde k stromu s výškou 8).</li><li>Tento postup opakuje, kým všetky stromy, ktoré vidí nie sú nižšie ako strom, pri ktorom stojí.</li></ul>Ako vysoký je strom, ktorý Jakub zotne? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "10"
+    },
+    {
+      "value": "1",
+      "label": "12"
+    },
+    {
+      "value": "2",
+      "label": "9"
+    },
+    {
+      "value": "3",
+      "label": "13"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/13/2013-SI-05_SK.png"
+  ],
+  "year": "2013/2014",
+  "category": "Junior",
+  "type": "image",
+  "correct_index": 0,
+  "correct_answer": "10 ",
+  "correct_answer_plain": "10"
+}

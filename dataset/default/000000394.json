@@ -1,0 +1,31 @@
+{
+  "id": 393,
+  "serial_number": 7,
+  "title": "Bobrie nory",
+  "question": "Tri bobry hrabú bobriu noru. Každý z nich sa špecializuje na iný typ nory: <br> Anna hrabe nízke nory s dĺžkou 5 metrov, <br> Benjamín hrabe nízke nory s dĺžkou 10 metrov, <br> Cyril sa špecializuje na hrabanie vysokých nor.<br> Bobry sa pri hrabaní nory striedali v rovnakom poradí a nakoniec mala ich nora nasledujúce úseky: <br> nízka s dĺžkou 5 metrov, <br> vysoká, <br> nízka s dĺžkou 15 metrov, <br> vysoká, <br> nízka s dĺžkou 15 metrov, <br> vysoká, <br> nízka s dĺžkou 10 metrov.<br> V akom poradí sa bobry striedali pri hrabaní nory? <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "Benjamín – Cyril – Anna"
+    },
+    {
+      "value": "1",
+      "label": "Cyril – Benjamín – Anna"
+    },
+    {
+      "value": "2",
+      "label": "Anna – Benjamín – Cyril"
+    },
+    {
+      "value": "3",
+      "label": "Anna – Cyril – Benjamín"
+    }
+  ],
+  "images": [],
+  "year": "2017/2018",
+  "category": "Nevidiaci ZŠ",
+  "type": "text",
+  "correct_index": 3,
+  "correct_answer": "Anna – Cyril – Benjamín ",
+  "correct_answer_plain": "Anna – Cyril – Benjamín"
+}

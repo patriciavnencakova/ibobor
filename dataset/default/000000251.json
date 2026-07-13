@@ -1,0 +1,33 @@
+{
+  "id": 250,
+  "serial_number": 2,
+  "title": "Cesty v tabuľke",
+  "question": "Cesty medzi mestami A až F sú zakreslené v tabuľke. Ak je v tabuľke v niektorom štvorčeku šípka, existuje priama <b>jednosmerná</b> cesta z mesta <b>v riadku</b> do mesta <b>v stĺpci</b>. Ak v štvorčeku šípka nie je, tak takáto cesta neexistuje.<br/> Napríklad existuje jednosmerná cesta z B do C, ale neexistuje jednosmerná cesta z C do B.<br/> <image_1><br/> Ktorý výrok je pravdivý? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "Ak sa chceme dostať z B do E, musíme ísť aspoň po 3 cestách."
+    },
+    {
+      "value": "1",
+      "label": "Ak sa chceme dostať z A do D, musíme ísť aspoň po 3 cestách."
+    },
+    {
+      "value": "2",
+      "label": "Ak sa chceme dostať z C do B, musíme ísť aspoň po 3 cestách."
+    },
+    {
+      "value": "3",
+      "label": "Ak sa chceme dostať z A do C, musíme ísť aspoň po 3 cestách."
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/18/2018-TW-07.png"
+  ],
+  "year": "2018/2019",
+  "category": "Junior",
+  "type": "image",
+  "correct_index": 1,
+  "correct_answer": "Ak sa chceme dostať z A do D, musíme ísť aspoň po 3 cestách. ",
+  "correct_answer_plain": "Ak sa chceme dostať z A do D, musíme ísť aspoň po 3 cestách."
+}

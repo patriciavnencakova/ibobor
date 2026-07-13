@@ -1,0 +1,33 @@
+{
+  "id": 941,
+  "serial_number": 12,
+  "title": "Kopírovanie vzorca",
+  "question": "V bunke C2 je zapísaný vzorec.<br/> <br/> <image_1><br/> <br/> Ak skopírujeme túto bunku do bunky D3, na aké číslo sa zmení číslo 66? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "69"
+    },
+    {
+      "value": "1",
+      "label": "73"
+    },
+    {
+      "value": "2",
+      "label": "z informácií, ktoré máme z obrázku, sa to nedá určiť"
+    },
+    {
+      "value": "3",
+      "label": "66"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/09/J_Kopirovanie_vzorca.gif"
+  ],
+  "year": "2009/2010",
+  "category": "Junior",
+  "type": "image",
+  "correct_index": 0,
+  "correct_answer": "69 ",
+  "correct_answer_plain": "69"
+}

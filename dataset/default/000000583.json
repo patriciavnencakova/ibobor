@@ -1,0 +1,31 @@
+{
+  "id": 582,
+  "serial_number": 1,
+  "title": "Školský časopis",
+  "question": "Bobria škola plánuje na konci roka vydať pre svojich absolventov časopis v dvoch verziách: ako webovú stránku a aj ako tlačený dokument.<br> <br> Aký grafický formát im odporučíte použiť na fotografie učiteľov a žiakov, aby bol vhodný pre obe verzie časopisu? <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "gif"
+    },
+    {
+      "value": "1",
+      "label": "jpg"
+    },
+    {
+      "value": "2",
+      "label": "bmp"
+    },
+    {
+      "value": "3",
+      "label": "mp4"
+    }
+  ],
+  "images": [],
+  "year": "2014/2015",
+  "category": "Junior",
+  "type": "text",
+  "correct_index": 1,
+  "correct_answer": "jpg ",
+  "correct_answer_plain": "jpg"
+}

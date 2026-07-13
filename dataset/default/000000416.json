@@ -1,0 +1,37 @@
+{
+  "id": 415,
+  "serial_number": 8,
+  "title": "Tanec",
+  "question": "Jožko sa učí nový tanec. Tanec sa začína takýmto postojom:<br/> <image_1><br/> Potom má<ol><li>pokrčiť obe nohy</li><li>zdvihnúť obe ruky</li><li>dať hlavu do boku</li><li>vystrieť obe nohy</li><li>dať hlavu na druhú stranu</li><li>dať dolu ruky</li><li>vyrovnať hlavu</li></ol><br/> V ktorej pozícii sa Jožko niekedy počas učenia tanca nachádzal?<br/> <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "<image_2>"
+    },
+    {
+      "value": "1",
+      "label": "<image_3>"
+    },
+    {
+      "value": "2",
+      "label": "<image_4>"
+    },
+    {
+      "value": "3",
+      "label": "<image_5>"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/16/2016-SK-07.png",
+    "http://demo.ibobor.sk/sutaz/images/16/2016-SK-07_B.png",
+    "http://demo.ibobor.sk/sutaz/images/16/2016-SK-07_C.png",
+    "http://demo.ibobor.sk/sutaz/images/16/2016-SK-07_A.png",
+    "http://demo.ibobor.sk/sutaz/images/16/2016-SK-07_D.png"
+  ],
+  "year": "2016/2017",
+  "category": "Benjamín",
+  "type": "image",
+  "correct_index": 0,
+  "correct_answer": "http://demo.ibobor.sk/sutaz/images/16/2016-SK-07_B.png",
+  "correct_answer_plain": null
+}

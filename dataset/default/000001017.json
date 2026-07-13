@@ -1,0 +1,33 @@
+{
+  "id": 1016,
+  "serial_number": 12,
+  "title": "Pyramída písmen",
+  "question": "<image_1><br/> <br/> Začneme písmenom <b>I</b> na vrchole pyramídy a v každom kroku pokračujeme na nižšiu úroveň. Pritom si môžeme vyberať jedno z dvoch písmen, ktoré je šikmo dole od momentálnej pozície. <br/> <br/> Koľko existuje rôznych trás, pri ktorých sa vytvorí slovo IBOBOR? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "64"
+    },
+    {
+      "value": "1",
+      "label": "32"
+    },
+    {
+      "value": "2",
+      "label": "128"
+    },
+    {
+      "value": "3",
+      "label": "11"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/08/J-S_STRUC_NL_003 .gif"
+  ],
+  "year": "2008/2009",
+  "category": "Senior",
+  "type": "image",
+  "correct_index": 1,
+  "correct_answer": "32 ",
+  "correct_answer_plain": "32"
+}

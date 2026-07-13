@@ -1,0 +1,37 @@
+{
+  "id": 757,
+  "serial_number": 2,
+  "title": "Ryba",
+  "question": "Matej kreslil v kresliacom programe rybu. Bol však nepozorný a niektoré čiary nespojil (pozri sa na obrázok):<br/> <image_1><br/> Potom chcel okolo ryby nakresliť vodu. Vybral si nástroj <b>Výplň</b>, zvolil modrú farbu a klikol tam, kde je na obrázku vedierko na výplň.<br/> <br/> Ktorý obrázok vznikol? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "<image_2>"
+    },
+    {
+      "value": "1",
+      "label": "<image_3>"
+    },
+    {
+      "value": "2",
+      "label": "<image_4>"
+    },
+    {
+      "value": "3",
+      "label": "<image_5>"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/11/2011-SK-15.gif",
+    "http://demo.ibobor.sk/sutaz/images/11/2011-SK-15_A.gif",
+    "http://demo.ibobor.sk/sutaz/images/11/2011-SK-15_B.gif",
+    "http://demo.ibobor.sk/sutaz/images/11/2011-SK-15_C.gif",
+    "http://demo.ibobor.sk/sutaz/images/11/2011-SK-15_D.gif"
+  ],
+  "year": "2011/2012",
+  "category": "Bobrík",
+  "type": "image",
+  "correct_index": 0,
+  "correct_answer": "http://demo.ibobor.sk/sutaz/images/11/2011-SK-15_A.gif",
+  "correct_answer_plain": null
+}

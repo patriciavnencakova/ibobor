@@ -1,0 +1,31 @@
+{
+  "id": 962,
+  "serial_number": 3,
+  "title": "Kurzíva",
+  "question": "Vyber pravdivú vetu: <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "<u>Táto veta je napísaná kurzívou.</u>"
+    },
+    {
+      "value": "1",
+      "label": "<i>Táto veta je napísaná kurzívou.</i>"
+    },
+    {
+      "value": "2",
+      "label": "Táto veta je napísaná kurzívou."
+    },
+    {
+      "value": "3",
+      "label": "<b>Táto veta je napísaná kurzívou.</b>"
+    }
+  ],
+  "images": [],
+  "year": "2008/2009",
+  "category": "Benjamín",
+  "type": "text",
+  "correct_index": 1,
+  "correct_answer": "<i>Táto veta je napísaná kurzívou.</i> ",
+  "correct_answer_plain": "Táto veta je napísaná kurzívou."
+}

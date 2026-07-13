@@ -1,0 +1,33 @@
+{
+  "id": 776,
+  "serial_number": 9,
+  "title": "Stretnutie",
+  "question": "Roboty Robo a Tóno sa dohodli, že sa stretnú v mestskom klube (domček na mape).<br/> Poznajú príkazy choď, otoč1, otoč2, ale každý im rozumie inak.<br/> <br/> choď pre Roba znamená, že prejde <b>1 štvorček</b> a pre Tóna znamená, že prejde <b>2 štvorčeky</b>,<br/> otoč1 pre Roba znamená, že sa otočí <b>vpravo</b> a pre Tóna, že sa otočí <b>vľavo</b>,<br/> otoč2 pre Roba znamená, že sa otočí <b>vľavo</b> a pre Tóna, že sa otočí <b>vpravo</b>,<br/> <br/> Na mape je modrou zobrazená cesta Roba a zelenou cesta Tóna.<br/> <image_1><br/> Aké príkazy sme im zadali, aby sa stretli v klube?<br/> <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "choď, otoč1, choď, otoč2, choď"
+    },
+    {
+      "value": "1",
+      "label": "choď, choď, choď, otoč1, choď, otoč2, choď"
+    },
+    {
+      "value": "2",
+      "label": "choď, choď, choď, otoč2, choď, otoč1, choď"
+    },
+    {
+      "value": "3",
+      "label": "choď, otoč1, choď, otoč1, choď, otoč2, choď"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/11/2011-SK-08_new_MT.png"
+  ],
+  "year": "2011/2012",
+  "category": "Benjamín",
+  "type": "image",
+  "correct_index": 1,
+  "correct_answer": "choď, choď, choď, otoč1, choď, otoč2, choď ",
+  "correct_answer_plain": "choď, choď, choď, otoč1, choď, otoč2, choď"
+}

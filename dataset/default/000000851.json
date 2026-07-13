@@ -1,0 +1,33 @@
+{
+  "id": 850,
+  "serial_number": 8,
+  "title": "Medaily",
+  "question": "Poradie krajín zúčastnených na olympiáde je určené počtom zlatých, strieborných a bronzových medailí. V nasledujúcej tabuľke vidíš štyri najúspešnejšie krajiny v určitom okamihu v priebehu hier.<br/> <image_1><br/> Krajiny sú zoradené najprv podľa množstva zlatých medailí, potom podľa množstva strieborných medailí a nakoniec podľa množstva bronzových medailí.<br/> V ktorom prípade sa zmení poradie krajín?<br/> <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "Líškovo dostane ďalšiu striebornú medailu"
+    },
+    {
+      "value": "1",
+      "label": "Vlkovo dostane ďalšiu bronzovú medailu"
+    },
+    {
+      "value": "2",
+      "label": "Bobrovo dostane ďalšiu zlatú medailu"
+    },
+    {
+      "value": "3",
+      "label": "Líškovo dostane ďalšiu bronzovú medailu"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/10/2010-NL-12.png"
+  ],
+  "year": "2010/2011",
+  "category": "Kadet",
+  "type": "image",
+  "correct_index": 0,
+  "correct_answer": "Líškovo dostane ďalšiu striebornú medailu ",
+  "correct_answer_plain": "Líškovo dostane ďalšiu striebornú medailu"
+}

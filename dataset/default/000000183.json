@@ -1,0 +1,31 @@
+{
+  "id": 182,
+  "serial_number": 3,
+  "title": "Tabuľka",
+  "question": "Janka má v počítači tabuľku, ktorá má 5 stĺpcov a 5 riadkov. Stĺpce sú zľava doprava označené písmenami od A po E. Riadky sú zhora nadol označené číslami od 1 po 5. <br> Adresa každej bunky je jednoznačne určená písmenom stĺpca a číslom riadku, v ktorých sa nachádza. Janka bola nastavená na bunke C4 (v treťom stĺpci a štvrtom riadku). Potom postláčala takúto postupnosť klávesov:<br> vľavo vľavo hore Delete vpravo dole vpravo dole Delete<br> Obsahy ktorých dvoch buniek Janka zmazala? <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "A3 D5"
+    },
+    {
+      "value": "1",
+      "label": "A3 C5"
+    },
+    {
+      "value": "2",
+      "label": "A2 D5"
+    },
+    {
+      "value": "3",
+      "label": "A2 C4"
+    }
+  ],
+  "images": [],
+  "year": "2019/2020",
+  "category": "Nevidiaci SŠ",
+  "type": "text",
+  "correct_index": 1,
+  "correct_answer": "A3 C5 ",
+  "correct_answer_plain": "A3 C5"
+}

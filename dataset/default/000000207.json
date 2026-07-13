@@ -1,0 +1,35 @@
+{
+  "id": 206,
+  "serial_number": 9,
+  "title": "Smetiarske autá",
+  "question": "Na obrázku je mapa parku, rozdelená na štvorčeky. Na každom štvorčeku je zapísaný počet smetí, ktoré tam zanechali turisti. Mesto má dve robotické smetiarske autá: A a B. Autá parkujú vedľa seba tak, ako vidíme na obrázku. Keď auto prejde cez štvorček, pozbiera z neho pritom všetky smeti.<br/> Najprv išlo zbierať smeti auto A.<br/> Dostalo takéto príkazy:<image_1><br/> Keď auto A skončilo, auto B dostalo takéto príkazy:<image_2><br/> <br/> <image_3><br/> Koľko kusov smetí vyzbieralo auto B, keď vykonalo všetky príkazy? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "3"
+    },
+    {
+      "value": "1",
+      "label": "12"
+    },
+    {
+      "value": "2",
+      "label": "9"
+    },
+    {
+      "value": "3",
+      "label": "11"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/18/2018-SK-05_prikazy.png",
+    "http://demo.ibobor.sk/sutaz/images/18/2018-SK-05_prikazy.png",
+    "http://demo.ibobor.sk/sutaz/images/18/2018-SK-05_mapa.png"
+  ],
+  "year": "2018/2019",
+  "category": "Drobec",
+  "type": "image",
+  "correct_index": 2,
+  "correct_answer": "9 ",
+  "correct_answer_plain": "9"
+}

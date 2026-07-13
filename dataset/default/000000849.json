@@ -1,0 +1,31 @@
+{
+  "id": 848,
+  "serial_number": 6,
+  "title": "Kolaloka",
+  "question": "Bobria škola organizuje oslavu. Bobri starší ako 10 rokov majú dovolené piť Kolaloku, mladší nie. Starší bobri dostanú pri vstupe náramok aby ich barmani rozpoznali.<br> Na škole majú databázu všetkých študentov a každý má školskú kartu s fotkou a identifikačným číslom.<br> <br> Máme vytvoriť program pre učiteľa pri vstupe na oslavu.<br> Učiteľ pri vstupe skontroluje fotku a naskenuje z karty identifikačné číslo.<br> Na základe toho program nájde študentove údaje v databáze a rozhodne, či dostane náramok, alebo nie.<br> <br> Ktorá informácia nie je podstatná pre riadne fungovanie programu? <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "Priezvisko študenta"
+    },
+    {
+      "value": "1",
+      "label": "Či už študent dostal náramok"
+    },
+    {
+      "value": "2",
+      "label": "Dátum narodenia študenta"
+    },
+    {
+      "value": "3",
+      "label": "Číslo študenta"
+    }
+  ],
+  "images": [],
+  "year": "2010/2011",
+  "category": "Kadet",
+  "type": "text",
+  "correct_index": 0,
+  "correct_answer": "Priezvisko študenta\n ",
+  "correct_answer_plain": "Priezvisko študenta"
+}

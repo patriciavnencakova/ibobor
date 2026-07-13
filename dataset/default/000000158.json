@@ -1,0 +1,34 @@
+{
+  "id": 157,
+  "serial_number": 8,
+  "title": "Vyšívanie",
+  "question": "Tetka Marika si kúpila automatický vyšívací stroj. Na jeho programovanie sa používajú dvojice príkazov, ktoré určujú, na ktorom mieste plátna je potrebné vytiahnuť, resp. zapichnúť ihlu s niťou.<br/> Výšivka<br/> <image_1><br/> vznikla príkazmi <b>B2-D4, E2-E4</b><br/> Ktorými príkazmi vznikla táto výšivka?<br/> <image_2> <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "<b>D1-F1, D7-F7, D1-D7, F7-D1, D7-A4, D1-A4</b>"
+    },
+    {
+      "value": "1",
+      "label": "<b>D1-F1, D7-F7, D7-D1, F1-F7, D7-A4, D1-A4</b>"
+    },
+    {
+      "value": "2",
+      "label": "<b>D1-F1, D7-F7, D7-D1, D7-F7, D7-A4, D1-A4</b>"
+    },
+    {
+      "value": "3",
+      "label": "<b>D1-F1, D7-F7, F1-D1, F1-F7, D7-A4, D1-A4</b>"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/19/2019-KR-05.png",
+    "http://demo.ibobor.sk/sutaz/images/19/2019-KR-05_J_otazka.png"
+  ],
+  "year": "2019/2020",
+  "category": "Junior",
+  "type": "image",
+  "correct_index": 1,
+  "correct_answer": "<b>D1-F1, D7-F7, D7-D1, F1-F7, D7-A4, D1-A4</b> ",
+  "correct_answer_plain": "D1-F1, D7-F7, D7-D1, F1-F7, D7-A4, D1-A4"
+}

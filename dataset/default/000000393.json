@@ -1,0 +1,31 @@
+{
+  "id": 392,
+  "serial_number": 6,
+  "title": "Výmeny",
+  "question": "Na dvore stoja zvieratká usporiadané v jednom rade takto:<br> pes mačka myš pes mačka mačka pes<br> Iba zvieratká, ktoré stoja vedľa seba si môžu vymeniť miesto.<br> Najmenej koľko výmen je potrebných, aby všetci psi stáli tesne vedľa seba? <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "3"
+    },
+    {
+      "value": "1",
+      "label": "5"
+    },
+    {
+      "value": "2",
+      "label": "4"
+    },
+    {
+      "value": "3",
+      "label": "6"
+    }
+  ],
+  "images": [],
+  "year": "2017/2018",
+  "category": "Nevidiaci ZŠ",
+  "type": "text",
+  "correct_index": 2,
+  "correct_answer": "4 ",
+  "correct_answer_plain": "4"
+}

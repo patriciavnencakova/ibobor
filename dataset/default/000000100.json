@@ -1,0 +1,37 @@
+{
+  "id": 99,
+  "serial_number": 1,
+  "title": "Animácia",
+  "question": "Lili chcela vytvoriť animáciu napúšťania vody do pohára. Zatiaľ má umiestnený iba prvý a posledný obrázok.<br/> <image_1><br/> Ktorý obrázok má byť na mieste s otáznikom? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "<image_2>"
+    },
+    {
+      "value": "1",
+      "label": "<image_3>"
+    },
+    {
+      "value": "2",
+      "label": "<image_4>"
+    },
+    {
+      "value": "3",
+      "label": "<image_5>"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/19/2019-IS-02_zadanie.png",
+    "http://demo.ibobor.sk/sutaz/images/19/2019-IS-02_D_d.png",
+    "http://demo.ibobor.sk/sutaz/images/19/2019-IS-02_D_b.png",
+    "http://demo.ibobor.sk/sutaz/images/19/2019-IS-02_D_a.png",
+    "http://demo.ibobor.sk/sutaz/images/19/2019-IS-02_D_c.png"
+  ],
+  "year": "2019/2020",
+  "category": "Drobec",
+  "type": "image",
+  "correct_index": 1,
+  "correct_answer": "http://demo.ibobor.sk/sutaz/images/19/2019-IS-02_D_b.png",
+  "correct_answer_plain": null
+}

@@ -1,0 +1,37 @@
+{
+  "id": 769,
+  "serial_number": 2,
+  "title": "Mozaika",
+  "question": "Bobria slečna Lucia si vyrába mozaiku z farebných štvorčekov. Časť už má hotovú a chce ju dokončiť tak, aby bola pravidelná.<br/> <image_1><br/> <br/> Akých farieb budú tri štvorčeky v pravom hornom rohu? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "<image_2>"
+    },
+    {
+      "value": "1",
+      "label": "<image_3>"
+    },
+    {
+      "value": "2",
+      "label": "<image_4>"
+    },
+    {
+      "value": "3",
+      "label": "<image_5>"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/11/2011-LT-01_SK.png",
+    "http://demo.ibobor.sk/sutaz/images/11/2011-LT-01_C.gif",
+    "http://demo.ibobor.sk/sutaz/images/11/2011-LT-01_A.gif",
+    "http://demo.ibobor.sk/sutaz/images/11/2011-LT-01_D.gif",
+    "http://demo.ibobor.sk/sutaz/images/11/2011-LT-01_B.gif"
+  ],
+  "year": "2011/2012",
+  "category": "Benjamín",
+  "type": "image",
+  "correct_index": 2,
+  "correct_answer": "http://demo.ibobor.sk/sutaz/images/11/2011-LT-01_D.gif",
+  "correct_answer_plain": null
+}

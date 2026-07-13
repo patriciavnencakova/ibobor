@@ -1,0 +1,37 @@
+{
+  "id": 204,
+  "serial_number": 7,
+  "title": "Traktor",
+  "question": "Elektrický traktor zbiera z kopčekov mrkvy. Má dve tlačidlá: <i>Prejdi na ďalší kopček</i> a <i>Vezmi všetky mrkvy z kopčeka, na ktorom stojíš</i>. <br/> <image_1><br/> V akom poradí treba stlačíť tlačidlá na traktore, aby pozbieral všetky mrkvy?<br/> <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "<image_2>"
+    },
+    {
+      "value": "1",
+      "label": "<image_3>"
+    },
+    {
+      "value": "2",
+      "label": "<image_4>"
+    },
+    {
+      "value": "3",
+      "label": "<image_5>"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/18/2018-SK-34_otazka.png",
+    "http://demo.ibobor.sk/sutaz/images/18/2018-SK-34_a.png",
+    "http://demo.ibobor.sk/sutaz/images/18/2018-SK-34_c.png",
+    "http://demo.ibobor.sk/sutaz/images/18/2018-SK-34_b.png",
+    "http://demo.ibobor.sk/sutaz/images/18/2018-SK-34_d.png"
+  ],
+  "year": "2018/2019",
+  "category": "Drobec",
+  "type": "image",
+  "correct_index": 0,
+  "correct_answer": "http://demo.ibobor.sk/sutaz/images/18/2018-SK-34_a.png",
+  "correct_answer_plain": null
+}

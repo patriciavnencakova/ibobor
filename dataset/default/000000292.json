@@ -1,0 +1,31 @@
+{
+  "id": 291,
+  "serial_number": 4,
+  "title": "Priečinky",
+  "question": "Marek vidí v prieskumníkovi cestu k priečinku s jeho obľúbeným spevákom takto: <br> <b>C:\\Hudba\\Pop\\MiroJaros</b><br> Ktoré tvrdenie je pravdivé? <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "Priečinok Pop je v priečinku MiroJaros."
+    },
+    {
+      "value": "1",
+      "label": "Priečinok MiroJaros je v priečinku Pop."
+    },
+    {
+      "value": "2",
+      "label": "Priečinok Hudba je v priečinku Pop."
+    },
+    {
+      "value": "3",
+      "label": "Priečinok Hudba je v priečinku MiroJaros."
+    }
+  ],
+  "images": [],
+  "year": "2018/2019",
+  "category": "Nevidiaci ZŠ",
+  "type": "text",
+  "correct_index": 1,
+  "correct_answer": "Priečinok MiroJaros je v priečinku Pop. ",
+  "correct_answer_plain": "Priečinok MiroJaros je v priečinku Pop."
+}

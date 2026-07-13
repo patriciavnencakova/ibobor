@@ -1,0 +1,48 @@
+{
+  "id": 528,
+  "serial_number": 4,
+  "title": "Výrobcovia hračiek",
+  "question": "Bobry Adam a Lucia vyrábajú drevené hračky. Aby ušetrili za nákup nástrojov, kúpili si spoločné kladivo, nožnice a pílku. Keďže bývajú každý na inom brehu rieky, nástroje umiestnili na tri ostrovy. Ak niekto z nich potrebuje niektorý nástroj, prepláva k ostrovu a ak tam nástroj je, zoberie si ho. Ak na ostrove nástroj nie je, počká tam, kým druhý bobor nástroj vráti. Ak bobor už nástroj nepotrebuje, vráti ho na ostrov.<br/> Každý bobor niekedy potrebuje k práci viac nástrojov súčasne. Preto sa môže stať, že Adam potrebuje nástroj, ktorý práve vtedy používa Lucia a Lucia potrebuje nástroj, ktorý používa Adam. Keď takáto situácia nastane, bobry prestanú vyrábať hračky.<br/> V ktorej z nasledujúcich situácií prestanú bobry vyrábať hračky? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "Adam má<image_1> a potrebuje <image_2>. Lucia má <image_3> a potrebuje <image_4>."
+    },
+    {
+      "value": "1",
+      "label": "Adam má<image_5> a potrebuje <image_6>. Lucia má <image_7> a potrebuje <image_8>."
+    },
+    {
+      "value": "2",
+      "label": "Adam má<image_9> a potrebuje <image_10>. Lucia má <image_11> a potrebuje <image_12>."
+    },
+    {
+      "value": "3",
+      "label": "Adam má<image_13> a potrebuje <image_14>. Lucia má <image_15> a potrebuje <image_16>."
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/15/2015-JP-01_kladivo.png",
+    "http://demo.ibobor.sk/sutaz/images/15/2015-JP-01_pilka.png",
+    "http://demo.ibobor.sk/sutaz/images/15/2015-JP-01_pilka.png",
+    "http://demo.ibobor.sk/sutaz/images/15/2015-JP-01_kladivo.png",
+    "http://demo.ibobor.sk/sutaz/images/15/2015-JP-01_kladivo.png",
+    "http://demo.ibobor.sk/sutaz/images/15/2015-JP-01_pilka.png",
+    "http://demo.ibobor.sk/sutaz/images/15/2015-JP-01_pilka.png",
+    "http://demo.ibobor.sk/sutaz/images/15/2015-JP-01_noznice.png",
+    "http://demo.ibobor.sk/sutaz/images/15/2015-JP-01_kladivo.png",
+    "http://demo.ibobor.sk/sutaz/images/15/2015-JP-01_pilka.png",
+    "http://demo.ibobor.sk/sutaz/images/15/2015-JP-01_noznice.png",
+    "http://demo.ibobor.sk/sutaz/images/15/2015-JP-01_kladivo.png",
+    "http://demo.ibobor.sk/sutaz/images/15/2015-JP-01_kladivo.png",
+    "http://demo.ibobor.sk/sutaz/images/15/2015-JP-01_pilka.png",
+    "http://demo.ibobor.sk/sutaz/images/15/2015-JP-01_noznice.png",
+    "http://demo.ibobor.sk/sutaz/images/15/2015-JP-01_pilka.png"
+  ],
+  "year": "2015/2016",
+  "category": "Senior",
+  "type": "image",
+  "correct_index": 0,
+  "correct_answer": "http://demo.ibobor.sk/sutaz/images/15/2015-JP-01_kladivo.png",
+  "correct_answer_plain": null
+}

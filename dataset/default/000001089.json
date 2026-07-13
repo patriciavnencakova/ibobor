@@ -1,0 +1,35 @@
+{
+  "id": 1088,
+  "serial_number": 6,
+  "title": "Kódovanie čísel",
+  "question": "Zita chce zakódovať čísla do dvojrozmernej tabuľky.<br/> Pripravila si obrázok každého čísla tak, ako by sa zobrazil na 7 segementovom LED displeji.<br/> Každý zo 7 segmentov LED displeja si označila písmenom:<br/> <image_1><br/> Napr. číslo 103 zakóduje do tabuľky takto:<br/> <image_2><br/> Aké číslo je zakódované v tejto tabuľke?<br/> <image_3> <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "42395"
+    },
+    {
+      "value": "1",
+      "label": "42392"
+    },
+    {
+      "value": "2",
+      "label": "42305"
+    },
+    {
+      "value": "3",
+      "label": "42795"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/20k/2019-MY-02.png",
+    "http://demo.ibobor.sk/sutaz/images/20k/2019-MY-02_ukazka.png",
+    "http://demo.ibobor.sk/sutaz/images/20k/2019-MY-02_otazka.png"
+  ],
+  "year": "Karanténa",
+  "category": "6.-9.roč.",
+  "type": "image",
+  "correct_index": 0,
+  "correct_answer": "42395 ",
+  "correct_answer_plain": "42395"
+}

@@ -1,0 +1,33 @@
+{
+  "id": 1066,
+  "serial_number": 2,
+  "title": "Farebné chodby",
+  "question": "Alica chodí do školy, v ktorej je každá chodba buď modrá, červená alebo zelená.<br/> <image_1><br/> Cestou do počítačovej učebne si chce zobrať knihu.<br/> Akými chodbami postupne prejde? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "modrá – červená – modrá"
+    },
+    {
+      "value": "1",
+      "label": "červená – modrá – červená"
+    },
+    {
+      "value": "2",
+      "label": "modrá – zelená – modrá – zelená"
+    },
+    {
+      "value": "3",
+      "label": "modrá – červená – zelená – modrá"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/19/2019-SK-01.png"
+  ],
+  "year": "Prechádzky",
+  "category": "3.-4.roč.",
+  "type": "image",
+  "correct_index": 0,
+  "correct_answer": "modrá – červená – modrá ",
+  "correct_answer_plain": "modrá – červená – modrá"
+}

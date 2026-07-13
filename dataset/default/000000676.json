@@ -1,0 +1,31 @@
+{
+  "id": 675,
+  "serial_number": 7,
+  "title": "Stromy",
+  "question": "V lese rastú dva špeciálne druhy stromov. <br> Typ A žije len jeden rok (od semienka), ale na konci roku vyprodukuje jedno semienko typu B. Typ B žije navždy a na konci každého roku vyprodukuje jedno semienko typu A.<br> Ak vysadíme práve jedno semienko typu A, koľko stromov a semienok typu A a typu B bude v lese po 10 rokoch? <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "34 semienok typu A a spolu 55 semienok a stromov typu B"
+    },
+    {
+      "value": "1",
+      "label": "121 semienok typu A a spolu 55 semienok a stromov typu B"
+    },
+    {
+      "value": "2",
+      "label": "54 semienok typu A a spolu 144 semienok a stromov typu B"
+    },
+    {
+      "value": "3",
+      "label": "34 semienok typu A a spolu 20 semienok a stromov typu B"
+    }
+  ],
+  "images": [],
+  "year": "2013/2014",
+  "category": "Senior",
+  "type": "text",
+  "correct_index": 0,
+  "correct_answer": "34 semienok typu A a spolu 55 semienok a stromov typu B ",
+  "correct_answer_plain": "34 semienok typu A a spolu 55 semienok a stromov typu B"
+}

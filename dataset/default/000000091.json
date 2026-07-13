@@ -1,0 +1,31 @@
+{
+  "id": 90,
+  "serial_number": 1,
+  "title": "Okolo jazera",
+  "question": "Bobor sa chodí prechádzať okolo jazera, ku ktorému vedie len jedna prístupová cesta. Prechádzku začne buď smerom vľavo alebo vpravo a obíde celé jazero.<br> Včera išiel smerom <b>vľavo</b> a na svojej prechádzke <b>postupne videl</b>:<br> lavičku, slnečník, zavlažovač, slnečník, slnečník.<br> Dnes išiel smerom <b>vpravo</b> a postupne <b>videl</b>:<br> slnečník, lavičku, zavlažovač, slnečník, lavičku.<br> Čo sa odvčera zmenilo? <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "namiesto lavičky je teraz slnečník"
+    },
+    {
+      "value": "1",
+      "label": "všetko je rovnaké ako včera"
+    },
+    {
+      "value": "2",
+      "label": "namiesto slnečníka je teraz lavička"
+    },
+    {
+      "value": "3",
+      "label": "namiesto zavlažovača je slnečník"
+    }
+  ],
+  "images": [],
+  "year": "2020/2021",
+  "category": "Nevidiaci ZŠ",
+  "type": "text",
+  "correct_index": 2,
+  "correct_answer": "namiesto slnečníka je teraz lavička ",
+  "correct_answer_plain": "namiesto slnečníka je teraz lavička"
+}

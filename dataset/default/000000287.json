@@ -1,0 +1,31 @@
+{
+  "id": 286,
+  "serial_number": 8,
+  "title": "Cesty",
+  "question": "Medzi mestami A až F existujú priame jednosmerné cesty takto:<br> z mesta A do mesta B,<br> z mesta B do mesta C,<br> z mesta C do každého z miest A, D, E,<br> z mesta E do mesta F,<br> z mesta F do každého z miest B a E.<br> Ak existuje jednosmerná cesta z A do C, neznamená to, že existuje aj jednosmerná cesta z C do A.<br> Ktorý výrok je pravdivý? <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "Ak sa chceme dostať z C do B, musíme ísť aspoň po 3 cestách."
+    },
+    {
+      "value": "1",
+      "label": "Ak sa chceme dostať z A do C, musíme ísť aspoň po 3 cestách."
+    },
+    {
+      "value": "2",
+      "label": "Ak sa chceme dostať z A do D, musíme ísť aspoň po 3 cestách."
+    },
+    {
+      "value": "3",
+      "label": "Ak sa chceme dostať z B do E, musíme ísť aspoň po 3 cestách."
+    }
+  ],
+  "images": [],
+  "year": "2018/2019",
+  "category": "Nevidiaci SŠ",
+  "type": "text",
+  "correct_index": 2,
+  "correct_answer": "Ak sa chceme dostať z A do D, musíme ísť aspoň po 3 cestách. ",
+  "correct_answer_plain": "Ak sa chceme dostať z A do D, musíme ísť aspoň po 3 cestách."
+}

@@ -1,0 +1,43 @@
+{
+  "id": 923,
+  "serial_number": 9,
+  "title": "Pískanie",
+  "question": "Kmeň Bobropískačov komunikuje na dlhé vzdialenosti pomocou postupnosti kratších <image_1> a dlhších <image_2>písknutí.<br/> Pre každé písmeno majú kód pozostávajúci z niekoľkých písknutí. Medzi pískaním jednotlivých písmen je vždy dlhšia pauza <image_3> .<br/> <br/> Už sa ti podarilo rozlúštiť časť kódu:<br/> I znie <image_4> <br/> K znie <image_5><br/> O znie <image_6><br/> R znie <image_7><br/> <br/> Ako Bobropískači pískajú slovo BOBRIK? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "<image_8>"
+    },
+    {
+      "value": "1",
+      "label": "<image_9>"
+    },
+    {
+      "value": "2",
+      "label": "<image_10>"
+    },
+    {
+      "value": "3",
+      "label": "<image_11>"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/09/K_piskanie_bodka.gif",
+    "http://demo.ibobor.sk/sutaz/images/09/K_piskanie_ciarka.gif ",
+    "http://demo.ibobor.sk/sutaz/images/09/K_piskanie_medzera.gif",
+    "http://demo.ibobor.sk/sutaz/images/09/K_piskanie_I_znie.gif",
+    "http://demo.ibobor.sk/sutaz/images/09/K_piskanie_K_znie.gif",
+    "http://demo.ibobor.sk/sutaz/images/09/K_piskanie_O_znie.gif",
+    "http://demo.ibobor.sk/sutaz/images/09/K_piskanie_R_znie.gif",
+    "http://demo.ibobor.sk/sutaz/images/09/K_piskanie_B.gif",
+    "http://demo.ibobor.sk/sutaz/images/09/K_piskanie_C.gif",
+    "http://demo.ibobor.sk/sutaz/images/09/K_piskanie_A.gif",
+    "http://demo.ibobor.sk/sutaz/images/09/K_piskanie_D.gif"
+  ],
+  "year": "2009/2010",
+  "category": "Kadet",
+  "type": "image",
+  "correct_index": 3,
+  "correct_answer": "http://demo.ibobor.sk/sutaz/images/09/K_piskanie_D.gif",
+  "correct_answer_plain": null
+}

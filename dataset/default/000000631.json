@@ -1,0 +1,37 @@
+{
+  "id": 630,
+  "serial_number": 7,
+  "title": "Zmrzlinový stroj",
+  "question": "Zmrzlinový stroj nakladá zmrzlinu do kornútikov špeciálnym spôsobom: do jedného kornútika dá vždy 4 kopčeky zmrzliny. Na obrázku vidno posledné tri kornútiky so zmrzlinou, ktoré stroj práve pripravil.<br/> <image_1><br/> Ako bude vyzerať ďalší kornútik? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "<image_2>"
+    },
+    {
+      "value": "1",
+      "label": "<image_3>"
+    },
+    {
+      "value": "2",
+      "label": "<image_4>"
+    },
+    {
+      "value": "3",
+      "label": "<image_5>"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/13/2013-HU-01_stroj_na_zmrzlinu.png",
+    "http://demo.ibobor.sk/sutaz/images/13/2013-HU-01_SK_C.png",
+    "http://demo.ibobor.sk/sutaz/images/13/2013-HU-01_SK_B.png",
+    "http://demo.ibobor.sk/sutaz/images/13/2013-HU-01_SK_A.png",
+    "http://demo.ibobor.sk/sutaz/images/13/2013-HU-01_SK_D.png"
+  ],
+  "year": "2013/2014",
+  "category": "Benjamín",
+  "type": "image",
+  "correct_index": 2,
+  "correct_answer": "http://demo.ibobor.sk/sutaz/images/13/2013-HU-01_SK_A.png",
+  "correct_answer_plain": null
+}

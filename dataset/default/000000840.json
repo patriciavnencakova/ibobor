@@ -1,0 +1,31 @@
+{
+  "id": 839,
+  "serial_number": 12,
+  "title": "Člnkovanie",
+  "question": "22 bobrov sa chystá člnkovať. Každý bobor má len 1 mincu. Na rieke je požičovňa člnkov, kde majú člnky pre 1, 2, 4, 8, 16 a 32 bobrov. Z každého len jeden. Cena člnku sa rovná počtu miest v ňom. (takže jednomiestny stojí 1 mincu, dvojmiestny stojí 2 mince, atď.).<br> <br> Koľko člnkov si musia prenajať? <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "1"
+    },
+    {
+      "value": "1",
+      "label": "2"
+    },
+    {
+      "value": "2",
+      "label": "3"
+    },
+    {
+      "value": "3",
+      "label": "4"
+    }
+  ],
+  "images": [],
+  "year": "2010/2011",
+  "category": "Benjamín",
+  "type": "text",
+  "correct_index": 2,
+  "correct_answer": "3 ",
+  "correct_answer_plain": "3"
+}

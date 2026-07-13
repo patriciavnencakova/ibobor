@@ -1,0 +1,33 @@
+{
+  "id": 370,
+  "serial_number": 8,
+  "title": "Dráčik a princezná",
+  "question": "Z kartičiek typu A alebo B sme na štvorčekovej sieti pripravili cestu dráčika k princeznej.<br/> <image_1><br/> Túto cestu môžeme zapísať postupnosťou BBAABB. Všimni si, že každá kartička z postupnosti môže byť v ceste aj otočená.<br/> Z ktorej postupnosti kartičiek sa <b>nedá</b> pripraviť cesta od dráčika k princeznej? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "ABBABB"
+    },
+    {
+      "value": "1",
+      "label": "BBAAAA"
+    },
+    {
+      "value": "2",
+      "label": "BAABAB"
+    },
+    {
+      "value": "3",
+      "label": "AAABAB"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/17/2017-HU-08_S-ukazka.png"
+  ],
+  "year": "2017/2018",
+  "category": "Senior",
+  "type": "image",
+  "correct_index": 1,
+  "correct_answer": "BBAAAA ",
+  "correct_answer_plain": "BBAAAA"
+}

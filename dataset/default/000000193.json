@@ -1,0 +1,31 @@
+{
+  "id": 192,
+  "serial_number": 4,
+  "title": "Taniere",
+  "question": "Janka doma používa 3 druhy tanierov: veľké, stredné a malé<br> V umývačke musia byť taniere uložené podľa veľkosti, najprv veľké, potom stredné, nakoniec malé. Ak nie sú uložené správne, Janka ich postupne usporiada tak, že vždy jeden tanier premiestni na voľné miesto.<br> Teraz sú taniere uložené takto:<br> veľký veľký stredný stredný malý malý voľné veľký<br> Najmenej koľko tanierov musí Janka premiestniť, aby boli všetky taniere uložené podľa veľkosti? <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "3"
+    },
+    {
+      "value": "1",
+      "label": "2"
+    },
+    {
+      "value": "2",
+      "label": "4"
+    },
+    {
+      "value": "3",
+      "label": "6"
+    }
+  ],
+  "images": [],
+  "year": "2019/2020",
+  "category": "Nevidiaci ZŠ",
+  "type": "text",
+  "correct_index": 0,
+  "correct_answer": "3 ",
+  "correct_answer_plain": "3"
+}

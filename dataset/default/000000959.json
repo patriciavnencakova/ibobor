@@ -1,0 +1,33 @@
+{
+  "id": 958,
+  "serial_number": 14,
+  "title": "Spolupracujúce roboty",
+  "question": "Skupina robotov musí preniesť niekoľko brvien z jedného miesta na druhé. Každé brvno musia niesť vždy dva roboty.<br/> Správanie robotov zobrazuje diagram. Kruhy v diagrame reprezentujú stav robota. Robot môže prejsť z jedného stavu do druhého, ak nastane udalosť napísaná pri šípke.<br/> <image_1><br/> Napríklad: Ak robot <b><i>hľadá brvno</i></b> (stav) a <b><i>našiel brvno</i></b> (udalosť), zmení svoje správanie na <b><i>volá o pomoc</i></b> (stav).<br/> <br/> Ktoré správanie robotov <b>nie je</b> možné? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "Keď dva roboty nesú brvno a počujú iného robota volajúceho o pomoc, pustia brvno a idú pomôcť volajúcemu robotovi."
+    },
+    {
+      "value": "1",
+      "label": "Keď už nie je žiadne voľné brvno, roboty stále hľadajú."
+    },
+    {
+      "value": "2",
+      "label": "Ak každý robot v rovnakom čase nájde iné brvno, nemôžu roboty dokončiť svoju prácu."
+    },
+    {
+      "value": "3",
+      "label": "Keď robot volá o pomoc, všetky roboty, ktoré hľadajú brvno, pôjdu k nemu."
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/09/S_spoluprac_roboti.gif "
+  ],
+  "year": "2009/2010",
+  "category": "Senior",
+  "type": "image",
+  "correct_index": 0,
+  "correct_answer": "Keď dva roboty nesú brvno a počujú iného robota volajúceho o pomoc, pustia brvno a idú pomôcť volajúcemu robotovi. ",
+  "correct_answer_plain": "Keď dva roboty nesú brvno a počujú iného robota volajúceho o pomoc, pustia brvno a idú pomôcť volajúcemu robotovi."
+}

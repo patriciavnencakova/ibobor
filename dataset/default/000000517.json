@@ -1,0 +1,33 @@
+{
+  "id": 516,
+  "serial_number": 7,
+  "title": "Zotínanie stromov",
+  "question": "Lukáš chce zoťať 9 stromov, ktoré sú zasadené do kruhu. Stromy si označil písmenami A až I.<br/> <image_1><br/> Postavil sa k stromu A. Potom prechádzal k stromom a zotínal ich podľa nasledujúcich pravidiel:<ul><li>najprv išiel <b>v smere pohybu</b> hodinových ručičiek a prešiel k <b>prvému</b> stromu (teda k stromu B) a zoťal ho</li><li>potom išiel <b>v smere proti pohybu</b> hodinových ručičiek a prešiel k <b>druhému</b> stromu a zoťal ho</li><li>takto pokračoval v prechádzaní a zotínaní stromov tak, že <b>striedal</b> pohyb v smere a proti smeru pohybu hodinových ručičiek a <b>zvyšoval</b> počet prejdených stromov o jeden. Pri počítaní prejdených stromov <b>nezapočítaval</b> stromy, ktoré už predtým zoťal.</li></ul><br/> Ktoré dva stromy zostali stáť ako posledné? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "E a I"
+    },
+    {
+      "value": "1",
+      "label": "A a C"
+    },
+    {
+      "value": "2",
+      "label": "A a H"
+    },
+    {
+      "value": "3",
+      "label": "E a H"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/15/2015-NL-02.png"
+  ],
+  "year": "2015/2016",
+  "category": "Junior",
+  "type": "image",
+  "correct_index": 2,
+  "correct_answer": "A a H ",
+  "correct_answer_plain": "A a H"
+}

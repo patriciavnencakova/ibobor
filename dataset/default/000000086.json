@@ -1,0 +1,31 @@
+{
+  "id": 85,
+  "serial_number": 5,
+  "title": "Robot",
+  "question": "Robot sa pohybuje po záhradke o veľkosti 3 krát 3 štvorcové políčka.<br> Robot pozná príkazy:<br> <b>Krok</b> – prejde na susedné políčko, ktoré je pred ním<br> <b>Vľavo</b> – otočí sa na aktuálnom políčku o 90 stupňov vľavo<br> <b>Vpravo</b> – otočí sa na aktuálnom políčku o 90 stupňov vpravo<br> Robot dostal nasledujúci program:<br> <b>Krok Vľavo Krok Vpravo Krok</b><br> Koľko je takých políčok, na ktorých môže robot stáť pred vykonaním programu (otočený potrebným smerom), aby počas vykonávania programu nevyšiel zo záhradky? <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "8"
+    },
+    {
+      "value": "1",
+      "label": "4"
+    },
+    {
+      "value": "2",
+      "label": "0"
+    },
+    {
+      "value": "3",
+      "label": "2"
+    }
+  ],
+  "images": [],
+  "year": "2020/2021",
+  "category": "Nevidiaci SŠ",
+  "type": "text",
+  "correct_index": 0,
+  "correct_answer": "8 ",
+  "correct_answer_plain": "8"
+}

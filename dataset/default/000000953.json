@@ -1,0 +1,31 @@
+{
+  "id": 952,
+  "serial_number": 8,
+  "title": "Text",
+  "question": "Výsledkom funkcie Skratka(x) je text, ktorý vznikne z textu <b>x</b> odstránením toľkých písmen zo začiatku aj z konca, koľko bolo v pôvodnom <b>x</b> samohlások.<br> Ak by mal text <b>x</b> menej písmen ako treba odstrániť, tak výsledkom je prázdny text, ktorý označujeme \"\".<br> Napríklad Skratka(\"IDEMKJAZERU\") = \"J\".<br> <br> Čo je výsledkom Skratka(Skratka(\"MEDZINARODNASUTAZIBOBOR\"))? <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "\"RODNASUTA\""
+    },
+    {
+      "value": "1",
+      "label": "\"\""
+    },
+    {
+      "value": "2",
+      "label": "\"A\""
+    },
+    {
+      "value": "3",
+      "label": "\"NAS\""
+    }
+  ],
+  "images": [],
+  "year": "2009/2010",
+  "category": "Senior",
+  "type": "text",
+  "correct_index": 2,
+  "correct_answer": "\"A\" ",
+  "correct_answer_plain": "\"A\""
+}

@@ -1,0 +1,33 @@
+{
+  "id": 822,
+  "serial_number": 10,
+  "title": "Obvod",
+  "question": "Bobor si na jazere postavil novú chatu. Jej plánik si nakreslil do tabuľkového editora (bunky B1:J11). Do buniek, ktoré patria chate, dal 1, do tých, na ktorých je voda, dal 0.<br/> Chce vypočítať obvod svojej chaty.<br/> <ol><li>Skopíroval svoj plánik do buniek Q2:W10.</li><li>Do bunky T2 zapísal <b>vzorec</b>, ktorý potom skopíroval do celého rozsahu Q2:W10. Ním vypočítal počet stien, ktorými každá bunka chaty susedí s vodou. Napr. bunka V7 susedí s vodou dvoma stenami, preto je v nej číslo 2.</li><li>Do bunky T12 potom spočítal súčet čísel z oblasti Q2:W10, t.j. obvod chaty.</li></ol><br/> <image_1><br/> <br/> Aký vzorec zapísal do bunky T2? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "=4 – E2 – F1 – G2 – F3"
+    },
+    {
+      "value": "1",
+      "label": "=F2*(4 – E2 – F1 – G2 – F3)"
+    },
+    {
+      "value": "2",
+      "label": "=7 – SUM(E1:G3)"
+    },
+    {
+      "value": "3",
+      "label": "=T2*(4 – E2 – F1 – G2 – F3)"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/11/2011-UA-10_SK.png"
+  ],
+  "year": "2011/2012",
+  "category": "Senior",
+  "type": "image",
+  "correct_index": 1,
+  "correct_answer": "=F2*(4 – E2 – F1 – G2 – F3) ",
+  "correct_answer_plain": "=F2*(4 – E2 – F1 – G2 – F3)"
+}

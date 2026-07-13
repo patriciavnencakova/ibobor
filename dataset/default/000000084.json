@@ -1,0 +1,31 @@
+{
+  "id": 83,
+  "serial_number": 3,
+  "title": "Čarovné klobúky",
+  "question": "Máme dámsky a pánsky klobúk. Oba dokážu vyčarovať cukríky.<br> Ak niekoľko cukríkov zakryjeme <b>pánskym</b> klobúkom a potom ho zodvihneme, bude pod ním dvojnásobný počet cukríkov ako predtým. Ak niekoľko cukríkov zakryjeme <b>dámskym</b> klobúkom a potom ho zodvihneme, bude pod ním <b>o 7 cukríkov viac</b> ako predtým.<br> Máme 5 cukríkov a takto sme ich zakrývali a odokrývali klobúkmi:<br> <b>pánsky, pánsky, dámsky, pánsky, dámsky</b><br> Koľko cukríkov máme teraz? <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "160"
+    },
+    {
+      "value": "1",
+      "label": "61"
+    },
+    {
+      "value": "2",
+      "label": "87"
+    },
+    {
+      "value": "3",
+      "label": "41"
+    }
+  ],
+  "images": [],
+  "year": "2020/2021",
+  "category": "Nevidiaci SŠ",
+  "type": "text",
+  "correct_index": 1,
+  "correct_answer": "61 ",
+  "correct_answer_plain": "61"
+}

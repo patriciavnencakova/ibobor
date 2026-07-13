@@ -1,0 +1,34 @@
+{
+  "id": 409,
+  "serial_number": 2,
+  "title": "Prieskum",
+  "question": "Zuzka, Janka, Peter a Milan robili vo svojom okolí prieskum o najpoužívanejších počítačových programoch. Každý zapísal zistené údaje do jedného riadku v nasledujúcej tabuľke.<br/> <image_1><br/> Jeden zo žiakov k svojim výsledkom pripojil aj nasledujúci graf:<br/> <image_2><br/> Ktorý žiak pridal graf? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "Zuzka"
+    },
+    {
+      "value": "1",
+      "label": "Peter"
+    },
+    {
+      "value": "2",
+      "label": "Janka"
+    },
+    {
+      "value": "3",
+      "label": "Milan"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/16/2016-SK-20_tabulka.png",
+    "http://demo.ibobor.sk/sutaz/images/16/2016-SK-20_graf.png"
+  ],
+  "year": "2016/2017",
+  "category": "Benjamín",
+  "type": "image",
+  "correct_index": 2,
+  "correct_answer": "Janka ",
+  "correct_answer_plain": "Janka"
+}

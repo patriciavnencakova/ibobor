@@ -1,0 +1,33 @@
+{
+  "id": 547,
+  "serial_number": 8,
+  "title": "Na nákupe",
+  "question": "Bobor Kubko chodieva nakupovať do obchodu a vždy prejde popri regáloch takto:<br/> <image_1><br/> Dnes má kúpiť syr, chlieb, džem, hrozno a zákusky.<br/> Mamička mu napísala na papier zoznam týchto vecí v takom poradí, v akom ich nájde v regáloch pri prechode obchodom.<br/> Ako vyzeral Kubkov nákupný zoznam? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "hrozno, chlieb, zákusky, syr, džem"
+    },
+    {
+      "value": "1",
+      "label": "chlieb, džem, hrozno, zákusky, syr"
+    },
+    {
+      "value": "2",
+      "label": "hrozno, chlieb, zákusky, džem, syr"
+    },
+    {
+      "value": "3",
+      "label": "hrozno, chlieb, džem, syr, zákusky"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/14/2014-SK-new_naNakupe.png"
+  ],
+  "year": "2014/2015",
+  "category": "Bobrík",
+  "type": "image",
+  "correct_index": 2,
+  "correct_answer": "hrozno, chlieb, zákusky, džem, syr ",
+  "correct_answer_plain": "hrozno, chlieb, zákusky, džem, syr"
+}

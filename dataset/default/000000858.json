@@ -1,0 +1,31 @@
+{
+  "id": 857,
+  "serial_number": 15,
+  "title": "Beh",
+  "question": "Atlét Fedor rád behá po uliciach. Každé ráno prebehne niekoľkokrát okolo bloku domov takto:<pre>Činnosť RannýBeh<br> vykonaj činnosť Prebehni_blok<br> vykonaj činnosť Prebehni_blok <br> vykonaj činnosť Prebehni_blok <br><br>Činnosť Prebehni_blok<br> vykonaj činnosť Prebehni_ulicu<br> vykonaj činnosť Prebehni_ulicu<br> vykonaj činnosť Prebehni_ulicu<br> vykonaj činnosť Prebehni_ulicu<br><br>Činnosť Prebehni_ulicu<br> Choď 100 krokov<br> Odboč doľava</pre>Koľko krokov Fedor prebehne, keď vykoná činnosť RannýBeh?<br> <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "1200"
+    },
+    {
+      "value": "1",
+      "label": "300"
+    },
+    {
+      "value": "2",
+      "label": "400"
+    },
+    {
+      "value": "3",
+      "label": "100"
+    }
+  ],
+  "images": [],
+  "year": "2010/2011",
+  "category": "Kadet",
+  "type": "text",
+  "correct_index": 0,
+  "correct_answer": "1200 ",
+  "correct_answer_plain": "1200"
+}

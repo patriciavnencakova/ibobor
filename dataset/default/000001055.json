@@ -1,0 +1,31 @@
+{
+  "id": 1054,
+  "serial_number": 5,
+  "title": "32",
+  "question": "V programovacom jazyku máme dve premenné X a Y. Každá z nich môže obsahovať len celočíselné hodnoty. Chceme vymeniť obsahy premenných X a Y bez pomoci ďalšej premennej.<br> Znamienko <b>:=</b> označuje priradenie.<br> <br> Ktorý program to urobí správne? <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "X := Y; Y := X;"
+    },
+    {
+      "value": "1",
+      "label": "Nie je to možné, preto žiadna z ostatných možností nie je správna."
+    },
+    {
+      "value": "2",
+      "label": "X := X+Y; Y := X+Y; X := X-Y;"
+    },
+    {
+      "value": "3",
+      "label": "X := X+Y; Y := X-Y; X := X-Y;"
+    }
+  ],
+  "images": [],
+  "year": "2007/2008",
+  "category": "Senior",
+  "type": "text",
+  "correct_index": 3,
+  "correct_answer": "X := X+Y; Y := X-Y; X := X-Y; ",
+  "correct_answer_plain": "X := X+Y; Y := X-Y; X := X-Y;"
+}

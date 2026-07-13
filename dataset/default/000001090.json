@@ -1,0 +1,33 @@
+{
+  "id": 1089,
+  "serial_number": 7,
+  "title": "Aké slová?",
+  "question": "Žabka sa učí skákať po leknách a vytvárať rôzne slová.<br/> Na niektorých leknách je číslo a šípka doľava alebo doprava. Číslo určuje, o <b>koľko lekien</b> má žabka skočiť, a šípka označuje, ktorým <b>smerom</b> má skočiť. Ak na lekne nie je nič, žabka <b>zostane na tomto lekne</b>.<br/> <image_1><br/> Ak by sme žabku položili na lekno s písmenom B, číslo a šípka na lekne určujú, že má skočiť o jedno lekno doľava.<br/> Tým sa dostane na lekno s písmenom Y. Toto lekno je prázdne a žabka teda zostane na ňom. Takto žabka vytvorí slovo BY.<br/> <br/> Aké ďalšie dve slová môže žabka pri svojich skokoch vytvoriť? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "RYBY, BRAKY"
+    },
+    {
+      "value": "1",
+      "label": "RYBY, ABY"
+    },
+    {
+      "value": "2",
+      "label": "RYBY, KRABY"
+    },
+    {
+      "value": "3",
+      "label": "RYBY, RAKY"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/20k/2020-SK-09.png"
+  ],
+  "year": "Karanténa",
+  "category": "6.-9.roč.",
+  "type": "image",
+  "correct_index": 3,
+  "correct_answer": "RYBY, RAKY ",
+  "correct_answer_plain": "RYBY, RAKY"
+}

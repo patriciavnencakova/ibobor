@@ -1,0 +1,31 @@
+{
+  "id": 158,
+  "serial_number": 9,
+  "title": "Šifrovanie slov",
+  "question": "V Bobrove šifrujú slová v dvoch krokoch.<br> V prvom kroku odstránia prvé písmeno v slovách s nepárnym počtom písmen. Slová s párnym počtom písmen nemenia.<br> V druhom kroku v slovách vymenia poradie susediacich dvoch písmen (prvé s druhým, tretie so štvrtým, atď.).<br> Napríklad text <b>rieši ibobra</b> sa šifruje takto: <ul><li>po prvom kroku: <b>ieši ibobra</b></li><li>po druhom kroku: <b>eiiš biboar</b></li></ul><br> Ako sa zašifruje text <b>informatická súťaž</b>? <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "niofmrtaciák úsaťž"
+    },
+    {
+      "value": "1",
+      "label": "fnroamitkc ťúža"
+    },
+    {
+      "value": "2",
+      "label": "fnroamitkc úsaťž"
+    },
+    {
+      "value": "3",
+      "label": "niofmrtaciák ťúža"
+    }
+  ],
+  "images": [],
+  "year": "2019/2020",
+  "category": "Junior",
+  "type": "text",
+  "correct_index": 3,
+  "correct_answer": "niofmrtaciák ťúža ",
+  "correct_answer_plain": "niofmrtaciák ťúža"
+}

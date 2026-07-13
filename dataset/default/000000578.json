@@ -1,0 +1,34 @@
+{
+  "id": 577,
+  "serial_number": 11,
+  "title": "Choď po čiare",
+  "question": "Robotická včela pozná nasledujúce príkazy:<br/> <br/> <image_1><br/> <br/> Ktorá postupnosť príkazov nakreslí tento obrázok?<br/> <image_2> <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "trojuholník, otočsa, štvorec"
+    },
+    {
+      "value": "1",
+      "label": "štvorec, otočsa, choď, trojuholník"
+    },
+    {
+      "value": "2",
+      "label": "štvorec, choď, otočsa, trojuholník"
+    },
+    {
+      "value": "3",
+      "label": "štvorec, choď, štvorec, otočsa, trojuholník"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/14/2014-SK-07.png",
+    "http://demo.ibobor.sk/sutaz/images/14/2014-SK-07_Question-SK.png"
+  ],
+  "year": "2014/2015",
+  "category": "Kadet",
+  "type": "image",
+  "correct_index": 2,
+  "correct_answer": "štvorec, choď, otočsa, trojuholník ",
+  "correct_answer_plain": "štvorec, choď, otočsa, trojuholník"
+}

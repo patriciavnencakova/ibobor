@@ -1,0 +1,33 @@
+{
+  "id": 853,
+  "serial_number": 11,
+  "title": "Karty",
+  "question": "Po vyučovaní sa žiaci hrávajú hru s kartami. Jej cieľom je utriediť karty podľa čísel od najmenšieho po najväčšie, pričom záleží len na čísle, ktoré je na karte. Hráči počas hry nájdu dvojicu susedných kariet, ktorých čísla nie sú v správnom poradí a vymenia ich navzájom. Takéto výmeny robia, kým nie sú všetky karty utriedené.<br/> <br/> Koľko výmen treba urobiť s kartami na obrázku?<br/> <image_1> <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "6"
+    },
+    {
+      "value": "1",
+      "label": "5"
+    },
+    {
+      "value": "2",
+      "label": "4"
+    },
+    {
+      "value": "3",
+      "label": "7"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/10/ornamental.png"
+  ],
+  "year": "2010/2011",
+  "category": "Kadet",
+  "type": "image",
+  "correct_index": 1,
+  "correct_answer": "5 ",
+  "correct_answer_plain": "5"
+}

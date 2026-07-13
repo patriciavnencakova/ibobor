@@ -1,0 +1,34 @@
+{
+  "id": 77,
+  "serial_number": 12,
+  "title": "Sčítavanie písmen",
+  "question": "Písmená sčítavame tak, že obe písmená nahradíme ich poradovým číslom v abecede, tieto čísla sčítame a súčet bude poradové číslo výsledného písmena.<br/> <image_1><br/> Pre C + M, máme 3 + 13 = 16, a 16 nám dá P. <br/> Ak je súčet väčší ako počet písmen v abecede, začneme znova od začiatku, teda Z + A = A, Y + C = B.<br/> Tajný agent takto šifruje svoje správy. Najprv si vymyslí jedno číslo, ktoré volá <b>posun</b>. Potom napíše jedno slovo a do druhého riadku napíše to isté slovo posunuté o toľko pozícií, koľko je hodnota <b>posun</b>. Potom v každom stĺpci sčíta príslušné písmená.<br/> Napríklad, ak je slovo BEARD a hodnota <b>posun</b> je 2:<br/> <image_2><br/> Zo <b>zašifrovaného</b> textu sme získali iba prvých 9 znakov: ACDGDQGPE. Nevieme však, s akou hodnotou <b>posun</b> bol tento text zašifrovaný.<br/> Ako môže vyzerať začiatok pôvodného textu? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "ABBEYROAD"
+    },
+    {
+      "value": "1",
+      "label": "ABBREVIATE"
+    },
+    {
+      "value": "2",
+      "label": "ACCUMULATE"
+    },
+    {
+      "value": "3",
+      "label": "ACDCMETALL"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/20/2020-CZ-06.png",
+    "http://demo.ibobor.sk/sutaz/images/20/2020-CZ-06_ukazka.png"
+  ],
+  "year": "2020/2021",
+  "category": "Senior",
+  "type": "image",
+  "correct_index": 0,
+  "correct_answer": "ABBEYROAD ",
+  "correct_answer_plain": "ABBEYROAD"
+}

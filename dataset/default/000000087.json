@@ -1,0 +1,31 @@
+{
+  "id": 86,
+  "serial_number": 6,
+  "title": "Horolezec",
+  "question": "Bobor Samo zbožňuje pohorie Boborláje s desiatimi kopcami, ktoré stoja jeden vedľa druhého a ich výšky sú takéto:<br> 3, 6, 9, 7, 7, 8, 10, 8, 7, 6<br> Keď Samo vylezie na niektorý z týchto kopcov, pozrie sa, či vedľa nie je ešte vyšší kopec a vylezie aj na ten. Ak sú z oboch strán vyššie kopce, vylezie na vyšší z nich. Takto pokračuje dovtedy, kým je vedľa neho nejaký vyšší kopec.<br> Na koľkých kopcoch môže začať tak, aby vystúpil na najvyšší kopec pohoria? <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "6"
+    },
+    {
+      "value": "1",
+      "label": "5"
+    },
+    {
+      "value": "2",
+      "label": "4"
+    },
+    {
+      "value": "3",
+      "label": "7"
+    }
+  ],
+  "images": [],
+  "year": "2020/2021",
+  "category": "Nevidiaci SŠ",
+  "type": "text",
+  "correct_index": 0,
+  "correct_answer": "6 ",
+  "correct_answer_plain": "6"
+}

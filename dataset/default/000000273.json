@@ -1,0 +1,31 @@
+{
+  "id": 272,
+  "serial_number": 9,
+  "title": "Hádaj číslo",
+  "question": "Dominik a Beáta sa hrajú takúto hru: Beáta si myslí trojciferné číslo. Dominik povie nejaké trojciferné číslo a Beáta mu poradí, či má jeho číslo správne cifry a či sú na rovnakej pozícii ako v čísle, ktoré si myslí.<br> Dominik si zapísal:<br> 1 7 2 – <b>jedna</b> cifra je správna, ale <b>nie je</b> na správnej pozícii<br> 8 5 4 – <b>dve</b> cifry sú správne, ale <b>nie sú</b> na správnych pozíciách<br> 9 8 6 – <b>jedna</b> cifra je správna, ale <b>nie je</b> na správnej pozícii<br> 7 5 1 – <b>jedna</b> cifra je správna a <b>je na</b> správnej pozícii.<br> Ktoré číslo si myslela Beáta? <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "248"
+    },
+    {
+      "value": "1",
+      "label": "185"
+    },
+    {
+      "value": "2",
+      "label": "748"
+    },
+    {
+      "value": "3",
+      "label": "345"
+    }
+  ],
+  "images": [],
+  "year": "2018/2019",
+  "category": "Senior",
+  "type": "text",
+  "correct_index": 2,
+  "correct_answer": "748 ",
+  "correct_answer_plain": "748"
+}

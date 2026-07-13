@@ -1,0 +1,34 @@
+{
+  "id": 927,
+  "serial_number": 13,
+  "title": "B-market",
+  "question": "V B-markete sa bobri orientujú podľa informačnej tabule. Pri názvoch oddelení sa tiež nachádzajú farebné značky každého oddelenia, aby si ich zákazníci lepšie zapamätali:<br/> <image_1><br/> <br/> A toto je cenník niektorých výrobkov. Tretí stĺpec obsahuje označenie oddelenia, v ktorom sa výrobok predáva.<br/> <image_2><br/> <br/> B-market pravidelne zasiela informačné letáky všetkým bobrom s reklamou na najnovšie druhy tovaru. Naneštastie boli v poslednom letáku chyby.<br/> <br/> Ktorý z nasledovných sloganov je <b>nesprávny</b>? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "Kúpte si dnes Ružový sen v drogérii na druhom poschodí!"
+    },
+    {
+      "value": "1",
+      "label": "Pilinové prekvapenie! Iba v našich potravinách!"
+    },
+    {
+      "value": "2",
+      "label": "Čisté zuby ešte dnes, zubná pasta Beaverrex! Len za 0,5€."
+    },
+    {
+      "value": "3",
+      "label": "Úplná novinka! Zamatový kožuštek len za 120€. Navštívte oddelenie D na druhom poschodí."
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/09/K_B-market_01.gif",
+    "http://demo.ibobor.sk/sutaz/images/09/K_B-market_02.gif"
+  ],
+  "year": "2009/2010",
+  "category": "Kadet",
+  "type": "image",
+  "correct_index": 0,
+  "correct_answer": "Kúpte si dnes Ružový sen v drogérii na druhom poschodí! ",
+  "correct_answer_plain": "Kúpte si dnes Ružový sen v drogérii na druhom poschodí!"
+}

@@ -1,0 +1,33 @@
+{
+  "id": 489,
+  "serial_number": 10,
+  "title": "Robotický žeriav",
+  "question": "Bobrík Vilko sa hrá s robotickým žeriavom, ktorý dokáže premiestňovať kocky. Žeriav dokáže niesť naraz len jednu kocku.<br/> Žeriav pozná príkazy:<ul><li><code>zober</code> – zodvihne najvrchnejšiu kocku z pozície, kde sa nachádza</li><li><code>polož</code> – položí kocku na pozíciu pod sebou, ak tam už nejaká kocka je, tak novú kocku položí na ňu</li><li><code>VP</code> – posunie sa vpravo o jednu pozíciu</li><li><code>VĽ</code> – posunie sa vľavo o jednu pozíciu</li></ul><br/> <image_1><br/> Ktorá z nasledujúcich postupností príkazov je taká, že sa kocky zo začiatočného stavu dostanú do koncového stavu? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "<code>zober VP polož VP zober VĽ VĽ polož VP zober VP polož VĽ VĽ</code>"
+    },
+    {
+      "value": "1",
+      "label": "<code>zober VP VP polož zober VĽ VĽ polož</code>"
+    },
+    {
+      "value": "2",
+      "label": "<code>zober VP polož VP zober VĽ polož zober VP polož VĽ zober VP polož</code>"
+    },
+    {
+      "value": "3",
+      "label": "<code>VP VP zober VĽ VĽ polož zober VP VP polož</code>"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/15/2015-JP-04_B.png"
+  ],
+  "year": "2015/2016",
+  "category": "Benjamín",
+  "type": "image",
+  "correct_index": 0,
+  "correct_answer": "<code>zober VP polož VP zober VĽ VĽ polož VP zober VP polož VĽ VĽ</code> ",
+  "correct_answer_plain": "zober VP polož VP zober VĽ VĽ polož VP zober VP polož VĽ VĽ"
+}

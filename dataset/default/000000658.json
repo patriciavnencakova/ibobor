@@ -1,0 +1,33 @@
+{
+  "id": 657,
+  "serial_number": 4,
+  "title": "Čašník",
+  "question": "Pri nalievaní nápojov do pohárov označených obrázkami ovocia, ich čašník nalial omylom do nesprávnych pohárov:<ul><li>V pohári 1 je namiesto jahodového džúsu pomarančový džús.</li><li>V pohári 2 je namiesto citronády jahodový džús.</li><li>V pohári 3 je namiesto pomarančového džúsu citronáda.</li></ul><br/> Pohár 4 je prázdny a čašník už nemá viac pohárov.<br/> <image_1><br/> Ktorou postupnosťou prelievania nápojov bude každý nápoj v pohári so správnym obrázkom? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "prelej 1 do 4, prelej 2 do 1, prelej 3 do 2, prelej 1 do 3, prelej 4 do 1"
+    },
+    {
+      "value": "1",
+      "label": "prelej 1 do 4, prelej 2 do 1, prelej 3 do 2, prelej 4 do 3"
+    },
+    {
+      "value": "2",
+      "label": "prelej 1 do 4, prelej 2 do 1, prelej 3 do 2, prelej 2 do 1, prelej 4 do 2"
+    },
+    {
+      "value": "3",
+      "label": "prelej 1 do 4, prelej 2 do 1, prelej 3 do 2, prelej 1 do 3, prelej 4 do 1"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/13/2013-SI-14_SK_pohare.png"
+  ],
+  "year": "2013/2014",
+  "category": "Junior",
+  "type": "image",
+  "correct_index": 1,
+  "correct_answer": "prelej 1 do 4, prelej 2 do 1, prelej 3 do 2, prelej 4 do 3 ",
+  "correct_answer_plain": "prelej 1 do 4, prelej 2 do 1, prelej 3 do 2, prelej 4 do 3"
+}

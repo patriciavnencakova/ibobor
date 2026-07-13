@@ -1,0 +1,33 @@
+{
+  "id": 325,
+  "serial_number": 8,
+  "title": "Kruhové objazdy",
+  "question": "Keď je robotické autíčko v A a stlačím <code>3-2-2</code>, príde do D takto: z prvého kruhového objazdu vyjde na 3. výjazde, z ďalšieho objazdu vyjde na 2. výjazde a z posledného znovu na 2. výjazde.<br/> <image_1><br/> Kam príde autíčko, ak bude v A a stlačím: <code>3-1-3-2-3</code>? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "do A"
+    },
+    {
+      "value": "1",
+      "label": "do C"
+    },
+    {
+      "value": "2",
+      "label": "do B"
+    },
+    {
+      "value": "3",
+      "label": "do D"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/17/2017-SI-02.png"
+  ],
+  "year": "2017/2018",
+  "category": "Benjamín",
+  "type": "image",
+  "correct_index": 2,
+  "correct_answer": "do B ",
+  "correct_answer_plain": "do B"
+}

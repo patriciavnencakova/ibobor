@@ -1,0 +1,33 @@
+{
+  "id": 621,
+  "serial_number": 10,
+  "title": "Adam a veverička",
+  "question": "Adam prišiel do nového parku, v ktorom boli strom, socha, lavička, jazierko, brána, fontána, krík a altánok. <br/> Práve uvidel, ako veverička zoskočila zo stromu a začala behať po parku.<br/> <image_1><br/> Adam <b>ostal stáť na mieste a otáčal sa za ňou</b>. Najprv sa otočil o 2 cestičky vľavo, takže bol otočený ku kríku. Potom sa otočil o 1 cestičku vľavo, o 4 cestičky vpravo a nakoniec o 5 cestičiek vpravo.<br/> K čomu bol Adam otočený nakoniec? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "ku kríku"
+    },
+    {
+      "value": "1",
+      "label": "k altánku"
+    },
+    {
+      "value": "2",
+      "label": "ku stromu"
+    },
+    {
+      "value": "3",
+      "label": "k fontáne"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/13/2013-BG-04_SK.png"
+  ],
+  "year": "2013/2014",
+  "category": "Bobrík",
+  "type": "image",
+  "correct_index": 0,
+  "correct_answer": "ku kríku ",
+  "correct_answer_plain": "ku kríku"
+}

@@ -1,0 +1,31 @@
+{
+  "id": 442,
+  "serial_number": 5,
+  "title": "Chyba výpočtu",
+  "question": "Roberta si kúpila starú kalkulačku, ktorá počíta s presnosťou na jedno desatinné miesto. Teda ďalšie desatinné miesta si nepamätá, „odreže“ ich.<br> Napríklad, ak vypočíta 7/5, výsledok bude 1,4, čo je presná hodnota. Ak ale vypočíta 7/4, výsledok bude 1,7. Presný výsledok by bol 1,75. Chyba výpočtu, teda rozdiel medzi presným výsledkom a vypočítanou hodnotou, je v tomto prípade 0,05.<br> Desatinné miesta sa odrežú po každej aritmetickej operácii. Napríklad pri výpočte (7/4)/2, kalkulačka najprv vypočíta 7/4 = 1,7, potom pokračuje vo výpočte a vypočíta 1,7/2 = 0,8. Chyba výpočtu je v tomto prípade 0,075.<br> <br> Aká bude chyba výpočtu <b>((10/3) * (10/3)) * 9</b>? <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "3,3"
+    },
+    {
+      "value": "1",
+      "label": "2,8"
+    },
+    {
+      "value": "2",
+      "label": "0,0"
+    },
+    {
+      "value": "3",
+      "label": "1,3"
+    }
+  ],
+  "images": [],
+  "year": "2016/2017",
+  "category": "Junior",
+  "type": "text",
+  "correct_index": 1,
+  "correct_answer": "2,8 ",
+  "correct_answer_plain": "2,8"
+}

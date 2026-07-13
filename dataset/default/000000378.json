@@ -1,0 +1,31 @@
+{
+  "id": 377,
+  "serial_number": 15,
+  "title": "Vesmírna loď",
+  "question": "Vesmírna loď má dva druhy pohonu:<ul><li><b>elektrický pohon</b> – získava energiu z akumulátora, ktorý sa nabíja energiou zo solárnych panelov,</li><li><b>pohon na tekuté palivo</b> – získava energiu spaľovaním tekutého paliva, ktorého má na začiatku cesty isté množstvo a počas cesty sa už nedá doplniť.</li></ul>Naraz môže byť zapnutý najviac jeden druh pohonu. Keď je elektrický pohon vypnutý, tak sa akumulátor nabíja.<br> <br> Vesmírna loď letí k Jupiteru. Na začiatku cesty má akumulátor nabitý na 100% a má 40 ton tekutého paliva. Najprv loď zrýchľovala striedavým použitím oboch pohonov, potom pohon vypla a letí ďalej vďaka zotrvačnosti.<br> <br> Použitie motorov na začiatku cesty sa riadilo týmto programom (príkazy v tom istom bloku sú odsadené rovnako):<br> <pre>Zapni elektrický pohon<br>Opakuj kým je pohon zapnutý<br> Ak je akumulátor nabitý na menej než 35%, tak<br> Ak je zásoba tekutého paliva viac než 20 ton, tak<br> Pošli na Zem správu „Nabíjam akumulátor“<br> Prepni pohon na tekuté palivo<br> Počkaj kým sa spáli 10 ton tekutého paliva<br> Prepni pohon na elektrický<br> Inak<br> Pošli na Zem správu „Vypínam pohon“<br> Vypni pohon</pre>Akú postupnosť správ poslal program na Zem? <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "Nabíjam akumulátor, Vypínam pohon"
+    },
+    {
+      "value": "1",
+      "label": "Nabíjam akumulátor, Nabíjam akumulátor, Nabíjam akumulátor, Vypínam pohon"
+    },
+    {
+      "value": "2",
+      "label": "Vypínam pohon, Nabíjam akumulátor, Nabíjam akumulátor"
+    },
+    {
+      "value": "3",
+      "label": "Nabíjam akumulátor, Nabíjam akumulátor, Vypínam pohon"
+    }
+  ],
+  "images": [],
+  "year": "2017/2018",
+  "category": "Senior",
+  "type": "text",
+  "correct_index": 3,
+  "correct_answer": "Nabíjam akumulátor, Nabíjam akumulátor, Vypínam pohon ",
+  "correct_answer_plain": "Nabíjam akumulátor, Nabíjam akumulátor, Vypínam pohon"
+}

@@ -1,0 +1,31 @@
+{
+  "id": 89,
+  "serial_number": 9,
+  "title": "Tichá ePošta",
+  "question": "Päť priateľov sedí vedľa seba v poradí Alica, Beáta, Cyril, Denis a Ema. Alica napíše na papier päť písmenové slovo (napr. VRANA) a podá papier Beáte. Beáta potom na nový papier prepíše slovo, ktoré dostala, ale urobí v ňom <b>práve jednu chybu</b> a podá papier Cyrilovi.<br> Chyba môže byť <b>nahradenie</b> jedného písmena iným písmenom (napr. HRANA, alebo <b>vynechanie</b> písmena (napr. RANA). Cyril prepíše slovo, ktoré dostal, ale pri prepise urobí tiež <b>práve jednu chybu</b> a podá svoj papier Denisovi atď. <br> Alica napísala Beáte slovo TRASA.<br> Ktoré slovo <b>nemôže</b> dostať Ema? <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "PASTA"
+    },
+    {
+      "value": "1",
+      "label": "BASA"
+    },
+    {
+      "value": "2",
+      "label": "PRASA"
+    },
+    {
+      "value": "3",
+      "label": "TRAS"
+    }
+  ],
+  "images": [],
+  "year": "2020/2021",
+  "category": "Nevidiaci SŠ",
+  "type": "text",
+  "correct_index": 0,
+  "correct_answer": "PASTA",
+  "correct_answer_plain": "PASTA"
+}

@@ -1,0 +1,31 @@
+{
+  "id": 195,
+  "serial_number": 7,
+  "title": "Ako sedia?",
+  "question": "Priatelia Alica, Natália, Eva, Bruno, Martin sa chystajú do kina a majú rezervovaných 5 miest pri sebe. <br> Natália chce sedieť pri chlapcovi, avšak aj pri Eve. <br> Alica a Eva nechcú sedieť pri chlapcoch.<br> Bruno chce sedieť pri Martinovi a na kraji.<br> Ako sa usadia v kine, aby boli všetci spokojní? <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "Bruno Martin Alica Eva Natália"
+    },
+    {
+      "value": "1",
+      "label": "Martin Alica Eva Natália Bruno"
+    },
+    {
+      "value": "2",
+      "label": "Bruno Martin Natália Eva Alica"
+    },
+    {
+      "value": "3",
+      "label": "Alica Eva Natália Bruno Martin"
+    }
+  ],
+  "images": [],
+  "year": "2019/2020",
+  "category": "Nevidiaci ZŠ",
+  "type": "text",
+  "correct_index": 2,
+  "correct_answer": "Bruno Martin Natália Eva Alica ",
+  "correct_answer_plain": "Bruno Martin Natália Eva Alica"
+}

@@ -1,0 +1,37 @@
+{
+  "id": 438,
+  "serial_number": 1,
+  "title": "Sviečky na torte",
+  "question": "Fedor má dnes pätnáste narodeniny. Mama mu upiekla tortu, ale zistila, že má iba päť sviečok. Fedorovi napadlo, že mama môže číslo 15 reprezentovať piatimi sviečkami takto:<ul><li>Horiaca sviečka úplne vpravo reprezentuje číslo 1.</li><li>Horiaca sviečka druhá sprava reprezentuje číslo 2, čo je dvojnásobok čísla 1.</li><li>Horiaca sviečka tretia sprava reprezentuje číslo 4, čo je dvojnásobok čísla 2, atď.</li></ul><br/> Ak horí viac sviečok súčasne, sčítajú sa hodnoty, ktoré reprezentujú. Napríklad dve horiace sviečky úplne vpravo reprezentujú číslo 3 (pretože 1+2=3).<br/> <image_1><br/> <br/> Ktoré sviečky treba zapáliť na Fedorovej narodeninovej torte? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "<image_2>"
+    },
+    {
+      "value": "1",
+      "label": "<image_3>"
+    },
+    {
+      "value": "2",
+      "label": "<image_4>"
+    },
+    {
+      "value": "3",
+      "label": "<image_5>"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/16/2016-CH-05b_priklad.png",
+    "http://demo.ibobor.sk/sutaz/images/16/2016-CH-05b_A.png",
+    "http://demo.ibobor.sk/sutaz/images/16/2016-CH-05b_B.png",
+    "http://demo.ibobor.sk/sutaz/images/16/2016-CH-05b_C.png",
+    "http://demo.ibobor.sk/sutaz/images/16/2016-CH-05b_D.png"
+  ],
+  "year": "2016/2017",
+  "category": "Junior",
+  "type": "image",
+  "correct_index": 2,
+  "correct_answer": "http://demo.ibobor.sk/sutaz/images/16/2016-CH-05b_C.png",
+  "correct_answer_plain": null
+}

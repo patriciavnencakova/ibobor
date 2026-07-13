@@ -1,0 +1,31 @@
+{
+  "id": 284,
+  "serial_number": 6,
+  "title": "Halloween",
+  "question": "V malej dedine je 9 domov označených postupne písmenami od A po I, postavených pri ceste v rade vedľa seba. <br> Dĺžka cesty medzi susednými domami je vždy 10 metrov.<br> Na Halloween šiel Emil navštíviť svojich priateľov. Keď vyšiel zo svojho domu E, vybral sa po ceste k jednému zo svojich priateľov. Keď návštevu ukončil, opäť sa vybral po ceste k ďalšiemu priateľovi. Vždy keď Emil vošiel do niektorého domu, zaznamenal si dĺžku cesty od poslednej návštevy.<br> Keď prišiel do domu H, mal zaznamenané hodnoty <br> <b>20 10 40</b><br> Ktoré dva domy Emil navštívil predtým ako prišiel do domu H? <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "F, D"
+    },
+    {
+      "value": "1",
+      "label": "C, D"
+    },
+    {
+      "value": "2",
+      "label": "A, C"
+    },
+    {
+      "value": "3",
+      "label": "G, F"
+    }
+  ],
+  "images": [],
+  "year": "2018/2019",
+  "category": "Nevidiaci SŠ",
+  "type": "text",
+  "correct_index": 1,
+  "correct_answer": "C, D ",
+  "correct_answer_plain": "C, D"
+}

@@ -1,0 +1,33 @@
+{
+  "id": 465,
+  "serial_number": 13,
+  "title": "Skákajúca opica",
+  "question": "V pavilóne opíc rastie päť stromov:<br/> <image_1><br/> <b>veľký</b> strom v strede, dva <b>červené</b> stromy a dve <b>palmy</b>.<br/> Opici trvá<ul><li>3 sekundy skočenie z veľkého stromu na iný strom alebo naopak</li><li>2 sekundy skočenie z červeného stromu na palmu a naopak</li><li>7 sekúnd preskočenie veľkého stromu buď tak, že skáče z červeného stromu na druhý červený strom alebo z palmy na druhú palmu</li></ul><br/> Zoológ sledoval skákanie opice. Stromy si označil písmenami P, Q, R, S, T a zapísal si postupnosť písmen, ako po nich opica skákala: P, Q, S, R, T, R, P. Kým prišiel domov, zabudol, akým písmenom si označil ktorý strom. Pamätal si však, že čas, za ktorý opica skákala po stromoch bol najkratší, za aký stromy v zapísanej postupnosti dokáže preskočiť.<br/> <br/> Akým písmenom si mohol zoológ označiť veľký strom v strede? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "Q alebo R alebo S"
+    },
+    {
+      "value": "1",
+      "label": "P alebo S alebo T"
+    },
+    {
+      "value": "2",
+      "label": "P alebo Q alebo T"
+    },
+    {
+      "value": "3",
+      "label": "Q alebo S alebo T"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/16/2016-CA-02.png"
+  ],
+  "year": "2016/2017",
+  "category": "Senior",
+  "type": "image",
+  "correct_index": 1,
+  "correct_answer": "P alebo S alebo T ",
+  "correct_answer_plain": "P alebo S alebo T"
+}

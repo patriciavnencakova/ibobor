@@ -1,0 +1,31 @@
+{
+  "id": 1044,
+  "serial_number": 10,
+  "title": "22",
+  "question": "V ktorom roku bola založená firma Microsoft a kto boli jej zakladatelia? <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "1981 Niklaus Wirth"
+    },
+    {
+      "value": "1",
+      "label": "1975 Bill Gates a Paul Allen"
+    },
+    {
+      "value": "2",
+      "label": "1971 Bill Gates a Steve Ballmer"
+    },
+    {
+      "value": "3",
+      "label": "1984 Philippe Kahn a Bill Gates"
+    }
+  ],
+  "images": [],
+  "year": "2007/2008",
+  "category": "Junior",
+  "type": "text",
+  "correct_index": 1,
+  "correct_answer": "1975   Bill Gates a Paul Allen ",
+  "correct_answer_plain": "1975   Bill Gates a Paul Allen"
+}

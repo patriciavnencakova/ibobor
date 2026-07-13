@@ -1,0 +1,33 @@
+{
+  "id": 727,
+  "serial_number": 2,
+  "title": "Správa",
+  "question": "Pri hľadaní obrázkov svojho obľúbeného herca našiel Jožko na jednej stránke takýto odkaz:<br/> <image_1><br/> <br/> Čo by Jožko <b>nemal</b> urobiť? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "Opustiť stránku a začať hľadať na ďalšej."
+    },
+    {
+      "value": "1",
+      "label": "Zavolať pani učiteľku a spýtať sa, čo ten oznam znamená."
+    },
+    {
+      "value": "2",
+      "label": "Kliknúť na tlačidlo OK a poslať im svoju adresu osobné údaje."
+    },
+    {
+      "value": "3",
+      "label": "Ignorovať oznam a hľadať si svoj obrázok ďalej."
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/12/2012-SK-sprava.png"
+  ],
+  "year": "2012/2013",
+  "category": "Junior",
+  "type": "image",
+  "correct_index": 2,
+  "correct_answer": "Kliknúť na tlačidlo OK a poslať im svoju adresu osobné údaje. ",
+  "correct_answer_plain": "Kliknúť na tlačidlo OK a poslať im svoju adresu osobné údaje."
+}

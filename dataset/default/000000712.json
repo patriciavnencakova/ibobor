@@ -1,0 +1,33 @@
+{
+  "id": 711,
+  "serial_number": 1,
+  "title": "E-mailové šialenstvo",
+  "question": "Malému Julkovi prišiel e-mailom takýto inzerát:<br/> <image_1><br/> Julko sa v škole naučil, že iba dospelí sa môžu zúčastniť takejto hry. A tiež, že väčšinou aj tak nič nevyhrajú, pritom údaje, ktoré poskytnú v priebehu registrácie, sú často zneužité.<br/> Poraď Julkovi, čo by mal robiť? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "Vydávaj sa za svoju mamu a v priebehu registrácie poskytni jej údaje."
+    },
+    {
+      "value": "1",
+      "label": "Odstráň tento inzerát z pošty."
+    },
+    {
+      "value": "2",
+      "label": "Zúčastni sa hry a poskytni svoje vlastné údaje."
+    },
+    {
+      "value": "3",
+      "label": "Požiadaj svojho staršieho brata, aby sa zaregistroval a dúfaj, že keď vyhráš, jeho údaje nebudú zneužité."
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/12/2012-AT-14_K.png"
+  ],
+  "year": "2012/2013",
+  "category": "Kadet",
+  "type": "image",
+  "correct_index": 1,
+  "correct_answer": "Odstráň tento inzerát z pošty. ",
+  "correct_answer_plain": "Odstráň tento inzerát z pošty."
+}

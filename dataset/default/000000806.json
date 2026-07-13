@@ -1,0 +1,33 @@
+{
+  "id": 805,
+  "serial_number": 8,
+  "title": "Drevo",
+  "question": "Benny má batoh, do ktorého sa zmestí maximálne 7 kg dreva. Nosí drevo z lesa na pílu. Za veľké 3-kilové poleno dostane 10 mincí, za stredné 2-kilové poleno 6 mincí a za malé 1-kilové poleno 1 mincu.<br/> Aké polená by mal Benny zobrať do batohu, aby mal z predaja čo najväčší zisk?<br/> <image_1> <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "Jedno najväčšie poleno a dve stredné."
+    },
+    {
+      "value": "1",
+      "label": "Jedno najväčšie poleno, jedno stredné a dve najmenšie."
+    },
+    {
+      "value": "2",
+      "label": "Dve najväčšie polená a jedno stredné."
+    },
+    {
+      "value": "3",
+      "label": "Tri stredné polená a jedno najmenšie."
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/11/2011-AT-01_SK.png"
+  ],
+  "year": "2011/2012",
+  "category": "Junior",
+  "type": "image",
+  "correct_index": 0,
+  "correct_answer": "Jedno najväčšie poleno a dve stredné. ",
+  "correct_answer_plain": "Jedno najväčšie poleno a dve stredné."
+}

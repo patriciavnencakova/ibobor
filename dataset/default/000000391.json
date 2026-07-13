@@ -1,0 +1,31 @@
+{
+  "id": 390,
+  "serial_number": 4,
+  "title": "Klávesnica",
+  "question": "Martinka písala takúto vetu v textovom dokumente: <br> Cez prázdniny somm bola na chate v lese.<br> Zistila však, že sa pomýlila a v slove som napísala dve m. Teraz chce jedno vymazať. Čo má urobiť?<br> <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "Nastaviť kurzor hneď za druhé m a stlačiť kláves Backspace."
+    },
+    {
+      "value": "1",
+      "label": "Nastaviť kurzor za prvé m a stlačiť kláves Medzerník."
+    },
+    {
+      "value": "2",
+      "label": "Nastaviť kurzor pred prvé m a stlačiť kláves Backspace."
+    },
+    {
+      "value": "3",
+      "label": "Nastaviť kurzor hneď za druhé m a stlačiť kláves Delete."
+    }
+  ],
+  "images": [],
+  "year": "2017/2018",
+  "category": "Nevidiaci ZŠ",
+  "type": "text",
+  "correct_index": 0,
+  "correct_answer": "Nastaviť kurzor hneď za druhé m a stlačiť kláves Backspace. ",
+  "correct_answer_plain": "Nastaviť kurzor hneď za druhé m a stlačiť kláves Backspace."
+}

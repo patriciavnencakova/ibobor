@@ -1,0 +1,33 @@
+{
+  "id": 841,
+  "serial_number": 14,
+  "title": "Vodovod",
+  "question": "Bobor vybudoval potrubný systém na polievanie svojej jablone. Kohútiky A, B, C, D, môžu byť otvorené alebo zatvorené. V ktorom prípade jabloň dostane vodu?<br/> <br/> <image_1> <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "A je zatvorený, B je otvorený, C je zatvorený, D je zatvorený,"
+    },
+    {
+      "value": "1",
+      "label": "A je otvorený, B je otvorený, C je zatvorený, D je zatvorený"
+    },
+    {
+      "value": "2",
+      "label": "A je otvorený, B je zatvorený, C je zatvorený, D je otvorený"
+    },
+    {
+      "value": "3",
+      "label": "A je zatvorený, B je zatvorený, C je zatvorený, D je otvorený"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/10/vodovod.png"
+  ],
+  "year": "2010/2011",
+  "category": "Benjamín",
+  "type": "image",
+  "correct_index": 0,
+  "correct_answer": "A je zatvorený, B je otvorený, C je zatvorený, D je zatvorený, \t ",
+  "correct_answer_plain": "A je zatvorený, B je otvorený, C je zatvorený, D je zatvorený,"
+}

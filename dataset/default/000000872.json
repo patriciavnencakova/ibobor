@@ -1,0 +1,33 @@
+{
+  "id": 871,
+  "serial_number": 14,
+  "title": "Hádaj útvar",
+  "question": "Hráš s počítačom hru.<br/> Na obrazovke je 9 útvarov.<br/> <image_1><br/> Vyberieš si jeden z nich, ale počítaču svoj výber neprezradíš.<br/> Počítač ti začne klásť otázky, na ktoré musíš pravdivo odpovedať buď áno alebo nie. Môže ti položiť niektoré z týchto otázok:<br/> <i>Je tvoj útvar červený?</i><br/> <i>Je tvoj útvar žltý?</i><br/> <i>Je tvoj útvar modrý?</i><br/> <i>Je tvoj útvar kruh?</i><br/> <i>Je tvoj útvar štvorec?</i><br/> <i>Je tvoj útvar trojuholník?</i><br/> <br/> Cieľom počítača je uhádnuť tvoj útvar na čo možno najmenej otázok. Vieš, že počítač vždy hrá najlepšie, ako sa dá. Koľko otázok je potrebných, aby počítač uhádol tvoj útvar? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "4"
+    },
+    {
+      "value": "1",
+      "label": "5"
+    },
+    {
+      "value": "2",
+      "label": "2"
+    },
+    {
+      "value": "3",
+      "label": "3"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/10/2010-SK-01a.png"
+  ],
+  "year": "2010/2011",
+  "category": "Junior",
+  "type": "image",
+  "correct_index": 0,
+  "correct_answer": "4 ",
+  "correct_answer_plain": "4"
+}

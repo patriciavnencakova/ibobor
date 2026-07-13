@@ -1,0 +1,31 @@
+{
+  "id": 625,
+  "serial_number": 2,
+  "title": "BoborBook",
+  "question": "Bobor Samo má 11 rokov. Rád by sa prihlásil na webe do sociálnej siete BoborBook, ale tam sa môžu registrovať bobry až od 13 rokov.<br> Čo má urobiť? <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "Má poprosiť svoju 14-ročnú sestru, aby sa prihlásila ona, a použije jej prístupové údaje."
+    },
+    {
+      "value": "1",
+      "label": "Má požiadať spolužiaka o povolenie."
+    },
+    {
+      "value": "2",
+      "label": "Má pri registrácii zadať, že už má 13 rokov."
+    },
+    {
+      "value": "3",
+      "label": "Má počkať, kým bude mať 13 rokov."
+    }
+  ],
+  "images": [],
+  "year": "2013/2014",
+  "category": "Benjamín",
+  "type": "text",
+  "correct_index": 3,
+  "correct_answer": "Má počkať, kým bude mať 13 rokov. ",
+  "correct_answer_plain": "Má počkať, kým bude mať 13 rokov."
+}

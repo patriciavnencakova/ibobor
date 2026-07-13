@@ -1,0 +1,33 @@
+{
+  "id": 732,
+  "serial_number": 7,
+  "title": "Poháre",
+  "question": "Na stole je 5 prázdnych pohárov. Prvé 4 stoja správne, posledný je naopak. <br/> <image_1><br/> V jednom kroku otočíme práve 3 poháre (ak bol pohár správne, otočíme ho naopak, ak bol naopak, otočíme ho správne).<br/> <br/> Aký najmenší počet krokov potrebujeme na to, aby stáli všetky poháre správne?<br/> <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "poháre sa takýmto spôsobom nedajú otočiť správne"
+    },
+    {
+      "value": "1",
+      "label": "2 kroky"
+    },
+    {
+      "value": "2",
+      "label": "5 krokov"
+    },
+    {
+      "value": "3",
+      "label": "3 kroky"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/12/2012-UA-07.png"
+  ],
+  "year": "2012/2013",
+  "category": "Junior",
+  "type": "image",
+  "correct_index": 3,
+  "correct_answer": "3 kroky ",
+  "correct_answer_plain": "3 kroky"
+}

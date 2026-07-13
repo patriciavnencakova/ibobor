@@ -1,0 +1,33 @@
+{
+  "id": 596,
+  "serial_number": 15,
+  "title": "Prechádzka v lese",
+  "question": "V lese je 5 ciest. Každá z ciest začína pri Bobrom rybníku (ľavá strana obrázku) a končí na jednom z piatich kopcov, ktoré sú v lese (pravá strana obrázku). Každá cesta sa skladá z niekoľkých častí. Časť cesty je ten úsek cesty, ktorý sa nachádza medzi dvomi križovatkami alebo križovatkou a koncom cesty. Ako vidíte na obrázku, niektoré časti môžu patriť viacerým cestám. Na cestách môžeme nájsť hríby a/alebo jahody.<br/> <image_1><br/> Ktorý z nasledujúcich výrokov je pravdivý pre les na obrázku? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "Existuje minimálne jedna cesta v lese taká, že na každej časti cesty je jahoda."
+    },
+    {
+      "value": "1",
+      "label": "Existuje minimálne jedna cesta v lese taká, že na každej časti cesty je jahoda alebo hríb."
+    },
+    {
+      "value": "2",
+      "label": "Pre všetky cesty v lese platí, že na niektorej časti cesty je minimálne jedna jahoda."
+    },
+    {
+      "value": "3",
+      "label": "Pre všetky cesty v lese platí, že na každej časti cesty je jahoda alebo hríb."
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/14/2013-BE-15a_SK.png"
+  ],
+  "year": "2014/2015",
+  "category": "Junior",
+  "type": "image",
+  "correct_index": 1,
+  "correct_answer": "Existuje minimálne jedna cesta v lese taká, že na každej časti cesty je jahoda alebo hríb. ",
+  "correct_answer_plain": "Existuje minimálne jedna cesta v lese taká, že na každej časti cesty je jahoda alebo hríb."
+}

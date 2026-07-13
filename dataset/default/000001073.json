@@ -1,0 +1,37 @@
+{
+  "id": 1072,
+  "serial_number": 8,
+  "title": "Chrumkoláčik",
+  "question": "Podľa tajného receptu dávajú bobry do Chrumkoláčika v presnom poradí 5 prísad, ktoré zbierajú v záhrade:<br/> <image_1><br/> Pri každej prísade je tabuľka, ktorá určuje nasledujúcu prísadu.<br/> <br/> Ktorá prísada bude prvá v poradí? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "<image_2>"
+    },
+    {
+      "value": "1",
+      "label": "<image_3>"
+    },
+    {
+      "value": "2",
+      "label": "<image_4>"
+    },
+    {
+      "value": "3",
+      "label": "<image_5>"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/16/2016-HU-02_zahrada.png",
+    "http://demo.ibobor.sk/sutaz/images/16/2016-HU-02_A.png",
+    "http://demo.ibobor.sk/sutaz/images/16/2016-HU-02_D.png",
+    "http://demo.ibobor.sk/sutaz/images/16/2016-HU-02_B.png",
+    "http://demo.ibobor.sk/sutaz/images/16/2016-HU-02_C.png"
+  ],
+  "year": "Prechádzky",
+  "category": "3.-4.roč.",
+  "type": "image",
+  "correct_index": 1,
+  "correct_answer": "http://demo.ibobor.sk/sutaz/images/16/2016-HU-02_D.png",
+  "correct_answer_plain": null
+}

@@ -1,0 +1,31 @@
+{
+  "id": 296,
+  "serial_number": 9,
+  "title": "Skoč 8",
+  "question": "Hracia plocha sa skladá z radu, v ktorom je 8 políčok označených postupne písmenami A až H. <br> Na niektorom políčku stojí robot, ktorý vie vykonať nasledujúce príkazy.<ul><li>Príkazy <b>1vlavo</b>, <b>2vlavo</b> až <b>7vlavo</b> znamenajú, že robot skočí o 1, 2 až 7 políčok vľavo.</li><li>Príkazy <b>1vpravo</b>, <b>2vpravo</b> až <b>7vpravo</b> znamenajú, že robot skočí o 1, 2 až 7 políčok vpravo.</li></ul><br> Robot stál na políčku C a vykonal takúto postupnosť príkazov<br> <b>2vlavo 7vpravo 2vlavo 1vpravo 3vlavo</b><br> Na ktorom políčku je teraz robot? <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "na políčku D"
+    },
+    {
+      "value": "1",
+      "label": "na políčku E"
+    },
+    {
+      "value": "2",
+      "label": "na políčku C"
+    },
+    {
+      "value": "3",
+      "label": "na políčku B"
+    }
+  ],
+  "images": [],
+  "year": "2018/2019",
+  "category": "Nevidiaci ZŠ",
+  "type": "text",
+  "correct_index": 0,
+  "correct_answer": "na políčku D ",
+  "correct_answer_plain": "na políčku D"
+}

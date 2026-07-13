@@ -1,0 +1,33 @@
+{
+  "id": 912,
+  "serial_number": 13,
+  "title": "Späť na štart",
+  "question": "Bobor nastúpil pri <b>hrade</b> na okružnú jazdu autobusom po pamiatkach mesta. Po ceste si na papier kreslil, ako sa viezli a kde zabočili. Vyznačil si tiež <b>vežu, mlyn, divadlo</b> a <b>múzeum</b>. Keď sa autobusom vrátili späť k <b>hradu</b>, zistil, že podľa jeho mapy sa nevrátili späť!<br/> Určite si v niektorom z označených miest zabudol nakresliť, že autobus odbočil vpravo.<br/> <image_1><br/> <br/> V ktorom mieste? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "pri veži"
+    },
+    {
+      "value": "1",
+      "label": "pri mlyne"
+    },
+    {
+      "value": "2",
+      "label": "pri múzeu"
+    },
+    {
+      "value": "3",
+      "label": "pri divadle"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/09/B_Spat_na_start.gif"
+  ],
+  "year": "2009/2010",
+  "category": "Benjamín",
+  "type": "image",
+  "correct_index": 1,
+  "correct_answer": "pri mlyne ",
+  "correct_answer_plain": "pri mlyne"
+}

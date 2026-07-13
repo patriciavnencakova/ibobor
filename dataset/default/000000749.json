@@ -1,0 +1,37 @@
+{
+  "id": 748,
+  "serial_number": 8,
+  "title": "Najmenšie hore",
+  "question": "Bobri v bobrej škole stoja na schodoch v špeciálnej formácii podľa počtu chýb, ktoré spravili v bobrej súťaži. Pravidlom je, že počet chýb bobra stojaceho vyššie je menší, než počty chýb dvoch bobrov pod ním, ktorí sú s ním na obrázku spojení čiarami.<br/> <image_1><br/> Tadeáš urobil len 7 chýb, ale prišiel neskoro. Postavil sa na šedé miesto, ale teraz formácia nevyhovuje pravidlu. Aby sa formácia opravila, Tadeáš si opakovane vymieňa miesto s bobrami nad ním, kým sa nedostane na miesto, kde neporušuje žiadne pravidlo.<br/> <br/> Ktorá z možností je konečná formácia? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "<image_2>"
+    },
+    {
+      "value": "1",
+      "label": "<image_3>"
+    },
+    {
+      "value": "2",
+      "label": "<image_4>"
+    },
+    {
+      "value": "3",
+      "label": "<image_5>"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/12/2012-CH-02_zaciatok.png",
+    "http://demo.ibobor.sk/sutaz/images/12/2012-CH-02-a.png",
+    "http://demo.ibobor.sk/sutaz/images/12/2012-CH-02-d.png",
+    "http://demo.ibobor.sk/sutaz/images/12/2012-CH-02-c.png",
+    "http://demo.ibobor.sk/sutaz/images/12/2012-CH-02-b.png"
+  ],
+  "year": "2012/2013",
+  "category": "Senior",
+  "type": "image",
+  "correct_index": 0,
+  "correct_answer": "http://demo.ibobor.sk/sutaz/images/12/2012-CH-02-a.png",
+  "correct_answer_plain": null
+}

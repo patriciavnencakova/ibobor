@@ -1,0 +1,33 @@
+{
+  "id": 511,
+  "serial_number": 2,
+  "title": "Robot kreslí čiary",
+  "question": "Samo zostrojil robota, ktorý dokáže kresliť čiary. Robot sa programuje pomocou postupnosti čísel.<ul><li>Prvé číslo určuje dĺžku zvislej čiary. Ak je toto číslo kladné, robot nakreslí čiaru smerom hore, ak je záporné, smerom dolu.</li><li>Druhé číslo určuje dĺžku vodorovnej čiary. Ak je číslo kladné, robot nakreslí čiaru doprava, ak je záporné, nakreslí čiaru doľava.</li><li>Tretie číslo popisuje ďalšiu zvislú čiaru, štvrté číslo ďalšiu vodorovnú čiaru, atď.</li></ul><br/> Napr. ak robot vykoná program<br/> <code>2, 1, -1, 1, 1, 1, -2</code><br/> nakreslí<br/> <image_1><br/> Ktorým z nasledujúcich programov robot <b>nenakreslí</b> štvorec? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "<code>-1, -1, 1, 1</code>"
+    },
+    {
+      "value": "1",
+      "label": "<code>-1, 1, -1, 1</code>"
+    },
+    {
+      "value": "2",
+      "label": "<code>1, 1, -1, -1</code>"
+    },
+    {
+      "value": "3",
+      "label": "<code>1, -1, -1, 1</code>"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/15/2015-SK-03.png"
+  ],
+  "year": "2015/2016",
+  "category": "Junior",
+  "type": "image",
+  "correct_index": 1,
+  "correct_answer": "<code>-1, 1, -1, 1</code> ",
+  "correct_answer_plain": "-1, 1, -1, 1"
+}

@@ -1,0 +1,31 @@
+{
+  "id": 534,
+  "serial_number": 10,
+  "title": "Exkurzia",
+  "question": "Pani učiteľka si zapisuje vzťahy medzi žiakmi dvoma spôsobmi:<br> <b>X1 → X2</b><br> znamená, že ak žiak X1 niekam ide, pôjde tam aj žiak X2<br> <b>X1 &amp; X2 → X3</b><br> znamená, že ak pôjdu súčasne žiaci X1 aj X2, určite pôjde aj žiak X3<br> V triede je 9 žiakov - A, B, C, D, E, F, G, H a J.<br> Pani učiteľka vybrala žiakov A, C, E, G, H, že pôjdu na exkurziu.<br> V tabuľke vzťahov má zapísané pravidlá:<br> J &amp; B → F<br> C &amp; D → J<br> A → D<br> Koľko žiakov pôjde na exkurziu, ak sa k tým žiakom, ktorých vybrala pani učiteľka, pridajú aj žiaci podľa tabuľky vzťahov? <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "7"
+    },
+    {
+      "value": "1",
+      "label": "8"
+    },
+    {
+      "value": "2",
+      "label": "6"
+    },
+    {
+      "value": "3",
+      "label": "5"
+    }
+  ],
+  "images": [],
+  "year": "2015/2016",
+  "category": "Senior",
+  "type": "text",
+  "correct_index": 0,
+  "correct_answer": "7 ",
+  "correct_answer_plain": "7"
+}

@@ -1,0 +1,31 @@
+{
+  "id": 652,
+  "serial_number": 14,
+  "title": "Plávanie",
+  "question": "Bobor Bruno chcel plávať nezabudnuteľným plaveckým štýlom, aby ohúril Bibi. Každý plavecký štýl sa skladá z plávania dopredu a otáčania o 90 stupňov vpravo alebo vľavo.<br> Napr. keď bude stále opakovať plavecký štýl<br><b>plávaj – otoč_sa_vpravo</b><br>tak bude plávať stále do štvorca a nikam neodpláva.<br> Opakovaním ktorého plaveckého štýlu odpláva Bruno <b>čo najďalej</b> od miesta, kde začal plávať? <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "<b>plávaj – otoč_sa_vpravo – plávaj – otoč_sa_vpravo – plávaj – plávaj – otoč_sa_vpravo – plávaj – plávaj – otoč_sa_vpravo</b>"
+    },
+    {
+      "value": "1",
+      "label": "<b>plávaj – otoč_sa_vpravo – otoč_sa_vpravo – plávaj – otoč_sa_vpravo</b>"
+    },
+    {
+      "value": "2",
+      "label": "<b>plávaj – otoč_sa_vpravo – plávaj – otoč_sa_vpravo – otoč_sa_vpravo – plávaj – otoč_sa_vľavo – plávaj – otoč_sa_vľavo – otoč_sa_vľavo</b>"
+    },
+    {
+      "value": "3",
+      "label": "<b>plávaj – otoč_sa_vpravo – plávaj – plávaj – otoč_sa_vpravo – plávaj – otoč_sa_vpravo – plávaj – plávaj</b>"
+    }
+  ],
+  "images": [],
+  "year": "2013/2014",
+  "category": "Kadet",
+  "type": "text",
+  "correct_index": 0,
+  "correct_answer": "<b>plávaj – otoč_sa_vpravo – plávaj – otoč_sa_vpravo – plávaj – plávaj – otoč_sa_vpravo – plávaj – plávaj – otoč_sa_vpravo</b> ",
+  "correct_answer_plain": "plávaj – otoč_sa_vpravo – plávaj – otoč_sa_vpravo – plávaj – plávaj – otoč_sa_vpravo – plávaj – plávaj – otoč_sa_vpravo"
+}

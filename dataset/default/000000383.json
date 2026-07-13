@@ -1,0 +1,31 @@
+{
+  "id": 382,
+  "serial_number": 5,
+  "title": "Práčka",
+  "question": "Práčka používa tri príkazy: prať, pláchať, odstrediť.<br> Aby sa šaty dobre oprali, pri zadávaní postupnosti príkazov sa musia dodržať tieto pravidlá:<br> Prať musí byť prvý príkaz a znamená oprať v pracom prášku.<br> Hneď po praní musí byť odstredenie.<br> Hneď po pláchaní musí byť odstredenie.<br> Zápis <br> opakuj 3 krát postupnosť príkazov koniec opakovania <br> znamená, že postupnosť príkazov, ktorá je medzi opakuj 3 krát a koniec opakovania sa vykoná 3-krát.<br> <b>Ktorý z nasledujúcich programov máme zvoliť, ak chceme šaty oprať v pracom prášku a potom 3-krát vypláchať a musíme dodržať uvedené pravidlá?</b> <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "Prať opakuj 3 krát pláchať odstrediť koniec opakovania"
+    },
+    {
+      "value": "1",
+      "label": "Prať opakuj 3 krát odstrediť koniec opakovania pláchať odstrediť"
+    },
+    {
+      "value": "2",
+      "label": "Prať opakuj 3 krát odstrediť pláchať koniec opakovania odstrediť"
+    },
+    {
+      "value": "3",
+      "label": "Prať odstrediť opakuj 3 krát pláchať koniec opakovania odstrediť"
+    }
+  ],
+  "images": [],
+  "year": "2017/2018",
+  "category": "Nevidiaci SŠ",
+  "type": "text",
+  "correct_index": 2,
+  "correct_answer": "Prať opakuj 3 krát odstrediť pláchať koniec opakovania odstrediť ",
+  "correct_answer_plain": "Prať opakuj 3 krát odstrediť pláchať koniec opakovania odstrediť"
+}

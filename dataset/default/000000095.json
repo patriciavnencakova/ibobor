@@ -1,0 +1,31 @@
+{
+  "id": 94,
+  "serial_number": 5,
+  "title": "Pomiešané klávesy",
+  "question": "Miško má špeciálnu klávesnicu. Klávesy s písmenami fungujú tak, že sa klávesy umiestnené vo dvojiciach vedľa seba zamieňajú. Napríklad, ak Miško stlačí Q, napíše sa W a naopak, ak stlačí W, napíše sa Q. Dá sa povedať, že tieto dva klávesy sú spárované. Podobne sú spárované aj klávesy E a R, A a S atď. Výnimkou sú klávesy s písmenami L a M, ktoré síce nie sú vedľa seba, ale sú spárované.<br> Miško stlačil postupnosť klávesov: <br> FPGPFS<br> Čo napísal? <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "DOHODA"
+    },
+    {
+      "value": "1",
+      "label": "POHODA"
+    },
+    {
+      "value": "2",
+      "label": "DOHODY"
+    },
+    {
+      "value": "3",
+      "label": "GOMORA"
+    }
+  ],
+  "images": [],
+  "year": "2020/2021",
+  "category": "Nevidiaci ZŠ",
+  "type": "text",
+  "correct_index": 0,
+  "correct_answer": "DOHODA ",
+  "correct_answer_plain": "DOHODA"
+}

@@ -1,0 +1,36 @@
+{
+  "id": 240,
+  "serial_number": 7,
+  "title": "Skoč 8",
+  "question": "Hracia plocha sa skladá z 8 políčok. Úlohou hráča je umiestniť figúrku na jedno z nich.<br/> Na každom políčku tejto hracej plochy je napísaný jeden z troch typov príkazov:<ul><li>1L, 2L, 3L znamená, že figúrka skočí o 1, 2 alebo 3 políčka vľavo<br/> <image_1></li><br/> <li>1P, 2P, 3P znamená, že figúrka skočí o 1, 2 alebo 3 políčka vpravo<br/> <image_2></li><li>0 znamená, že figúrka sa nehýbe a zostane na tomto políčku<br/> <image_3></li></ul><br/> Na ktoré políčko musíš umiestniť figúrku, aby počas hry navštívila každé políčko tejto hracej plochy?<br/> <image_4> <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "na políčko B"
+    },
+    {
+      "value": "1",
+      "label": "na políčko G"
+    },
+    {
+      "value": "2",
+      "label": "na políčko E"
+    },
+    {
+      "value": "3",
+      "label": "na políčko C"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/18/2018-CA-06-2L.png",
+    "http://demo.ibobor.sk/sutaz/images/18/2018-CA-06-3P.png",
+    "http://demo.ibobor.sk/sutaz/images/18/2018-CA-06-0.png",
+    "http://demo.ibobor.sk/sutaz/images/18/2018-CA-06-zadanie.png"
+  ],
+  "year": "2018/2019",
+  "category": "Kadet",
+  "type": "image",
+  "correct_index": 3,
+  "correct_answer": "na políčko C ",
+  "correct_answer_plain": "na políčko C"
+}

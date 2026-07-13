@@ -1,0 +1,31 @@
+{
+  "id": 960,
+  "serial_number": 1,
+  "title": "Bezpečné heslo",
+  "question": "Predstav si, že tvoja prezývka je Benjamín a že si sa narodil 12. januára 1997. Máš si zvoliť nové heslo pre svoj email, ale také, aby sa ti dobre pamätalo.<br> <br> Ktoré z týchto hesiel bude <b>najťažšie</b> uhádnuť niekomu cudziemu? <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "19970112"
+    },
+    {
+      "value": "1",
+      "label": "Benjamin"
+    },
+    {
+      "value": "2",
+      "label": "Ben.jam.IN"
+    },
+    {
+      "value": "3",
+      "label": "heslo"
+    }
+  ],
+  "images": [],
+  "year": "2008/2009",
+  "category": "Benjamín",
+  "type": "text",
+  "correct_index": 2,
+  "correct_answer": "Ben.jam.IN ",
+  "correct_answer_plain": "Ben.jam.IN"
+}

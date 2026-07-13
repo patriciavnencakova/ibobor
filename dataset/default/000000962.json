@@ -1,0 +1,31 @@
+{
+  "id": 961,
+  "serial_number": 2,
+  "title": "Domáca úloha",
+  "question": "Určite vieš, že email musí okrem adresy obsahovať aj predmet správy.<br> Píšeš svojmu učiteľovi email a chceš sa v ňom spýtať, akú domácu úlohu ste dostali na budúci týždeň. <br> <br> Ktorá z nasledujúcich možností by bola najlepším <b>predmetom</b> tvojho emailu? <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "Domaca uloha na buduci tyzden"
+    },
+    {
+      "value": "1",
+      "label": "Prosim o odpoved"
+    },
+    {
+      "value": "2",
+      "label": "Dobry den"
+    },
+    {
+      "value": "3",
+      "label": "Chcem sa spytat, aka je domaca uloha na buduci tyzden"
+    }
+  ],
+  "images": [],
+  "year": "2008/2009",
+  "category": "Benjamín",
+  "type": "text",
+  "correct_index": 0,
+  "correct_answer": "Domaca uloha na buduci tyzden ",
+  "correct_answer_plain": "Domaca uloha na buduci tyzden"
+}

@@ -1,0 +1,35 @@
+{
+  "id": 60,
+  "serial_number": 10,
+  "title": "Kontrola hesla",
+  "question": "Bobry si chcú svoje stavby zabezpečiť heslom, ktoré pozostáva iba zo symbolov 0 a 1.<br/> Na kontrolu správnosti hesla navrhli takýto diagram:<br/> <image_1><br/> Kontrola hesla sa vždy začína v kruhu „S“, pokračuje v smere šípok a ak už nie sú k dispozícii žiadne symboly, alebo neexistuje šípka s daným symbolom, kontrola sa zastaví. Heslo sa <b>akceptuje</b>, iba vtedy, keď sa kontrola zastaví v kruhu „E“.<br/> V diagrame na obrázku hore sa akceptuje heslo 101.<br/> Bobry vymysleli nový diagram pre kontrolu hesla:<br/> <image_2><br/> Ktoré z nasledujúcich hesiel nový diagram <b>akceptuje</b>? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "011011"
+    },
+    {
+      "value": "1",
+      "label": "1101011000"
+    },
+    {
+      "value": "2",
+      "label": "110101110"
+    },
+    {
+      "value": "3",
+      "label": "110011010"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/20/2020-DE-05a.png",
+    "http://demo.ibobor.sk/sutaz/images/20/2020-DE-05a_zadanie.png"
+  ],
+  "year": "2020/2021",
+  "category": "Junior",
+  "type": "image",
+  "correct_index": 2,
+  "correct_answer": "110101110 ",
+  "correct_answer_plain": "110101110"
+}
+

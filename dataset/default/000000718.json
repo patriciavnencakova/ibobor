@@ -1,0 +1,33 @@
+{
+  "id": 717,
+  "serial_number": 7,
+  "title": "Kruhy",
+  "question": "Deväť detí vytvorilo abstraktný obraz z farebných papierových kruhov.<br/> Každé dieťa si vystrihlo jeden farebný kruh. Pani učiteľka pripevnila na stenu veľký biely papier. Deti postupne prichádzali k papieru a každé nalepilo svoj kruh hocikde na papier. Skôr nalepené kruhy mohlo svojím kruhom prekryť, ale nemohlo žiadny kruh odlepiť, a to ani čiastočne.<br/> <image_1><br/> Čo je pravda? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "Všetky zelené kruhy mohli byť nalepené skôr ako všetky modré."
+    },
+    {
+      "value": "1",
+      "label": "Všetky žlté kruhy mohli byť nalepené skôr ako všetky oranžové."
+    },
+    {
+      "value": "2",
+      "label": "Všetky oranžové kruhy mohli byť nalepené skôr ako všetky modré."
+    },
+    {
+      "value": "3",
+      "label": "Všetky oranžové kruhy mohli byť nalepené skôr ako všetky zelené."
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/12/2012-SK-07.png"
+  ],
+  "year": "2012/2013",
+  "category": "Kadet",
+  "type": "image",
+  "correct_index": 1,
+  "correct_answer": "Všetky žlté kruhy mohli byť nalepené skôr ako všetky oranžové. ",
+  "correct_answer_plain": "Všetky žlté kruhy mohli byť nalepené skôr ako všetky oranžové."
+}

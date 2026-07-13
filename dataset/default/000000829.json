@@ -1,0 +1,31 @@
+{
+  "id": 828,
+  "serial_number": 1,
+  "title": "Zmätený robot",
+  "question": "Robot vie chodiť dopredu, otočiť sa vpravo a vľavo.<br> Príkaz na pohyb dopredu je ODRPDEU, príkaz na otočenie vpravo je ĽVVAO. <br> <br> Aký je príkaz na otočenie vľavo? <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "ĽVOAV"
+    },
+    {
+      "value": "1",
+      "label": "PAOVRV"
+    },
+    {
+      "value": "2",
+      "label": "VĽAVO"
+    },
+    {
+      "value": "3",
+      "label": "PVAROV"
+    }
+  ],
+  "images": [],
+  "year": "2010/2011",
+  "category": "Benjamín",
+  "type": "text",
+  "correct_index": 3,
+  "correct_answer": "PVAROV ",
+  "correct_answer_plain": "PVAROV"
+}

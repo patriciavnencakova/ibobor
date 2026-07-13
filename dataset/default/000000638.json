@@ -1,0 +1,34 @@
+{
+  "id": 637,
+  "serial_number": 14,
+  "title": "Robotická včela",
+  "question": "Deti sa v škole hrávajú s robotickou včelou, ktorá môže po zemi chodiť ôsmimi smermi. Deti ich označujú číslami od 1 do 8, ako na obrázku.<br/> <image_1><br/> Keď včele povedia niektoré z týchto čísiel, bude sa hýbať daným smerom, až kým nepríde k úľu.<br/> <image_2><br/> Včela začala pri úli vľavo dolu a pohybovala sa po trase ako na obrázku. Každou časťou trasy prešla iba raz.<br/> Ktorá postupnosť čísel <b>NEZODPOVEDÁ</b> znázornenej trase včely? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "1, 7, 5, 3, 6, 4, 2, 8"
+    },
+    {
+      "value": "1",
+      "label": "1, 4, 6, 8, 2, 7, 5, 3"
+    },
+    {
+      "value": "2",
+      "label": "8, 2, 7, 5, 3, 6, 1, 4"
+    },
+    {
+      "value": "3",
+      "label": "2, 8, 6, 1, 3, 5, 8, 3"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/13/2013-HU-03_vcela.png",
+    "http://demo.ibobor.sk/sutaz/images/13/2013-HU-03_ule.png"
+  ],
+  "year": "2013/2014",
+  "category": "Benjamín",
+  "type": "image",
+  "correct_index": 0,
+  "correct_answer": "1, 7, 5, 3, 6, 4, 2, 8 ",
+  "correct_answer_plain": "1, 7, 5, 3, 6, 4, 2, 8"
+}

@@ -1,0 +1,33 @@
+{
+  "id": 462,
+  "serial_number": 10,
+  "title": "Cesta lesom",
+  "question": "Bobor chodieva dolu kopcom cez les do rybníka po čerstvú vodu. Chodí po lesných cestičkách a na každej križovatke sa náhodne rozhodne, ktorou cestičkou dolu kopcom pôjde ďalej. Ak sa dostane k rybníku, vráti sa rovnakými cestičkami domov. Ak sa nedostane k rybníku (teda skončí v H alebo v I), domov sa vráti tak, že obíde les, teda späť nepôjde po lesných cestičkách. Počet bodiek na cestičke označuje koľkokrát touto cestičkou dnes bobor išiel.<br/> <image_1><br/> Koľkokrát sa dnes vybral bobor k rybníku? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "7"
+    },
+    {
+      "value": "1",
+      "label": "5"
+    },
+    {
+      "value": "2",
+      "label": "4"
+    },
+    {
+      "value": "3",
+      "label": "6"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/16/2016-DE-06.png"
+  ],
+  "year": "2016/2017",
+  "category": "Senior",
+  "type": "image",
+  "correct_index": 3,
+  "correct_answer": "6 ",
+  "correct_answer_plain": "6"
+}

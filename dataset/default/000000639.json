@@ -1,0 +1,34 @@
+{
+  "id": 638,
+  "serial_number": 15,
+  "title": "Hamburgery",
+  "question": "Danka pripravuje syrové hamburgery a balí ich do troch rôznych obalov. <br/> Pripraví vždy tri naraz a položí ich na seba v poradí ako na obrázku:<br/> <image_1><br/> Potom ich pridá na vrch kopy, z ktorej Janka predáva. Janka vždy vezme vrchný obal s hamburgerom a predá ho.<br/> Koľko hamburgerov už Janka predala, ak teraz vyzerá kopa takto?<br/> <image_2> <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "4 hamburgery"
+    },
+    {
+      "value": "1",
+      "label": "6 hamburgerov"
+    },
+    {
+      "value": "2",
+      "label": "7 hamburgerov"
+    },
+    {
+      "value": "3",
+      "label": "5 hamburgerov"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/13/2013-AT-11_tri.png",
+    "http://demo.ibobor.sk/sutaz/images/13/2013-AT-11_stack.png"
+  ],
+  "year": "2013/2014",
+  "category": "Benjamín",
+  "type": "image",
+  "correct_index": 3,
+  "correct_answer": "5 hamburgerov ",
+  "correct_answer_plain": "5 hamburgerov"
+}

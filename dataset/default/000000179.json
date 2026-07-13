@@ -1,0 +1,37 @@
+{
+  "id": 178,
+  "serial_number": 14,
+  "title": "Ktorá mapa?",
+  "question": "Bobrí kráľ ukryl svoj poklad v krajine so 7 provinciami, pozri mapu.<br/> <image_1><br/> Kráľ mapu zakódoval. Krúžky predstavujú provincie a čiary spájajú provincie, ktoré susedia.<br/> Aby kráľ poplietol zlodejov, vytvoril tri falošné zakódované mapy.<br/> Ktorá zakódovaná mapa je pravá? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "<image_2>"
+    },
+    {
+      "value": "1",
+      "label": "<image_3>"
+    },
+    {
+      "value": "2",
+      "label": "<image_4>"
+    },
+    {
+      "value": "3",
+      "label": "<image_5>"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/19/2019-VN-04.png",
+    "http://demo.ibobor.sk/sutaz/images/19/2019-VN-04_D.png",
+    "http://demo.ibobor.sk/sutaz/images/19/2019-VN-04_C.png",
+    "http://demo.ibobor.sk/sutaz/images/19/2019-VN-04_A.png",
+    "http://demo.ibobor.sk/sutaz/images/19/2019-VN-04_B.png"
+  ],
+  "year": "2019/2020",
+  "category": "Senior",
+  "type": "image",
+  "correct_index": 0,
+  "correct_answer": "http://demo.ibobor.sk/sutaz/images/19/2019-VN-04_D.png",
+  "correct_answer_plain": null
+}

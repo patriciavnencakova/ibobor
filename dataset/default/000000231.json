@@ -1,0 +1,33 @@
+{
+  "id": 230,
+  "serial_number": 12,
+  "title": "Prelož tehličky",
+  "question": "Robot dokáže vykonať inštrukcie.<br/> Ak je inštrukcia písmeno (A až H), robot sa <b>presunie</b> do určenej oblasti. Pri označení oblasti sa používa najľavejšie písmeno oblasti.<br/> Ak je inštrukcia 1, robot <b>zoberie</b> z oblasti najvrchnejšiu tehličku.<br/> Ak je inštrukcia 0, robot <b>položí</b> do oblasti tehličku, ktorú drží.<br/> Úlohou robota je preložiť tehličky zľava doprava tak, ako je naznačené na obrázku. Robot môže naraz niesť iba jednu tehličku.<br/> <image_1><br/> Vykonaním ktorých inštrukcií robot preloží tehličky tak, ako sú na obrázku? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "A1G0A1H1A1F0"
+    },
+    {
+      "value": "1",
+      "label": "A10FA10GA10E"
+    },
+    {
+      "value": "2",
+      "label": "A1F0A1G0A1E0"
+    },
+    {
+      "value": "3",
+      "label": "A1F0A1G0A1H0"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/18/2018-MY-05.png"
+  ],
+  "year": "2018/2019",
+  "category": "Benjamín",
+  "type": "image",
+  "correct_index": 2,
+  "correct_answer": "A1F0A1G0A1E0 ",
+  "correct_answer_plain": "A1F0A1G0A1E0"
+}

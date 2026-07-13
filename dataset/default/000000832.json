@@ -1,0 +1,33 @@
+{
+  "id": 831,
+  "serial_number": 4,
+  "title": "E-mail",
+  "question": "Michal, Paťo, Denis a Braňo posielali mailom pani učiteľke Peknikovej úlohu z matematiky. <br/> <image_1><br/> <br/> Ktorý z nich poslal najvhodnejší mail? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "Denis"
+    },
+    {
+      "value": "1",
+      "label": "Michal"
+    },
+    {
+      "value": "2",
+      "label": "Patrik"
+    },
+    {
+      "value": "3",
+      "label": "Braňo"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/10/B_dada_mail.png"
+  ],
+  "year": "2010/2011",
+  "category": "Benjamín",
+  "type": "image",
+  "correct_index": 1,
+  "correct_answer": "Michal ",
+  "correct_answer_plain": "Michal"
+}

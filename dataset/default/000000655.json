@@ -1,0 +1,33 @@
+{
+  "id": 654,
+  "serial_number": 1,
+  "title": "Náhrdelník",
+  "question": "Bobrica Pamela si vytvorila náhrdelník. Teraz, keď je hotový, však nevie, či si ho dokáže zapnúť okolo krku, teda nevie aký je dlhý.<br/> <image_1><br/> Čísla vyjadrujú dĺžky nití medzi jednotlivými korálikmi (nite sa nedajú naťahovať).<br/> Aký dlhý je náhrdelník? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "26"
+    },
+    {
+      "value": "1",
+      "label": "34"
+    },
+    {
+      "value": "2",
+      "label": "32"
+    },
+    {
+      "value": "3",
+      "label": "35"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/13/2013-SI-04_SK-nahrdelnik.png"
+  ],
+  "year": "2013/2014",
+  "category": "Junior",
+  "type": "image",
+  "correct_index": 2,
+  "correct_answer": "32 ",
+  "correct_answer_plain": "32"
+}

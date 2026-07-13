@@ -1,0 +1,35 @@
+{
+  "id": 447,
+  "serial_number": 10,
+  "title": "Čiarový kód",
+  "question": "V Bobrove používajú namiesto poštových smerových čísiel čiarový kód.<br/> Napríklad namiesto poštového smerového čísla G7Y0, použijú takýto čiarový kód:<br/> <image_1><br/> Vľavo na obrázku je postup, vpravo je tabuľka, ktorú používajú pri vytváraní čiarového kódu.<br/> <image_2><br/> <br/> Aké poštové smerové číslo je zakódované v tomto čiarovom kóde?<br/> <image_3> <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "BC16"
+    },
+    {
+      "value": "1",
+      "label": "U2E1"
+    },
+    {
+      "value": "2",
+      "label": "BC7O"
+    },
+    {
+      "value": "3",
+      "label": "U2E7"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/16/2016-NL-04_ukazka.png",
+    "http://demo.ibobor.sk/sutaz/images/16/2016-NL-04_tabulka.png",
+    "http://demo.ibobor.sk/sutaz/images/16/2016-NL-04_zadanie.png"
+  ],
+  "year": "2016/2017",
+  "category": "Junior",
+  "type": "image",
+  "correct_index": 0,
+  "correct_answer": "BC16 ",
+  "correct_answer_plain": "BC16"
+}

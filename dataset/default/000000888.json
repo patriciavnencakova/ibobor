@@ -1,0 +1,33 @@
+{
+  "id": 887,
+  "serial_number": 15,
+  "title": "Jazierka",
+  "question": "Bobor každoročne pláva cez tú istú sieť kanálov a jazierok. Jazierka má bobor veľmi rád, a preto si vymyslel postup, ako preplávať všetkými jazierkami. Vie, že keď dopláva do nejakého jazierka, vychádzajú z neho nanajvýš dva kanály, ktroré ešte nepreplával. <br/> Keď bobor dopláva do jazierka, rozhodne sa, ktorým kanálom bude pokračovať, podľa nasledujúcich pravidiel:<br/> <ul><li>Ak z neho vedú dva kanály, ktoré ešte nepreplával, vpláva do kanála po jeho ľavej ruke.</li><li>Ak z neho vedie len jeden kanál, ktorý ešte nepreplával, vpláva do neho.</li><li>Ak preplával všetky kanály, ktoré vedú z jazierka, vráti sa do predchádzajúceho jazierka.</li></ul><br/> Bobor končí výlet vtedy, keď preplával všetky jazierka a vrátil sa späť na štart.<br/> <br/> Na obrázku je mapka jazierok a kanálov.<br/> <image_1><br/> <br/> V každom jazierku stretol bobor iné zviera. Do mapky si zapísal meno zvieraťa, ktoré videl, keď priplával do jazierka prvýkrát. V akom poradí si bobor zapísal jednotlivé mená? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "ryba, krokodíl, had, bocian, kačica, vydra, žaba, korytnačka"
+    },
+    {
+      "value": "1",
+      "label": "ryba, žaba, krokodíl, korytnačka, bocian, had, vydra, kačica"
+    },
+    {
+      "value": "2",
+      "label": "ryba, žaba, korytnačka"
+    },
+    {
+      "value": "3",
+      "label": "ryba, žaba, korytnačka, krokodíl, bocian, vydra, kačica, had"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/10/2010-NL-02_sk.png"
+  ],
+  "year": "2010/2011",
+  "category": "Senior",
+  "type": "image",
+  "correct_index": 3,
+  "correct_answer": "ryba, žaba, korytnačka, krokodíl, bocian, vydra, kačica, had ",
+  "correct_answer_plain": "ryba, žaba, korytnačka, krokodíl, bocian, vydra, kačica, had"
+}

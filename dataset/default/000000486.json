@@ -1,0 +1,36 @@
+{
+  "id": 485,
+  "serial_number": 6,
+  "title": "Preprava áut",
+  "question": "V automobilovom závode vyrábajú autá na dvoch výrobných linkách. Z jednej linky vyjde každých 7 minút červené auto. Z druhej linky vyjde každých 5 minút žlté auto. Autá sa nakladajú na kamióny v takom poradí, v akom vychádzajú z liniek. Najprv sa naloží horná časť kamióna. Obe linky spustili v rovnakom čase.<br/> Ako vyzerá <b>prvý</b> naložený kamión? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "<image_1>"
+    },
+    {
+      "value": "1",
+      "label": "<image_2>"
+    },
+    {
+      "value": "2",
+      "label": "<image_3>"
+    },
+    {
+      "value": "3",
+      "label": "<image_4>"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/15/2015-CZ-03_SK_Be_C.png",
+    "http://demo.ibobor.sk/sutaz/images/15/2015-CZ-03_SK_Be_A.png",
+    "http://demo.ibobor.sk/sutaz/images/15/2015-CZ-03_SK_Be_B.png",
+    "http://demo.ibobor.sk/sutaz/images/15/2015-CZ-03_SK_Be_D.png"
+  ],
+  "year": "2015/2016",
+  "category": "Benjamín",
+  "type": "image",
+  "correct_index": 3,
+  "correct_answer": "http://demo.ibobor.sk/sutaz/images/15/2015-CZ-03_SK_Be_D.png",
+  "correct_answer_plain": null
+}

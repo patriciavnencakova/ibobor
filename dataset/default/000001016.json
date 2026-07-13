@@ -1,0 +1,33 @@
+{
+  "id": 1015,
+  "serial_number": 11,
+  "title": "Prvý, druhý",
+  "question": "Zadefinujeme dve funkcie:<br/> prvý (X Y) = X<br/> druhý (X Y) = Y<br/> kde X a Y môžu byť čísla alebo dvojice čísel. <br/> <br/> Napríklad:<br/> prvý (7 4) = 7<br/> druhý ((7 4) 5) = 5<br/> prvý ( prvý ( (7 4) (1 8) ) 3 ) = (7 4)‏<br/> <br/> Čomu sa rovná <br/> <image_1> <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "<i>prvý</i> nefunguje na číslach, preto nie je žiadna správna odpoveď"
+    },
+    {
+      "value": "1",
+      "label": "(3 4)‏"
+    },
+    {
+      "value": "2",
+      "label": "(7 8)"
+    },
+    {
+      "value": "3",
+      "label": "1"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/08/S_INF_LT_025.gif"
+  ],
+  "year": "2008/2009",
+  "category": "Senior",
+  "type": "image",
+  "correct_index": 2,
+  "correct_answer": "(7 8) ",
+  "correct_answer_plain": "(7 8)"
+}

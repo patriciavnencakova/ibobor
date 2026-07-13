@@ -1,0 +1,31 @@
+{
+  "id": 641,
+  "serial_number": 3,
+  "title": "Heslo pre dedka",
+  "question": "Dedko nás poprosil, aby sme mu pomohli vytvoriť heslo pre jeho e-mailovú schránku. Heslo musí obsahovať:<ul><li>Aspoň 2 veľké písmená.</li><li>Viac písmen ako číslic.</li><li>Aspoň 1 špeciálny znak, t.j. taký, ktorý nie je písmeno ani číslica.</li></ul><br> Ktoré heslo je akceptovateľné? <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "<b>OPA@674+</b>"
+    },
+    {
+      "value": "1",
+      "label": "<b>naj*D3D8+B</b>"
+    },
+    {
+      "value": "2",
+      "label": "<b>Dedulo#57</b>"
+    },
+    {
+      "value": "3",
+      "label": "<b>RAYMan854</b>"
+    }
+  ],
+  "images": [],
+  "year": "2013/2014",
+  "category": "Kadet",
+  "type": "text",
+  "correct_index": 1,
+  "correct_answer": "<b>naj*D3D8+B</b> ",
+  "correct_answer_plain": "naj*D3D8+B"
+}

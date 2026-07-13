@@ -1,0 +1,33 @@
+{
+  "id": 948,
+  "serial_number": 4,
+  "title": "Graf",
+  "question": "Na grafe je znázornená najvyššia denná a najnižšia nočná teplota, ktorú namerali dňa 8. 11. postupne v rokoch 2000 až 2009.<br/> <image_1><br/> <br/> V ktorom z týchto rokov bol najväčší rozdiel medzi dennou a nočnou teplotou? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "2002"
+    },
+    {
+      "value": "1",
+      "label": "2000"
+    },
+    {
+      "value": "2",
+      "label": "2001"
+    },
+    {
+      "value": "3",
+      "label": "2007"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/09/S_graf_teplota.png"
+  ],
+  "year": "2009/2010",
+  "category": "Senior",
+  "type": "image",
+  "correct_index": 0,
+  "correct_answer": "2002 ",
+  "correct_answer_plain": "2002"
+}

@@ -1,0 +1,33 @@
+{
+  "id": 608,
+  "serial_number": 12,
+  "title": "Vlaky",
+  "question": "Osobný vlak vychádza zo stanice 1, rýchlovlak zo stanice 2. Mapa na obrázku znázorňuje všetky stanice a farebné železničné trate medzi nimi. <br/> Vždy sa pohybuje najviac jeden z vlakov. Keď sa vlak pohybuje zaznamená sa farba trate, ale nie ktorý vlak to bol.<br/> Napríklad záznam <b>BG</b> môže znamenať, že jeden z vlakov prešiel po modrej a potom po zelenej trati alebo že jeden vlak prešiel po modrej trati a potom druhý po zelenej trati.<br/> <image_1><br/> Vlaky sa nakoniec stretli v jednej stanici.<br/> Ktorý z nasledujúcich záznamov môže zodpovedať ich pohybu? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "YYBYGGBG"
+    },
+    {
+      "value": "1",
+      "label": "GYGBGYBB"
+    },
+    {
+      "value": "2",
+      "label": "YBBYBYY"
+    },
+    {
+      "value": "3",
+      "label": "GBYBYGY"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/14/2014-CZ-03.png"
+  ],
+  "year": "2014/2015",
+  "category": "Senior",
+  "type": "image",
+  "correct_index": 1,
+  "correct_answer": "GYGBGYBB ",
+  "correct_answer_plain": "GYGBGYBB"
+}

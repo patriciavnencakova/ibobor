@@ -1,0 +1,31 @@
+{
+  "id": 154,
+  "serial_number": 5,
+  "title": "Tabuľka",
+  "question": "Janka pracuje s tabuľkou, ktorá má vyplnených 5 stĺpcov a 5 riadkov. Stĺpce sú zľava doprava označené písmenami od A po E a riadky zhora nadol číslami od 1 po 5. Každá bunka je jednoznačne určená písmenom stĺpca a číslom riadku, v ktorých sa nachádza.<br> Janka bola nastavená na bunke <b>C4</b> (v treťom stĺpci a štvrtom riadku). Potom postláčala takúto postupnosť klávesov:<br> ← ←↑ Delete → ↑→ → Delete<br> Obsah ktorých dvoch buniek Janka zmazala? <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "A2 a E2"
+    },
+    {
+      "value": "1",
+      "label": "A3 a D2"
+    },
+    {
+      "value": "2",
+      "label": "A3 a E2"
+    },
+    {
+      "value": "3",
+      "label": "A2 a D2"
+    }
+  ],
+  "images": [],
+  "year": "2019/2020",
+  "category": "Junior",
+  "type": "text",
+  "correct_index": 1,
+  "correct_answer": "A3 a D2 ",
+  "correct_answer_plain": "A3 a D2"
+}

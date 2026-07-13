@@ -1,0 +1,33 @@
+{
+  "id": 21,
+  "serial_number": 1,
+  "title": "Požičiavanie kníh",
+  "question": "V knižnom domčeku, z ktorého si deti samy požičiavajú knihy, bolo na začiatku týždňa týchto 5 kníh uložených na kope.<br/> Na dverách domčeka je tabuľka, do ktorej sa deti počas týždňa zapisovali, pozri obrázok vpravo.<br/> <image_1><br/> Ten, kto si knihu požičiava, si z kopy zoberie <b>vrchnú</b> knihu a zapíše do tabuľky svoje meno a slovo „výpožička“. Ten, kto knihu vracia, položí knihu <b>na vrch</b> kopy a do tabuľky zapíše svoje meno a slovo „vrátenie“.<br/> Ktorú knihu si požičal Adam? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "Divný Danko"
+    },
+    {
+      "value": "1",
+      "label": "Bež, rýchlo, bež"
+    },
+    {
+      "value": "2",
+      "label": "Hlboký vesmír"
+    },
+    {
+      "value": "3",
+      "label": "Čarodejka Zuna"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/20/2020-CA-04.png"
+  ],
+  "year": "2020/2021",
+  "category": "Benjamín",
+  "type": "image",
+  "correct_index": 0,
+  "correct_answer": "Divný Danko ",
+  "correct_answer_plain": "Divný Danko"
+}

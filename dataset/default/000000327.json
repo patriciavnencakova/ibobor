@@ -1,0 +1,38 @@
+{
+  "id": 326,
+  "serial_number": 9,
+  "title": "Päť paličiek",
+  "question": "Adam mal 5 paličiek. Položil ich na stôl a vytvoril takýto útvar:<br/> <image_1><br/> K stolu prišla Ema. Chytila jednu paličku a preložila ju na iné miesto. Vznikol takýto útvar:<br/> <image_2><br/> Potom prišiel k stolu Bruno, chytil jednu paličku a preložil ju na iné miesto.<br/> Ktorý útvar <b>nemohol</b> Bruno vytvoriť? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "<image_3>"
+    },
+    {
+      "value": "1",
+      "label": "<image_4>"
+    },
+    {
+      "value": "2",
+      "label": "<image_5>"
+    },
+    {
+      "value": "3",
+      "label": "<image_6>"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/17/2015-SK-01_zadanie1.png",
+    "http://demo.ibobor.sk/sutaz/images/17/2015-SK-01_zadanie2.png",
+    "http://demo.ibobor.sk/sutaz/images/17/2015-SK-01_A.png",
+    "http://demo.ibobor.sk/sutaz/images/17/2015-SK-01_B.png",
+    "http://demo.ibobor.sk/sutaz/images/17/2015-SK-01_C.png",
+    "http://demo.ibobor.sk/sutaz/images/17/2015-SK-01_D.png"
+  ],
+  "year": "2017/2018",
+  "category": "Benjamín",
+  "type": "image",
+  "correct_index": 3,
+  "correct_answer": "http://demo.ibobor.sk/sutaz/images/17/2015-SK-01_D.png",
+  "correct_answer_plain": null
+}

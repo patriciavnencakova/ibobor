@@ -1,0 +1,37 @@
+{
+  "id": 1056,
+  "serial_number": 7,
+  "title": "39",
+  "question": "Ktorý obrázok logicky patrí na miesto otáznika?<br/> <br/> <image_1> <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "<image_2>"
+    },
+    {
+      "value": "1",
+      "label": "<image_3>"
+    },
+    {
+      "value": "2",
+      "label": "<image_4>"
+    },
+    {
+      "value": "3",
+      "label": "<image_5>"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/symboly.png",
+    "http://demo.ibobor.sk/sutaz/images/symbol3.png",
+    "http://demo.ibobor.sk/sutaz/images/symbol4.png",
+    "http://demo.ibobor.sk/sutaz/images/symbol2.png",
+    "http://demo.ibobor.sk/sutaz/images/symbol1.png"
+  ],
+  "year": "2007/2008",
+  "category": "Senior",
+  "type": "image",
+  "correct_index": 1,
+  "correct_answer": "http://demo.ibobor.sk/sutaz/images/symbol4.png",
+  "correct_answer_plain": null
+}

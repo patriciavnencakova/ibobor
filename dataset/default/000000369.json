@@ -1,0 +1,40 @@
+{
+  "id": 368,
+  "serial_number": 6,
+  "title": "Robot",
+  "question": "Milan má robot, ktorý vie rozoznávať farbu štvorčekov a prefarbovať ich. Robot sa vie aj pohybovať o 1 štvorček vľavo alebo vpravo v rade štvorčekov.<br/> Robot sa pohybuje podľa dvoch typov pravidiel:<br/> <image_1>Ak vidí červený štvorček, prefarbí ho na zelený a posunie sa o jeden štvorček vpravo.<br/> <image_2> Ak vidí žltý štvorček, prefarbí ho na červený a posunie sa o jeden štvorček vľavo.<br/> <br/> Na začiatku stojí robot na prvom štvorčeku zľava. Zistí farbu štvorčeka, nájde pravidlo pre túto farbu, prefarbí štvorček tak, ako mu hovorí pravidlo a posunie sa, ako mu hovorí šípka v pravidle. Ďalej postupuje rovnako. Ak robot nenájde vhodné pravidlo alebo sa ocitne mimo radu štvorčekov, skončí.<br/> Robot dostal na začiatku takýto rad štvorčekov:<br/> <image_3><br/> a takéto pravidlá:<br/> <image_4><br/> Ako budú zafarbené štvorčeky po skončení činnosti robota? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "<image_5>"
+    },
+    {
+      "value": "1",
+      "label": "<image_6>"
+    },
+    {
+      "value": "2",
+      "label": "<image_7>"
+    },
+    {
+      "value": "3",
+      "label": "<image_8>"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/17/2017-SK-12a-czvpravoM.png",
+    "http://demo.ibobor.sk/sutaz/images/17/2017-SK-12a-zcvlavoM.png",
+    "http://demo.ibobor.sk/sutaz/images/17/2017-SK-12a-vstup.png",
+    "http://demo.ibobor.sk/sutaz/images/17/2017-SK-12a-pravidla.png",
+    "http://demo.ibobor.sk/sutaz/images/17/2017-SK-12a-B.png",
+    "http://demo.ibobor.sk/sutaz/images/17/2017-SK-12a-A.png",
+    "http://demo.ibobor.sk/sutaz/images/17/2017-SK-12a-C.png",
+    "http://demo.ibobor.sk/sutaz/images/17/2017-SK-12a-D.png"
+  ],
+  "year": "2017/2018",
+  "category": "Senior",
+  "type": "image",
+  "correct_index": 1,
+  "correct_answer": "http://demo.ibobor.sk/sutaz/images/17/2017-SK-12a-A.png",
+  "correct_answer_plain": null
+}

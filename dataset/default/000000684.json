@@ -1,0 +1,33 @@
+{
+  "id": 683,
+  "serial_number": 15,
+  "title": "Kontrola rieky",
+  "question": "Bobry dnes potrebujú skontrolovať rieku: po každom jej ramene musí preplávať aspoň jeden bobor. Rieka je zakreslená na obrázku. Kvôli silnému prúdu môžu bobry plávať len dolu prúdom (prúd je označený šípkami). Všetky bobry začnú v bode A a skončia v bode B. Každý bobor môže z bodu A do bodu B preplávať len raz.<br/> <image_1><br/> Aký najmenší počet bobrov je potrebných na to, aby skontrolovali všetky ramená rieky? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "3"
+    },
+    {
+      "value": "1",
+      "label": "4"
+    },
+    {
+      "value": "2",
+      "label": "6"
+    },
+    {
+      "value": "3",
+      "label": "5"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/13/2013-NL-02_SK.png"
+  ],
+  "year": "2013/2014",
+  "category": "Senior",
+  "type": "image",
+  "correct_index": 2,
+  "correct_answer": "6 ",
+  "correct_answer_plain": "6"
+}

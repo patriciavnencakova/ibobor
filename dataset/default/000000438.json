@@ -1,0 +1,42 @@
+{
+  "id": 437,
+  "serial_number": 15,
+  "title": "Návrat včely",
+  "question": "Robotická včela má na svojom chrbte tlačidlá, pomocou ktorých sa dá programovať jej pohyb a otáčanie.<br/> Jej pohyb sa dá naprogramovať pomocou tlačidiel:<br/> <image_1> posunie sa na nasledujúce políčko v smere, v ktorom je otočená,<br/> <image_2> otočí sa vľavo, ostáva na políčku, na ktorom stojí,<br/> <image_3> otočí sa vpravo, ostáva na políčku, na ktorom stojí,<br/> <image_4> posunie sa o jedno políčko vzad, t.j. opačným smerom ako je otočená,<br/> <image_5> začne donekonečna vykonávať naprogramovanú postupnosť príkazov.<br/> Na obrázku vidíme, kam sa dostala včela prvým vykonaním postupnosti príkazov pod obrázkom:<br/> <image_6> <br/> <br/> <b>Vykonávaním</b> ktorej z nasledujúcich postupností sa včela <b>niekedy dostane</b> na políčko, kde začínala a do natočenia, v ktorom začínala? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "<image_7>"
+    },
+    {
+      "value": "1",
+      "label": "<image_8>"
+    },
+    {
+      "value": "2",
+      "label": "<image_9>"
+    },
+    {
+      "value": "3",
+      "label": "<image_10>"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/16/2016-CZ-08a_hore.png",
+    "http://demo.ibobor.sk/sutaz/images/16/2016-CZ-08a_vlavo.png",
+    "http://demo.ibobor.sk/sutaz/images/16/2016-CZ-08a_vpravo.png",
+    "http://demo.ibobor.sk/sutaz/images/16/2016-CZ-08a_dolu.png",
+    "http://demo.ibobor.sk/sutaz/images/16/2016-CZ-08a_chod.png",
+    "http://demo.ibobor.sk/sutaz/images/16/2016-CZ-08a_ukazka.png",
+    "http://demo.ibobor.sk/sutaz/images/16/2016-CZ-08a_C.png",
+    "http://demo.ibobor.sk/sutaz/images/16/2016-CZ-08a_A.png",
+    "http://demo.ibobor.sk/sutaz/images/16/2016-CZ-08a_B.png",
+    "http://demo.ibobor.sk/sutaz/images/16/2016-CZ-08a_D.png"
+  ],
+  "year": "2016/2017",
+  "category": "Kadet",
+  "type": "image",
+  "correct_index": 3,
+  "correct_answer": "http://demo.ibobor.sk/sutaz/images/16/2016-CZ-08a_D.png",
+  "correct_answer_plain": null
+}

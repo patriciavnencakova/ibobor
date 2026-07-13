@@ -1,0 +1,40 @@
+{
+  "id": 797,
+  "serial_number": 15,
+  "title": "Náhrdelník",
+  "question": "V časopise bol návod, ako si urobiť náhrdelník z korálikov: <ul><li><b>Začni</b> bielym a modrým korálikom<br/> <image_1></li> <li>Ak už máš nejaký náhrdelník, môžeš si ho predĺžiť <b>jedným</b> z týchto postupov: <ul><li>buď na jeho začiatok aj koniec dáš modrý korálik<br/> <image_2></li> <li>alebo na jeho pravý koniec dáš dva biele koráliky<br/> <image_3></li><br/> </ul></li><li>Ak už máš <b>dva</b> náhrdelníky, môžeš ich spojiť<br/> <image_4></li></ul> Ktorý náhrdelník <b>nie je</b> vytvorený podľa vyššie popísaného návodu? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "<image_5>"
+    },
+    {
+      "value": "1",
+      "label": "<image_6>"
+    },
+    {
+      "value": "2",
+      "label": "<image_7>"
+    },
+    {
+      "value": "3",
+      "label": "<image_8>"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/11/2011-SK-03_krok1.png",
+    "http://demo.ibobor.sk/sutaz/images/11/2011-SK-03_krok2a.png",
+    "http://demo.ibobor.sk/sutaz/images/11/2011-SK-03_krok2b.png",
+    "http://demo.ibobor.sk/sutaz/images/11/2011-SK-03_krok3.png",
+    "http://demo.ibobor.sk/sutaz/images/11/2011-SK-03_A.png",
+    "http://demo.ibobor.sk/sutaz/images/11/2011-SK-03_D.png",
+    "http://demo.ibobor.sk/sutaz/images/11/2011-SK-03_C.png",
+    "http://demo.ibobor.sk/sutaz/images/11/2011-SK-03_B.png"
+  ],
+  "year": "2011/2012",
+  "category": "Kadet",
+  "type": "image",
+  "correct_index": 2,
+  "correct_answer": "http://demo.ibobor.sk/sutaz/images/11/2011-SK-03_C.png",
+  "correct_answer_plain": null
+}

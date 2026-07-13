@@ -1,0 +1,31 @@
+{
+  "id": 191,
+  "serial_number": 3,
+  "title": "Parkovací systém",
+  "question": "V Bobrove majú pri vjazde do garáže nainštalovaný systém, ktorý rozpoznáva a uchováva značky áut.<br> Momentálne je však pokazený a niektoré písmena a čísla nerozpoznáva správne. <br> P rozpozná ako D<br> 3 rozpozná ako 8<br> G rozpozná ako C<br> Ak systém vyhodnotí, že vchádza auto so značkou, ktorá už garáži je, tak ho dnu nepustí.<br> V garáži už parkuje auto so značkou<br> P 3 G<br> Ktoré auto systém kvôli tomu nepustí do garáže? <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "D 5 G"
+    },
+    {
+      "value": "1",
+      "label": "P 6 C"
+    },
+    {
+      "value": "2",
+      "label": "G 3 P"
+    },
+    {
+      "value": "3",
+      "label": "P 8 C"
+    }
+  ],
+  "images": [],
+  "year": "2019/2020",
+  "category": "Nevidiaci ZŠ",
+  "type": "text",
+  "correct_index": 3,
+  "correct_answer": "P 8 C ",
+  "correct_answer_plain": "P 8 C"
+}

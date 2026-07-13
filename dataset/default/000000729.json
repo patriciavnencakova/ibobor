@@ -1,0 +1,33 @@
+{
+  "id": 728,
+  "serial_number": 3,
+  "title": "Čiary",
+  "question": "Korytnačka kreslí obrázky pomocou príkazov:<br/> <b>do K</b> – prejde dopredu K krokov<br/> <b>vp S</b> – otočí sa vpravo o S stupňov<br/> <b>opakuj N [príkazy]</b> – opakuje N-krát príkazy v hranatých zátvorkách<br/> <br/> Príkazmi <br/> <b> opakuj 10 [opakuj 100 [opakuj 5 [do 80 vp 120] vp 10] do 200]</b><br/> nakreslila takýto obrázok<br/> <image_1> <br/> pričom kreslila krátke čiary (80 krokov) a dlhé čiary (200 krokov).<br/> <br/> Koľko a akých čiar nakreslila pri kreslení obrázku? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "1000 dlhých čiar a 115 krátkych"
+    },
+    {
+      "value": "1",
+      "label": "10 dlhých čiar a 5000 krátkych"
+    },
+    {
+      "value": "2",
+      "label": "1000 dlhých čiar a 5000 krátkych"
+    },
+    {
+      "value": "3",
+      "label": "10 dlhých čiar a 115 krátkych"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/12/2012-NL-06.png"
+  ],
+  "year": "2012/2013",
+  "category": "Junior",
+  "type": "image",
+  "correct_index": 1,
+  "correct_answer": "10 dlhých čiar a 5000 krátkych ",
+  "correct_answer_plain": "10 dlhých čiar a 5000 krátkych"
+}

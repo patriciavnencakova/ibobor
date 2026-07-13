@@ -1,0 +1,33 @@
+{
+  "id": 872,
+  "serial_number": 15,
+  "title": "Fotky",
+  "question": "Otec veľmi rád fotografuje svoje deti Evu, Leu, Iva a Toma.<br/> Fotky si ukladá do .jpg súborov, ktorým dáva mená začínajúce dátumom vo formáte rrrr-mm-dd. Za ním nasledujú mená detí, ktoré sú na príslušnej fotke, oddelené znakom +.<br/> Napríklad<ul><li>2010-06-13+Tom.jpg</li><li>2008-06-06+Tom+Eva.jpg</li><li>2009-06-11+Eva+Lea+Tom+Ivo.jpg</li></ul><br/> Pri vyhľadávaní fotiek využíva filter. Znak * vo filtri znamená \"tu môže byť ľubovoľný počet akýchkoľvek znakov\", napríklad:<br/> <image_1><br/> <br/> Pomocou ktorého filtra nájde všetky fotky z júna ľubovoľného roku, na ktorých je aspoň Tom? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "*-06-*Tom*.jpg"
+    },
+    {
+      "value": "1",
+      "label": "*-06-*+Tom.jpg"
+    },
+    {
+      "value": "2",
+      "label": "*-06+*Tom*.jpg"
+    },
+    {
+      "value": "3",
+      "label": "*06*Tom*.jpg"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/10/2010_CH_01.png"
+  ],
+  "year": "2010/2011",
+  "category": "Junior",
+  "type": "image",
+  "correct_index": 0,
+  "correct_answer": "*-06-*Tom*.jpg ",
+  "correct_answer_plain": "*-06-*Tom*.jpg"
+}

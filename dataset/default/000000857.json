@@ -1,0 +1,37 @@
+{
+  "id": 856,
+  "serial_number": 14,
+  "title": "Skladačka",
+  "question": "Janko má sadu štyroch rovnakých kartičiek. Ich otáčaním ich dokáže zložiť do štvorca 2x2 tak, že štyri poskladané bobry v strede majú celé šaty jednej farby:<br/> <image_1><br/> <br/> Zuzka má štyri iné sady kartičiek. Ale jedna z nich sa nedá zložiť do štvorca 2x2 tak, ako tá Jankova. Ktorá to je? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "<image_2>"
+    },
+    {
+      "value": "1",
+      "label": "<image_3>"
+    },
+    {
+      "value": "2",
+      "label": "<image_4>"
+    },
+    {
+      "value": "3",
+      "label": "<image_5>"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/10/2010-NL-03.png",
+    "http://demo.ibobor.sk/sutaz/images/10/2010-NL-03c.png",
+    "http://demo.ibobor.sk/sutaz/images/10/2010-NL-03b.png",
+    "http://demo.ibobor.sk/sutaz/images/10/2010-NL-03a.png",
+    "http://demo.ibobor.sk/sutaz/images/10/2010-NL-03d.png"
+  ],
+  "year": "2010/2011",
+  "category": "Kadet",
+  "type": "image",
+  "correct_index": 1,
+  "correct_answer": "http://demo.ibobor.sk/sutaz/images/10/2010-NL-03b.png",
+  "correct_answer_plain": null
+}

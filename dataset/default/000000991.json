@@ -1,0 +1,31 @@
+{
+  "id": 990,
+  "serial_number": 1,
+  "title": "Triedenie čísel",
+  "question": "Postupnosť čísel je utriedená vzostupne, ak každý nasledujúci člen je väčší alebo rovný ako predchádzajúci. Podobne postupnosť čísel je utriedená zostupne, ak je každý nasledujúci člen menší alebo rovný ako predchádzajúci. Hovoríme, že postupnosť <b>je utriedená</b>, ak je utriedená vzostupne alebo zostupne.<br> <br> Ktorá z nasledujúcich postupností <b>nie</b> je utriedená? <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "3.01; 3.1; 3.001; 3.101"
+    },
+    {
+      "value": "1",
+      "label": "10.74; 4; -3.5; -10.74"
+    },
+    {
+      "value": "2",
+      "label": "-5; -2.5; -2.05; 2.5"
+    },
+    {
+      "value": "3",
+      "label": "-8.1; -8.01; 8.001; 8.01"
+    }
+  ],
+  "images": [],
+  "year": "2008/2009",
+  "category": "Junior",
+  "type": "text",
+  "correct_index": 0,
+  "correct_answer": "3.01; 3.1; 3.001; 3.101 ",
+  "correct_answer_plain": "3.01; 3.1; 3.001; 3.101"
+}

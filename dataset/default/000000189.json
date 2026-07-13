@@ -1,0 +1,31 @@
+{
+  "id": 188,
+  "serial_number": 9,
+  "title": "Ako sedia?",
+  "question": "Priatelia Alica, Bruno, Cyril, Dávid, Eva, Filip sedia okolo okrúhleho stola.<br> Vieme, že<br> Alica sedí priamo oproti Dávidovi.<br> Eva sedí vedľa Dávida, po jeho ľavej ruke.<br> Bruno sedí vedľa Alice a aj vedľa Evy.<br> Filip nesedí vedľa Alice, ani vedľa Evy.<br> Medzi Brunom a Cyrilom je práve jedno miesto.<br> Ktoré z týchto poradí sedenia priateľov v smere pohybu hodinových ručičiek je správne? <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "Alica, Cyril, Filip, Dávid, Eva, Bruno"
+    },
+    {
+      "value": "1",
+      "label": "Alica, Eva, Dávid, Cyril, Filip, Bruno"
+    },
+    {
+      "value": "2",
+      "label": "Alica, Cyril, Bruno, Dávid, Eva, Filip"
+    },
+    {
+      "value": "3",
+      "label": "Alica, Bruno, Cyril, Dávid, Eva, Filip"
+    }
+  ],
+  "images": [],
+  "year": "2019/2020",
+  "category": "Nevidiaci SŠ",
+  "type": "text",
+  "correct_index": 0,
+  "correct_answer": "Alica, Cyril, Filip, Dávid, Eva, Bruno ",
+  "correct_answer_plain": "Alica, Cyril, Filip, Dávid, Eva, Bruno"
+}

@@ -1,0 +1,33 @@
+{
+  "id": 433,
+  "serial_number": 11,
+  "title": "Čarovné nápoje",
+  "question": "Čarodejník vyrobil päť nových čarovných nápojov s takýmito účinkami:<ul><li>predlžovanie uší</li><li>zväčšovanie zubov</li><li>kučeravenie fúzov</li><li>zbelenie nosa</li><li>zbelenie očí</li> </ul>Každý nápoj nalial do iného pohára, do jedného pohára dal vodu.<br/> Teraz má na stole šesť pohárov označených A až F, ale zabudol, ktorý nápoj dal do ktorého pohára.<br/> Čarodejník urobil 3 experimenty. Trom bobrom dal vypiť nápoje z troch pohárov. Nápoje mali na bobry také účinky, ako je znázornené na obrázku:<br/> <image_1><br/> <br/> V ktorom pohári je voda? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "D"
+    },
+    {
+      "value": "1",
+      "label": "A"
+    },
+    {
+      "value": "2",
+      "label": "E"
+    },
+    {
+      "value": "3",
+      "label": "C"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/16/2016-JP-01_K.png"
+  ],
+  "year": "2016/2017",
+  "category": "Kadet",
+  "type": "image",
+  "correct_index": 0,
+  "correct_answer": "D ",
+  "correct_answer_plain": "D"
+}

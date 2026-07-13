@@ -1,0 +1,33 @@
+{
+  "id": 618,
+  "serial_number": 7,
+  "title": "Tváre",
+  "question": "Martin mal nakresliť takéto tri tváre:<br/> <image_1><br/> Všimol si, že sa na seba veľmi podobajú. Rozhodol sa preto, že nakreslí taký obrázok, ktorý by potom mohol skopírovať a do každej skopírovanej tváre už len niečo málo dokresliť.<br/> Čo nakreslí na obrázok, ktorý bude kopírovať? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "vyplnený kruh a nos"
+    },
+    {
+      "value": "1",
+      "label": "vyplnený kruh, oči a nos"
+    },
+    {
+      "value": "2",
+      "label": "vyplnený kruh, oči a ústa"
+    },
+    {
+      "value": "3",
+      "label": "vyplnený kruh, nos a ústa"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/13/2013-SK-new_MT_04.png"
+  ],
+  "year": "2013/2014",
+  "category": "Bobrík",
+  "type": "image",
+  "correct_index": 1,
+  "correct_answer": "vyplnený kruh, oči a nos ",
+  "correct_answer_plain": "vyplnený kruh, oči a nos"
+}

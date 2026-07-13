@@ -1,0 +1,31 @@
+{
+  "id": 741,
+  "serial_number": 1,
+  "title": "Kódovanie",
+  "question": "Tibor a Karol si vymysleli spoločné kódovanie.<br> Tibor kóduje slovo tak, že ho otočí. Napr. ABCDEF -&gt; FEDCBA<br> Karol kóduje tak, že presunie prvé písmeno na koniec slova. Napr.: ABCDEF -&gt; BCDEFA<br> Spoločne slovo zakódujú tak, že ho najprv zakóduje Tibor a potom Karol.<br> <br> Ako zakódovali slovo KOLESO?<br> <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "SEKOLO"
+    },
+    {
+      "value": "1",
+      "label": "OSELOK"
+    },
+    {
+      "value": "2",
+      "label": "OKESOL"
+    },
+    {
+      "value": "3",
+      "label": "SELOKO"
+    }
+  ],
+  "images": [],
+  "year": "2012/2013",
+  "category": "Senior",
+  "type": "text",
+  "correct_index": 3,
+  "correct_answer": "SELOKO ",
+  "correct_answer_plain": "SELOKO"
+}

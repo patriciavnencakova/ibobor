@@ -1,0 +1,34 @@
+{
+  "id": 718,
+  "serial_number": 8,
+  "title": "Knižnica",
+  "question": "Na poličke v knižnici majú viacdielnu encyklopédiu, ale jej diely sú uložené v nesprávnom poradí. Knihovník ich chce usporiadať a postupuje takto (pozri aj obrázky nižšie):<br/> <ol><li><b>vyberie</b> niektoré knihy z poličky a položí ich na stôl,</li><li>vybrané knihy <b>vloží</b> späť na správne miesta, pričom <b>neposúva</b> knihy, ktoré zostali na poličke.</li></ol><br/> <image_1><br/> Aký najmenší počet kníh musí vybrať z poličky, aby správne zoradil takto uložené diely?<br/> <image_2> <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "9"
+    },
+    {
+      "value": "1",
+      "label": "4"
+    },
+    {
+      "value": "2",
+      "label": "6"
+    },
+    {
+      "value": "3",
+      "label": "2"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/12/2012-EE-01-01.png",
+    "http://demo.ibobor.sk/sutaz/images/12/2012-EE-01-02.png"
+  ],
+  "year": "2012/2013",
+  "category": "Kadet",
+  "type": "image",
+  "correct_index": 2,
+  "correct_answer": "6 ",
+  "correct_answer_plain": "6"
+}

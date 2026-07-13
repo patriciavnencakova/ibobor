@@ -1,0 +1,38 @@
+{
+  "id": 866,
+  "serial_number": 9,
+  "title": "Chodník",
+  "question": "Peter odfotil dlažbu pred svojim domom a vytvoril schému, ktorá ju popisuje.<br/> <image_1> <image_2><br/> Modrý bod v schéme reprezentuje dlaždicu a červená čiara znamená, že príslušné dlaždice spolu susedia.<br/> Neskôr sa Peter prechádzal po meste a fotografoval ďalšie dlažby.<br/> <br/> Ktorá dlažba sa nedá reprezentovať vytvorenou schémou?<br/> <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "<image_3>"
+    },
+    {
+      "value": "1",
+      "label": "<image_4>"
+    },
+    {
+      "value": "2",
+      "label": "<image_5>"
+    },
+    {
+      "value": "3",
+      "label": "<image_6>"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/10/2010-CZ-04-tile0.jpg",
+    "http://demo.ibobor.sk/sutaz/images/10/2010-CZ-04-graf.jpg",
+    "http://demo.ibobor.sk/sutaz/images/10/2010-CZ-04-tileA.jpg",
+    "http://demo.ibobor.sk/sutaz/images/10/2010-CZ-04-tileC.jpg",
+    "http://demo.ibobor.sk/sutaz/images/10/2010-CZ-04-tileB.jpg",
+    "http://demo.ibobor.sk/sutaz/images/10/2010-CZ-04-tileD.jpg"
+  ],
+  "year": "2010/2011",
+  "category": "Junior",
+  "type": "image",
+  "correct_index": 0,
+  "correct_answer": "http://demo.ibobor.sk/sutaz/images/10/2010-CZ-04-tileA.jpg",
+  "correct_answer_plain": null
+}

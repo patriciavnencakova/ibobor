@@ -1,0 +1,31 @@
+{
+  "id": 1020,
+  "serial_number": 1,
+  "title": "4",
+  "question": "Šifra bobra Eduarda sa používa tak, že <br> <ul><li>samohlásky a medzery sa v texte nezmenia,</li><li>každá spoluhláska sa nahradí ďalšou spoluhláskou v abecede, </li><li> posledná spoluhláska abecedy (Z) sa nahradí prvou (B).</li></ul><br> Ako vyzerá správa<br> <br> DNES O TRETEJ PRED DOMOM<br> <br> zašifrovaná pomocou šifry bobra Eduarda?<br> <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "FPFT P VSFVFK RSFF FPNPN"
+    },
+    {
+      "value": "1",
+      "label": "CMER O SPESEH NPEC COLOL"
+    },
+    {
+      "value": "2",
+      "label": "FPET O VSEVEK RSEF FONON"
+    },
+    {
+      "value": "3",
+      "label": "DNIS U TRITIJ PRID DUMUM"
+    }
+  ],
+  "images": [],
+  "year": "2007/2008",
+  "category": "Benjamín",
+  "type": "text",
+  "correct_index": 2,
+  "correct_answer": "FPET O VSEVEK RSEF FONON ",
+  "correct_answer_plain": "FPET O VSEVEK RSEF FONON"
+}

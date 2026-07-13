@@ -1,0 +1,38 @@
+{
+  "id": 640,
+  "serial_number": 2,
+  "title": "Deň matiek",
+  "question": "Klára chce pre svoju mamu pripraviť náhrdelník. Nasledujúci obrázok znázorňuje pravidlá, v akom poradí môže navliekať koráliky.<br/> <image_1><br/> Klára vyrobila podľa pravidiel takýto náhrdelník:<br/> <image_2><br/> Aký náhrdelník mohla ešte vyrobiť podľa pravidiel? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "<image_3>"
+    },
+    {
+      "value": "1",
+      "label": "<image_4>"
+    },
+    {
+      "value": "2",
+      "label": "<image_5>"
+    },
+    {
+      "value": "3",
+      "label": "<image_6>"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/13/2013-AT-05_SK_pravidla.png",
+    "http://demo.ibobor.sk/sutaz/images/13/2013-AT-05_SK_nahrdelnik.png",
+    "http://demo.ibobor.sk/sutaz/images/13/2013-AT-05_SK_c.png",
+    "http://demo.ibobor.sk/sutaz/images/13/2013-AT-05_SK_d.png",
+    "http://demo.ibobor.sk/sutaz/images/13/2013-AT-05_SK_a.png",
+    "http://demo.ibobor.sk/sutaz/images/13/2013-AT-05_SK_b.png"
+  ],
+  "year": "2013/2014",
+  "category": "Kadet",
+  "type": "image",
+  "correct_index": 2,
+  "correct_answer": "http://demo.ibobor.sk/sutaz/images/13/2013-AT-05_SK_a.png",
+  "correct_answer_plain": null
+}

@@ -1,0 +1,34 @@
+{
+  "id": 735,
+  "serial_number": 10,
+  "title": "Harry a kvety",
+  "question": "Harry sa prechádza v záhrade a opakuje si zaklínadlá. Všimol si, že keď povedal zaklínadlo, dva kvietky, ktoré boli k nemu najbližšie, si vymenili nejaké vlastnosti.<br/> Na obrázku vľavo vidíme, kde stál, aké zaklínadlá povedal a čo sa stalo s kvietkami.<br/> <image_1><br/> Harry pokračoval v prechádzke a povedal nejaké 3 zaklínadlá na miestach, ktoré sú označené ako A a B. Na obrázku je časť záhrady, ako vyzerala predtým, ako tieto zaklínadlá povedal, a potom.<br/> <image_2><br/> Ktoré zaklínadlá to boli? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "A cabra, B cabra, B pabra"
+    },
+    {
+      "value": "1",
+      "label": "A pabra, B cabra, A cabra"
+    },
+    {
+      "value": "2",
+      "label": "A cabra, B pabra, B pabra"
+    },
+    {
+      "value": "3",
+      "label": "A pabra, B pabra, A cabra"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/12/2012-LT-03.png",
+    "http://demo.ibobor.sk/sutaz/images/12/2012-LT-03-zadanie.png"
+  ],
+  "year": "2012/2013",
+  "category": "Junior",
+  "type": "image",
+  "correct_index": 3,
+  "correct_answer": "A pabra, B pabra, A cabra ",
+  "correct_answer_plain": "A pabra, B pabra, A cabra"
+}

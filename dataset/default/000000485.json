@@ -1,0 +1,33 @@
+{
+  "id": 484,
+  "serial_number": 5,
+  "title": "Kódovanie",
+  "question": "Maťo a Adam kódujú slová podľa týchto pravidiel a tabuľky:<br/> <image_1><br/> Maťo chce poslať Adamovi správu \"PORADA\".<br/> Čo mu pošle? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "BSPQZC"
+    },
+    {
+      "value": "1",
+      "label": "AROPAD"
+    },
+    {
+      "value": "2",
+      "label": "BSPQBE"
+    },
+    {
+      "value": "3",
+      "label": "BEBSPQ"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/15/2015-BE-04_SK.png"
+  ],
+  "year": "2015/2016",
+  "category": "Benjamín",
+  "type": "image",
+  "correct_index": 2,
+  "correct_answer": "BSPQBE ",
+  "correct_answer_plain": "BSPQBE"
+}

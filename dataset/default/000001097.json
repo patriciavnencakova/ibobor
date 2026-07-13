@@ -1,0 +1,31 @@
+{
+  "id": 1096,
+  "serial_number": 14,
+  "title": "Mávame si",
+  "question": "Janka, Lucia a Filip bývajú na sídlisku. Dohodli sa, že si počas karantény budú mávať z balkónov.<br> Janka vyjde na balkón každú celú hodinu a na balóne ostane 10 minút. Prvýkrát vyjde o 9:00 hod.<br> Lucii začína online vyučovanie o 8:30 hod. Po každých 45 minútach je 10 minút na prestávke na balkóne.<br> Filip pracuje pri počítači, začína o 8:55 a po každých 60 minútach vyjde na 5 minút na balkón zacvičiť si.<br> O koľkej si všetky tri deti každý deň zamávajú prvýkrát? <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "o 12:05 hod."
+    },
+    {
+      "value": "1",
+      "label": "o 9:05 hod."
+    },
+    {
+      "value": "2",
+      "label": "o 10:05 hod."
+    },
+    {
+      "value": "3",
+      "label": "o 11:05 hod."
+    }
+  ],
+  "images": [],
+  "year": "Karanténa",
+  "category": "6.-9.roč.",
+  "type": "text",
+  "correct_index": 0,
+  "correct_answer": "o 12:05 hod. ",
+  "correct_answer_plain": "o 12:05 hod."
+}

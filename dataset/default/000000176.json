@@ -1,0 +1,33 @@
+{
+  "id": 175,
+  "serial_number": 11,
+  "title": "Sklady",
+  "question": "42 ježkov si ukladá vrecia jabĺčok do 5 skladov. Prvý ježko si uloží vrece do skladu 1, druhý ježko do skladu 2, …, šiesty ježko si uloží vrece tiež do skladu 1, atď., pozri obrázok vľavo.<br/> <image_1><br/> Jedného dňa si ježkovia vybudovali nový sklad 6. Rozhodli sa, že presunú vrecia tak, aby si ľahko zapamätali, v ktorom sklade má ktorý ježko svoje vrece. Prvý ježko bude mať vrece v sklade 1, druhý v sklade 2, …, šiesty v sklade 6, siedmy v sklade 1, atď.<br/> Koľko ježkov si <b>nemusí</b> svoje vrece premiestniť do iného skladu?<br/> Napríklad, prvý ježko má vždy vrece v sklade 1, a teda ho nemusí premiestniť, ale šiesty mal vrece v sklade 1 a musel ho preniesť do skladu 6. <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "14"
+    },
+    {
+      "value": "1",
+      "label": "10"
+    },
+    {
+      "value": "2",
+      "label": "12"
+    },
+    {
+      "value": "3",
+      "label": "8"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/19/2019-RU-06.png"
+  ],
+  "year": "2019/2020",
+  "category": "Senior",
+  "type": "image",
+  "correct_index": 1,
+  "correct_answer": "10 ",
+  "correct_answer_plain": "10"
+}

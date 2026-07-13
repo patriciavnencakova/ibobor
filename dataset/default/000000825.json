@@ -1,0 +1,34 @@
+{
+  "id": 824,
+  "serial_number": 12,
+  "title": "Život kvetov",
+  "question": "Betka má rada kvety. Navrhla preto jednoduchý obrázkový programovací jazyk, ktorým popisuje ich život. Na obrázku, ktorým program začína, je zelený štvorček, ktorý nazývame objekt <b>a</b>. Každý objekt môže vykonávať 3 operácie:<br/> <b>zdvojiť</b>, <b>rozpoliť</b>, <b>uhynúť</b>.<br/> Nasledujúci program vysvetľuje ich význam:<br/> <image_1><br/> Štvorcové objekty sa nedajú <b>rozpoliť</b>. <b>Obdĺžnikové</b> objekty sa <b>rozpolia</b> rovnobežne s kratšou stranou a vzniknú dva objekty, ktoré majú rovnakú veľkosť.<br/> <br/> Betka chce napísať program, ktorý pretransformuje ľavý obrázok na pravý:<br/> <image_2><br/> <br/> Ktoré operácie <b><u>môžu byť</u></b> prvými štyrmi príkazmi jej programu? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "a.zdvojiť(sever); a.zdvojiť(východ); a.zdvojiť(východ); [b, c] ← a.rozpoliť; b.uhynúť;"
+    },
+    {
+      "value": "1",
+      "label": "a.zdvojiť(východ); a.zdvojiť(východ); [b, c] ← a.rozpoliť; b.uhynúť;"
+    },
+    {
+      "value": "2",
+      "label": "a.zdvojiť(východ); [b, c ] ← a.rozpoliť; c.zdvojiť(sever); c.zdvojiť(východ); b.uhynúť;"
+    },
+    {
+      "value": "3",
+      "label": "a.zdvojiť(východ); a.zdvojiť(východ); a.zdvojiť(sever); a.uhynúť;"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/11/2011-DE-01_SK.png",
+    "http://demo.ibobor.sk/sutaz/images/11/2011-DE-01_SK-zadanie.png"
+  ],
+  "year": "2011/2012",
+  "category": "Senior",
+  "type": "image",
+  "correct_index": 1,
+  "correct_answer": "a.zdvojiť(východ); a.zdvojiť(východ); [b, c] ←  a.rozpoliť; b.uhynúť; ",
+  "correct_answer_plain": "a.zdvojiť(východ); a.zdvojiť(východ); [b, c] ←  a.rozpoliť; b.uhynúť;"
+}

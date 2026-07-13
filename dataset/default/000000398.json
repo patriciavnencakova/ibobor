@@ -1,0 +1,33 @@
+{
+  "id": 397,
+  "serial_number": 2,
+  "title": "Kto rozbil okno?",
+  "question": "Na dvore sa hralo šesť detí.<br/> <image_1><br/> Niekto z nich kopol loptu a rozbil okno uja Bobrovského. Keď sa ujo pozrel von, videl vinníka už len od chrbta: mal červené tričko a krátke tmavé vlasy.<br/> Kto rozbil okno? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "Jana"
+    },
+    {
+      "value": "1",
+      "label": "Dano"
+    },
+    {
+      "value": "2",
+      "label": "Jakub"
+    },
+    {
+      "value": "3",
+      "label": "Tomáš"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/16/2016-SK-02.png"
+  ],
+  "year": "2016/2017",
+  "category": "Bobrík",
+  "type": "image",
+  "correct_index": 2,
+  "correct_answer": "Jakub ",
+  "correct_answer_plain": "Jakub"
+}

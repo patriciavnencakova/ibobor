@@ -1,0 +1,33 @@
+{
+  "id": 606,
+  "serial_number": 10,
+  "title": "Kreslenie robotom",
+  "question": "Robot dokáže vykonať nasledujúce príkazy:<br/><b>Oranžová</b> – nakreslí oranžovú čiaru dĺžky 1<br/><b>Čierna</b> – nakreslí čiernu čiaru dĺžky 1<br/><b>Otoč sa</b> – otočí sa o 90° vpravo <br/><b>A, B </b>– vykoná príkaz <b>A</b>, potom vykoná príkaz <b>B</b> <br/><b>n x A</b> – <b>n</b>-krát vykoná príkaz <b>A</b> <br/><b>n x (...)</b> – <b>n</b>-krát vykoná príkazy v zátvorke<br/> Chceme, aby robot nakreslil tento obrázok:<br/> <image_1><br/> Ktorou z nasledujúcich postupností príkazov ho <b>nenakreslí</b>? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "<b>4 x (Čierna, 3 x (Oranžová, Otoč sa), Oranžová, 2 x Čierna)</b>"
+    },
+    {
+      "value": "1",
+      "label": "<b>4 x (2 x (Oranžová, Otoč sa), 3 x Čierna, 2 x (Oranžová, Otoč sa))</b>"
+    },
+    {
+      "value": "2",
+      "label": "<b>4 x (3 x Čierna, 3 x (Oranžová, Otoč sa), Oranžová)</b>"
+    },
+    {
+      "value": "3",
+      "label": "<b>4 x (2 x (Oranžová, Otoč sa), Oranžová, 3 x Čierna, Oranžová, Otoč sa)</b>"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/14/2014-CH-07_SK.png"
+  ],
+  "year": "2014/2015",
+  "category": "Senior",
+  "type": "image",
+  "correct_index": 1,
+  "correct_answer": "<b>4 x (2 x (Oranžová, Otoč sa), 3 x Čierna, 2 x (Oranžová, Otoč sa))</b> ",
+  "correct_answer_plain": "4 x (2 x (Oranžová, Otoč sa), 3 x Čierna, 2 x (Oranžová, Otoč sa))"
+}

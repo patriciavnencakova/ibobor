@@ -1,0 +1,33 @@
+{
+  "id": 768,
+  "serial_number": 1,
+  "title": "Menovka",
+  "question": "Chlapec má na dverách do izby takéto obrázky:<br/> <image_1><br/> Vieš, že je v nich zašifrované jeho meno.<br/> Ako sa volá?<br/> <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "Ondro"
+    },
+    {
+      "value": "1",
+      "label": "Janko"
+    },
+    {
+      "value": "2",
+      "label": "Jožko"
+    },
+    {
+      "value": "3",
+      "label": "Tomáš"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/11/2011-SK-03.png"
+  ],
+  "year": "2011/2012",
+  "category": "Benjamín",
+  "type": "image",
+  "correct_index": 2,
+  "correct_answer": "Jožko ",
+  "correct_answer_plain": "Jožko"
+}

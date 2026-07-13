@@ -1,0 +1,33 @@
+{
+  "id": 953,
+  "serial_number": 9,
+  "title": "Písmeno e",
+  "question": "Množinové operácie využiješ dokonca aj v počítačovej grafike. <b>Prienik</b> dvoch objektov označuje takú plochu, v ktorej sa prekrývajú. <b>Zjednotenie</b> dvoch objektov označuje spoločnú plochu jedného i druhého objektu. <b>Rozdiel</b> dvoch prekrývajúcich sa objektov X, Y vystrihne z objektu X tú časť, ktorou prekrýva objekt Y.<br/> <br/> Operácie zapíšeme: Prienik (X, Y), Zjednotenie (X, Y), Rozdiel (X, Y).<br/> Výraz Zjednotenie (Prienik (X, Y), Z) znamená zjednotenie prieniku X a Y s objektom Z.<br/> <br/> Aké logické operácie musíme aplikovať na dve elipsy A, B a dva obdĺžniky C, D, ak chceme vymodelovať písmeno e?<br/> <image_1> <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "Rozdiel (Zjednotenie (Rozdiel (A, B), C), D)"
+    },
+    {
+      "value": "1",
+      "label": "Rozdiel (Prienik (Rozdiel (A, B), C), D)"
+    },
+    {
+      "value": "2",
+      "label": "Prienik (A, Rozdiel (B, Zjednotenie (C, D)))"
+    },
+    {
+      "value": "3",
+      "label": "písmeno e z týchto objektov nevymodelujeme"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/09/S_pismeno_e.png "
+  ],
+  "year": "2009/2010",
+  "category": "Senior",
+  "type": "image",
+  "correct_index": 0,
+  "correct_answer": "Rozdiel (Zjednotenie (Rozdiel (A, B), C), D) ",
+  "correct_answer_plain": "Rozdiel (Zjednotenie (Rozdiel (A, B), C), D)"
+}

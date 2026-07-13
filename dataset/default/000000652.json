@@ -1,0 +1,33 @@
+{
+  "id": 651,
+  "serial_number": 13,
+  "title": "Most",
+  "question": "V noci chcú prejsť cez most 4 bobry z pravej strany na ľavú. Majú len jednu baterku a po moste môžu ísť najviac 2 bobry a jeden z nich musí mať baterku. Ak je baterka na ľavej strane mostu, musí ju ostatným na pravú stranu priniesť bobor.<br/> <image_1><br/> Každý bobor prejde most za iný čas. Ak idú spolu 2 bobry s baterkou, idú rýchlosťou pomalšieho bobra.<br/> Za aký <b>najmenší</b> čas môžu prejsť všetci 4 na druhú stranu? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "23"
+    },
+    {
+      "value": "1",
+      "label": "10"
+    },
+    {
+      "value": "2",
+      "label": "17"
+    },
+    {
+      "value": "3",
+      "label": "19"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/13/2013-NL-05_SK_most.png"
+  ],
+  "year": "2013/2014",
+  "category": "Kadet",
+  "type": "image",
+  "correct_index": 2,
+  "correct_answer": "17 ",
+  "correct_answer_plain": "17"
+}

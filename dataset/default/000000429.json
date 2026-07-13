@@ -1,0 +1,33 @@
+{
+  "id": 428,
+  "serial_number": 6,
+  "title": "Hierarchia",
+  "question": "Máme strom, ktorý popisuje vzťahy medzi zvieratami planéty Bobrozem. Čiara medzi dvoma kategóriami v strome na obrázku znamená, že všetky zvieratá v nižšej kategórii patria aj do vyššej kategórie. Na základe tohto stromu môžeme sformulovať niekoľko tvrdení, napr. „Každý Hulalemi je členom Semememi.“ alebo „Niektoré zvieratá zo Seiokrontro nie sú členmi Basti.“<br/> <image_1><br/> Alenka a Bruno sa rozprávali o tomto strome.<br/> Alenka: „Každý Basti je členom Seiokrontro.“<br/> Bruno: „Niektoré členy Hontraruru nie sú členmi Semememi.“<br/> <br/> Čo môžeme povedať o pravdivosti ich tvrdení? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "Obe tvrdenia sú nepravdivé."
+    },
+    {
+      "value": "1",
+      "label": "Obe tvrdenia sú pravdivé."
+    },
+    {
+      "value": "2",
+      "label": "Len Alenkine tvrdenie je pravdivé."
+    },
+    {
+      "value": "3",
+      "label": "Len Brunove tvrdenie je pravdivé."
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/16/2016-CZ-03.png"
+  ],
+  "year": "2016/2017",
+  "category": "Kadet",
+  "type": "image",
+  "correct_index": 2,
+  "correct_answer": "Len Alenkine tvrdenie je pravdivé. ",
+  "correct_answer_plain": "Len Alenkine tvrdenie je pravdivé."
+}

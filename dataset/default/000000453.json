@@ -1,0 +1,31 @@
+{
+  "id": 452,
+  "serial_number": 15,
+  "title": "Brvná",
+  "question": "Nezbedné bobry šli zo školy domov cez les a po ceste premiestňovali brvná, ktoré našli. Niekoľko brvien doniesli aj domov.<br> Ich cestu možno zapísať takto:<br> <code>D L L L D + + + + L L L D D D L L L D - - L L L D L D D + + + + L L L D </code><br> Význam jednotlivých symbolov je:<br> <code>D</code> : choď dopredu 50 metrov<br> <code>L</code> : otoč sa na mieste o 90 stupňov vľavo<br> <code>+</code> : zdvihni brvno<br> <code>-</code> : polož brvno<br> <br> Na druhý deň šli z domu do školy rovnakou cestou a po ceste vrátili premiestnené brvná tam, odkiaľ ich vzali. Z brány domu vyšli opačným smerom než do nej predošlý deň vošli.<br> <br> Ktorý zápis zodpovedá ich ceste z domu do školy? <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "<code>L D D D L - - - - D D D L L L D D D L + + D D D L D L L L - - - - D D D L</code>"
+    },
+    {
+      "value": "1",
+      "label": "<code>L D + + + + L L L D D D L D - - L D L L L D + + + + L D L</code>"
+    },
+    {
+      "value": "2",
+      "label": "<code>D L - - - - D D L L L D L + + D L D D D L - - - - D L D</code>"
+    },
+    {
+      "value": "3",
+      "label": "<code>D L L L D + + + + L L L D D D L L L D - - L L L D L D D D + + + + L L L D</code>"
+    }
+  ],
+  "images": [],
+  "year": "2016/2017",
+  "category": "Junior",
+  "type": "text",
+  "correct_index": 2,
+  "correct_answer": "<code>D L - - - - D D L L L D L + + D L D D D L - - - - D L D</code> ",
+  "correct_answer_plain": "D L - - - - D D L L L D L + + D L D D D L - - - - D L D"
+}

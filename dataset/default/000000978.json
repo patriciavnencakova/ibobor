@@ -1,0 +1,31 @@
+{
+  "id": 977,
+  "serial_number": 3,
+  "title": "Centrovanie textu",
+  "question": "Stará mama Bobrová píše list v textovom editore a chce vycentrovať (dať do stredu) nejaký text. Ktorý z nasledujúcich spôsobov je na to najlepší? <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "Stlačí niekoľkokrát kláves Tab."
+    },
+    {
+      "value": "1",
+      "label": "Použije potrebný počet medzier."
+    },
+    {
+      "value": "2",
+      "label": "Použije nástroj na zarovnávanie."
+    },
+    {
+      "value": "3",
+      "label": "Posunie okraje dokumentu."
+    }
+  ],
+  "images": [],
+  "year": "2008/2009",
+  "category": "Kadet",
+  "type": "text",
+  "correct_index": 2,
+  "correct_answer": "Použije nástroj na zarovnávanie. ",
+  "correct_answer_plain": "Použije nástroj na zarovnávanie."
+}

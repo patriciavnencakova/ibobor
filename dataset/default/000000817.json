@@ -1,0 +1,36 @@
+{
+  "id": 816,
+  "serial_number": 4,
+  "title": "Aritmetický výraz",
+  "question": "Ktorý z binárnych stromov reprezentuje nasledujúci výraz?<br/> (h + a) * (((b + f) * (c - g)) + (w + d)) <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "<image_1>"
+    },
+    {
+      "value": "1",
+      "label": "<image_2>"
+    },
+    {
+      "value": "2",
+      "label": "<image_3>"
+    },
+    {
+      "value": "3",
+      "label": "<image_4>"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/11/2011-AT-05_D.png",
+    "http://demo.ibobor.sk/sutaz/images/11/2011-AT-05_A.png",
+    "http://demo.ibobor.sk/sutaz/images/11/2011-AT-05_B.png",
+    "http://demo.ibobor.sk/sutaz/images/11/2011-AT-05_C.png"
+  ],
+  "year": "2011/2012",
+  "category": "Senior",
+  "type": "image",
+  "correct_index": 2,
+  "correct_answer": "http://demo.ibobor.sk/sutaz/images/11/2011-AT-05_B.png",
+  "correct_answer_plain": null
+}

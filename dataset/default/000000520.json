@@ -1,0 +1,31 @@
+{
+  "id": 519,
+  "serial_number": 10,
+  "title": "Alchymista",
+  "question": "Bobor alchymista dokáže premeniť niektoré objekty na iné:<ul><li>dva štvorlístky na mincu,</li><li>mincu a dva štvorlístky na rubín,</li><li>rubín a štvorlístok na kráľovskú korunu,</li><li>mincu, rubín a kráľovskú korunu na mačku.</li></ul><br> Ak niektorý objekt premení na iný, pôvodný objekt zmizne a zostane len nový.<br> <b>Najmenej</b> koľko štvorlístkov potrebuje alchymista, aby vytvoril mačku? <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "11"
+    },
+    {
+      "value": "1",
+      "label": "12"
+    },
+    {
+      "value": "2",
+      "label": "10"
+    },
+    {
+      "value": "3",
+      "label": "5"
+    }
+  ],
+  "images": [],
+  "year": "2015/2016",
+  "category": "Junior",
+  "type": "text",
+  "correct_index": 0,
+  "correct_answer": "11 ",
+  "correct_answer_plain": "11"
+}

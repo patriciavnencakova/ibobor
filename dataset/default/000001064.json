@@ -1,0 +1,38 @@
+{
+  "id": 1063,
+  "serial_number": 14,
+  "title": "44",
+  "question": "Ľavý graf na obrázku sme pomocou tajného algoritmu zmenili na graf vpravo:<br/> <br/> <image_1><br/> <br/> Rovnaký algoritmus použijeme aj na nasledujúci graf.<br/> <br/> <image_2><br/> <br/> Na ktorý graf sa zmení? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "<image_3><br/><br/>"
+    },
+    {
+      "value": "1",
+      "label": "<image_4><br/><br/>"
+    },
+    {
+      "value": "2",
+      "label": "<image_5><br/><br/>"
+    },
+    {
+      "value": "3",
+      "label": "<image_6><br/><br/>"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/zmenagrafu1.png",
+    "http://demo.ibobor.sk/sutaz/images/zmenagrafu2.png",
+    "http://demo.ibobor.sk/sutaz/images/graf1.png",
+    "http://demo.ibobor.sk/sutaz/images/graf2.png",
+    "http://demo.ibobor.sk/sutaz/images/graf3.png",
+    "http://demo.ibobor.sk/sutaz/images/graf4.png"
+  ],
+  "year": "2007/2008",
+  "category": "Senior",
+  "type": "image",
+  "correct_index": 3,
+  "correct_answer": "http://demo.ibobor.sk/sutaz/images/graf4.png",
+  "correct_answer_plain": null
+}

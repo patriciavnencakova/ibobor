@@ -1,0 +1,33 @@
+{
+  "id": 328,
+  "serial_number": 11,
+  "title": "Natieranie plota",
+  "question": "<image_1><br/> Pri plote má robot pripravený rad 4 vedierok s farbami: červenou, zelenou, žltou a modrou. Nie každé vedierko je plné.<br/> Robot natiera dosky plota tak, že každú <b>ďalšiu dosku</b> natrie farbou <b>z nasledujúceho</b> vedierka (na konci radu vedierok pokračuje od začiatku). Keď sa farba v nejakom vedierku minie, tak dá vedierko z radu preč.<br/> Robot <b>skončí natieranie</b> plota vtedy, keď sa mu minú farby vo všetkých vedierkach, alebo keď bude musieť natrieť dve susedné dosky rovnakou farbou.<br/> Na začiatku bolo vo vedierkach takéto množstvo farieb:<ul><li>v červenom pre 5 dosiek</li><li>v zelenom pre 3 dosky</li><li>v žltom pre 7 dosiek</li><li>v modrom pre 2 dosky</li></ul><br/> Po koľkých natretých doskách robot <b>skončí natieranie</b>? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "8"
+    },
+    {
+      "value": "1",
+      "label": "5"
+    },
+    {
+      "value": "2",
+      "label": "17"
+    },
+    {
+      "value": "3",
+      "label": "15"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/17/2017-SK-10-plot.png"
+  ],
+  "year": "2017/2018",
+  "category": "Benjamín",
+  "type": "image",
+  "correct_index": 3,
+  "correct_answer": "15 ",
+  "correct_answer_plain": "15"
+}

@@ -1,0 +1,31 @@
+{
+  "id": 1062,
+  "serial_number": 13,
+  "title": "42",
+  "question": "Na spoľahlivé šifrovanie správ sa používa metóda dvojice kľúčov. Každá zúčastnená osoba má vlastné dva kľúče, ktoré sú doplnkové t. j. správu možno zašifrovať jedným kľúčom a dá sa rozšifrovať iba druhým kľúčom a naopak. V praxi sa tieto dva kľúče volajú: súkromný (pozná ho iba jedna osoba – vlastník) a verejný (je dostupný každému). <br> <br> Ako treba zašifrovať správu, aby bolo zaručené, že ju napísala konkrétna osoba? <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "Osoba zašifruje správu svojím verejným a následne svojím súkromným kľúčom."
+    },
+    {
+      "value": "1",
+      "label": "Osoba zašifruje správu svojím súkromným a následne svojím verejným kľúčom."
+    },
+    {
+      "value": "2",
+      "label": "Osoba zašifruje správu svojím súkromným kľúčom."
+    },
+    {
+      "value": "3",
+      "label": "Osoba zašifruje správu svojím verejným kľúčom."
+    }
+  ],
+  "images": [],
+  "year": "2007/2008",
+  "category": "Senior",
+  "type": "text",
+  "correct_index": 2,
+  "correct_answer": "Osoba zašifruje správu svojím súkromným kľúčom. ",
+  "correct_answer_plain": "Osoba zašifruje správu svojím súkromným kľúčom."
+}

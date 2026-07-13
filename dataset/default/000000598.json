@@ -1,0 +1,33 @@
+{
+  "id": 597,
+  "serial_number": 1,
+  "title": "Chyba v kódovaní",
+  "question": "Jožko nakreslil v grafickom editore obrázok z čiernych a bielych štvorcov. Vpravo od obrázku pridal ešte jeden stĺpec. Štvorec v ňom vyfarbil na čierno, ak bol počet čiernych štvorcov v danom <b>riadku</b> obrázka párny. Inak ho vyfarbil na bielo. Potom pod obrázok pridal ešte jeden riadok. Štvorec v ňom vyfarbil na čierno, ak bol počet čiernych štvorcov v danom <b>stĺpci</b> obrázka párny. Inak ho vyfarbil na bielo.<br/> <image_1><br/> Jožko si zabudol obrázok uložiť a nechal ho zobrazený na obrazovke. K počítaču prišla jeho sestra a prefarbila mu jeden štvorec. Ktorý? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "D"
+    },
+    {
+      "value": "1",
+      "label": "A"
+    },
+    {
+      "value": "2",
+      "label": "C"
+    },
+    {
+      "value": "3",
+      "label": "B"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/14/2014-FI-04_SK.png"
+  ],
+  "year": "2014/2015",
+  "category": "Senior",
+  "type": "image",
+  "correct_index": 2,
+  "correct_answer": "C ",
+  "correct_answer_plain": "C"
+}

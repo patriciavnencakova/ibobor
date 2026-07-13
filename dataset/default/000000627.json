@@ -1,0 +1,34 @@
+{
+  "id": 626,
+  "serial_number": 3,
+  "title": "Zmena textu",
+  "question": "Mišo v programe Kazitext napísal:<br/> <b>Bobor kreslí hrad</b><br/> Potom stlačil tlačidlo <image_1>. Program jeho text zmenil tak, že <b>každé slovo</b> prepísal <b>po písmenkách odzadu</b>.<br/> Mišo potom ešte stlačil tlačidlo <image_2>. Program teraz jeho <b>celý text</b> prepísal <b>po písmenách odzadu</b>.<br/> Ako vyzerá Mišov text teraz? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "darh ílserk roboB"
+    },
+    {
+      "value": "1",
+      "label": "hrad kreslí Bobor"
+    },
+    {
+      "value": "2",
+      "label": "roboB ílserk darh"
+    },
+    {
+      "value": "3",
+      "label": "Bobor kreslí hrad"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/13/2013-CZ-08-otoc_slova.png",
+    "http://demo.ibobor.sk/sutaz/images/13/2013-CZ-08-otoc_vsetko.png"
+  ],
+  "year": "2013/2014",
+  "category": "Benjamín",
+  "type": "image",
+  "correct_index": 1,
+  "correct_answer": "hrad kreslí Bobor ",
+  "correct_answer_plain": "hrad kreslí Bobor"
+}

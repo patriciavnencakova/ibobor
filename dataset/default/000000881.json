@@ -1,0 +1,31 @@
+{
+  "id": 880,
+  "serial_number": 8,
+  "title": "OX",
+  "question": "V textovom editore sme otvorili súbor s jedným riadkom textu len z podčiarovníkov a písmena X.<br> <br> |_ _ _ _ _ _ _ _ _ _ _ _ _ X _ _ _ _ _ _<br> <br> Zvislá čiara na začiatku riadka označuje kurzor, ktorý stojí na prvom podčiarovníku. Editor je v prepisovacom režime - to znamená, že vždy, keď napíšeme písmeno, prepíšeme ním znak, na ktorom stojí kurzor a kurzor sa posunie doprava.<br> <br> Riadok sme upravovali podľa takýchto inštrukcií:<br> <pre>Kým kurzor nestojí na X<br> napíš O<br>Kým kurzor nestojí na začiatku riadka<br> napíš X a posuň kurzor o 2 miesta vľavo</pre>Ako teraz vyzerá riadok? <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "O O O O O O O O O O O O O O X X X X X X|"
+    },
+    {
+      "value": "1",
+      "label": "|O X X X X X X X X X X X X X _ _ _ _ _ _"
+    },
+    {
+      "value": "2",
+      "label": "|_ O O O O O O O O O O O O O _ _ _ _ _ _"
+    },
+    {
+      "value": "3",
+      "label": "X X X X X X X X X X X X X X O O O O O O|"
+    }
+  ],
+  "images": [],
+  "year": "2010/2011",
+  "category": "Senior",
+  "type": "text",
+  "correct_index": 1,
+  "correct_answer": "|O X X X X X X X X X X X X X _ _ _ _ _ _ ",
+  "correct_answer_plain": "|O X X X X X X X X X X X X X _ _ _ _ _ _"
+}

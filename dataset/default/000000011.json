@@ -1,0 +1,33 @@
+{
+  "id": 10,
+  "serial_number": 2,
+  "title": "Pomiešané klávesy",
+  "question": "Mišo má špeciálnu klávesnicu, pozri obrázok:<br/> <image_1><br/> Šípka znázorňuje, ktoré dve písmená sa navzájom vymenia.<br/> Napr. Ak Mišo stlačí na klávesnici R, zapíše sa F. Ak stlačí F, zapíše sa R. <br/> Čo stláčal Mišo, keď sa zapísalo XICIXT? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "DOVODY"
+    },
+    {
+      "value": "1",
+      "label": "DOLESA"
+    },
+    {
+      "value": "2",
+      "label": "JAZERO"
+    },
+    {
+      "value": "3",
+      "label": "VOVODE"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/20/2020-CA-07.png"
+  ],
+  "year": "2020/2021",
+  "category": "Bobrík",
+  "type": "image",
+  "correct_index": 0,
+  "correct_answer": "DOVODY ",
+  "correct_answer_plain": "DOVODY"
+}

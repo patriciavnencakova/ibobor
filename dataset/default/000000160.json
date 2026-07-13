@@ -1,0 +1,31 @@
+{
+  "id": 159,
+  "serial_number": 10,
+  "title": "Ako sedia?",
+  "question": "Osem priateľov Alica, Bruno, Cyril, Dávid, Eva, Filip, Gréta, Hana sedia okolo okrúhleho stola.<br> Vieme, že:<ul><li>Alica sedí priamo oproti Dávidovi.</li><li>Hana sedí vedľa Gréty a aj vedľa Evy.</li><li>Filip nesedí vedľa Alice ani vedľa Dávida.</li><li>Medzi Grétou a Cyrilom je práve jedno miesto.</li><li>Eva sedí vedľa Dávida, po jeho ľavej ruke.</li></ul><br> Ktoré z týchto poradí sedenia priateľov v smere pohybu hodinových ručičiek je správne? <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "Alica, Cyril, Filip, Bruno, Dávid, Eva, Hana, Gréta"
+    },
+    {
+      "value": "1",
+      "label": "Alica, Gréta, Hana, Eva, Dávid, Bruno, Filip, Cyril"
+    },
+    {
+      "value": "2",
+      "label": "Alica, Hana, Eva, Gréta, Dávid, Filip, Bruno, Cyril"
+    },
+    {
+      "value": "3",
+      "label": "Alica, Bruno, Gréta, Dávid, Cyril, Eva, Filip, Hana"
+    }
+  ],
+  "images": [],
+  "year": "2019/2020",
+  "category": "Junior",
+  "type": "text",
+  "correct_index": 0,
+  "correct_answer": "Alica, Cyril, Filip, Bruno, Dávid, Eva, Hana, Gréta ",
+  "correct_answer_plain": "Alica, Cyril, Filip, Bruno, Dávid, Eva, Hana, Gréta"
+}

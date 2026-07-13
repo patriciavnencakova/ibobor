@@ -1,0 +1,45 @@
+{
+  "id": 75,
+  "serial_number": 10,
+  "title": "Teplotná mapa",
+  "question": "Pri rozoznávani obrázkov týchto 5 písmen používa robot tzv. teplotnú mapu (heat map).<br/> <image_1><br/> V nej je farba každého štvorčeka (pixelu) určená unikátnosťou farby pixelu na tej istej pozícii v ostatných obrázkoch.<br/> <image_2> unikátny: <b>žiadny iný</b> z obrázkov nemá pixel na tejto pozícii rovnako zafarbený<br/> <image_3> skoro unikátny: iba <b>jeden iný</b> obrázok má na tejto pozícii pixel rovnakej farby<br/> <image_4> nie unikátny: <b>dva ďalšie</b> obrázky majú na tejto pozícii pixel rovnakej farby<br/> <image_5> takmer spoločný: <b>tri ďalšie</b> obrázky majú na tejto pozícii pixel rovnakej farby<br/> <image_6> spoločný: <b>všetky ostatné</b> obrázky majú na tejto pozícii pixel rovnakej farby<br/> Napríklad obrázok <image_7> má teplotnú mapu <image_8>.<br/> Ktorý z obrázkov má teplotnú mapu <image_9> ? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "<image_10>"
+    },
+    {
+      "value": "1",
+      "label": "<image_11>"
+    },
+    {
+      "value": "2",
+      "label": "<image_12>"
+    },
+    {
+      "value": "3",
+      "label": "<image_13>"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/20/2020-DE-02.png",
+    "http://demo.ibobor.sk/sutaz/images/20/2020-DE-02_biely.png",
+    "http://demo.ibobor.sk/sutaz/images/20/2020-DE-02_zlty.png",
+    "http://demo.ibobor.sk/sutaz/images/20/2020-DE-02_zeleny.png",
+    "http://demo.ibobor.sk/sutaz/images/20/2020-DE-02_modry.png",
+    "http://demo.ibobor.sk/sutaz/images/20/2020-DE-02_cierny.png",
+    "http://demo.ibobor.sk/sutaz/images/20/2020-DE-02_I.png",
+    "http://demo.ibobor.sk/sutaz/images/20/2020-DE-02_I_mapa.png",
+    "http://demo.ibobor.sk/sutaz/images/20/2020-DE-02_otazka.png",
+    "http://demo.ibobor.sk/sutaz/images/20/2020-DE-02_T.png",
+    "http://demo.ibobor.sk/sutaz/images/20/2020-DE-02_O.png",
+    "http://demo.ibobor.sk/sutaz/images/20/2020-DE-02_L.png",
+    "http://demo.ibobor.sk/sutaz/images/20/2020-DE-02_C.png"
+  ],
+  "year": "2020/2021",
+  "category": "Senior",
+  "type": "image",
+  "correct_index": 1,
+  "correct_answer": "http://demo.ibobor.sk/sutaz/images/20/2020-DE-02_O.png",
+  "correct_answer_plain": null
+}

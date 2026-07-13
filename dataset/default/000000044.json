@@ -1,0 +1,33 @@
+{
+  "id": 43,
+  "serial_number": 8,
+  "title": "Perníky",
+  "question": "Danka a Janka zdobia priamo na jarmoku perníky.<br/> <image_1><br/> Janka zdobí perníky červeným cukrom a <b>každých 5 minút</b> ozdobí jeden perník.<br/> Danka zdobí zeleným cukrom a <b>každých 7 minút</b> ozdobí jeden perník.<br/> Obe začali zdobiť perníky naraz.<br/> Po <b>32 minútach</b> prišiel prvý zákazník Peter a kúpil si <b>2 červené a 2 zelené</b> perníky.<br/> Koľko ozdobených perníkov ostalo na pulte po Petrovom nákupe? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "3 červené, 3 zelené"
+    },
+    {
+      "value": "1",
+      "label": "4 červené, 2 zelené"
+    },
+    {
+      "value": "2",
+      "label": "Nedá sa to zistiť."
+    },
+    {
+      "value": "3",
+      "label": "4 červené, 3 zelené"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/20/2020-SK-15.png"
+  ],
+  "year": "2020/2021",
+  "category": "Kadet",
+  "type": "image",
+  "correct_index": 1,
+  "correct_answer": "4 červené, 2 zelené ",
+  "correct_answer_plain": "4 červené, 2 zelené"
+}

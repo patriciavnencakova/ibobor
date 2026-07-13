@@ -1,0 +1,37 @@
+{
+  "id": 870,
+  "serial_number": 13,
+  "title": "Graf z mapy",
+  "question": "Mapy môžeme zobraziť ako grafy. Každý vrchol v grafe reprezentuje krajinu a spojnica dvoch vrcholov znamená, že krajiny susedia. <br/> Toto je graf mapy siedmich krajín:<br/> <image_1><br/> <br/> Ktorá mapa zodpovedá grafu? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "<image_2>"
+    },
+    {
+      "value": "1",
+      "label": "<image_3>"
+    },
+    {
+      "value": "2",
+      "label": "<image_4>"
+    },
+    {
+      "value": "3",
+      "label": "<image_5>"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/10/2010-AT-06_graph.png",
+    "http://demo.ibobor.sk/sutaz/images/10/2010-AT-06_mapa3.png",
+    "http://demo.ibobor.sk/sutaz/images/10/2010-AT-06_mapa4.png",
+    "http://demo.ibobor.sk/sutaz/images/10/2010-AT-06_mapa2.png",
+    "http://demo.ibobor.sk/sutaz/images/10/2010-AT-06_mapa1.png"
+  ],
+  "year": "2010/2011",
+  "category": "Junior",
+  "type": "image",
+  "correct_index": 0,
+  "correct_answer": "http://demo.ibobor.sk/sutaz/images/10/2010-AT-06_mapa3.png",
+  "correct_answer_plain": null
+}

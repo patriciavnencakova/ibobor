@@ -1,0 +1,33 @@
+{
+  "id": 464,
+  "serial_number": 12,
+  "title": "Prepínače",
+  "question": "Svetlá osvetľujú sochu v strede parku rôznymi farbami podľa toho, ako sú zapnuté alebo vypnuté tri prepínače, ktoré sú od seba navzájom vzdialené 1 km, pozri obrázok:<br/> <image_1><br/> Edo chce vyskúšať všetkých osem kombinácií prepínačov.<br/> <br/> <b>Najmenej</b> koľko kilometrov musí prejsť? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "9"
+    },
+    {
+      "value": "1",
+      "label": "6"
+    },
+    {
+      "value": "2",
+      "label": "7"
+    },
+    {
+      "value": "3",
+      "label": "8"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/16/2016-BE-03.png"
+  ],
+  "year": "2016/2017",
+  "category": "Senior",
+  "type": "image",
+  "correct_index": 1,
+  "correct_answer": "6 ",
+  "correct_answer_plain": "6"
+}

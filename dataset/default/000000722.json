@@ -1,0 +1,38 @@
+{
+  "id": 721,
+  "serial_number": 11,
+  "title": "Karty",
+  "question": "Jana sa hrá na počítači. V hre je týchto 9 kariet:<br/> <image_1><br/> Počítač si náhodne zvolí dve karty. Úlohou hráča je vybrať tretiu kartu zo zvyšných tak, aby na kartách boli<br/> <ul><li>buď všetky symboly rovnakej farby alebo každý inej farby,</li><br/> <li>a tiež buď všetky symboly rovnakého tvaru alebo každý iného tvaru.</li></ul><br/> Počítač vybral tieto karty:<br/> <image_2><br/> Ktorú kartu musí Janka podľa pravidiel zvoliť? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "<image_3>"
+    },
+    {
+      "value": "1",
+      "label": "<image_4>"
+    },
+    {
+      "value": "2",
+      "label": "<image_5>"
+    },
+    {
+      "value": "3",
+      "label": "<image_6>"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/12/2012-SK-04_vsetky.png",
+    "http://demo.ibobor.sk/sutaz/images/12/2012-SK-04_pocitacove.png",
+    "http://demo.ibobor.sk/sutaz/images/12/2012-SK-04_A.png",
+    "http://demo.ibobor.sk/sutaz/images/12/2012-SK-04_B.png",
+    "http://demo.ibobor.sk/sutaz/images/12/2012-SK-04_C.png",
+    "http://demo.ibobor.sk/sutaz/images/12/2012-SK-04_D.png"
+  ],
+  "year": "2012/2013",
+  "category": "Kadet",
+  "type": "image",
+  "correct_index": 0,
+  "correct_answer": "http://demo.ibobor.sk/sutaz/images/12/2012-SK-04_A.png",
+  "correct_answer_plain": null
+}

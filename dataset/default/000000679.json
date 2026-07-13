@@ -1,0 +1,35 @@
+{
+  "id": 678,
+  "serial_number": 10,
+  "title": "Elektronický zámok",
+  "question": "Bob sa rozhodol inštalovať si elektronický zámok na ochranu svojho domu. Zámok má zvonku len niekoľko tlačidiel, jeho logika je skrytá vo vnútri. <br/> Zámok sa odomyká stlačením správnej kombinácie tlačidiel. <br/> Stlačené tlačidlo vysiela elektrický signál do všetkých k nemu pripojených prvkov, nestlačené tlačidlo ho nevysiela.<br/> V zámku použil elektronický obvod zložený z troch typov prvkov, ktoré transformujú vstupné signály na jeden výstupný signál:<br/> <image_1><br/> Prvok <b>NIE</b> vysiela výstupný signál práve vtedy keď na jeho vstupe nie je signál. <br/> Prvok <b>A</b> vysiela výstupný signál práve vtedy, keď sú signály na všetkých jeho vstupoch.<br/> Prvok <b>ALEBO</b> vysiela výstupný signál práve vtedy, keď je signál na aspoň jednom jeho vstupe.<br/> Napríklad takýto zámok sa odomkne len vtedy, keď stlačíme tlačidlo B:<br/> <image_2><br/> Bob si vyrobil takýto zámok:<br/> <image_3><br/> Stlačenie ktorej kombinácie tlačidiel ho odomkne? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "A,C a D"
+    },
+    {
+      "value": "1",
+      "label": "A, B a C"
+    },
+    {
+      "value": "2",
+      "label": "C a A"
+    },
+    {
+      "value": "3",
+      "label": "A a B"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/13/2013-UA-01_SK_tab.png",
+    "http://demo.ibobor.sk/sutaz/images/13/2013-UA-01-example_SK.png",
+    "http://demo.ibobor.sk/sutaz/images/13/2013-UA-01_SK.png"
+  ],
+  "year": "2013/2014",
+  "category": "Senior",
+  "type": "image",
+  "correct_index": 0,
+  "correct_answer": "A,C a D ",
+  "correct_answer_plain": "A,C a D"
+}

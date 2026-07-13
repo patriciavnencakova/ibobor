@@ -1,0 +1,33 @@
+{
+  "id": 1010,
+  "serial_number": 6,
+  "title": "Dešifrovanie",
+  "question": "Bobor Braňo a bobrica Barbora si často píšu listy. Nechcú však, aby ich vedeli čítať ostatné bobry. Vymysleli si takúto šifru: dané písmeno nájdu v tabuľke a číslo pri ňom vynásobia dvoma. Napríklad slovo BOBOR zašifrujú ako 45045056.<br/> <image_1><br/> <br/> Aké slovo zašifrujú ako 18381250581056741858? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "ani jedna z možností"
+    },
+    {
+      "value": "1",
+      "label": "INFOSERVIS"
+    },
+    {
+      "value": "2",
+      "label": "INFORMATIKA"
+    },
+    {
+      "value": "3",
+      "label": "INFOSTANICA"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/08/J-S_INF_AT_004.gif"
+  ],
+  "year": "2008/2009",
+  "category": "Senior",
+  "type": "image",
+  "correct_index": 1,
+  "correct_answer": "INFOSERVIS ",
+  "correct_answer_plain": "INFOSERVIS"
+}

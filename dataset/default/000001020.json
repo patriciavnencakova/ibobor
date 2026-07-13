@@ -1,0 +1,37 @@
+{
+  "id": 1019,
+  "serial_number": 15,
+  "title": "Prihlasovacie mená",
+  "question": "Platné prihlasovacie meno v školskej počítačovej sieti musí začínať veľkým písmenom, za ktorým musí byť aspoň jedno malé písmeno.<br/> Toto pravidlo môžeme popísať pomocou diagramu:<br/> <image_1><br/> Všimni si, že správne mená končia v dvojito okrúžkovanom vrchole 3.<br/> Anna a Dominik sú platné prihlasovacie mená podľa nášho diagramu, ale JankoHrasko nie je platné prihlasovacie meno.<br/> Správca počítačovej siete sa rozhodol, že zmení pravidlá tak, aby nielen JankoHrasko, ale aj KarolinaStrapataNovakova a JanEnterCierny boli platné prihlasovacie mená.<br/> Teda, aby meno mohlo pozostávať z jednej alebo viacerých častí, kde každá časť začína veľkým písmenom a za ním je aspoň jedno malé písmeno.<br/> <br/> Ktorý z nasledujúcich diagramov popisuje nové pravidlá? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "<image_2>"
+    },
+    {
+      "value": "1",
+      "label": "<image_3>"
+    },
+    {
+      "value": "2",
+      "label": "<image_4>"
+    },
+    {
+      "value": "3",
+      "label": "<image_5>"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/08/S_STRUC_GE_008-z.gif",
+    "http://demo.ibobor.sk/sutaz/images/08/S_STRUC_GE_008-c.gif",
+    "http://demo.ibobor.sk/sutaz/images/08/S_STRUC_GE_008-b.gif",
+    "http://demo.ibobor.sk/sutaz/images/08/S_STRUC_GE_008-d.gif",
+    "http://demo.ibobor.sk/sutaz/images/08/S_STRUC_GE_008-a.gif"
+  ],
+  "year": "2008/2009",
+  "category": "Senior",
+  "type": "image",
+  "correct_index": 2,
+  "correct_answer": "http://demo.ibobor.sk/sutaz/images/08/S_STRUC_GE_008-d.gif",
+  "correct_answer_plain": null
+}

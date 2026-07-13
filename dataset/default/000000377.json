@@ -1,0 +1,33 @@
+{
+  "id": 376,
+  "serial_number": 14,
+  "title": "Upratovací robot",
+  "question": "Na umývanie podlahy v miestnosti, ktorá sa skladá z rovnakých štvorčekov, používajú upratovací robot.<br/> Robot sa dá riadiť povelmi:<br/> D – pohni sa dopredu o jeden štvorček, pohyb trvá 1 minútu<br/> P – otoč sa o 90° doprava, otočenie vykoná robot okamžite<br/> U – umy štvorček, umytie trvá 1 minútu<br/> Robot musí začať aj skončiť upratovanie v jednom z rohových štvorčekov (na obrázku sú označené A, B, C, D). Nie je však nevyhnutné, aby začal a skončil na tom istom štvorčeku.<br/> Robot umýva len štvorčeky, na ktorých nestojí nábytok.<br/> <image_1><br/> Ako <b>najrýchlejšie</b> dokáže robot umyť podlahu? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "za 27 minút"
+    },
+    {
+      "value": "1",
+      "label": "za 36 minút"
+    },
+    {
+      "value": "2",
+      "label": "za 53 minút"
+    },
+    {
+      "value": "3",
+      "label": "za 55 minút"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/17/2017-LT-03.png"
+  ],
+  "year": "2017/2018",
+  "category": "Senior",
+  "type": "image",
+  "correct_index": 3,
+  "correct_answer": "za 55 minút ",
+  "correct_answer_plain": "za 55 minút"
+}

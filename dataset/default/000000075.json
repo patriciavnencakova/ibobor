@@ -1,0 +1,37 @@
+{
+  "id": 74,
+  "serial_number": 9,
+  "title": "Mestá a diaľnice",
+  "question": "Na mape je 5 miest (čierne bodky) a 4 diaľnice (farebné čiary).<br/> <image_1><br/> Mapu chceme reprezentovať diagramom, v ktorom<ul><li>mestá reprezentujú kruhy,</li><li>dve mestá sú spojené čiarou práve vtedy, keď cez ne prechádza tá istá diaľnica.</li></ul><br/> Ktorý diagram reprezentuje správne mapu? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "<image_2>"
+    },
+    {
+      "value": "1",
+      "label": "<image_3>"
+    },
+    {
+      "value": "2",
+      "label": "<image_4>"
+    },
+    {
+      "value": "3",
+      "label": "<image_5>"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/20/2020-SK-02.png",
+    "http://demo.ibobor.sk/sutaz/images/20/2020-SK-02_B.png",
+    "http://demo.ibobor.sk/sutaz/images/20/2020-SK-02_C.png",
+    "http://demo.ibobor.sk/sutaz/images/20/2020-SK-02_A.png",
+    "http://demo.ibobor.sk/sutaz/images/20/2020-SK-02_D.png"
+  ],
+  "year": "2020/2021",
+  "category": "Senior",
+  "type": "image",
+  "correct_index": 1,
+  "correct_answer": "http://demo.ibobor.sk/sutaz/images/20/2020-SK-02_C.png",
+  "correct_answer_plain": null
+}

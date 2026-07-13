@@ -1,0 +1,33 @@
+{
+  "id": 906,
+  "serial_number": 7,
+  "title": "Mačiatka",
+  "question": "Pomocou programu na kreslenie chceme vyrobiť z obrázka s jednou mačičkou obrázok s dvoma mačičkami.<br/> <image_1><br/> Môžeme použiť iba takéto kroky:<ul><li>Označenie obdĺžnikovej časti obrázka.</li><li>Kopírovanie označenej časti na ľubovoľné miesto.</li><li>Otočenie označenej časti o 90° v smere hodinových ručičiek.</li><li>Vodorovné prevrátenie označenej časti.</li><li>Zvislé prevrátenie označenej časti. </li></ul><br/> Aký najmenší počet krokov na to potrebujeme? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "6"
+    },
+    {
+      "value": "1",
+      "label": "8"
+    },
+    {
+      "value": "2",
+      "label": "7"
+    },
+    {
+      "value": "3",
+      "label": "5"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/09/B_Maciatka.jpg"
+  ],
+  "year": "2009/2010",
+  "category": "Benjamín",
+  "type": "image",
+  "correct_index": 3,
+  "correct_answer": "5 ",
+  "correct_answer_plain": "5"
+}

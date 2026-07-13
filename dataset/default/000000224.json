@@ -1,0 +1,37 @@
+{
+  "id": 223,
+  "serial_number": 5,
+  "title": "Nakladanie zmrzlín",
+  "question": "V stánku predávajú štyri druhy zmrzliny:<br/> <image_1><br/> Zmrzlinár dodržiava pri nakladaní zmrzliny do kornútka nasledujúce pravidlá:<br/> 0. zober prázdny kornútok<br/> 1. vyber náhodný druh zmrzliny a daj navrch dva kopčeky<br/> 2. pridaj jeden kopček zmrzliny iného druhu<br/> 3. ak je zákazník spokojný, skonči, inak choď na bod 1<br/> Pri nakladaní ktorého kornútku <b>nedodržal</b> zmrzlinár pravidlá? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "<image_2>"
+    },
+    {
+      "value": "1",
+      "label": "<image_3>"
+    },
+    {
+      "value": "2",
+      "label": "<image_4>"
+    },
+    {
+      "value": "3",
+      "label": "<image_5>"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/18/2018-IE-01.png",
+    "http://demo.ibobor.sk/sutaz/images/18/2018-IE-01-A.png",
+    "http://demo.ibobor.sk/sutaz/images/18/2018-IE-01-C.png",
+    "http://demo.ibobor.sk/sutaz/images/18/2018-IE-01-D.png",
+    "http://demo.ibobor.sk/sutaz/images/18/2018-IE-01-B.png"
+  ],
+  "year": "2018/2019",
+  "category": "Benjamín",
+  "type": "image",
+  "correct_index": 2,
+  "correct_answer": "http://demo.ibobor.sk/sutaz/images/18/2018-IE-01-D.png",
+  "correct_answer_plain": null
+}

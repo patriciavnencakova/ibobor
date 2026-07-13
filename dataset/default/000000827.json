@@ -1,0 +1,31 @@
+{
+  "id": 826,
+  "serial_number": 14,
+  "title": "Bazén",
+  "question": "V akvaparku pri bazéne s umelými vlnami si Katka všimla nelogický nápis:<br> <br> <b>Len pre plavcov a deti do 8 rokov v sprievode dospelého</b><br> <br> Kto podľa neho <b><u>nesmie</u></b> vstúpiť do bazéna? <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "7 ročná Evička spolu s jej 19 ročným bratom, ani jeden nevie plávať."
+    },
+    {
+      "value": "1",
+      "label": "9 ročný Jožko, ktorý nevie plávať, spolu s jeho 45-ročným otcom, ktorý vie plávať."
+    },
+    {
+      "value": "2",
+      "label": "Sám Janko, ktorý vie plávať a má 7 rokov."
+    },
+    {
+      "value": "3",
+      "label": "Sám 20 ročný Edo, ktorý vie plávať."
+    }
+  ],
+  "images": [],
+  "year": "2011/2012",
+  "category": "Senior",
+  "type": "text",
+  "correct_index": 1,
+  "correct_answer": "9 ročný Jožko, ktorý nevie plávať, spolu s jeho 45-ročným otcom, ktorý vie plávať. ",
+  "correct_answer_plain": "9 ročný Jožko, ktorý nevie plávať, spolu s jeho 45-ročným otcom, ktorý vie plávať."
+}

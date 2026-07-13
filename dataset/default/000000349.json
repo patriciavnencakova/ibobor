@@ -1,0 +1,31 @@
+{
+  "id": 348,
+  "serial_number": 1,
+  "title": "Raňajky",
+  "question": "Anna, Bohuš, Cyril a Dana spolu raňajkujú.<br> Na stole majú: 2 bagety, 2 žemle, 2 rožky, 2 toasty.<br> Každý z nich si zobral <b>dva rôzne</b> druhy pečiva tak, že:<ul><li>Anna a Bohuš nemali ani jeden druh pečiva rovnaký.</li><li>Cyril mal bagetu.</li><li>Dana mala žemľu, ale Anna nemala žemľu.</li><li>Bohuš mal rožok.</li></ul><br> Čo mala Anna? <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "žemľu a toast"
+    },
+    {
+      "value": "1",
+      "label": "rožok a žemľu"
+    },
+    {
+      "value": "2",
+      "label": "toast a bagetu"
+    },
+    {
+      "value": "3",
+      "label": "bagetu a rožok"
+    }
+  ],
+  "images": [],
+  "year": "2017/2018",
+  "category": "Junior",
+  "type": "text",
+  "correct_index": 2,
+  "correct_answer": "toast a bagetu ",
+  "correct_answer_plain": "toast a bagetu"
+}

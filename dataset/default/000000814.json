@@ -1,0 +1,37 @@
+{
+  "id": 813,
+  "serial_number": 1,
+  "title": "Chýbajúca časť správy",
+  "question": "Tajné správy o zásobách dreva si bobry posielajú v mriežke 5x5. Kvôli prípadnému poškodeniu správy zaviedli jeden stĺpec a jeden riadok navyše. Každý štvorček v 6. stĺpci a v 6. riadku je zafarbený tak, aby bol <b>počet</b> čiernych štvorcov v stĺpci, resp. v riadku, <b>párny</b>.<br/> <image_1><br/> Bobor Emil dostal takúto tajnú správu, žiaľ, časť z nej bola zničená rozliatím červenej farby. <br/> Ako môže vyzerať chýbajúca časť správy? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "<image_2>"
+    },
+    {
+      "value": "1",
+      "label": "<image_3>"
+    },
+    {
+      "value": "2",
+      "label": "<image_4>"
+    },
+    {
+      "value": "3",
+      "label": "<image_5>"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/11/2011-CH-10-task.png",
+    "http://demo.ibobor.sk/sutaz/images/11/2011-CH-10-answerC.png",
+    "http://demo.ibobor.sk/sutaz/images/11/2011-CH-10-answerA.png",
+    "http://demo.ibobor.sk/sutaz/images/11/2011-CH-10-answerB.png",
+    "http://demo.ibobor.sk/sutaz/images/11/2011-CH-10-answerD.png"
+  ],
+  "year": "2011/2012",
+  "category": "Senior",
+  "type": "image",
+  "correct_index": 2,
+  "correct_answer": "http://demo.ibobor.sk/sutaz/images/11/2011-CH-10-answerB.png",
+  "correct_answer_plain": null
+}

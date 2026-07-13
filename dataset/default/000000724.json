@@ -1,0 +1,39 @@
+{
+  "id": 723,
+  "serial_number": 13,
+  "title": "Opasky",
+  "question": "Členovia klubu Bobrisko nosia opasky vyrobené z farebných drievok. Keďže bobry rastú, opasky bude potrebné predlžovať. Vymysleli preto návod, ako budú opasky z jednotlivých drievok skladať.<br/> Začni hnedým drievkom<br/> <image_1><br/> Ak už máš nejaký členský opasok, môžeš ho predĺžiť jedným z týchto postupov:<br/> <ul><li>na jeho ľavý koniec dáš tri modré drievka<br/> <image_2></li><br/> <li>alebo tak, že na jeho ľavý koniec dáš červené drievko a na pravý koniec dve zelené drievka<br/> <image_3></li></ul><br/> Ktorý opasok je správne vytvorený? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "<image_4>"
+    },
+    {
+      "value": "1",
+      "label": "<image_5>"
+    },
+    {
+      "value": "2",
+      "label": "<image_6>"
+    },
+    {
+      "value": "3",
+      "label": "<image_7>"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/12/2012-CA-02_hnede.png",
+    "http://demo.ibobor.sk/sutaz/images/12/2012-CA-02_modre.png",
+    "http://demo.ibobor.sk/sutaz/images/12/2012-CA-02_cerveneazelene.png",
+    "http://demo.ibobor.sk/sutaz/images/12/2012-CA-02_d.png",
+    "http://demo.ibobor.sk/sutaz/images/12/2012-CA-02_a.png",
+    "http://demo.ibobor.sk/sutaz/images/12/2012-CA-02_c.png",
+    "http://demo.ibobor.sk/sutaz/images/12/2012-CA-02_b.png"
+  ],
+  "year": "2012/2013",
+  "category": "Kadet",
+  "type": "image",
+  "correct_index": 2,
+  "correct_answer": "http://demo.ibobor.sk/sutaz/images/12/2012-CA-02_c.png",
+  "correct_answer_plain": null
+}

@@ -1,0 +1,33 @@
+{
+  "id": 994,
+  "serial_number": 5,
+  "title": "Kompresia videa",
+  "question": "Kompresia videa vo videoeditore závisí od toho, nakoľko sú dva za sebou idúce zábery odlišné.<br/> <b>Odlišnosť dvoch za sebou</b> nasledujúcich záberov A a B vypočítame tak, že sčítame<ul><li>počet objektov, ktoré sú v A a nie sú v B,</li><li>s počtom objektov, ktoré sú v B a nie sú v A.</li></ul><br/> <b>Celková odlišnosť</b> postupnosti záberov je potom súčet odlišností všetkých za sebou idúcich dvojíc záberov.<br/> <br/> Aká je celková odlišnosť nasledujúcej postupnosti záberov?<br/> <image_1> <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "13"
+    },
+    {
+      "value": "1",
+      "label": "9"
+    },
+    {
+      "value": "2",
+      "label": "8"
+    },
+    {
+      "value": "3",
+      "label": "11"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/08/J-S_STRUC_LT_004.gif"
+  ],
+  "year": "2008/2009",
+  "category": "Junior",
+  "type": "image",
+  "correct_index": 1,
+  "correct_answer": "9 ",
+  "correct_answer_plain": "9"
+}

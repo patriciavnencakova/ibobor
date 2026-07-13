@@ -1,0 +1,31 @@
+{
+  "id": 858,
+  "serial_number": 1,
+  "title": "Formát dokumentu",
+  "question": "Potrebuješ poslať dokument priateľovi, ktorý má možno iný operačný systém ako ty. Tvoj textový editor môže exportovať dokumenty do rôznych formátov. Ktorý formát je najvhodnejší, ak dokument má veľa formátovania (napr. rôzne typy, veľkosti a farby písma, obrázky v texte) a tvoj priateľ si ho chce len prečítať a vytlačiť? <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "Dokument programu Word (*.doc, *.docx)"
+    },
+    {
+      "value": "1",
+      "label": "Text vo formáte OpenDocument (*.odt)"
+    },
+    {
+      "value": "2",
+      "label": "PDF - Portable Document Format (*.pdf)"
+    },
+    {
+      "value": "3",
+      "label": "Textový súbor (*.txt)"
+    }
+  ],
+  "images": [],
+  "year": "2010/2011",
+  "category": "Junior",
+  "type": "text",
+  "correct_index": 2,
+  "correct_answer": "PDF - Portable Document Format (*.pdf) ",
+  "correct_answer_plain": "PDF - Portable Document Format (*.pdf)"
+}

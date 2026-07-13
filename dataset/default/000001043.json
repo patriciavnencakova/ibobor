@@ -1,0 +1,33 @@
+{
+  "id": 1042,
+  "serial_number": 8,
+  "title": "23",
+  "question": "Pred nami stoja tri truhličky – zlatá, strieborná a medená. Jedna z truhličiek skrýva poklad. Na každej truhličke je nápis. Zistili sme, že najviac jeden nápis na truhličkách je pravdivý.<br/> <br/> <image_1><br/> <br/> Ktorá skrinka určite <b>neskrýva</b> poklad? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "zlatá skrinka"
+    },
+    {
+      "value": "1",
+      "label": "medená a zlatá skrinka"
+    },
+    {
+      "value": "2",
+      "label": "strieborná a zlatá skrinka"
+    },
+    {
+      "value": "3",
+      "label": "medená skrinka"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/poklad.png"
+  ],
+  "year": "2007/2008",
+  "category": "Junior",
+  "type": "image",
+  "correct_index": 0,
+  "correct_answer": "zlatá skrinka ",
+  "correct_answer_plain": "zlatá skrinka"
+}

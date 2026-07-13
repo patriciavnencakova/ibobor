@@ -1,0 +1,38 @@
+{
+  "id": 478,
+  "serial_number": 11,
+  "title": "Tváre a okuliare",
+  "question": "V optike sa rozhodli, že budú predávať okuliare podľa výrazu tváre. K jednotlivým výrazom tvárí priradili nasledujúce typy okuliarov:<br/> <image_1><br/> Do obchodu prišli štyria ľudia s nasledujúcimi výrazmi:<br/> <image_2><br/> Predavač im pripravil okuliarie. Keď si každý (zľava doprava) nasadil okuliare, niektoré výrazy tvárí nemali správny typ okuliarov.<br/> V ktorej postupnosti okuliarov je <b>najmenej</b> chýb? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "<image_3>"
+    },
+    {
+      "value": "1",
+      "label": "<image_4>"
+    },
+    {
+      "value": "2",
+      "label": "<image_5>"
+    },
+    {
+      "value": "3",
+      "label": "<image_6>"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/15/2015-TR-08_zadanie.png",
+    "http://demo.ibobor.sk/sutaz/images/15/2015-TR-08_tvare.png",
+    "http://demo.ibobor.sk/sutaz/images/15/2015-TR-08_D.png",
+    "http://demo.ibobor.sk/sutaz/images/15/2015-TR-08_A.png",
+    "http://demo.ibobor.sk/sutaz/images/15/2015-TR-08_B.png",
+    "http://demo.ibobor.sk/sutaz/images/15/2015-TR-08_C.png"
+  ],
+  "year": "2015/2016",
+  "category": "Bobrík",
+  "type": "image",
+  "correct_index": 2,
+  "correct_answer": "http://demo.ibobor.sk/sutaz/images/15/2015-TR-08_B.png",
+  "correct_answer_plain": null
+}

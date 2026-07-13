@@ -1,0 +1,31 @@
+{
+  "id": 1008,
+  "serial_number": 4,
+  "title": "Viac adresátov e-mailu",
+  "question": "Keď píšeme e-mail viacerým adresátom, máme možnosť napísať ich e-mailové adresy do políčka <b>Komu:</b> alebo do políčka <b>Kópia:</b> Ktoré z nasledujúcich tvrdení je správne? <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "<b>Kópia:</b> sa používa vtedy, keď píšeme viacerým adresátom, pretože políčko <b>Komu:</b> môže obsahovať len jednu adresu."
+    },
+    {
+      "value": "1",
+      "label": "Je dobrým zvykom zadať e-mailové adresy do políčka <b>Kópia:</b> vtedy, ak píšeme viac ako jednému adresátovi. Do políčka <b>Komu:</b> dáme v takom prípade svoju adresu."
+    },
+    {
+      "value": "2",
+      "label": "<b>Kópia:</b> sa dnes už nepoužíva."
+    },
+    {
+      "value": "3",
+      "label": "Do políčka <b>Kópia:</b> môžeme zadať ľubovoľný počet adries rovnako ako do políčka <b>Komu:</b>. Jediný rozdiel je v tom, ako veľmi je adresát zainteresovaný do obsahu e-mailu."
+    }
+  ],
+  "images": [],
+  "year": "2008/2009",
+  "category": "Senior",
+  "type": "text",
+  "correct_index": 3,
+  "correct_answer": "Do políčka <b>Kópia:</b> môžeme zadať  ľubovoľný počet adries rovnako ako do políčka <b>Komu:</b>. Jediný rozdiel je v tom, ako veľmi je adresát zainteresovaný do obsahu e-mailu. ",
+  "correct_answer_plain": "Do políčka Kópia: môžeme zadať  ľubovoľný počet adries rovnako ako do políčka Komu: . Jediný rozdiel je v tom, ako veľmi je adresát zainteresovaný do obsahu e-mailu."
+}

@@ -1,0 +1,33 @@
+{
+  "id": 754,
+  "serial_number": 14,
+  "title": "Zázračné slová",
+  "question": "Slovo nazveme zázračné, ak obsahuje len písmená A, B, D, K, R a začína KADABRA. Bobor sa rozhodol postaviť stroj, ktorý by dokázal zistiť, či je dané slovo zázračné alebo nie. Pri konštrukcii použil túto schému:<br/> <image_1><br/> Stroj rozozná slovo, ak pri jeho analýze začne šípkou označenou <b>start</b>, postupuje podľa šípok a skončí v zelenom krúžku.<br/> <br/> Rozoznáva stroj len zázračné slová? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "Rozoznáva zázračné slová, ale nie všetky."
+    },
+    {
+      "value": "1",
+      "label": "Áno, stroj rozoznáva iba zázračné slová."
+    },
+    {
+      "value": "2",
+      "label": "Nie, nerozoznáva všetky zázračné slová a rozoznáva tiež aj iné slová."
+    },
+    {
+      "value": "3",
+      "label": "Rozoznáva všetky zázračné, ale aj niektoré iné slová."
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/12/2012-PL-01-1.jpg"
+  ],
+  "year": "2012/2013",
+  "category": "Senior",
+  "type": "image",
+  "correct_index": 2,
+  "correct_answer": "Nie, nerozoznáva všetky zázračné slová a rozoznáva tiež aj iné slová. ",
+  "correct_answer_plain": "Nie, nerozoznáva všetky zázračné slová a rozoznáva tiež aj iné slová."
+}

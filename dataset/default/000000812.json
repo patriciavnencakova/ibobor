@@ -1,0 +1,33 @@
+{
+  "id": 811,
+  "serial_number": 14,
+  "title": "Továreň",
+  "question": "Robot má nájsť a opraviť pokazenú časť automatickej továrne.<br/> <i><b>KoGuľa</b></i> je kocka, na ktorej je guľa.<br/> <i><b>ŠtvorVal</b></i> tvoria štyri valce, na ktorých je veľká kocka.<br/> Na plošine na obrázku je v rohu jej prednej časti pyramída. V ďalšom rohu prednej časti plošiny je <i><b>KoGuľa</b></i>. Vedľa nej je ďalšia <i><b>KoGuľa</b></i>. Tá je spojená s iným tvarom, nazvime ho <i><b>X</b></i>. Na plošine sa nachádza práve jeden <i><b>ŠtvorVal</b></i>, ktorý je svojím valcom spojený s tvarom <i><b>X</b></i>. Tento <i><b>ŠtvorVal</b></i> nazvime <i><b>sv1</b></i>. Počet pyramíd navrchu <i><b>sv1</b></i> označme <i><b>Ppočet</b></i>. Na plošine existuje jediný iný <i><b>ŠtvorVal</b></i>, ktorý má navrchu tiež <i><b>Ppočet</b></i> pyramíd. Nazvime ho <i><b>sv2</b></i>.<br/> <image_1><br/> Robot má opraviť časť <b>Q</b>, ktorá je na najvyššom mieste na útvare <i><b>sv2</b></i>.<br/> Aký má tvar časť <b>Q</b>? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "Valec"
+    },
+    {
+      "value": "1",
+      "label": "Kocka"
+    },
+    {
+      "value": "2",
+      "label": "Guľa"
+    },
+    {
+      "value": "3",
+      "label": "Pyramída"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/11/2011-DE-02.png"
+  ],
+  "year": "2011/2012",
+  "category": "Junior",
+  "type": "image",
+  "correct_index": 0,
+  "correct_answer": "Valec ",
+  "correct_answer_plain": "Valec"
+}

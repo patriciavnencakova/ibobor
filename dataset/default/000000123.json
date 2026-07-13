@@ -1,0 +1,37 @@
+{
+  "id": 122,
+  "serial_number": 3,
+  "title": "Čínske znaky",
+  "question": "Bobor výskumník zostavil pre kreslenie čínskych znakov farebnú schému. <br/> Na obrázku vidíme, ako sa podľa nej zafarbujú a označujú znaky podľa toho, do ktorej časti schémy najviac zasahujú:<br/> <image_1><br/> Na ktorom obrázku sú podľa farebnej schémy správne zafarbené tieto tri znaky \"三\", \"二\", \"八\" ? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "<image_2>"
+    },
+    {
+      "value": "1",
+      "label": "<image_3>"
+    },
+    {
+      "value": "2",
+      "label": "<image_4>"
+    },
+    {
+      "value": "3",
+      "label": "<image_5>"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/19/2019-CN-03a.png",
+    "http://demo.ibobor.sk/sutaz/images/19/2019-CN-03a_C.png",
+    "http://demo.ibobor.sk/sutaz/images/19/2019-CN-03a_B.png",
+    "http://demo.ibobor.sk/sutaz/images/19/2019-CN-03a_D.png",
+    "http://demo.ibobor.sk/sutaz/images/19/2019-CN-03a_A.png"
+  ],
+  "year": "2019/2020",
+  "category": "Benjamín",
+  "type": "image",
+  "correct_index": 1,
+  "correct_answer": "http://demo.ibobor.sk/sutaz/images/19/2019-CN-03a_B.png",
+  "correct_answer_plain": null
+}

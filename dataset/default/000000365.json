@@ -1,0 +1,33 @@
+{
+  "id": 364,
+  "serial_number": 2,
+  "title": "Stavba priehrady",
+  "question": "Bobry sa chystajú postaviť novú priehradu. Na základe <b>priemerných zrážkových úhrnov</b> (obrázok nižšie) si chcú vybrať najlepší mesiac, kedy ju vybudovať.<br/> Dohodli sa, že<ul><li>v mesiaci, v ktorom je <b>najviac zrážkok</b>, chcú otestovať maximálnu kapacitu priehrady</li><li>priehrada má byť postavená <b>jeden alebo dva mesiace</b> pred testovaním a v najsuchšom možnom mesiaci</li></ul><br/> <image_1><br/> V ktorom mesiaci majú priehradu postaviť? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "apríl"
+    },
+    {
+      "value": "1",
+      "label": "september"
+    },
+    {
+      "value": "2",
+      "label": "december"
+    },
+    {
+      "value": "3",
+      "label": "január"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/17/2017-HU-04.png"
+  ],
+  "year": "2017/2018",
+  "category": "Senior",
+  "type": "image",
+  "correct_index": 2,
+  "correct_answer": "december ",
+  "correct_answer_plain": "december"
+}

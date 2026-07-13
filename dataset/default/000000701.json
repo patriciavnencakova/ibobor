@@ -1,0 +1,31 @@
+{
+  "id": 700,
+  "serial_number": 5,
+  "title": "Čo chýba?",
+  "question": "Bobor konštruktér si zložil počítač z troch starších rozbitých počítačov. Keď chcel počúvať hudbu, nebolo počuť nič.<br> Na ktorú časť hardvéru zrejme pri skladaní zabudol? <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "sieťová karta"
+    },
+    {
+      "value": "1",
+      "label": "zvuková karta"
+    },
+    {
+      "value": "2",
+      "label": "televízna karta"
+    },
+    {
+      "value": "3",
+      "label": "grafická karta"
+    }
+  ],
+  "images": [],
+  "year": "2012/2013",
+  "category": "Benjamín",
+  "type": "text",
+  "correct_index": 1,
+  "correct_answer": "zvuková karta ",
+  "correct_answer_plain": "zvuková karta"
+}

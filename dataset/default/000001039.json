@@ -1,0 +1,31 @@
+{
+  "id": 1038,
+  "serial_number": 4,
+  "title": "20",
+  "question": "Janko chcel vložiť do stredu textu ďalšiu vetu. Keď začal písať nový text, tak sa začali strácať pôvodné písmená.<br> Čo to mohlo spôsobiť? <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "Je zapnutý režim vkladania"
+    },
+    {
+      "value": "1",
+      "label": "Jankov počítač je napadnutý vírusom, treba ho preinštalovať"
+    },
+    {
+      "value": "2",
+      "label": "Jankova klávesnica je pokazená a treba ju vymeniť"
+    },
+    {
+      "value": "3",
+      "label": "Je zapnutý režim prepisovania"
+    }
+  ],
+  "images": [],
+  "year": "2007/2008",
+  "category": "Junior",
+  "type": "text",
+  "correct_index": 3,
+  "correct_answer": "Je zapnutý režim prepisovania ",
+  "correct_answer_plain": "Je zapnutý režim prepisovania"
+}

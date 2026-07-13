@@ -1,0 +1,33 @@
+{
+  "id": 834,
+  "serial_number": 7,
+  "title": "Písanie na mobile",
+  "question": "Na mobilnom telefóne sa dajú písať textové správy. Pri stláčaní číslic, na ktorých sú písmená sa telefón snaží uhádnuť, ktoré slovo chce používateľ napísať.<br/> <image_1><br/> <br/> Ak stlačíme číslice 83756 môže to byť slovo veslo ale aj slovo teplo.<br/> <br/> Aké slovné spojenie môžeme dostať, ak stlačíme 763 78766<br/> <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "poď domov"
+    },
+    {
+      "value": "1",
+      "label": "pod strom"
+    },
+    {
+      "value": "2",
+      "label": "leť strmo"
+    },
+    {
+      "value": "3",
+      "label": "sme bobry"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/10/2010-DE-05.png"
+  ],
+  "year": "2010/2011",
+  "category": "Benjamín",
+  "type": "image",
+  "correct_index": 1,
+  "correct_answer": "pod strom ",
+  "correct_answer_plain": "pod strom"
+}

@@ -1,0 +1,35 @@
+{
+  "id": 121,
+  "serial_number": 2,
+  "title": "Dávnoveké kódovanie",
+  "question": "Klára našla v kôre starého stromu vyrytú takúto tabuľku<br/> <image_1><br/> Neskôr videla takýto nápis<br/> <image_2><br/> Uvedomila si, že písmená v ňom sú zakódované pomocou tabuľky.<br/> Napr. písmeno H je zakódované takto:<br/> <image_3><br/> Aké slovo je zakódované v nápise? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "VODOPAD"
+    },
+    {
+      "value": "1",
+      "label": "VODOVOD"
+    },
+    {
+      "value": "2",
+      "label": "VODOMER"
+    },
+    {
+      "value": "3",
+      "label": "VODOJEM"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/19/2019-CH-10.png",
+    "http://demo.ibobor.sk/sutaz/images/19/2019-CH-10_napis.png",
+    "http://demo.ibobor.sk/sutaz/images/19/2019-CH-10_H.png"
+  ],
+  "year": "2019/2020",
+  "category": "Benjamín",
+  "type": "image",
+  "correct_index": 1,
+  "correct_answer": "VODOVOD ",
+  "correct_answer_plain": "VODOVOD"
+}

@@ -1,0 +1,33 @@
+{
+  "id": 667,
+  "serial_number": 14,
+  "title": "Fazuľky",
+  "question": "Dano sa hrá so strojom, ktorý sa skladá z troch sklenených bublín. Vo vrchnej bubline sú 3 fazuľky. Bubliny sú medzi sebou prepojené tak, že na spojeniach sú riadiace tlačidlá, pozri obrázok.<br/> <image_1><br/> Keď stlačí niektoré tlačidlo tak:<ul><li>stroj zistí či je aspoň jedna fazuľka v každej bubline, z ktorej vedie šípka k tlačidlu,</li><li>ak áno, tak zo všetkých bublín, z ktorých viedla šípka k tlačidlu sa odoberie jedna fazuľka a do všetkých bublín, do ktorých vedie šípka z tohto tlačidla, sa jedna fazuľka pridá.</li></ul><br/> Napr. stlačením tlačidla B sa odoberie jedna fazuľka z hornej bubliny a pridá sa fazuľka do pravej dolnej bubliny.<br/> Ktorá z nasledujúcich postupností stláčaní tlačidiel dovedie stroj zo situácie na obrázku do takej situácie, v ktorej sa už stláčaním žiadneho tlačidla v stroji nič nezmení? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "B – B – C – A – B – A"
+    },
+    {
+      "value": "1",
+      "label": "B – C – B – C – B – A"
+    },
+    {
+      "value": "2",
+      "label": "B – C – B – B – A – A"
+    },
+    {
+      "value": "3",
+      "label": "B – B – C – B – C – C"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/13/2013-BE-07_SK.png"
+  ],
+  "year": "2013/2014",
+  "category": "Junior",
+  "type": "image",
+  "correct_index": 3,
+  "correct_answer": "B – B – C – B – C – C ",
+  "correct_answer_plain": "B – B – C – B – C – C"
+}

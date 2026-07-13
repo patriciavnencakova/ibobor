@@ -1,0 +1,33 @@
+{
+  "id": 820,
+  "serial_number": 8,
+  "title": "Bludisko",
+  "question": "Igor sa túlal vo večerných hodinách a stratil sa v opustenej pivnici jedného domu. Je to veľmi tmavá pivnica, takže je naozaj ťažké nájsť cestu von.<br/> Našťastie si pamätá tieto pravidlá pre vyjdenie z bludiska, v ktorom sú len pravouhlé zákruty:<br/> <ol><li>Pamätaj si hodnotu počítadla (na začiatku má hodnotu 0).</li><ul><li>Vždy, keď zatočíš doprava, zmenši hodnotu počítadla o 1.</li><li>Vždy, keď zatočíš doľava, zväčši hodnotu počítadla o 1.</li></ul><li>Ak je hodnota počítadla 0, kráčaj stále rovno, kým nenarazíš do steny alebo nevyjdeš z bludiska.</li><li>Ak narazíš do steny, tak zatoč doprava a pokračuj popri stene. Ak stena zatáča a nedá sa použiť pravidlo 2., tak zatoč spolu s ňou (a nezabudni zväčšiť alebo zmenšiť hodnotu počítadla podľa pravidla 1.)</li></ol>Igor začína na červenej bodke a je otočený v smere šedej šípky.<br/> <image_1><br/> <br/> Ktorá postupnosť hodnôt počítadla vznikla počas jeho cesty von? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "0, -1, 0, -1, -2, -3, -4, -3, -2, -3, -4, -3, -2, -1"
+    },
+    {
+      "value": "1",
+      "label": "0, -1, 0, 1, 2, 3, 4, 5, 4, 3, 2, 1, 0, -1, -2, -3"
+    },
+    {
+      "value": "2",
+      "label": "0, -1, 0, -1, -2, -3, -4, -3, -2, -3, -4, -5, -4, -5"
+    },
+    {
+      "value": "3",
+      "label": "0, 1, 2, 1, 0, -1, -2, -3, -4, -3, -2, -1, 0, 1, 2, 3, 4"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/11/2011-CH-04.png"
+  ],
+  "year": "2011/2012",
+  "category": "Senior",
+  "type": "image",
+  "correct_index": 2,
+  "correct_answer": "0, -1, 0, -1, -2, -3, -4, -3, -2, -3, -4, -5, -4, -5 ",
+  "correct_answer_plain": "0, -1, 0, -1, -2, -3, -4, -3, -2, -3, -4, -5, -4, -5"
+}

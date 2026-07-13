@@ -1,0 +1,33 @@
+{
+  "id": 1006,
+  "serial_number": 2,
+  "title": "Obdĺžniky",
+  "question": "Počítačový grafik Boris navrhuje logo spoločnosti Najlepšie Bobrie Priehrady. Jeho predstava je nasledujúca<br/> <image_1><br/> <br/> Aký je <b>najmenší</b> počet obdĺžnikov, ktorý musí nakresliť? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "6"
+    },
+    {
+      "value": "1",
+      "label": "5"
+    },
+    {
+      "value": "2",
+      "label": "4"
+    },
+    {
+      "value": "3",
+      "label": "8"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/08/J-S_USE_SK_002.gif"
+  ],
+  "year": "2008/2009",
+  "category": "Senior",
+  "type": "image",
+  "correct_index": 1,
+  "correct_answer": "5 ",
+  "correct_answer_plain": "5"
+}

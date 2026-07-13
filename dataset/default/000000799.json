@@ -1,0 +1,31 @@
+{
+  "id": 798,
+  "serial_number": 1,
+  "title": "Predaj lístkov",
+  "question": "Chystáš sa kúpiť vstupenky na koncert kapely Bobrie slíže pre seba a svojich 95 kamarátov. Jeden lístok stojí 10 €.<br> Pri pokladni si všimneš, že majú rôzne skupinové zľavy:<br> <br> 10% zľava, keď si kúpiš 10 lístkov.<br> 20% zľava, keď si kúpiš 20 lístkov.<br> 30% zľava, keď si kúpiš 50 lístkov.<br> 50% zľava, keď si kúpiš 100 lístkov.<br> 60% zľava, keď si kúpiš 200 lístkov.<br> <br> Koľko zaplatíš za lístky pre seba a svojich kamarátov, keď využiješ najvýhodnejšiu zľavu? <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "480 €"
+    },
+    {
+      "value": "1",
+      "label": "640 €"
+    },
+    {
+      "value": "2",
+      "label": "500 €"
+    },
+    {
+      "value": "3",
+      "label": "672 €"
+    }
+  ],
+  "images": [],
+  "year": "2011/2012",
+  "category": "Junior",
+  "type": "text",
+  "correct_index": 2,
+  "correct_answer": "500 € ",
+  "correct_answer_plain": "500 €"
+}

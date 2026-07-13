@@ -1,0 +1,33 @@
+{
+  "id": 869,
+  "serial_number": 12,
+  "title": "Potrubia",
+  "question": "Každé z potrubí na obrázku je vyrobené z ôsmych rovnakých segmentov. Chceme ich umiestniť nad sebou tak, aby sa čiastočne prekrývali (potrubia sa môžu otáčať, ale nie preklápať).<br/> Aký je najväčší počet segmentov, ktorým sa tieto dve potrubia môžu prekrývať?<br/> <image_1> <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "6"
+    },
+    {
+      "value": "1",
+      "label": "4"
+    },
+    {
+      "value": "2",
+      "label": "5"
+    },
+    {
+      "value": "3",
+      "label": "3"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/10/2010-LT-01.gif"
+  ],
+  "year": "2010/2011",
+  "category": "Junior",
+  "type": "image",
+  "correct_index": 2,
+  "correct_answer": "5 ",
+  "correct_answer_plain": "5"
+}

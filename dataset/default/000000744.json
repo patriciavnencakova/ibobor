@@ -1,0 +1,34 @@
+{
+  "id": 743,
+  "serial_number": 3,
+  "title": "Paličky",
+  "question": "Robot Tóno dokáže riešiť aj zložitejšie úlohy, teraz však potrebuje Tvoju pomoc.<br/> <image_1><br/> Na mieste A je niekoľko paličiek rôznej dĺžky. Tóno vykonáva takýto postup:<br/> <ol><li>Tóno vyberie paličku z miesta A podľa tajného pravidla P.</li><li>Vybranú paličku premiestni nad rampu B a pustí ju. Palička sa potom skotúľa po rampe.</li><li>Tóno bude opakovať kroky 1 a 2, kým na mieste A nezostane žiadna palička.</li></ol>Aké je Tónovo tajné pravidlo P, ak sú paličky po skončení postupu umiestnené takto?<br/> <image_2> <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "Ak je to možné, vyber druhú najdlhšiu. Ak ostala už len jedna palička, zober ju."
+    },
+    {
+      "value": "1",
+      "label": "Vyber najdlhšiu."
+    },
+    {
+      "value": "2",
+      "label": "Vyber najkratšiu."
+    },
+    {
+      "value": "3",
+      "label": "Ak je to možné, vyber druhú najkratšiu. Ak ostala už len jedna palička, zober ju."
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/12/2012-AT-20_Tono.png",
+    "http://demo.ibobor.sk/sutaz/images/12/2012-AT-20_Palicky.png"
+  ],
+  "year": "2012/2013",
+  "category": "Senior",
+  "type": "image",
+  "correct_index": 0,
+  "correct_answer": "Ak je to možné, vyber druhú najdlhšiu. Ak ostala už len jedna palička, zober ju. ",
+  "correct_answer_plain": "Ak je to možné, vyber druhú najdlhšiu. Ak ostala už len jedna palička, zober ju."
+}

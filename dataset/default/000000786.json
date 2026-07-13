@@ -1,0 +1,36 @@
+{
+  "id": 785,
+  "serial_number": 3,
+  "title": "Kruhové objazdy",
+  "question": "Počet ciest, ktoré vedú z kruhového objazdu, je uložený v mape pre systém GPS. Máme program, ktorý zoberie tieto údaje a nakreslí cesty a kruhové objazdy tak, že počet výjazdov je zapísaný v strede každého kruhového objazdu.<br/> Ktorý z nasledujúcich obrázkov je <b>správny</b>? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "<image_1>"
+    },
+    {
+      "value": "1",
+      "label": "<image_2>"
+    },
+    {
+      "value": "2",
+      "label": "<image_3>"
+    },
+    {
+      "value": "3",
+      "label": "<image_4>"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/11/2011-SK-07_B.png",
+    "http://demo.ibobor.sk/sutaz/images/11/2011-SK-07_A.png",
+    "http://demo.ibobor.sk/sutaz/images/11/2011-SK-07_D.png",
+    "http://demo.ibobor.sk/sutaz/images/11/2011-SK-07_C.png"
+  ],
+  "year": "2011/2012",
+  "category": "Kadet",
+  "type": "image",
+  "correct_index": 1,
+  "correct_answer": "http://demo.ibobor.sk/sutaz/images/11/2011-SK-07_A.png",
+  "correct_answer_plain": null
+}

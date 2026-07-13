@@ -1,0 +1,36 @@
+{
+  "id": 591,
+  "serial_number": 10,
+  "title": "Priehrada",
+  "question": "Bobor Dodo postavil priehradu, a preto sa začínajú zaplavovať polia okolo nej.<br/> Každú hodinu voda zaplaví všetky políčka s trávou (<image_1>), ktoré sú hneď vedľa doteraz zaplavenej časti (<image_2> - <b>naľavo</b>, <b>napravo</b>, <b>nad</b> alebo <b>pod</b>, nie však diagonálne). Políčka s kopcami (<image_3>) voda nezaplavuje.<br/> <image_4><br/> Po koľkých hodinách budú zaplavené všetky políčka s trávou? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "Po 11 hodinách."
+    },
+    {
+      "value": "1",
+      "label": "Po 10 hodinách."
+    },
+    {
+      "value": "2",
+      "label": "Po 9 hodinách."
+    },
+    {
+      "value": "3",
+      "label": "Po 12 hodinách."
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/14/2014-LT-02-grass.png",
+    "http://demo.ibobor.sk/sutaz/images/14/2014-LT-02-water.png",
+    "http://demo.ibobor.sk/sutaz/images/14/2014-LT-02-hill.png",
+    "http://demo.ibobor.sk/sutaz/images/14/2014-LT-02.png"
+  ],
+  "year": "2014/2015",
+  "category": "Junior",
+  "type": "image",
+  "correct_index": 0,
+  "correct_answer": "Po 11 hodinách. ",
+  "correct_answer_plain": "Po 11 hodinách."
+}

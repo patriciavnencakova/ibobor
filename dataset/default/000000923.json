@@ -1,0 +1,33 @@
+{
+  "id": 922,
+  "serial_number": 8,
+  "title": "Kreslenie pomocou oblúkov",
+  "question": "Kresliaci robot pozná príkazy: <br/> <b>vpravo uhol</b> – otočí sa o <b>uhol</b> vpravo<br/> <b>vlavo uhol</b> – otočí sa o <b>uhol</b> vľavo<br/> <b>oblukPravy</b> – nakreslí štvrť kružnice (oblúk) smerom vpravo, po skončení bude otočený o 90° vpravo voči pôvodnému smeru,<br/> <b>oblukLavy</b> – nakreslí štvrť kružnice (oblúk) smerom vľavo, po skončení bude otočený o 90° vľavo voči pôvodnému smeru,<br/> <b>opakuj číslo [príkaz príkaz ...]</b> – robot zopakuje príkazy v zátvorkách <b>[príkaz príkaz ...]</b> toľkokrát, koľko udáva <b>číslo</b>.<br/> <br/> Ktoré príkazy nakreslia nasledujúci obrázok?<br/> <image_1> <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "<b>opakuj 4 [oblukLavy]</b>"
+    },
+    {
+      "value": "1",
+      "label": "<b>opakuj 4 [oblukPravy vlavo 180]</b>"
+    },
+    {
+      "value": "2",
+      "label": "<b>opakuj 4 [oblukPravy vpravo 90]</b>"
+    },
+    {
+      "value": "3",
+      "label": "<b>opakuj 4 [oblukLavy vpravo 90]</b>"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/09/K_Kreslenie_pomocou_oblukov.gif"
+  ],
+  "year": "2009/2010",
+  "category": "Kadet",
+  "type": "image",
+  "correct_index": 1,
+  "correct_answer": "<b>opakuj 4 [oblukPravy vlavo 180]</b> ",
+  "correct_answer_plain": "opakuj 4 [oblukPravy vlavo 180]"
+}

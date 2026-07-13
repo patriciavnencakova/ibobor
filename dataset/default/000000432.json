@@ -1,0 +1,31 @@
+{
+  "id": 431,
+  "serial_number": 9,
+  "title": "Diéta",
+  "question": "Bobor Danko musí držať šesť dní diétu. Každý deň môže jesť iba jeden druh jedla. Môže jesť len zemiaky, mrkvu, ryby alebo hrášok.<br> Každý deň sa môže rozhodnúť, čo bude jesť, ale musí dodržať nasledujúce pravidlá:<br> 1. Dva dni za sebou nemôže jesť rovnaký druh jedla.<br> 2. Mrkvu musí jesť práve každý tretí deň.<br> 3. Rybu môže jesť len vtedy, ak deň predtým nejedol zemiaky.<br> Predchádzajúce 4 dni jedol nasledujúce druhy jedla:<br> 1. deň: hrášok<br> 2. deň: ryby<br> 3. deň: mrkvu<br> 4. deň: zemiaky<br> <br> Čo musí jesť Danko nasledujúce dva dni? <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "5. deň: hrášok, 6. deň: mrvku"
+    },
+    {
+      "value": "1",
+      "label": "5. deň: mrkvu, 6. deň: hrášok"
+    },
+    {
+      "value": "2",
+      "label": "5. deň: zemiaky, 6. deň: ryby"
+    },
+    {
+      "value": "3",
+      "label": "5. deň: ryby, 6. deň: mrvku"
+    }
+  ],
+  "images": [],
+  "year": "2016/2017",
+  "category": "Kadet",
+  "type": "text",
+  "correct_index": 0,
+  "correct_answer": "5. deň: hrášok, 6. deň: mrvku ",
+  "correct_answer_plain": "5. deň: hrášok, 6. deň: mrvku"
+}

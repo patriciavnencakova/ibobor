@@ -1,0 +1,31 @@
+{
+  "id": 200,
+  "serial_number": 3,
+  "title": "Šifrovanie",
+  "question": "Lacko šifruje svoje správy tak, že medzi každé dve písmená v slove vloží iné, náhodne zvolené písmeno.<br> Lacko poslal Samovi správu:<br> PARAI REIVEĽKIE<br> <br> Čo bolo v správe?<br> <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "PRI RIEKE"
+    },
+    {
+      "value": "1",
+      "label": "PRI RIVIERE"
+    },
+    {
+      "value": "2",
+      "label": "PRI IKEI"
+    },
+    {
+      "value": "3",
+      "label": "PARI VEĽKE"
+    }
+  ],
+  "images": [],
+  "year": "2018/2019",
+  "category": "Drobec",
+  "type": "text",
+  "correct_index": 0,
+  "correct_answer": "PRI RIEKE\n ",
+  "correct_answer_plain": "PRI RIEKE"
+}

@@ -1,0 +1,37 @@
+{
+  "id": 910,
+  "serial_number": 11,
+  "title": "Robot",
+  "question": "Robot upratuje v miestnosti žlté kocky. V ceste mu niekedy prekážajú čierne stĺpy. Robot dostáva niektoré z príkazov: <b>VĽAVO, VPRAVO, HORE</b> alebo <b>DOLE</b>.<br/> Pri každom príkaze urobí krok predpísaným smerom (ak sa dá). Ak je týmto smerom žltá kocka a za ňou prázdne políčko, kocku tam odtlačí. Ak sa príkaz nedá vykonať, pokračuje nasledujúcim príkazom.<br/> <image_1><br/> Robot v miestnosti na obrázku dostal tieto príkazy:<b>VPRAVO, VPRAVO, VPRAVO, HORE, HORE, VĽAVO, HORE</b>.<br/> <br/> Ako vyzerá miestnosť po ich vykonaní? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "<image_2>"
+    },
+    {
+      "value": "1",
+      "label": "<image_3>"
+    },
+    {
+      "value": "2",
+      "label": "<image_4>"
+    },
+    {
+      "value": "3",
+      "label": "<image_5>"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/09/B_Robot.gif",
+    "http://demo.ibobor.sk/sutaz/images/09/B_Robot_C.gif",
+    "http://demo.ibobor.sk/sutaz/images/09/B_Robot_A.gif",
+    "http://demo.ibobor.sk/sutaz/images/09/B_Robot_B.gif",
+    "http://demo.ibobor.sk/sutaz/images/09/B_Robot_D.gif"
+  ],
+  "year": "2009/2010",
+  "category": "Benjamín",
+  "type": "image",
+  "correct_index": 1,
+  "correct_answer": "http://demo.ibobor.sk/sutaz/images/09/B_Robot_A.gif",
+  "correct_answer_plain": null
+}

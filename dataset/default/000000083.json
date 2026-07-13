@@ -1,0 +1,31 @@
+{
+  "id": 82,
+  "serial_number": 2,
+  "title": "Koláč",
+  "question": "Ruženka sa učí piecť dva druhy koláčov: vanilkový a čokoládový.<br> Pri výrobe vanilkového koláča postupovala takto:<ol><li>Zmiešala mokré a suché ingrediencie dohromady.</li><li>Pridala vanilkový extrakt.</li><li>Naliala cesto do formy.</li><li>Rúru vyhriala na 163 stupňov.</li><li>Koláč piekla 1 hodinu 15 minút.</li></ol>Keďže vie, že postup pri druhom koláči bude podobný, do svojej kuchárskej knihy zapísala:<br> <b>Koláč (vanilka, 163, 75)</b><br> Pre čokoládový koláč treba vyhriať rúru na <b>180 stupňov</b> a treba ho piecť <b>50 minút</b>.<br> Ako si Ruženka zapíše recept na čokoládový koláč? <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "<b>Koláč(50, 180, čokoláda)</b>"
+    },
+    {
+      "value": "1",
+      "label": "<b>Koláč(čokoláda, 180, 50)</b>"
+    },
+    {
+      "value": "2",
+      "label": "<b>Koláč(čokoláda, 50, 180)</b>"
+    },
+    {
+      "value": "3",
+      "label": "<b>Koláč(180, čokoláda, 50)</b>"
+    }
+  ],
+  "images": [],
+  "year": "2020/2021",
+  "category": "Nevidiaci SŠ",
+  "type": "text",
+  "correct_index": 1,
+  "correct_answer": "<b>Koláč(čokoláda, 180, 50)</b> ",
+  "correct_answer_plain": "Koláč(čokoláda, 180, 50)"
+}

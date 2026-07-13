@@ -1,0 +1,31 @@
+{
+  "id": 386,
+  "serial_number": 9,
+  "title": "Chutné brvná",
+  "question": "Bobor Dávid zistil, že čím viac listov je na brvne, tým je chutnejšie. Brvná sú zoradené tak, že najbližšie k Dávidovi je brvno s 1 lístkom a najďalej je brvno s 5 lístkami. Nasledujúca postupnosť čísel reprezentuje zoradenie brvien:<br> 1 3 6 4 2 5<br> Pomôž Dávidovi zoradiť brvná podľa počtu lístkov tak, že najbližšie k nemu bude brvno so 6 lístkami, vedľa neho také, čo má 5 lístkov, a tak ďalej a posledné bude brvno s jedným lístkom. Usporadúvať brvná môžeš iba výmenou ľubovoľných dvoch brvien.<br> <b>Minimálne koľko výmen musíš spraviť?</b> <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "4 výmeny"
+    },
+    {
+      "value": "1",
+      "label": "3 výmeny"
+    },
+    {
+      "value": "2",
+      "label": "5 výmen"
+    },
+    {
+      "value": "3",
+      "label": "6 výmen"
+    }
+  ],
+  "images": [],
+  "year": "2017/2018",
+  "category": "Nevidiaci SŠ",
+  "type": "text",
+  "correct_index": 0,
+  "correct_answer": "4 výmeny ",
+  "correct_answer_plain": "4 výmeny"
+}

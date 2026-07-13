@@ -1,0 +1,31 @@
+{
+  "id": 493,
+  "serial_number": 14,
+  "title": "Programátorská súťaž",
+  "question": "Chlapci a dievčatá sa zúčastnili programátorskej súťaže. Spolu súťažilo 9 mladých programátorov. Súťažiaci získali za svoje programy takéto body:<br> 28, 23, 20, 20, 17, 15, 9, 9, 5<br> Vieme, že <ul><li>ani jeden chlapec nezískal viac bodov ako ktorékoľvek dievča</li><li>Adam a Samo mali rovnaký počet bodov</li><li>Peter mal rovnaký počet bodov ako Ema</li></ul><br> Koľko dievčat sa zúčastnilo súťaže? <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "3"
+    },
+    {
+      "value": "1",
+      "label": "7"
+    },
+    {
+      "value": "2",
+      "label": "2"
+    },
+    {
+      "value": "3",
+      "label": "6"
+    }
+  ],
+  "images": [],
+  "year": "2015/2016",
+  "category": "Benjamín",
+  "type": "text",
+  "correct_index": 0,
+  "correct_answer": "3 ",
+  "correct_answer_plain": "3"
+}

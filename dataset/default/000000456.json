@@ -1,0 +1,33 @@
+{
+  "id": 455,
+  "serial_number": 3,
+  "title": "Označenie plte",
+  "question": "Bobor si postavil novú plť. Teraz si ju musí zaregistrovať pod nejakou značkou, ktorá sa vytvára podľa diagramu na obrázku:<br/> <image_1><br/> Značka musí začínať písmenom B (preto je v diagrame šípka smerujúca do B zvonku diagramu) a končiť 0 alebo 1 (preto je 0 a 1 v dvojitom krúžku).<br/> <br/> Ktorá z nasledujúcich značiek sa <b>nedá</b> vytvoriť podľa diagramu? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "<b>BR00A1</b>"
+    },
+    {
+      "value": "1",
+      "label": "<b>BSA001</b>"
+    },
+    {
+      "value": "2",
+      "label": "<b>BE0S01</b>"
+    },
+    {
+      "value": "3",
+      "label": "<b>BB0001</b>"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/16/2016-LT-02.png"
+  ],
+  "year": "2016/2017",
+  "category": "Senior",
+  "type": "image",
+  "correct_index": 0,
+  "correct_answer": "<b>BR00A1</b> ",
+  "correct_answer_plain": "BR00A1"
+}

@@ -1,0 +1,31 @@
+{
+  "id": 804,
+  "serial_number": 7,
+  "title": "Kódy krajín",
+  "question": "Bobry majú vlastný systém na kódovanie krajín. Spočítajú počet výskytov každého písmena v anglickom názve krajiny a použijú tri najčastejšie sa vyskytujúce písmená v poradí od najčastejšie sa vyskytujúceho. Písmená s rovnakým počtom výskytu použijú v takom poradí, v akom sa nachádzajú v názve krajiny.<br> Kód Litvy (anglicky LITHUANIA) je IAL, pretože I a A sa vyskytujú dvakrát a zo všetkých písmen, ktoré sa vyskytujú iba raz, je v názve krajiny L ako prvé.<br> <br> Ktorá z týchto bobrích krajín <b>nemá</b> kód EAB? <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "BEAVERIA"
+    },
+    {
+      "value": "1",
+      "label": "BEAVERLAND"
+    },
+    {
+      "value": "2",
+      "label": "BEAVERONIA"
+    },
+    {
+      "value": "3",
+      "label": "BEAVERANIA"
+    }
+  ],
+  "images": [],
+  "year": "2011/2012",
+  "category": "Junior",
+  "type": "text",
+  "correct_index": 3,
+  "correct_answer": "BEAVERANIA ",
+  "correct_answer_plain": "BEAVERANIA"
+}

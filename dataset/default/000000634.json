@@ -1,0 +1,31 @@
+{
+  "id": 633,
+  "serial_number": 10,
+  "title": "Vo výťahu",
+  "question": "Na 9. poschodí nastúpili do výťahu traja bobri. Jeden ide na 1. poschodie, druhý na 16. a tretí na 20. poschodie.<br> V akom poradí má výťah navštíviť 1., 16. a 20. poschodie, aby prešiel cez čo najmenej poschodí? <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "9. → 16. → 20. → 1."
+    },
+    {
+      "value": "1",
+      "label": "9. → 16. → 1. → 20."
+    },
+    {
+      "value": "2",
+      "label": "9. → 20. → 16. → 1."
+    },
+    {
+      "value": "3",
+      "label": "9. → 1. → 16. → 20."
+    }
+  ],
+  "images": [],
+  "year": "2013/2014",
+  "category": "Benjamín",
+  "type": "text",
+  "correct_index": 3,
+  "correct_answer": "9. → 1. → 16. → 20. ",
+  "correct_answer_plain": "9. → 1. → 16. → 20."
+}

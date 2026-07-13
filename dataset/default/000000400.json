@@ -1,0 +1,31 @@
+{
+  "id": 399,
+  "serial_number": 4,
+  "title": "Veľké písmená",
+  "question": "Jurko chcel napísať do počítača celú správu veľkými písmenami. Aký kláves má stlačiť pred tým, kým začne písať, aby sa mu všetky písmená písali ako veľké? <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "Num Lock"
+    },
+    {
+      "value": "1",
+      "label": "Ctrl"
+    },
+    {
+      "value": "2",
+      "label": "Enter"
+    },
+    {
+      "value": "3",
+      "label": "Caps Lock"
+    }
+  ],
+  "images": [],
+  "year": "2016/2017",
+  "category": "Bobrík",
+  "type": "text",
+  "correct_index": 3,
+  "correct_answer": "Caps Lock ",
+  "correct_answer_plain": "Caps Lock"
+}

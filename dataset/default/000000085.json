@@ -1,0 +1,31 @@
+{
+  "id": 84,
+  "serial_number": 4,
+  "title": "Heslo",
+  "question": "Adam vie, že heslo musí byť také, aby ho nikto nemohol ľahko uhádnuť a aby si ho on mohol ľahko zapamätať.<br> Na zapamätanie svojho hesla teraz používa meno a rok narodenia svojej mamy:<br> <b>JANA1972</b><br> Na klávesnici však stláča klávesy, ktoré sú o 1 vpravo od klávesu, ktorý by sa mal stlačiť. <br> Takže napíše:<br> <b>KSMS2083</b><br> Jeho kamarát Emil sa rozhodol použiť na zapamätanie hesla rovnakú metódu. Na zapamätanie použil text:<br> <b>ANDREA1968</b><br> Aké je Emilove heslo? <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "2079SMFTRS"
+    },
+    {
+      "value": "1",
+      "label": "SMFTRS2079"
+    },
+    {
+      "value": "2",
+      "label": "SMFTRS-2079"
+    },
+    {
+      "value": "3",
+      "label": "SMFTRS_2079"
+    }
+  ],
+  "images": [],
+  "year": "2020/2021",
+  "category": "Nevidiaci SŠ",
+  "type": "text",
+  "correct_index": 1,
+  "correct_answer": "SMFTRS2079 ",
+  "correct_answer_plain": "SMFTRS2079"
+}

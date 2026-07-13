@@ -1,0 +1,36 @@
+{
+  "id": 356,
+  "serial_number": 9,
+  "title": "Ktorý graf?",
+  "question": "O priemerných mesačných zrážkach za rok 2016 na Slovensku vieme, že:<ul><li>Najmenej zrážok spadlo v decembri a marci.</li><li>Najviac zrážok spadlo v júli.</li><li>Viac ako 100 mm zrážok spadlo v troch mesiacoch.</li></ul><br/> Ktorý z grafov zobrazuje mesačné zrážky za rok 2016?<br/> <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "<image_1>"
+    },
+    {
+      "value": "1",
+      "label": "<image_2>"
+    },
+    {
+      "value": "2",
+      "label": "<image_3>"
+    },
+    {
+      "value": "3",
+      "label": "<image_4>"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/17/2017-SK-19_D.png",
+    "http://demo.ibobor.sk/sutaz/images/17/2017-SK-19_A.png",
+    "http://demo.ibobor.sk/sutaz/images/17/2017-SK-19_B.png",
+    "http://demo.ibobor.sk/sutaz/images/17/2017-SK-19_C.png"
+  ],
+  "year": "2017/2018",
+  "category": "Junior",
+  "type": "image",
+  "correct_index": 1,
+  "correct_answer": "http://demo.ibobor.sk/sutaz/images/17/2017-SK-19_A.png",
+  "correct_answer_plain": null
+}

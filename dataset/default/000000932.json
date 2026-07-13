@@ -1,0 +1,31 @@
+{
+  "id": 931,
+  "serial_number": 2,
+  "title": "Otvorený softvér",
+  "question": "Ktorá z týchto viet najlepšie popisuje pojem otvorený (open source) softvér? <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "Otvorený softvér možeme stiahnuť iba v komprimovanej podobe."
+    },
+    {
+      "value": "1",
+      "label": "Súbory vytvorené otvoreným softvérom môžeme prečítať v obyčajnom textovom editore, napr. v Poznámkovom bloku."
+    },
+    {
+      "value": "2",
+      "label": "Otvorený softvér môžeme stiahnuť zadarmo."
+    },
+    {
+      "value": "3",
+      "label": "Spolu s otvoreným softvérom môžeme získať presné informácie o tom, ako bol takýto softvér vytvorený a ako ho zmeniť."
+    }
+  ],
+  "images": [],
+  "year": "2009/2010",
+  "category": "Junior",
+  "type": "text",
+  "correct_index": 3,
+  "correct_answer": "Spolu s otvoreným softvérom môžeme získať presné informácie o tom, ako bol takýto softvér vytvorený a ako ho zmeniť. ",
+  "correct_answer_plain": "Spolu s otvoreným softvérom môžeme získať presné informácie o tom, ako bol takýto softvér vytvorený a ako ho zmeniť."
+}

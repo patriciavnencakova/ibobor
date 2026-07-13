@@ -1,0 +1,34 @@
+{
+  "id": 707,
+  "serial_number": 12,
+  "title": "Lov na poklad",
+  "question": "Bobor Kubo chce získať poklad, ktorý strážia líšky. Na mape je zaznačené umiestnenie Kuba, líšok aj pokladu.<br/> <image_1><br/> Líška zbadá Kuba, len ak stúpi na niektoré políčko tesne vedľa nej:<br/> <image_2><br/> Akou cestou má ísť Kubo z jeho terajšej pozície, aby ho nevidela žiadna líška.<br/> Skratky: <b>D</b>: dole, <b>H</b>: hore, <b>P</b>: vpravo, <b>L</b>: vľavo. Skratka: <b>P3</b> znamená, že pôjde 3 políčka vpravo. <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "<b>P2H5P4D1</b>"
+    },
+    {
+      "value": "1",
+      "label": "<b>P1H6P5D2</b>"
+    },
+    {
+      "value": "2",
+      "label": "<b>H2P1H2P1H2P4D2</b>"
+    },
+    {
+      "value": "3",
+      "label": "<b>P1H3P1H2P3D1P1</b>"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/12/2012-HU-08_mapa.png",
+    "http://demo.ibobor.sk/sutaz/images/12/2012-HU-08_okolie.png"
+  ],
+  "year": "2012/2013",
+  "category": "Benjamín",
+  "type": "image",
+  "correct_index": 2,
+  "correct_answer": "<b>H2P1H2P1H2P4D2</b> ",
+  "correct_answer_plain": "H2P1H2P1H2P4D2"
+}

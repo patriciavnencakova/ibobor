@@ -1,0 +1,33 @@
+{
+  "id": 620,
+  "serial_number": 9,
+  "title": "Labyrint",
+  "question": "Tento robot sa programuje pomocou čísel 1, 2, 3 a 4. Príkaz 1 znamená, že sa presunie na susedné políčko vľavo. Príkaz 2 zasa, že sa presunie na susedné políčko vpravo, 3 hore a 4 dolu (pozri obrázok).<br/> <image_1><br/> Ktorý z programov privedie robota späť na jeho štartovú pozíciu? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "32311413323"
+    },
+    {
+      "value": "1",
+      "label": "3231141422"
+    },
+    {
+      "value": "2",
+      "label": "11332322441"
+    },
+    {
+      "value": "3",
+      "label": "1132322441"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/13/2013-SI-12-SK_labyrint.png"
+  ],
+  "year": "2013/2014",
+  "category": "Bobrík",
+  "type": "image",
+  "correct_index": 1,
+  "correct_answer": "3231141422 ",
+  "correct_answer_plain": "3231141422"
+}

@@ -1,0 +1,31 @@
+{
+  "id": 186,
+  "serial_number": 7,
+  "title": "Cesta domov",
+  "question": "Bobor Hugo sa hrá počítačovú hru. V tabuľke je hracia plocha. Hugo je na políčku označenom písmenom H v ľavom hornom rohu.<table style=\"width:100px;border:1px solid black;\"><tbody><tr><td style=\"border:1px solid black;padding:2px;text-align:center\">H</td><td style=\"border:1px solid black;padding:2px;text-align:center\">2</td><td style=\"border:1px solid black;padding:2px;text-align:center\">2</td><td style=\"border:1px solid black;padding:2px;text-align:center\">-2</td></tr><tr><td style=\"border:1px solid black;padding:2px;text-align:center\">3</td><td style=\"border:1px solid black;padding:2px;text-align:center\">-1</td><td style=\"border:1px solid black;padding:2px;text-align:center\">3</td><td style=\"border:1px solid black;padding:2px;text-align:center\">1</td></tr><tr><td style=\"border:1px solid black;padding:2px;text-align:center\">2</td><td style=\"border:1px solid black;padding:2px;text-align:center\">-2</td><td style=\"border:1px solid black;padding:2px;text-align:center\">-3</td><td style=\"border:1px solid black;padding:2px;text-align:center\">-1</td></tr><tr><td style=\"border:1px solid black;padding:2px;text-align:center\">-2</td><td style=\"border:1px solid black;padding:2px;text-align:center\">2</td><td style=\"border:1px solid black;padding:2px;text-align:center\">3</td><td style=\"border:1px solid black;padding:2px;text-align:center\">D</td></tr></tbody></table>Hugo môže ísť z jedného políčka na druhé, len smerom <b>dole</b> alebo <b>doprava</b>.<br> Teraz má Hugo skóre 0. Ak vojde na políčko s číslom, pripočíta sa mu ku skóre hodnota tohto čísla. <br> Aké <b>najvyššie skóre</b> môže mať Hugo, keď príde na políčko s písmenom D v pravom dolnom rohu? <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "10"
+    },
+    {
+      "value": "1",
+      "label": "8"
+    },
+    {
+      "value": "2",
+      "label": "7"
+    },
+    {
+      "value": "3",
+      "label": "4"
+    }
+  ],
+  "images": [],
+  "year": "2019/2020",
+  "category": "Nevidiaci SŠ",
+  "type": "text",
+  "correct_index": 1,
+  "correct_answer": "8 ",
+  "correct_answer_plain": "8"
+}

@@ -1,0 +1,37 @@
+{
+  "id": 460,
+  "serial_number": 8,
+  "title": "ePriatelia",
+  "question": "Obrázok aj tabuľka zobrazujú priateľstvá 5 zvierat.<br/> Dve zvieratká sú spojené čiarou, ak sa navzájom priatelia. V tabuľke je pri každom zvieratku zapísané, koľko má priateľov.<br/> <image_1><br/> <br/> Ktorá z nasledujúcich tabuliek <b>nemôže</b> zobrazovať priateľstvá iných 5 zvierat? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "<image_2>"
+    },
+    {
+      "value": "1",
+      "label": "<image_3>"
+    },
+    {
+      "value": "2",
+      "label": "<image_4>"
+    },
+    {
+      "value": "3",
+      "label": "<image_5>"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/16/2016-PL-01.png",
+    "http://demo.ibobor.sk/sutaz/images/16/2016-PL-01_C.png",
+    "http://demo.ibobor.sk/sutaz/images/16/2016-PL-01_B.png",
+    "http://demo.ibobor.sk/sutaz/images/16/2016-PL-01_D.png",
+    "http://demo.ibobor.sk/sutaz/images/16/2016-PL-01_A.png"
+  ],
+  "year": "2016/2017",
+  "category": "Senior",
+  "type": "image",
+  "correct_index": 0,
+  "correct_answer": "http://demo.ibobor.sk/sutaz/images/16/2016-PL-01_C.png",
+  "correct_answer_plain": null
+}

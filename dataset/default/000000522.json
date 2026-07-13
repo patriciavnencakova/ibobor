@@ -1,0 +1,33 @@
+{
+  "id": 521,
+  "serial_number": 12,
+  "title": "Tom staviteľ",
+  "question": "Bobor Tom rád stavia priehrady. Materiál na ne si kupuje v neďalekom obchode. Svoje nákupy a použitý materiál si zapisuje do tabuľky. Na obrázku je časť jeho tabuľky.<br/> <image_1><br/> V niektorý deň nemal doma dosť materiálu preto si niečo požičal od svojho suseda. Zabudol však, kedy to bolo a čo si požičal. Vie, že 15.10. bol nakupovať, pretože už doma nemal žiadny materiál.<br/> Ktorý z nasledujúcich výrokov je pravdivý? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "Tom si od suseda požičal lano vo štvrtok."
+    },
+    {
+      "value": "1",
+      "label": "Tom si od suseda požičal lano v stredu."
+    },
+    {
+      "value": "2",
+      "label": "Tom si od suseda nepožičal lano."
+    },
+    {
+      "value": "3",
+      "label": "Tom si od suseda požičal lano v nedeľu."
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/15/2015-SI-04.png"
+  ],
+  "year": "2015/2016",
+  "category": "Junior",
+  "type": "image",
+  "correct_index": 0,
+  "correct_answer": "Tom si od suseda požičal lano vo štvrtok. ",
+  "correct_answer_plain": "Tom si od suseda požičal lano vo štvrtok."
+}

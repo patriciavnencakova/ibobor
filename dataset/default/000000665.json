@@ -1,0 +1,36 @@
+{
+  "id": 664,
+  "serial_number": 11,
+  "title": "Ozdobný papier",
+  "question": "Bobry majú počítačom riadený stroj na tlač ozdobného papiera s náhodnými vzormi z kruhov a štvorcov. <br/> Vzor vznikne na základe tohto návodu (<b>vytvoriť</b> objekt znamená, že je vytvorený len v pamäti počítača a nie je ešte <b>vytlačený</b>):<br/> <br/> <b>Vytvor</b> kruh náhodnej farby a nazvi ho K.<br/> <b>Náhodný počet krát</b> opakuj nasledujúcu postupnosť 4 príkazov:<ul><li><b>Vytvor</b> štvorec náhodnej veľkosti, náhodnej farby a nazvi ho S.</li><li>Nastav veľkosť kruhu K na jednu z týchto veľkostí: veľký alebo malý.</li><li><b>Vytlač</b> kruh K na náhodné miesto na papieri.</li><li><b>Vytlač</b> štvorec S na náhodné miesto na papieri.</li></ul><br/> Ktorý z nasledujúcich ozdobných papierov <b>nevznikol</b> podľa návodu? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "<image_1>"
+    },
+    {
+      "value": "1",
+      "label": "<image_2>"
+    },
+    {
+      "value": "2",
+      "label": "<image_3>"
+    },
+    {
+      "value": "3",
+      "label": "<image_4>"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/13/2013-DE-02_B.png",
+    "http://demo.ibobor.sk/sutaz/images/13/2013-DE-02_A.png",
+    "http://demo.ibobor.sk/sutaz/images/13/2013-DE-02_D.png",
+    "http://demo.ibobor.sk/sutaz/images/13/2013-DE-02_C.png"
+  ],
+  "year": "2013/2014",
+  "category": "Junior",
+  "type": "image",
+  "correct_index": 1,
+  "correct_answer": "http://demo.ibobor.sk/sutaz/images/13/2013-DE-02_A.png",
+  "correct_answer_plain": null
+}

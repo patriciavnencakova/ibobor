@@ -1,0 +1,33 @@
+{
+  "id": 1057,
+  "serial_number": 8,
+  "title": "37",
+  "question": "Na obrázku vidíme zjednodušenú schému diaľničnej križovatky.<br/> Keď prichádza auto z Budapešti a chce ísť do centra, musí sa otočiť o 90 stupňov doprava. Ale keď by sa chcelo vrátiť smerom do Budapešti, muselo by sa otočiť spolu o 540 stupňov doprava.<br/> Všimnite si, že na takýchto križovatkách sa vždy autá točia len doprava.<br/> <br/> <image_1><br/> <br/> Prichádzate z Prahy a chcete ísť do nákupného strediska. O koľko stupňov doprava sa musí otočiť vaše auto? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "675º"
+    },
+    {
+      "value": "1",
+      "label": "765º"
+    },
+    {
+      "value": "2",
+      "label": "1035º"
+    },
+    {
+      "value": "3",
+      "label": "315º"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/krizovatka.png"
+  ],
+  "year": "2007/2008",
+  "category": "Senior",
+  "type": "image",
+  "correct_index": 0,
+  "correct_answer": "675º ",
+  "correct_answer_plain": "675º"
+}

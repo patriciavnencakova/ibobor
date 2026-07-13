@@ -1,0 +1,33 @@
+{
+  "id": 636,
+  "serial_number": 13,
+  "title": "Lienka Lenka",
+  "question": "Lienka Lenka letela z ľavého dolného rohu lúky do pravého horného rohu. Preletela ponad rovnaký počet políčok s kvetmi ako políčok s vodou (pozri obrázok)<br/> <image_1><br/> Na obrázku letela podľa nasledujúcich príkazov: <b>2P, 3H, 2P, 1H</b><br/> <b>P</b> znamená: leť vpravo<br/> <b>H</b> znamená: leť hore<br/> Číslo pred príkazom znamená, koľko políčok preletí Lenka daným smerom.<br/> Keby Lenka letela znovu, podľa ktorej postupnosti preletí ponad rovnaký počet políčok s kvetmi a s vodou? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "<b>1H, 1P, 3H, 3P</b>"
+    },
+    {
+      "value": "1",
+      "label": "<b>1H, 3P, 2H, 1P, 1H</b>"
+    },
+    {
+      "value": "2",
+      "label": "<b>1P, 2H, 1P, 1H, 2P, 1H</b>"
+    },
+    {
+      "value": "3",
+      "label": "<b>3P, 3H, 1P, 1H</b>"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/13/2013-SK-02_Lienka.png"
+  ],
+  "year": "2013/2014",
+  "category": "Benjamín",
+  "type": "image",
+  "correct_index": 1,
+  "correct_answer": "<b>1H, 3P, 2H, 1P, 1H</b> ",
+  "correct_answer_plain": "1H, 3P, 2H, 1P, 1H"
+}

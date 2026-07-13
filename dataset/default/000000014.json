@@ -1,0 +1,37 @@
+{
+  "id": 13,
+  "serial_number": 5,
+  "title": "Koľajnice",
+  "question": "Ktoré koľajnice musíme dať na voľné miesta, aby sa vlak dostal do stanice?<br/> <image_1> <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "<image_2>"
+    },
+    {
+      "value": "1",
+      "label": "<image_3>"
+    },
+    {
+      "value": "2",
+      "label": "<image_4>"
+    },
+    {
+      "value": "3",
+      "label": "<image_5>"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/20/2020-PT-06_zadanie.png",
+    "http://demo.ibobor.sk/sutaz/images/20/2020-PT-06_Bo_A.png",
+    "http://demo.ibobor.sk/sutaz/images/20/2020-PT-06_Bo_C.png",
+    "http://demo.ibobor.sk/sutaz/images/20/2020-PT-06_Bo_B.png",
+    "http://demo.ibobor.sk/sutaz/images/20/2020-PT-06_Bo_D.png"
+  ],
+  "year": "2020/2021",
+  "category": "Bobrík",
+  "type": "image",
+  "correct_index": 3,
+  "correct_answer": "http://demo.ibobor.sk/sutaz/images/20/2020-PT-06_Bo_D.png",
+  "correct_answer_plain": null
+}

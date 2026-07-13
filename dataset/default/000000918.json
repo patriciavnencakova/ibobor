@@ -1,0 +1,31 @@
+{
+  "id": 917,
+  "serial_number": 3,
+  "title": "Kódovanie",
+  "question": "Programy na kódovanie často používajú nasledujúcu metódu: každé opakujúce sa písmeno sa zapíše iba raz a za ním sa zapíše počet jeho opakovaní.<br> <br> Príklad: hhhrbbaiissssoo -&gt; h3rb2ai2s4o2<br> <br> Odkóduj: g3a2dg3et2 <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "gaaaddgeeet"
+    },
+    {
+      "value": "1",
+      "label": "gggaadgeeet"
+    },
+    {
+      "value": "2",
+      "label": "gggaadgggett"
+    },
+    {
+      "value": "3",
+      "label": "gadgetgagtgg"
+    }
+  ],
+  "images": [],
+  "year": "2009/2010",
+  "category": "Kadet",
+  "type": "text",
+  "correct_index": 2,
+  "correct_answer": "gggaadgggett ",
+  "correct_answer_plain": "gggaadgggett"
+}

@@ -1,0 +1,31 @@
+{
+  "id": 976,
+  "serial_number": 2,
+  "title": "E-mail",
+  "question": "Dostal si e-mail od magic@casino.com. Vraj vyhráš 100 eur, ak ho prepošleš svojim desiatim kamarátom, a tiež odpíšeš na magic@casino.com. Ako správne zareaguješ? <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "Pošleš e-mail desiatim kamarátom (napíšeš desať adries oddelených čiarkami do políčka Komu) a odpíšeš na magic@casino.com, že chceš svojich 100 eur."
+    },
+    {
+      "value": "1",
+      "label": "Pošleš e-mail desiatim kamarátom (napíšeš desať samostatných e-mailov) a odpíšeš na magic@casino.com, že chceš svojich 100 eur."
+    },
+    {
+      "value": "2",
+      "label": "Nepošleš e-mail svojim kamarátom a odpíšeš na magic@casino.com e-mail, v ktorom požiadaš, aby ti v budúcnosti neposielali nevyžiadanú poštu (spam)."
+    },
+    {
+      "value": "3",
+      "label": "Upravíš si svoj filter nevyžiadanej pošty, aby takéto e-maily považoval za nevyžiadané (spam) a zmažeš tento e-mail."
+    }
+  ],
+  "images": [],
+  "year": "2008/2009",
+  "category": "Kadet",
+  "type": "text",
+  "correct_index": 3,
+  "correct_answer": "Upravíš si svoj filter nevyžiadanej pošty, aby takéto e-maily považoval za nevyžiadané (spam) a zmažeš tento e-mail. ",
+  "correct_answer_plain": "Upravíš si svoj filter nevyžiadanej pošty, aby takéto e-maily považoval za nevyžiadané (spam) a zmažeš tento e-mail."
+}

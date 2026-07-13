@@ -1,0 +1,36 @@
+{
+  "id": 557,
+  "serial_number": 6,
+  "title": "Prekážky na rieke",
+  "question": "Aby sa Bobor Tomáš dostal domov, musí plávať riekou, na ktorej sú prekážky. Písmenami A, B, C, D a E vieme popísať Tomášovu cestu domov.<br/> <image_1><br/> Aby mal dosť energie, zjedol v škole 15 vetvičiek. Prekonanie prekážky mu uberie energiu:<br/> <image_2> - 2 vetvičky, <image_3> - 3 vetvičky, <image_4> - 5 vetvičiek<br/> Po ktorej z nasledujúcich ciest môže Tomáš ísť? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "ŠKOLA → A → C → E → DOMOV"
+    },
+    {
+      "value": "1",
+      "label": "ŠKOLA → B → C → D → E → DOMOV"
+    },
+    {
+      "value": "2",
+      "label": "ŠKOLA → A → C → E → D → DOMOV"
+    },
+    {
+      "value": "3",
+      "label": "ŠKOLA → B → C → D → DOMOV"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/14/2014-JP-01_SK.png",
+    "http://demo.ibobor.sk/sutaz/images/14/2014-JP-01-grass-SK.png",
+    "http://demo.ibobor.sk/sutaz/images/14/2014-JP-01-rocks-SK.png",
+    "http://demo.ibobor.sk/sutaz/images/14/2014-JP-01-dam-SK.png"
+  ],
+  "year": "2014/2015",
+  "category": "Benjamín",
+  "type": "image",
+  "correct_index": 1,
+  "correct_answer": "ŠKOLA → B → C → D → E → DOMOV ",
+  "correct_answer_plain": "ŠKOLA → B → C → D → E → DOMOV"
+}

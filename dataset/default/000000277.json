@@ -1,0 +1,35 @@
+{
+  "id": 276,
+  "serial_number": 13,
+  "title": "Otáčanie kariet",
+  "question": "Hráme hru s kartami, ktoré sú uložené v jednom rade. Z každej karty vidíme jej líce alebo rub.<br/> V jednom kroku hry postupujeme takto:<ul><li>Karty prechádzame sprava doľava.</li><li>Ak vidíme rub, otočíme kartu a skončíme.</li><li>Ak vidíme líce, otočíme kartu a pokračujeme ďalšou kartou.</li><li>Ak sme už prešli všetky karty, skončíme.</li></ul><br/> Na obrázku nižšie je ukážka jedného kroku v hre:<ul><li>Najprv sa pozeráme na kartu úplne vpravo, vidíme jej líce, takže ju otočíme a pokračujeme.</li><li>Pozeráme sa na druhú kartu sprava, vidíme jej líce, otočíme ju a pokračujeme.</li><li>Pozeráme sa na tretiu kartu sprava, vidíme jej rub, otočíme ju a skončíme.</li></ul><br/> Karty pred<br/> <image_1><br/> Karty po jednom kroku<br/> <image_2><br/> Novú hru začneme so 7 kartami, na všetkých vidíme rub<br/> <image_3><br/> Koľko krokov musíme urobiť, aby sme prvý raz na všetkých kartách videli líce? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "10 alebo menej krokov"
+    },
+    {
+      "value": "1",
+      "label": "viac ako 1000 krokov"
+    },
+    {
+      "value": "2",
+      "label": "viac ako 100 krokov ale najviac 1000 krokov"
+    },
+    {
+      "value": "3",
+      "label": "viac ako 10 krokov, ale najviac 100 krokov"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/18/2018-BE-01_pred.png",
+    "http://demo.ibobor.sk/sutaz/images/18/2018-BE-01_po.png",
+    "http://demo.ibobor.sk/sutaz/images/18/2018-BE-01_zadanie.png"
+  ],
+  "year": "2018/2019",
+  "category": "Senior",
+  "type": "image",
+  "correct_index": 2,
+  "correct_answer": "viac ako 100 krokov ale najviac 1000 krokov ",
+  "correct_answer_plain": "viac ako 100 krokov ale najviac 1000 krokov"
+}

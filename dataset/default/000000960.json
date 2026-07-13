@@ -1,0 +1,31 @@
+{
+  "id": 959,
+  "serial_number": 15,
+  "title": "Zvony",
+  "question": "Bobrica Betka rada počúva bobrie zvony. Keď počuje zvon zvoniaci bing a zvon zvoniaci bang, postupne si to zapisuje takto:<pre>bing bang bing &lt;&gt; bing &lt;&gt; bing bang ...<br> bang</pre>Značka &lt;&gt; znamená sekundu ticha a zvony zvoniace súčasne zapíše pod seba. <br> Potom si uvedomí, že bing zaznel každé 2 sekundy a bang každé 3 a zápis skráti: ((bing 2) (bang 3))<br> <br> Ako Betka skrátene zapíše takéto zvonenie zvonov?<pre>bing dang bing &lt;&gt; bing &lt;&gt; bing dang bing &lt;&gt; bing<br> dong dang dong dang</pre> <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "((bing 2) (dang 3) (dong 5))"
+    },
+    {
+      "value": "1",
+      "label": "((bing 1) (dang 2) (dong 4))"
+    },
+    {
+      "value": "2",
+      "label": "((bing 2) (dang 3) (dong 4))"
+    },
+    {
+      "value": "3",
+      "label": "((bing 2) (bang 3) (dong 5))"
+    }
+  ],
+  "images": [],
+  "year": "2009/2010",
+  "category": "Senior",
+  "type": "text",
+  "correct_index": 0,
+  "correct_answer": "((bing 2) (dang 3) (dong 5)) ",
+  "correct_answer_plain": "((bing 2) (dang 3) (dong 5))"
+}

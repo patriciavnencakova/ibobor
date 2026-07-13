@@ -1,0 +1,33 @@
+{
+  "id": 679,
+  "serial_number": 11,
+  "title": "Z bodu A do bodu C",
+  "question": "Máme minirobota, ktorý vie vykonávať nasledujúce príkazy:<ul><li><b>D</b> – krok dopredu</li><li><b>L(uhol)</b> – otočenie vľavo o uhol uvedený v zátvorkách</li><li><b>P(uhol)</b> – otočenie vpravo o uhol uvedený v zátvorkách</li></ul>Viacej príkazov, ktoré má robot vykonať, spájame znamienkom <b>+</b>. Napríklad <b>D + L(20) + D + P(2)</b> znamená, že robot má spraviť najskôr krok dopredu, potom sa otočiť o 20 stupňov doľava, zase spraviť krok dopredu a nakoniec sa otočiť o 2 stupne doprava.<br/> Na opakovanie sady príkazov použijeme znamienko <b>*</b>. Napríklad <b>20*(D)</b> znamená 20-krát zopakovať akciu, ktorá je uvedená v zátvorkách po znamienku <b>*</b>, v našom prípade spraviť krok dopredu. Takže tento príkaz vykoná 20 krokov dopredu.<br/> Napríklad <b>180 * (D + L(1))</b> nakreslí polkružnicu.<br/> Na začiatku stojí robot v bode A a je natočený smerom k bodu B.<br/> <image_1><br/> Ktorým z nasledujúcich príkazov sa robot po krivke presunie z bodu A do bodu C? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "<b>90 * (D + L(1) + D + P(1))</b>"
+    },
+    {
+      "value": "1",
+      "label": "<b>90 * (D + L(1) ) + P(30)+ 90 * (D + P(1))</b>"
+    },
+    {
+      "value": "2",
+      "label": "<b>L(90) + 90 * (D + L(1)) + P(90) + 90 * (D + P(1))</b>"
+    },
+    {
+      "value": "3",
+      "label": "<b>90 * (D + L(1) ) + 90 * (D + P(1))</b>"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/13/2013-AT-09_SK.png"
+  ],
+  "year": "2013/2014",
+  "category": "Senior",
+  "type": "image",
+  "correct_index": 3,
+  "correct_answer": "<b>90 * (D + L(1) ) + 90 * (D + P(1))</b> ",
+  "correct_answer_plain": "90 * (D + L(1) ) + 90 * (D + P(1))"
+}

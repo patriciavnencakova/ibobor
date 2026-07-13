@@ -1,0 +1,36 @@
+{
+  "id": 416,
+  "serial_number": 9,
+  "title": "Hlavolam",
+  "question": "Sandra sa rada hrá s písmenami a vytvára z nich slová. V časopise našla písmenkový hlavolam, v ktorom je v tabuľke 3x3 zapísaných 9 písmen. Úlohou je nájsť všetky slová, ktoré majú aspoň 4 <b>písmená</b> a obsahujú <b>všetky podfarbené písmená</b>.<br/> Sandra vyriešila jeden z nasledujúcich hlavolamov a našla takéto slová:<br/> SPONA, OPONA, NAOKO, SENO, SNOP, ONAK, KANOE, OKNO, SONDA, PONAD<br/> <br/> Ktorý hlavolam vyriešila? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "<image_1>"
+    },
+    {
+      "value": "1",
+      "label": "<image_2>"
+    },
+    {
+      "value": "2",
+      "label": "<image_3>"
+    },
+    {
+      "value": "3",
+      "label": "<image_4>"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/16/2016-AT-02_A.png",
+    "http://demo.ibobor.sk/sutaz/images/16/2016-AT-02_C.png",
+    "http://demo.ibobor.sk/sutaz/images/16/2016-AT-02_D.png",
+    "http://demo.ibobor.sk/sutaz/images/16/2016-AT-02_B.png"
+  ],
+  "year": "2016/2017",
+  "category": "Benjamín",
+  "type": "image",
+  "correct_index": 2,
+  "correct_answer": "http://demo.ibobor.sk/sutaz/images/16/2016-AT-02_D.png",
+  "correct_answer_plain": null
+}

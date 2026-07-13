@@ -1,0 +1,31 @@
+{
+  "id": 283,
+  "serial_number": 5,
+  "title": "Tajná šifra",
+  "question": "Danka a Janka si posielajú zašifrované správy. Používajú pritom len písmená bez mäkčeňov, dĺžňov a vokáňov. Dankin brat Mišo raz našiel lístok, na ktorom bola správa napísaná najprv v pôvodnom a potom v zašifrovanom tvare:<br> <b>O osmej v parku</b><br> <b>O otohn v pbtny</b><br> Mišo chce Janke poslať správu <br> <b>Budem tam</b><br> a zašifrovať ju tak, aby si Janka myslela, že správu písala Danka. <br> Aký text pošle? <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "Bvfhq tbo"
+    },
+    {
+      "value": "1",
+      "label": "Bxgho tco"
+    },
+    {
+      "value": "2",
+      "label": "Bvefn tbn"
+    },
+    {
+      "value": "3",
+      "label": "Bvfgr zhu"
+    }
+  ],
+  "images": [],
+  "year": "2018/2019",
+  "category": "Nevidiaci SŠ",
+  "type": "text",
+  "correct_index": 0,
+  "correct_answer": "Bvfhq tbo ",
+  "correct_answer_plain": "Bvfhq tbo"
+}

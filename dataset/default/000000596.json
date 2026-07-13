@@ -1,0 +1,37 @@
+{
+  "id": 595,
+  "serial_number": 14,
+  "title": "Mobilná sieť",
+  "question": "Bobria telekomunikačná firma plánuje rozmiestniť vysielače mobilnej siete na veternom ostrove. Vysielače sú znázornené malými čiernymi krúžkami a pokrytie každého vysielača je znázornené kruhom v okolí vysielača.<br/> <image_1><br/> Dva vysielače sú prepojené, ak sa aspoň čiastočne prekrývajú kruhy znázorňujúce ich pokrytie.<br/> Dva vysielače môžu komunikovať prostredníctvom postupnosti vysielačov, ktoré sú prepojené.<br/> Vietor na ostrove často vyradí z prevádzky niektorý z vysielačov.<br/> Ako rozmiestniť vysielače tak, že aj keď je jeden z nich vyradený z prevádzky, tak ľubovolné dva zo zvyšných vysielačov môžu stále komunikovať? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "<image_2>"
+    },
+    {
+      "value": "1",
+      "label": "<image_3>"
+    },
+    {
+      "value": "2",
+      "label": "<image_4>"
+    },
+    {
+      "value": "3",
+      "label": "<image_5>"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/14/2014-HU-02-veza.png",
+    "http://demo.ibobor.sk/sutaz/images/14/2014-HU-02-coverage1.png",
+    "http://demo.ibobor.sk/sutaz/images/14/2014-HU-02-coverage3.png",
+    "http://demo.ibobor.sk/sutaz/images/14/2014-HU-02-coverage5.png",
+    "http://demo.ibobor.sk/sutaz/images/14/2014-HU-02-coverage2.png"
+  ],
+  "year": "2014/2015",
+  "category": "Junior",
+  "type": "image",
+  "correct_index": 3,
+  "correct_answer": "http://demo.ibobor.sk/sutaz/images/14/2014-HU-02-coverage2.png",
+  "correct_answer_plain": null
+}

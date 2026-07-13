@@ -1,0 +1,31 @@
+{
+  "id": 165,
+  "serial_number": 1,
+  "title": "Jazyky",
+  "question": "Systém podľa skóre slova vyhodnocuje, z ktorého jazyka slovo pochádza. Skóre slova vypočíta podľa tabuľky:<br> <table style=\"width:300px;border:1px solid black;\"><tbody><tr><td style=\"border:1px solid black;padding:2px;text-align:left\">začína písmenom p</td><td style=\"border:1px solid black;padding:2px;text-align:right\">-2</td></tr><tr><td style=\"border:1px solid black;padding:2px;text-align:left\">končí písmenom b<br> </td><td style=\"border:1px solid black;padding:2px;text-align:right\">-2</td></tr><tr><td style=\"border:1px solid black;padding:2px;text-align:left\">má viac ako 6 znakov</td><td style=\"border:1px solid black;padding:2px;text-align:right\">+3</td></tr><tr><td style=\"border:1px solid black;padding:2px;text-align:left\">je v ňom q, za ktorým nasleduje r alebo y</td><td style=\"border:1px solid black;padding:2px;text-align:right\">-4</td></tr><tr><td style=\"border:1px solid black;padding:2px;text-align:left\">má vedľa seba tri samohlásky (a, e, i, o, u)</td><td style=\"border:1px solid black;padding:2px;text-align:right\">+5</td></tr><tr><td style=\"border:1px solid black;padding:2px;text-align:left\">obsahuje apostrof</td><td style=\"border:1px solid black;padding:2px;text-align:right\">+1</td></tr></tbody></table> Ak vyjde skóre <b>menšie ako 0</b>, systém vyhodnotí, že slovo je z jazyka vydrovčina. Inak systém vyhodnotí, že slovo je z jazyka bobrovčina.<br> Napríklad pre slovo <b><i>palliob</i></b> systém vypočíta skóre <br> - 2 - 2 + 3 = -1 a vyhodnotí, že je z jazyka vydrovčina.<br> Systém dostane slová<br> <b><i>paqrooob puue t'seqrub meoub lai'laiqy</i></b><br> Koľko z nich vyhodnotí, že sú z jazyka vydrovčina? <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "3"
+    },
+    {
+      "value": "1",
+      "label": "1"
+    },
+    {
+      "value": "2",
+      "label": "2"
+    },
+    {
+      "value": "3",
+      "label": "4"
+    }
+  ],
+  "images": [],
+  "year": "2019/2020",
+  "category": "Senior",
+  "type": "text",
+  "correct_index": 1,
+  "correct_answer": "1 ",
+  "correct_answer_plain": "1"
+}

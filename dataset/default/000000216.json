@@ -1,0 +1,34 @@
+{
+  "id": 215,
+  "serial_number": 9,
+  "title": "Farebné kruhy",
+  "question": "Sára hádže štyri farebné kruhy na hraciu dosku s paličkou.<br/> <image_1><br/> <br/> Ak sa kruh <b>zachytí</b> na paličke, získava za hod nejaký počet bodov:<br/> <ul><li><b>prvý hod</b> v poradí: <b>4 body</b></li><li><b>druhý hod</b> v poradí: <b>3 body</b></li><li><b>tretí hod</b> v poradí: <b>2 body</b></li><li><b>štvrtý hod</b> v poradí: <b>1 bod</b></li></ul><br/> Ak sa kruh <b>nezachytí</b> na paličke, body za príslušný hod nedostane a nasleduje ďalší hod.<br/> Sára hodila štyri kruhy tak, ako vidíš na obrázku.<br/> <image_2><br/> Koľko bodov získala? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "2"
+    },
+    {
+      "value": "1",
+      "label": "7"
+    },
+    {
+      "value": "2",
+      "label": "4"
+    },
+    {
+      "value": "3",
+      "label": "6"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/18/2018-MY-08_example.png",
+    "http://demo.ibobor.sk/sutaz/images/18/2018-MY-08_question.png"
+  ],
+  "year": "2018/2019",
+  "category": "Bobrík",
+  "type": "image",
+  "correct_index": 2,
+  "correct_answer": "4 ",
+  "correct_answer_plain": "4"
+}

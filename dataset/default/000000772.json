@@ -1,0 +1,33 @@
+{
+  "id": 771,
+  "serial_number": 4,
+  "title": "Žabka",
+  "question": "Na jazere rastú kvety lekna, po ktorých skáče žabka. Keď chce preskočiť na susedné lekno, najprv sa natočí jedným z 8 smerov (pozri obrázok), a potom skočí. Na obrázku vidíš, na ktorom lekne začína. A práve tu svoje skákanie aj skončí.<br/> <image_1><br/> Ktorá postupnosť vyjadruje jej skoky podľa červenej čiary? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "0, 6, 6, 4, 4, 4, 2, 4, 1, 1, 1"
+    },
+    {
+      "value": "1",
+      "label": "4, 4, 1, 0, 0, 0, 6, 6, 4, 4, 2, 2, 1"
+    },
+    {
+      "value": "2",
+      "label": "5, 0, 0, 6, 6, 6, 0, 0, 2, 2, 4, 4, 4"
+    },
+    {
+      "value": "3",
+      "label": "0, 0, 0, 6, 6, 6, 4, 4, 2, 2, 4, 4, 1"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/11/2011-AT-08.png"
+  ],
+  "year": "2011/2012",
+  "category": "Benjamín",
+  "type": "image",
+  "correct_index": 3,
+  "correct_answer": "0, 0, 0, 6, 6, 6, 4, 4, 2, 2, 4, 4, 1 ",
+  "correct_answer_plain": "0, 0, 0, 6, 6, 6, 4, 4, 2, 2, 4, 4, 1"
+}

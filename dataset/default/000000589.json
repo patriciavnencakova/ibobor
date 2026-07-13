@@ -1,0 +1,33 @@
+{
+  "id": 588,
+  "serial_number": 7,
+  "title": "Cestovné výdavky",
+  "question": "Janko potrebuje každý pracovný deň 2 cestovné lístky. Počas víkendov necestuje.<br/> Janko si vytvoril tabuľku v tabuľkovom programe, ktorá zobrazuje jeho výdavky. Do bunky B2 vložil cenu jedného cestovného lístka.<br/> Do buniek B3 a B4 zadal vzorce na výpočet cestovných výdavkov za rôzne časové obdobia.<br/> <image_1><br/> Ktoré vzorce zadal do buniek B3 a B4, aby pomocou nich vypočítal správne ceny, aj keď sa cena jedného lístka zmení? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "<b>B3 = 2*B2 B4 = 5*B3</b>"
+    },
+    {
+      "value": "1",
+      "label": "<b>B3 = 2*0.35 B4 = 5*0.7</b>"
+    },
+    {
+      "value": "2",
+      "label": "<b>B3 = B4/5 B4 = 5*B3</b>"
+    },
+    {
+      "value": "3",
+      "label": "<b>B3 = B2*B4 B4 = 7*B2</b>"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/14/2014-SK-04_SK.png"
+  ],
+  "year": "2014/2015",
+  "category": "Junior",
+  "type": "image",
+  "correct_index": 0,
+  "correct_answer": "<b>B3 = 2*B2 B4 = 5*B3</b> ",
+  "correct_answer_plain": "B3 = 2*B2 B4 = 5*B3"
+}

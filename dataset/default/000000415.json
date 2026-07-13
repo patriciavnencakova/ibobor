@@ -1,0 +1,37 @@
+{
+  "id": 414,
+  "serial_number": 7,
+  "title": "Oblečenie",
+  "question": "Jakub má v nedeľu večer v skrini pripravené čisté oblečenie tak, ako vidíme na obrázku.<br/> <image_1><br/> Každý deň si z vrchu kopy zoberie tričko. V pondelok a vo štvrtok si z vrchu kopy zoberie nohavice.<br/> Čo bude mať Jakub oblečené v piatok? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "<image_2>"
+    },
+    {
+      "value": "1",
+      "label": "<image_3>"
+    },
+    {
+      "value": "2",
+      "label": "<image_4>"
+    },
+    {
+      "value": "3",
+      "label": "<image_5>"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/16/2016-HU-03_SK_B_obr1.png",
+    "http://demo.ibobor.sk/sutaz/images/16/2016-HU-03_A.png",
+    "http://demo.ibobor.sk/sutaz/images/16/2016-HU-03_B.png",
+    "http://demo.ibobor.sk/sutaz/images/16/2016-HU-03_C.png",
+    "http://demo.ibobor.sk/sutaz/images/16/2016-HU-03_D.png"
+  ],
+  "year": "2016/2017",
+  "category": "Benjamín",
+  "type": "image",
+  "correct_index": 2,
+  "correct_answer": "http://demo.ibobor.sk/sutaz/images/16/2016-HU-03_C.png",
+  "correct_answer_plain": null
+}

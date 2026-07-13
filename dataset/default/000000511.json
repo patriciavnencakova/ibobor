@@ -1,0 +1,33 @@
+{
+  "id": 510,
+  "serial_number": 1,
+  "title": "Fotky na sociálnej sieti",
+  "question": "Sedem bobrov je na sociálnej sieti, v ktorej môžu vidieť fotky svojich priateľov a aj tie fotky, ktoré dajú na sieť priatelia ich priateľov. Na obrázku sú znázornené priateľstvá. Ak sú dva bobry priatelia, sú spojené čiarou.<br/> <image_1><br/> Po letných prázdninách dal každý bobor na sociálnu sieť svoje fotky.<br/> Fotky ktorého bobra mohlo vidieť najviac bobrov tejto sociálnej siete? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "Tomáš"
+    },
+    {
+      "value": "1",
+      "label": "Adam"
+    },
+    {
+      "value": "2",
+      "label": "Samo"
+    },
+    {
+      "value": "3",
+      "label": "Jakub"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/15/2015-CA-01.png"
+  ],
+  "year": "2015/2016",
+  "category": "Junior",
+  "type": "image",
+  "correct_index": 0,
+  "correct_answer": "Tomáš ",
+  "correct_answer_plain": "Tomáš"
+}

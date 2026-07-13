@@ -1,0 +1,35 @@
+{
+  "id": 737,
+  "serial_number": 12,
+  "title": "Medián",
+  "question": "Máme tri ľubovoľné rôzne čísla <b>x</b>, <b>y</b> a <b>z</b>. To číslo, ktoré nie je ani najmenšie z nich ani najväčšie z nich, nazývame <b>medián</b>.<br/> Navrhli sme tri diagramy znázorňujúce výpočet mediánu len pomocou funkcií <b>min</b> a <b>max</b>. Obe funkcie majú dva vstupy, výstupom <b>min</b> je menšie z nich, výstupom <b>max</b> je väčšie z nich. Obdĺžniky označené <b>x</b>, <b>y</b> a <b>z</b> znázorňujú vstupné čísla a ostatné obdĺžniky znázorňujú použitie funkcií <b>min</b> a <b>max</b>.<br/> <br/> Výstupom ktorého diagramu je medián čísiel <b>x</b>, <b>y</b> a <b>z</b>?<br/> <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "<image_1>"
+    },
+    {
+      "value": "1",
+      "label": "<image_2>"
+    },
+    {
+      "value": "2",
+      "label": "<image_3>"
+    },
+    {
+      "value": "3",
+      "label": "ani jedno z uvedených"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/12/2012-RU-01-c.gif",
+    "http://demo.ibobor.sk/sutaz/images/12/2012-RU-01-b.gif",
+    "http://demo.ibobor.sk/sutaz/images/12/2012-RU-01-a.gif"
+  ],
+  "year": "2012/2013",
+  "category": "Junior",
+  "type": "image",
+  "correct_index": 3,
+  "correct_answer": "ani jedno z uvedených ",
+  "correct_answer_plain": "ani jedno z uvedených"
+}

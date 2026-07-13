@@ -1,0 +1,33 @@
+{
+  "id": 26,
+  "serial_number": 6,
+  "title": "Kde bývajú?",
+  "question": "Adam, Samo a Emil vyšli zo školy, stoja na žltom políčku a sú otočení naznačeným smerom. <br/> Každý z nich ide do svojho domu tak, že prechádza z políčka na políčko a na niektorých políčkach odbočí. Po ceste neprechádzajú cez sivé políčka.<br/> <image_1><br/> <b>Adam</b> niekde odbočí vľavo a potom ešte raz niekde odbočí vľavo.<br/> <b>Samo</b> niekde odbočí vľavo a potom niekde odbočí vpravo.<br/> <b>Emil</b> príde domov tak, že iba raz niekde odbočí vľavo.<br/> V ktorých domoch bývajú chlapci? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "Adam v dome č. 3, Samo v dome č. 4, Emil v dome č. 1"
+    },
+    {
+      "value": "1",
+      "label": "Adam v dome č. 4, Samo v dome č. 2, Emil v dome č. 5"
+    },
+    {
+      "value": "2",
+      "label": "Adam v dome č. 4, Samo v dome č. 2, Emil v dome č. 1"
+    },
+    {
+      "value": "3",
+      "label": "Adam v dome č. 3, Samo v dome č. 2, Emil v dome č. 4"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/20/2020-SK-05.png"
+  ],
+  "year": "2020/2021",
+  "category": "Benjamín",
+  "type": "image",
+  "correct_index": 3,
+  "correct_answer": "Adam v dome č. 3, Samo v dome č. 2, Emil v dome č. 4 ",
+  "correct_answer_plain": "Adam v dome č. 3, Samo v dome č. 2, Emil v dome č. 4"
+}

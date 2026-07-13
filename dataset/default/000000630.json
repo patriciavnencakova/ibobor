@@ -1,0 +1,38 @@
+{
+  "id": 629,
+  "serial_number": 6,
+  "title": "Tunely",
+  "question": "V Bobrove majú čierne a biele tunely. Keď vojdú bobry v rade za sebou do čierneho tunela, vyjdú z neho von v opačnom poradí. Keď vojdú do bieleho tunela, vyjdú z neho tak, že prvý a posledný bobor sa vymenia.<br/> <image_1><br/> Štyri bobry išli cez tieto tri tunely: <image_2><br/> V akom poradí vyšli z posledného tunela? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "<image_3>"
+    },
+    {
+      "value": "1",
+      "label": "<image_4>"
+    },
+    {
+      "value": "2",
+      "label": "<image_5>"
+    },
+    {
+      "value": "3",
+      "label": "<image_6>"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/13/2013-JP-02_ukazka.png",
+    "http://demo.ibobor.sk/sutaz/images/13/2013-JP-02-3tunely.png",
+    "http://demo.ibobor.sk/sutaz/images/13/2013-JP-02_D.png",
+    "http://demo.ibobor.sk/sutaz/images/13/2013-JP-02_B.png",
+    "http://demo.ibobor.sk/sutaz/images/13/2013-JP-02_C.png",
+    "http://demo.ibobor.sk/sutaz/images/13/2013-JP-02_A.png"
+  ],
+  "year": "2013/2014",
+  "category": "Benjamín",
+  "type": "image",
+  "correct_index": 2,
+  "correct_answer": "http://demo.ibobor.sk/sutaz/images/13/2013-JP-02_C.png",
+  "correct_answer_plain": null
+}

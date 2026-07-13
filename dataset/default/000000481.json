@@ -1,0 +1,31 @@
+{
+  "id": 480,
+  "serial_number": 1,
+  "title": "Mince",
+  "question": "V Bobrove majú mince v hodnote 1 cent, 7 centov, 12 centov a 22 centov. Bobor Hugo si chce z banky vybrať presne 15 centov.<br> <b>Najmenej</b> koľko mincí dostane? <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "3 mince"
+    },
+    {
+      "value": "1",
+      "label": "15 mincí"
+    },
+    {
+      "value": "2",
+      "label": "5 mincí"
+    },
+    {
+      "value": "3",
+      "label": "2 mince"
+    }
+  ],
+  "images": [],
+  "year": "2015/2016",
+  "category": "Benjamín",
+  "type": "text",
+  "correct_index": 0,
+  "correct_answer": "3 mince ",
+  "correct_answer_plain": "3 mince"
+}

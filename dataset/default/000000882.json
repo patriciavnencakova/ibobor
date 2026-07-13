@@ -1,0 +1,33 @@
+{
+  "id": 881,
+  "serial_number": 9,
+  "title": "Najlepšia stratégia pre Evu",
+  "question": "Eva a Ivo hrajú hru s farebnými kameňmi štyroch farieb (Červená - Č, Zelená - Z, Modrá - M, Biela - B).<br/> Na ťahu je Eva. Obrázok znázorňuje všetky možné pokračovania hry až do jej konca.<br/> <image_1><br/> <br/> Aký prvý ťah si má Eva zvoliť, aby na konci hry vyhrala bez ohľadu na to, ako bude ťahať Ivo? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "ťah Č"
+    },
+    {
+      "value": "1",
+      "label": "ťah Z"
+    },
+    {
+      "value": "2",
+      "label": "ťah B"
+    },
+    {
+      "value": "3",
+      "label": "ťah M"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/10/strategia.png"
+  ],
+  "year": "2010/2011",
+  "category": "Senior",
+  "type": "image",
+  "correct_index": 3,
+  "correct_answer": "ťah M ",
+  "correct_answer_plain": "ťah M"
+}

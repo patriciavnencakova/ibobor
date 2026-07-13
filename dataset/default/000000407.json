@@ -1,0 +1,33 @@
+{
+  "id": 406,
+  "serial_number": 11,
+  "title": "Kartičky a kužele",
+  "question": "Filip ukrýva kartičky s číslami pod farebné kužele. Pod jeden kužeľ dáva niekedy aj viac kartičiek.<br/> Ukladanie kartičiek si zapisuje, napr. zápis:<br/> <b>červený < – 5</b><br/> <b>červený < – 3</b><br/> znamená, že pod červený kužeľ najprv položil karičku s číslom 5 a potom kartičku s číslom 3.<br/> Keď Filip kužeľ teraz zdvihne, vidieť len číslo, ktoré bolo na kartičke, ktorú položil ako poslednú:<br/> <image_1><br/> Filip si zapísal ukrývanie kartičiek:<br/> <b>červený < – 3</b><br/> <b>žltý < – 5</b><br/> <b>červený < – 6</b><br/> <b>žltý < – 8</b><br/> <b>fialový < – 1</b><br/> <b>žltý < – 3</b><br/> <br/> Aké čísla bude vidieť, keď teraz zdvihne všetky tri kužele? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "pod červeným: 3, pod fialovým: 1, pod žltým: 3"
+    },
+    {
+      "value": "1",
+      "label": "pod červeným: 3, pod fialovým: 1, pod žltým: 5"
+    },
+    {
+      "value": "2",
+      "label": "pod červeným: 6, pod fialovým: 1, pod žltým: 3"
+    },
+    {
+      "value": "3",
+      "label": "pod červeným: 6, pod fialovým: 1, pod žltým: 8"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/16/2016-FR-02.png"
+  ],
+  "year": "2016/2017",
+  "category": "Bobrík",
+  "type": "image",
+  "correct_index": 2,
+  "correct_answer": "pod červeným: 6, pod fialovým: 1, pod žltým: 3 ",
+  "correct_answer_plain": "pod červeným: 6, pod fialovým: 1, pod žltým: 3"
+}

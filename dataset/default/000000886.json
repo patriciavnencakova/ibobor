@@ -1,0 +1,40 @@
+{
+  "id": 885,
+  "serial_number": 13,
+  "title": "Útvary",
+  "question": "V hre Útvary si každý hráč vyberie dve kartičky. Na kartičke je niektorý z útvarov kruh, trojuholník alebo štvorec.<br/> <image_1> <image_2><image_3><br/> <br/> Body každého hráča sa spočítajú podľa tohto návodu:<br/> <pre>test1: kartička1 = <image_4> alebo kartička2 = <image_5><br/>test2: kartička1 = <image_6> alebo kartička2 = <image_7></pre>výpočet bodov: <br/> <pre>ak test1 a súčasne test2 tak body:=3<br/>inak ak test1 tak body:=2<br/>inak ak test2 tak body:=1<br/>inak body:=0</pre>Body pre každý prípad chceme zapísať do tabuľky. <br/> <image_8><br/> <br/> Aký je tretí riadok tabuľky? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "2 2 0 3 2 3 1 1 0"
+    },
+    {
+      "value": "1",
+      "label": "3 2 2 3 1 1 2 0 2"
+    },
+    {
+      "value": "2",
+      "label": "2 1 0 3 3 2 2 1 1"
+    },
+    {
+      "value": "3",
+      "label": "1 2 3 3 0 2 1 2 2"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/10/kruh.gif",
+    "http://demo.ibobor.sk/sutaz/images/10/stvorec.gif",
+    "http://demo.ibobor.sk/sutaz/images/10/trojuholnik.gif",
+    "http://demo.ibobor.sk/sutaz/images/10/trojuholnik.gif",
+    "http://demo.ibobor.sk/sutaz/images/10/trojuholnik.gif",
+    "http://demo.ibobor.sk/sutaz/images/10/kruh.gif",
+    "http://demo.ibobor.sk/sutaz/images/10/kruh.gif",
+    "http://demo.ibobor.sk/sutaz/images/10/tabulka.png"
+  ],
+  "year": "2010/2011",
+  "category": "Senior",
+  "type": "image",
+  "correct_index": 2,
+  "correct_answer": "2 1 0 3 3 2 2 1 1 ",
+  "correct_answer_plain": "2 1 0 3 3 2 2 1 1"
+}

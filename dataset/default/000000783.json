@@ -1,0 +1,37 @@
+{
+  "id": 782,
+  "serial_number": 15,
+  "title": "Strihanie rohu",
+  "question": "Obdĺžnik papiera dvakrát zložíme, aby sme znova dostali obdĺžnik, napríklad takto:<br/> <image_1><br/> Z tohto obdĺžnika odstrihneme jeden roh. <br/> Potom papier rozložíme.<br/> Ktorý tvar <b>nemohol</b> takto vzniknúť?<br/> <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "<image_2>"
+    },
+    {
+      "value": "1",
+      "label": "<image_3>"
+    },
+    {
+      "value": "2",
+      "label": "<image_4>"
+    },
+    {
+      "value": "3",
+      "label": "<image_5>"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/11/2011-LT-17_.png",
+    "http://demo.ibobor.sk/sutaz/images/11/2011-LT-17_D.png",
+    "http://demo.ibobor.sk/sutaz/images/11/2011-LT-17_B.png",
+    "http://demo.ibobor.sk/sutaz/images/11/2011-LT-17_C.png",
+    "http://demo.ibobor.sk/sutaz/images/11/2011-LT-17_A.png"
+  ],
+  "year": "2011/2012",
+  "category": "Benjamín",
+  "type": "image",
+  "correct_index": 0,
+  "correct_answer": "http://demo.ibobor.sk/sutaz/images/11/2011-LT-17_D.png",
+  "correct_answer_plain": null
+}

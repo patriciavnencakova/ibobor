@@ -1,0 +1,34 @@
+{
+  "id": 1092,
+  "serial_number": 10,
+  "title": "Lienka",
+  "question": "Lienka vykonáva postupnosť príkazov, ktoré sú zadané šípkami.<br/> Lienka vykonáva túto postupnosť zľava doprava tak, že podľa smeru šípky prejde z jedného štvorčeka na <b>susedný štvorček</b> vo vodorovnom alebo zvislom smere. Štvorček, na ktorý prejde, <b>zafarbí</b>.<br/> Ak by lienka vykonaním niektorého príkazu mala vyjsť mimo štvorčekovej siete, tento príkaz nevykoná a pokračuje ďalším príkazom v postupnosti.<br/> Lienku sme položili tak, ako vidíš na obrázku:<br/> <image_1><br/> A zadali sme jej takúto postupnosť príkazov:<br/> <image_2><br/> <br/> Koľko štvorčekov zafarbila? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "8"
+    },
+    {
+      "value": "1",
+      "label": "9"
+    },
+    {
+      "value": "2",
+      "label": "6"
+    },
+    {
+      "value": "3",
+      "label": "7"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/20k/2020-SK-06.png",
+    "http://demo.ibobor.sk/sutaz/images/20k/2020-SK-06_prikazy.png"
+  ],
+  "year": "Karanténa",
+  "category": "6.-9.roč.",
+  "type": "image",
+  "correct_index": 2,
+  "correct_answer": "6 ",
+  "correct_answer_plain": "6"
+}

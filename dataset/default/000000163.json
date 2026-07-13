@@ -1,0 +1,33 @@
+{
+  "id": 162,
+  "serial_number": 13,
+  "title": "Mince na ceste",
+  "question": "Bobor Hugo sa chce dostať do svojho domu. Na obrázku je mapa mesta.<br/> <image_1><br/> Hugo dokáže prechádzať z jedného štvorčeka na iný, len smerom <b>hore</b> alebo <b>doprava</b>.<br/> Ak Hugo stúpi na štvorček s hviezdicami, musí dať <b>každej</b> hviezdici jednu mincu. Ak Hugo v tej chvíli nemá dosť mincí, hviezdice ho budú prenasledovať a musí im dať mince neskôr.<br/> <b>Najviac</b> koľko mincí môže priniesť domov? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "8"
+    },
+    {
+      "value": "1",
+      "label": "12"
+    },
+    {
+      "value": "2",
+      "label": "10"
+    },
+    {
+      "value": "3",
+      "label": "9"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/19/2019-ID-01.png"
+  ],
+  "year": "2019/2020",
+  "category": "Junior",
+  "type": "image",
+  "correct_index": 2,
+  "correct_answer": "10 ",
+  "correct_answer_plain": "10"
+}

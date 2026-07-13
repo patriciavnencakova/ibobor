@@ -1,0 +1,33 @@
+{
+  "id": 138,
+  "serial_number": 4,
+  "title": "Celebrita",
+  "question": "V sociálnej sieti BoborGram môžu členovia sledovať iných jej členov.<br/> Členovia v tejto sieti sú spojení do skupín.<br/> Celebrita skupiny je ten<ul><li>koho sledujú všetci ostatní členovia skupiny</li><li>kto nesleduje žiadneho iného člena skupiny</li></ul><br/> Na obrázku je skupina s tromi členmi:<br/> <image_1><br/> Táto skupina má celebritu a je ňou Johana.<br/> V inej skupine je 5 členov: Alica, Dana, Filip, Gréta, Rišo:<ul><li>Alica sleduje Danu a Grétu</li><li>Dana sleduje Grétu a Riša</li><li>Filip sleduje Alicu, Grétu a Riša</li><li>Rišo sleduje Alicu a Grétu</li></ul><br/> Má táto skupina celebritu? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "Áno, Filip je celebritou tejto skupiny."
+    },
+    {
+      "value": "1",
+      "label": "Áno, Alica je celebritou tejto skupiny."
+    },
+    {
+      "value": "2",
+      "label": "Áno, Gréta je celebritou tejto skupiny."
+    },
+    {
+      "value": "3",
+      "label": "Nie, táto skupina nemá celebritu."
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/19/2019-DE-08.png"
+  ],
+  "year": "2019/2020",
+  "category": "Kadet",
+  "type": "image",
+  "correct_index": 2,
+  "correct_answer": "Áno, Gréta je celebritou tejto skupiny. ",
+  "correct_answer_plain": "Áno, Gréta je celebritou tejto skupiny."
+}

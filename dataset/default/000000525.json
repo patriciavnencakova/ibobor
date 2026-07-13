@@ -1,0 +1,36 @@
+{
+  "id": 524,
+  "serial_number": 15,
+  "title": "Vzťahy medzi cestujúcimi",
+  "question": "Peter, Jakub a Adam robia projekt, ktorý má zobrazovať vzťahy medzi ľuďmi. Opýtali sa cestujúcich v autobuse, v akom vzťahu sú k iným cestujúcim v tomto autobuse. Zistili tri typy vzťahov: dvojčatá, priatelia a spolužiaci. <br/> Zo zistených vzťahov vytvorili diagram, v ktorom Peter spojil dvojčatá červenou čiarou, Jakub spojil priateľov čiernou bodkovanou čiarou a Adam spojil spolužiakov zelenou čiarkovanou čiarou.<br/> <image_1><br/> Keď učiteľ kontroloval projekt, povedal, že len jeden z chlapcov spojil správne cestujúcich podľa ich vzťahov.<br/> Ktorý typ vzťahov je správne vyznačený v diagrame? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "spolužiaci<image_2>"
+    },
+    {
+      "value": "1",
+      "label": "dvojčatá<image_3>"
+    },
+    {
+      "value": "2",
+      "label": "Učiteľ sa mýlil. Viac ako jeden vzťah je vyznačený správne."
+    },
+    {
+      "value": "3",
+      "label": "priatelia<image_4>"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/15/2015-CZ-02.png",
+    "http://demo.ibobor.sk/sutaz/images/15/2015-CZ-02_spoluziaci.png",
+    "http://demo.ibobor.sk/sutaz/images/15/2015-CZ-02_dvojcata.png",
+    "http://demo.ibobor.sk/sutaz/images/15/2015-CZ-02_priatelia.png"
+  ],
+  "year": "2015/2016",
+  "category": "Junior",
+  "type": "image",
+  "correct_index": 3,
+  "correct_answer": "http://demo.ibobor.sk/sutaz/images/15/2015-CZ-02_priatelia.png",
+  "correct_answer_plain": null
+}

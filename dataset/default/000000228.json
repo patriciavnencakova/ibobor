@@ -1,0 +1,37 @@
+{
+  "id": 227,
+  "serial_number": 9,
+  "title": "Priečinky",
+  "question": "Marek si do počítača ukladá fotky známych športovcov. Fotky dáva do rôznych priečinkov tak, ako vidíme na diagrame.<br/> <image_1><br/> <b>Šípky</b> z priečinka športy do priečinkov <b>vodné</b> a <b>ihriskové</b> znamenajú, že priečinok <b>športy</b> obsahuje priečinky <b>vodné</b> a <b>ihriskové</b>. Prehliadač súborov zobrazuje len obsah zvoleného priečinku.<br/> Ktorý z nasledujúcich obrázkov zobrazuje obsah nejakého priečinku podľa diagramu? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "<image_2>"
+    },
+    {
+      "value": "1",
+      "label": "<image_3>"
+    },
+    {
+      "value": "2",
+      "label": "<image_4>"
+    },
+    {
+      "value": "3",
+      "label": "<image_5>"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/18/2018-CZ-03.png",
+    "http://demo.ibobor.sk/sutaz/images/18/2018-CZ-03-D.png",
+    "http://demo.ibobor.sk/sutaz/images/18/2018-CZ-03-B.png",
+    "http://demo.ibobor.sk/sutaz/images/18/2018-CZ-03-A.png",
+    "http://demo.ibobor.sk/sutaz/images/18/2018-CZ-03-C.png"
+  ],
+  "year": "2018/2019",
+  "category": "Benjamín",
+  "type": "image",
+  "correct_index": 1,
+  "correct_answer": "http://demo.ibobor.sk/sutaz/images/18/2018-CZ-03-B.png",
+  "correct_answer_plain": null
+}

@@ -1,0 +1,35 @@
+{
+  "id": 764,
+  "serial_number": 9,
+  "title": "Digitálne hodinky",
+  "question": "Každá číslica na digitálnych hodinkách sa skladá zo siedmich paličiek, ktoré svietia alebo nie. Jednotlivé číslice vyzerajú takto:<br/> <image_1><br/> Na Zuzkiných hodinách je <b>jedna</b> palička pokazená a vôbec <b>nesvieti</b>.<br/> Ak by Zuzkine hodiny ukazovali napríklad 14:31, <b>v skutočnosti</b> by mohlo byť 14:31, ale aj 14:37:<br/> <image_2><br/> <br/> Teraz jej hodiny ukazujú:<br/> <image_3><br/> <br/> Aký čas môže <b>v skutočnosti</b> byť? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "15:29, 15:28, 16:29, 19:29"
+    },
+    {
+      "value": "1",
+      "label": "15:29, 15:23, 15:28, 16:23"
+    },
+    {
+      "value": "2",
+      "label": "15:29, 19:23, 19:28, 19:29"
+    },
+    {
+      "value": "3",
+      "label": "15:29, 15:28, 15:23, 16:28"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/11/2011-SK-07-new_02.png",
+    "http://demo.ibobor.sk/sutaz/images/11/2011-SK-new-MT_konkretne_lahsie_priklad.gif",
+    "http://demo.ibobor.sk/sutaz/images/11/2011-SK-new-MT_konkretne_lahsie_zadanie.gif"
+  ],
+  "year": "2011/2012",
+  "category": "Bobrík",
+  "type": "image",
+  "correct_index": 0,
+  "correct_answer": "15:29, 15:28, 16:29, 19:29 ",
+  "correct_answer_plain": "15:29, 15:28, 16:29, 19:29"
+}

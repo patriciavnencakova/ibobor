@@ -1,0 +1,37 @@
+{
+  "id": 469,
+  "serial_number": 2,
+  "title": "Pohár",
+  "question": "Adam nakreslil v grafickom editore takýto pohár, ale nedokreslil čiaru, ktorá znázorňuje hladinu vody.<br/> <image_1><br/> Potom použil nástroj VÝPLŇ (vedierko), umiestnil ho do vnútra pohára a vylial modrú farbu.<br/> Ako vyzeral jeho obrázok po vyliatí modrej farby? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "<image_2>"
+    },
+    {
+      "value": "1",
+      "label": "<image_3>"
+    },
+    {
+      "value": "2",
+      "label": "<image_4>"
+    },
+    {
+      "value": "3",
+      "label": "<image_5>"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/15/2015-SK-new_pohar.png",
+    "http://demo.ibobor.sk/sutaz/images/15/2015-SK-new_pohar_C.png",
+    "http://demo.ibobor.sk/sutaz/images/15/2015-SK-new_pohar_D.png",
+    "http://demo.ibobor.sk/sutaz/images/15/2015-SK-new_pohar_B.png",
+    "http://demo.ibobor.sk/sutaz/images/15/2015-SK-new_pohar_A.png"
+  ],
+  "year": "2015/2016",
+  "category": "Bobrík",
+  "type": "image",
+  "correct_index": 0,
+  "correct_answer": "http://demo.ibobor.sk/sutaz/images/15/2015-SK-new_pohar_C.png",
+  "correct_answer_plain": null
+}

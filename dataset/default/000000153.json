@@ -1,0 +1,37 @@
+{
+  "id": 152,
+  "serial_number": 3,
+  "title": "Kódovanie obrázkov",
+  "question": "Dodo kóduje čierno-biele obrázky veľkosti 6 x 5 štvorčekov.<br/> Pre každý riadok najprv zapíše počet bielych štvorčekov nasledujúcich za sebou, potom počet čiernych nasledujúcich za sebou, potom počet bielych, atď.<br/> Jednotlivé čísla sú oddelené čiarkami. Kódy jednotlivých riadkov sú oddelené znakom “–“.<br/> Napríklad obrázok<br/> <image_1><br/> zakóduje takto: <b>1,3,1 – 4,1 – 1,4 – 0,1,3,1 – 0,1,3,1 – 1,4</b><br/> Ktorý z nasledujúcich obrázkov zakóduje takto<br/> <b>2,1,2 – 0,1,3,1 – 1,1,1,1,1 – 2,1,2 – 1,1,1,1,1 – 0,1,3,1</b>? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "<image_2>"
+    },
+    {
+      "value": "1",
+      "label": "<image_3>"
+    },
+    {
+      "value": "2",
+      "label": "<image_4>"
+    },
+    {
+      "value": "3",
+      "label": "<image_5>"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/19/2019-TR-02.png",
+    "http://demo.ibobor.sk/sutaz/images/19/2019-TR-02_D.png",
+    "http://demo.ibobor.sk/sutaz/images/19/2019-TR-02_A.png",
+    "http://demo.ibobor.sk/sutaz/images/19/2019-TR-02_C.png",
+    "http://demo.ibobor.sk/sutaz/images/19/2019-TR-02_B.png"
+  ],
+  "year": "2019/2020",
+  "category": "Junior",
+  "type": "image",
+  "correct_index": 3,
+  "correct_answer": "http://demo.ibobor.sk/sutaz/images/19/2019-TR-02_B.png",
+  "correct_answer_plain": null
+}

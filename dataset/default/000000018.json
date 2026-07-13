@@ -1,0 +1,40 @@
+{
+  "id": 17,
+  "serial_number": 9,
+  "title": "Najťažší balík",
+  "question": "Máme 5 balíkov, na každom z nich je nakreslený nejaký útvar.<br/> Na to, aby sme zistili, ktorý z nich je najťažší, odvážili sme ich pomocou rovnoramenných váh.<br/> Napríklad:<br/> <image_1> znamená, že <image_2> je ťažší ako <image_3>.<br/> Tu sú výsledky 5 vážení:<br/> <image_4><br/> Ktorý balík je najťažší? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "<image_5>"
+    },
+    {
+      "value": "1",
+      "label": "<image_6>"
+    },
+    {
+      "value": "2",
+      "label": "<image_7>"
+    },
+    {
+      "value": "3",
+      "label": "<image_8>"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/20/2020-JP-04_priklad.png",
+    "http://demo.ibobor.sk/sutaz/images/20/2020-JP-04_srdce.png",
+    "http://demo.ibobor.sk/sutaz/images/20/2020-JP-04_kruh.png",
+    "http://demo.ibobor.sk/sutaz/images/20/2020-JP-04.png",
+    "http://demo.ibobor.sk/sutaz/images/20/2020-JP-04_C.png",
+    "http://demo.ibobor.sk/sutaz/images/20/2020-JP-04_A.png",
+    "http://demo.ibobor.sk/sutaz/images/20/2020-JP-04_B.png",
+    "http://demo.ibobor.sk/sutaz/images/20/2020-JP-04_D.png"
+  ],
+  "year": "2020/2021",
+  "category": "Bobrík",
+  "type": "image",
+  "correct_index": 0,
+  "correct_answer": "http://demo.ibobor.sk/sutaz/images/20/2020-JP-04_C.png",
+  "correct_answer_plain": null
+}

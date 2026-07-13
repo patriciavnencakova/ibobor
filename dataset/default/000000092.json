@@ -1,0 +1,31 @@
+{
+  "id": 91,
+  "serial_number": 2,
+  "title": "Cukríky",
+  "question": "Mama má 6 jahodových, 7 malinových a 5 čučoriedkových cukríkov, ktoré chce rozdeliť medzi 4 deti tak, aby malo každé z nich <b>rovnaký počet</b> cukríkov.<br> Alica chce iba <b>čučoriedkové</b> cukríky.<br> Zvyšné 3 deti chcú, aby bol <b>každý</b> ich cukrík <b>iný</b>.<br> Koľko cukríkov dá mama každému dieťaťu? <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "3 cukríky"
+    },
+    {
+      "value": "1",
+      "label": "Cukríky sa nedajú rozdeliť podľa želaní detí."
+    },
+    {
+      "value": "2",
+      "label": "2 cukríky"
+    },
+    {
+      "value": "3",
+      "label": "4 cukríky"
+    }
+  ],
+  "images": [],
+  "year": "2020/2021",
+  "category": "Nevidiaci ZŠ",
+  "type": "text",
+  "correct_index": 2,
+  "correct_answer": "2 cukríky ",
+  "correct_answer_plain": "2 cukríky"
+}

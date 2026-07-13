@@ -1,0 +1,31 @@
+{
+  "id": 1053,
+  "serial_number": 4,
+  "title": "34",
+  "question": "GPL je <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "programovací jazyk používaný hlavne v Linuxe"
+    },
+    {
+      "value": "1",
+      "label": "operačný systém"
+    },
+    {
+      "value": "2",
+      "label": "typ licencie používaný Open Source softvérom"
+    },
+    {
+      "value": "3",
+      "label": "štandard počítačových sietí"
+    }
+  ],
+  "images": [],
+  "year": "2007/2008",
+  "category": "Senior",
+  "type": "text",
+  "correct_index": 2,
+  "correct_answer": "typ licencie používaný Open Source softvérom ",
+  "correct_answer_plain": "typ licencie používaný Open Source softvérom"
+}

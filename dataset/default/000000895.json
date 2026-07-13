@@ -1,0 +1,37 @@
+{
+  "id": 894,
+  "serial_number": 7,
+  "title": "Zástavy",
+  "question": "Tieto zástavy sú vytvorené nejakým pravidlom. <br/> <image_1><br/> Ktorá zástava z nasledujúcich štyroch zástav ku nim patrí?<br/> <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "<image_2>"
+    },
+    {
+      "value": "1",
+      "label": "<image_3>"
+    },
+    {
+      "value": "2",
+      "label": "<image_4>"
+    },
+    {
+      "value": "3",
+      "label": "<image_5>"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/10/Bo_zastavy.gif",
+    "http://demo.ibobor.sk/sutaz/images/10/Bo_zastavy_A.gif",
+    "http://demo.ibobor.sk/sutaz/images/10/Bo_zastavy_B.gif",
+    "http://demo.ibobor.sk/sutaz/images/10/Bo_zastavy_D.gif",
+    "http://demo.ibobor.sk/sutaz/images/10/Bo_zastavy_C.gif"
+  ],
+  "year": "2010/2011",
+  "category": "Bobrík",
+  "type": "image",
+  "correct_index": 0,
+  "correct_answer": "http://demo.ibobor.sk/sutaz/images/10/Bo_zastavy_A.gif",
+  "correct_answer_plain": null
+}

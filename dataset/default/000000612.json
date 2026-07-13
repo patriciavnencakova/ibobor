@@ -1,0 +1,31 @@
+{
+  "id": 611,
+  "serial_number": 15,
+  "title": "Narodeninová oslava",
+  "question": "Bobrica Beáta pripravuje narodeninovú oslavu a chce na ňu kúpiť zákusky. V obchode predávajú 8 rôznych druhov zákuskov. Beáta vie, že na jeden druh sú všetky bobry alergické, zabudla však, ktorý druh to je. Ak bobry zjedia takýto zákusok, do 24 hodín sa im vyhádžu červené vyrážky. Beáta potrebuje behom 24 hodín zistiť, ktorý druh zákuskov to je. Jej kamaráti súhlasili, že jej pomôžu s ochutnávaním.<br> Aký minimálny počet bobrov je potrebných, aby Beáta zistila, na ktorý druh zákuskov sú bobry alergické? <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "4"
+    },
+    {
+      "value": "1",
+      "label": "5"
+    },
+    {
+      "value": "2",
+      "label": "6"
+    },
+    {
+      "value": "3",
+      "label": "3"
+    }
+  ],
+  "images": [],
+  "year": "2014/2015",
+  "category": "Senior",
+  "type": "text",
+  "correct_index": 3,
+  "correct_answer": "3 ",
+  "correct_answer_plain": "3"
+}

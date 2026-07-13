@@ -1,0 +1,38 @@
+{
+  "id": 795,
+  "serial_number": 13,
+  "title": "Hra Život",
+  "question": "Hra Život sa hrá na štvorcovej sieti. Niektoré bunky siete sú obývané (označené X). Každá bunka má 8 susedov. Nová generácia sa vytvára z aktuálnej generácie podľa niekoľkých pravidiel. Niektoré z obývaných buniek zomrú (v ďalšej generácii budú prázdne), niektoré z prázdnych buniek sa zas stanú obývanými. Pozrite sa na obrázok, na ktorom je zobrazená prvá a druhá generácia.<br/> <image_1><br/> Pre všetky <b>obývané</b> bunky platí:<ul><li>Bunka so žiadnymi susedmi alebo jedným susedom zomrie na osamelosť (označená oranžovou farbou).</li> <li>Bunka so štyrmi alebo viacerými susedmi zomrie na preľudnenie (označená červenou farbou).</li><li>Bunka s dvomi alebo tromi susedmi prežije.</li></ul><br/> Pre všetky <b>prázdne</b> bunky platí: <ul><li>Bunka s tromi susedmi sa stane obývanou (označená zelenou farbou).</li></ul><br/> Prvá generácia má tvar písmena T (pozri obrázok).<br/> <image_2><br/> Ako bude vyzerať druhá generácia? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "<image_3>"
+    },
+    {
+      "value": "1",
+      "label": "<image_4>"
+    },
+    {
+      "value": "2",
+      "label": "<image_5>"
+    },
+    {
+      "value": "3",
+      "label": "<image_6>"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/11/2011-CZ-09_vysvetlenie.gif",
+    "http://demo.ibobor.sk/sutaz/images/11/2011-CZ-09_zadanie.gif",
+    "http://demo.ibobor.sk/sutaz/images/11/2011-CZ-09_C.png",
+    "http://demo.ibobor.sk/sutaz/images/11/2011-CZ-09_D.png",
+    "http://demo.ibobor.sk/sutaz/images/11/2011-CZ-09_B.png",
+    "http://demo.ibobor.sk/sutaz/images/11/2011-CZ-09_A.png"
+  ],
+  "year": "2011/2012",
+  "category": "Kadet",
+  "type": "image",
+  "correct_index": 2,
+  "correct_answer": "http://demo.ibobor.sk/sutaz/images/11/2011-CZ-09_B.png",
+  "correct_answer_plain": null
+}

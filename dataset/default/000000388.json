@@ -1,0 +1,31 @@
+{
+  "id": 387,
+  "serial_number": 1,
+  "title": "Náhrdelník",
+  "question": "Danka si skladá svoj náhrdelník z korálikov rôznych tvarov. Koráliky navlieka v takomto poradí: Guľôčka Srdiečko Kocka<br> Toto opakuje dovtedy, kým má korálik potrebného tvaru. Danka má na stole 3 srdiečka, 5 guľôčok a 5 kociek.<br> Z koľkých korálikov bude zložený jej náhrdelník?<br> <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "8"
+    },
+    {
+      "value": "1",
+      "label": "10"
+    },
+    {
+      "value": "2",
+      "label": "9"
+    },
+    {
+      "value": "3",
+      "label": "13"
+    }
+  ],
+  "images": [],
+  "year": "2017/2018",
+  "category": "Nevidiaci ZŠ",
+  "type": "text",
+  "correct_index": 1,
+  "correct_answer": "10 ",
+  "correct_answer_plain": "10"
+}

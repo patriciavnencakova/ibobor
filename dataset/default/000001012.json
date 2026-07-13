@@ -1,0 +1,33 @@
+{
+  "id": 1011,
+  "serial_number": 7,
+  "title": "Tabuľka s DPH",
+  "question": "V tabuľke máme informácie o cenách športových tovarov bez DPH.<br/> <image_1><br/> <br/> Do bunky C2 sme napísali nasledujúci vzorec: =B2+B2*F1. Tento vzorec sme skopírovali do buniek C3 až C6. Aká hodnota bude v bunke C6? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "6 841,18 Sk"
+    },
+    {
+      "value": "1",
+      "label": "136 823,60 Sk"
+    },
+    {
+      "value": "2",
+      "label": "987,00 Sk"
+    },
+    {
+      "value": "3",
+      "label": "8 141,00 Sk"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/08/S_USE_SK_001.gif"
+  ],
+  "year": "2008/2009",
+  "category": "Senior",
+  "type": "image",
+  "correct_index": 0,
+  "correct_answer": "6 841,18 Sk ",
+  "correct_answer_plain": "6 841,18 Sk"
+}

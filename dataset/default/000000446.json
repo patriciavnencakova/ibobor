@@ -1,0 +1,33 @@
+{
+  "id": 445,
+  "serial_number": 8,
+  "title": "Korytnačka Kasandra",
+  "question": "Korytnačka Kasandra pozná tri príkazy. Z nich si skladá postupnosti príkazov a tie môže niekoľkokrát opakovať.<br/> <ul><li><code>dopredu K</code> - prejde dopredu o K políčok, pričom K je číslo koľkýkrát sa postupnosť príkazov práve opakuje. Teda pri prvom opakovaní postupnosti príkazov je K=1 a Kasandra prejde dopredu o 1 políčko, pri druhom je K=2 a prejde o 2 políčka a tak ďalej.</li><li><code>vľavo</code> - otočí sa vľavo o 90 stupňov na políčku, na ktorom stojí.</li><li><code>vpravo</code> - otočí sa vpravo o 90 stupňov na políčku, na ktorom stojí.</li></ul><br/> Na začiatku sa Kasandra nachádza v strede svojho pozemku veľkosti 5x5 políčok (farebné políčka) a je otočená doprava.<br/> <image_1><br/> Počas svojho pohybu môže prejsť aj cez niektoré políčka mimo svojho pozemku (biele políčka).<br/> <br/> Ktorú postupnosť inštrukcií musí zopakovať 5-krát, aby prešla všetky políčka svojho pozemku? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "<code>dopredu K, vľavo, dopredu K, vpravo</code>"
+    },
+    {
+      "value": "1",
+      "label": "<code>dopredu K, vľavo, dopredu K, vľavo</code>"
+    },
+    {
+      "value": "2",
+      "label": "<code>vpravo, dopredu K, vľavo, dopredu K</code>"
+    },
+    {
+      "value": "3",
+      "label": "<code>dopredu K, vpravo, dopredu K, vľavo</code>"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/16/2016-DE-08b.png"
+  ],
+  "year": "2016/2017",
+  "category": "Junior",
+  "type": "image",
+  "correct_index": 1,
+  "correct_answer": "<code>dopredu K, vľavo, dopredu K, vľavo</code> ",
+  "correct_answer_plain": "dopredu K, vľavo, dopredu K, vľavo"
+}

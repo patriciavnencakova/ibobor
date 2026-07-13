@@ -1,0 +1,37 @@
+{
+  "id": 926,
+  "serial_number": 12,
+  "title": "Farebná hra",
+  "question": "Na hracej ploche sú takto rozostavené štyri farebné figúrky:<br/> <image_1><br/> <br/> V jednom ťahu sa niektorá figúrka presunie na prázdne susedné políčko.<br/> Hra sa končí, keď už každá figúrka stojí na políčku svojej farby. Šedé políčko ostane prázdne.<br/> Hru môžeme zakresliť ako postupnosť farebných štvorčekov. Každý štvorček svojou farbou vyjadruje, ktorá figúrka prešla na voľné políčko.<br/> <br/> Po ktorej z týchto postupností sa hra na obrázku skončí? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "<image_2>"
+    },
+    {
+      "value": "1",
+      "label": "<image_3>"
+    },
+    {
+      "value": "2",
+      "label": "<image_4>"
+    },
+    {
+      "value": "3",
+      "label": "<image_5>"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/09/K_Farebna_hra_01.gif",
+    "http://demo.ibobor.sk/sutaz/images/09/K_Farebna_hra_C.gif",
+    "http://demo.ibobor.sk/sutaz/images/09/K_Farebna_hra_A.gif",
+    "http://demo.ibobor.sk/sutaz/images/09/K_Farebna_hra_B.gif",
+    "http://demo.ibobor.sk/sutaz/images/09/K_Farebna_hra_D.gif"
+  ],
+  "year": "2009/2010",
+  "category": "Kadet",
+  "type": "image",
+  "correct_index": 2,
+  "correct_answer": "http://demo.ibobor.sk/sutaz/images/09/K_Farebna_hra_B.gif",
+  "correct_answer_plain": null
+}

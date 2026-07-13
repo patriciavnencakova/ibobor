@@ -1,0 +1,31 @@
+{
+  "id": 1045,
+  "serial_number": 11,
+  "title": "28",
+  "question": "Bobor začína prechádzku v čase nula.<br> Každú sekundu môže<br> <ul><li>buď ísť dopredu jeden krok</li><li>alebo ísť dopredu toľko krokov, koľko ich spravil doteraz.</li></ul><br> Napríklad 10 krokovú prechádzku môže prejsť niekoľkými spôsobmi v rôznych časoch:<br> 1 1 1 1 1 1 1 1 1 1 (za 10 sekúnd) <br> 1 1 1 3 1 1 1 1 (za 8 sekúnd)<br> 1 1 2 4 1 1 (za 6 sekúnd)<br> 1 1 2 1 5 (za 5 sekúnd)<br> <br> Ktoré tvrdenie je <b>nesprávne</b>? <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "Minimálny čas 11 krokovej prechádzky je 8 sekúnd."
+    },
+    {
+      "value": "1",
+      "label": "Posledný krok prechádzky môže byť deliteľný 17."
+    },
+    {
+      "value": "2",
+      "label": "7 kroková prechádzka môže trvať dlhšie než 16 kroková."
+    },
+    {
+      "value": "3",
+      "label": "Prechádzka môže mať ľubovoľný počet krokov."
+    }
+  ],
+  "images": [],
+  "year": "2007/2008",
+  "category": "Junior",
+  "type": "text",
+  "correct_index": 0,
+  "correct_answer": "Minimálny čas 11 krokovej prechádzky je 8 sekúnd. ",
+  "correct_answer_plain": "Minimálny čas 11 krokovej prechádzky je 8 sekúnd."
+}

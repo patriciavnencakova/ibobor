@@ -1,0 +1,31 @@
+{
+  "id": 553,
+  "serial_number": 2,
+  "title": "Fotky",
+  "question": "Ak chce Janka vytlačiť svoje fotky, musí mať k počítaču pripojené nejaké zariadenie. <br> Ktoré? <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "tlačiareň"
+    },
+    {
+      "value": "1",
+      "label": "dataprojektor"
+    },
+    {
+      "value": "2",
+      "label": "reproduktory"
+    },
+    {
+      "value": "3",
+      "label": "mikrofón"
+    }
+  ],
+  "images": [],
+  "year": "2014/2015",
+  "category": "Benjamín",
+  "type": "text",
+  "correct_index": 0,
+  "correct_answer": "tlačiareň ",
+  "correct_answer_plain": "tlačiareň"
+}

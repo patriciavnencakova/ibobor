@@ -1,0 +1,34 @@
+{
+  "id": 733,
+  "serial_number": 8,
+  "title": "Krabice a šípky",
+  "question": "Inštrukcia <b>A := B;</b> znamená, že po jej vykonaní šípka vychádzajúca zo štvorca <b>A</b> bude smerovať tam, kde práve teraz smeruje šípka zo štvorca <b>B</b>, pozri obrázok:<br/> <image_1><br/> <br/> Vykonali sme postupnosť inštrukcií, ktoré zmenili šípky takto:<br/> <image_2><br/> <br/> Ktorá postupnosť to bola? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "<b>Z := Y; X := Z; Y := H; </b>"
+    },
+    {
+      "value": "1",
+      "label": "<b>X := Z; Z := X; Y := H; </b>"
+    },
+    {
+      "value": "2",
+      "label": "<b>X := Y; Y := Z; Z := X; </b>"
+    },
+    {
+      "value": "3",
+      "label": "<b>Z := X; X := Y; Y := H; </b>"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/12/2012-CA-01_1.png",
+    "http://demo.ibobor.sk/sutaz/images/12/2012-CA-01_2.png"
+  ],
+  "year": "2012/2013",
+  "category": "Junior",
+  "type": "image",
+  "correct_index": 3,
+  "correct_answer": "<b>Z := X;\nX := Y;\nY := H;\n</b> ",
+  "correct_answer_plain": "Z := X;\nX := Y;\nY := H;"
+}

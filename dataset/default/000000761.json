@@ -1,0 +1,37 @@
+{
+  "id": 760,
+  "serial_number": 5,
+  "title": "Hrádza",
+  "question": "Bobor Radko staval hrádzu. Vedel, že všetky konáre nemôže uložiť rovnako, lebo by sa mu hrádza ľahko pretrhla. Aby bol s prácou rýchlo hotový, vymyslel si vzor a pri stavbe ho stále opakoval. Keď Radko hrádzu dostaval, vyzerala takto:<br/> <image_1><br/> <br/> Ktorý vzor pri stavbe opakoval? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "<image_2>"
+    },
+    {
+      "value": "1",
+      "label": "<image_3>"
+    },
+    {
+      "value": "2",
+      "label": "<image_4>"
+    },
+    {
+      "value": "3",
+      "label": "<image_5>"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/11/2011-SK-14.png",
+    "http://demo.ibobor.sk/sutaz/images/11/2011-SK-14_B.png",
+    "http://demo.ibobor.sk/sutaz/images/11/2011-SK-14_C.png",
+    "http://demo.ibobor.sk/sutaz/images/11/2011-SK-14_D.png",
+    "http://demo.ibobor.sk/sutaz/images/11/2011-SK-14_A.png"
+  ],
+  "year": "2011/2012",
+  "category": "Bobrík",
+  "type": "image",
+  "correct_index": 0,
+  "correct_answer": "http://demo.ibobor.sk/sutaz/images/11/2011-SK-14_B.png",
+  "correct_answer_plain": null
+}

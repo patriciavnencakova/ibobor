@@ -1,0 +1,34 @@
+{
+  "id": 607,
+  "serial_number": 11,
+  "title": "Šifrovaná mapa",
+  "question": "Kolónia bobrov žije v obdĺžnikovej oblasti, ktorá je rozdelená na 6x5 štvorcov tak, ako je to zobrazené na mape vľavo:<br/> <image_1><br/> Aby ostatné zvieratá nevedeli, v ktorých štvorcoch žijú jednotlivé bobry, rozhodli sa, že mapu zašifrujú. V minulom roku vyzerala zašifrovaná mapa tak, ako na obrázku vpravo.<br/> Spôsob šifrovania nepoznáme, ale vieme, že veľký strom v ľavom dolnom rohu sa pri ňom používa ako referenčný bod.<br/> Tento rok vyzerá zašifrovaná mapa takto:<br/> <image_2><br/> Koľko bobrov žije v orámovanej oblasti? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "5"
+    },
+    {
+      "value": "1",
+      "label": "2"
+    },
+    {
+      "value": "2",
+      "label": "3"
+    },
+    {
+      "value": "3",
+      "label": "4"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/14/2014-TW-05_SK.png",
+    "http://demo.ibobor.sk/sutaz/images/14/2014-TW-05_SK-otazka.png"
+  ],
+  "year": "2014/2015",
+  "category": "Senior",
+  "type": "image",
+  "correct_index": 2,
+  "correct_answer": "3 ",
+  "correct_answer_plain": "3"
+}

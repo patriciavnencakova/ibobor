@@ -1,0 +1,37 @@
+{
+  "id": 545,
+  "serial_number": 6,
+  "title": "Perlový náramok",
+  "question": "Princezná si dala na ples náramok s tmavými a svetlými perlami, ktorý je na obrázku:<br/> <image_1> <br/> Po plese náramok rozpojila medzi niektorými dvoma perlami a dala ho do truhličky. Ďalší večer si ho chcela dať znovu, ale v truhličke mala veľa podobných náramkov.<br/> Ktorý náramok mala princezná na plese? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "<image_2>"
+    },
+    {
+      "value": "1",
+      "label": "<image_3>"
+    },
+    {
+      "value": "2",
+      "label": "<image_4>"
+    },
+    {
+      "value": "3",
+      "label": "<image_5>"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/14/2014-CZ-08.png",
+    "http://demo.ibobor.sk/sutaz/images/14/2014-CZ-08_D.png",
+    "http://demo.ibobor.sk/sutaz/images/14/2014-CZ-08_A.png",
+    "http://demo.ibobor.sk/sutaz/images/14/2014-CZ-08_B.png",
+    "http://demo.ibobor.sk/sutaz/images/14/2014-CZ-08_C.png"
+  ],
+  "year": "2014/2015",
+  "category": "Bobrík",
+  "type": "image",
+  "correct_index": 2,
+  "correct_answer": "http://demo.ibobor.sk/sutaz/images/14/2014-CZ-08_B.png",
+  "correct_answer_plain": null
+}

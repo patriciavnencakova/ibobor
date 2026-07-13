@@ -1,0 +1,33 @@
+{
+  "id": 1097,
+  "serial_number": 15,
+  "title": "Výťah",
+  "question": "Na obrázku je zakreslený diagram pre výťah, ktorý sa nachádza v štvorposchodovej budove.<br/> Krúžky v diagrame znamenajú poschodia.<br/> Šípky označujú, z ktorého poschodia na ktoré poschodie výťah niekoho viezol.<br/> Písmená nad šípkou vyjadrujú, kto sa vo výťahu viezol.<br/> <image_1> <br/> Napr. z diagramu vidíme, že z poschodia 3 na poschodie 2 sa viezli Cyril (C) a Dano (D).<br/> Ktorý výrok je pravdivý? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "Na poschodí 1 na výťah nikto nečakal."
+    },
+    {
+      "value": "1",
+      "label": "Adam (A) sa viezol vo výťahu najdlhšie."
+    },
+    {
+      "value": "2",
+      "label": "Dano (D) čakal na výťah na poschodí 3."
+    },
+    {
+      "value": "3",
+      "label": "Výťah viezol ľudí z poschodia 1 na poschodie 0."
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/20k/2020-SK-13.png"
+  ],
+  "year": "Karanténa",
+  "category": "6.-9.roč.",
+  "type": "image",
+  "correct_index": 0,
+  "correct_answer": "Na poschodí 1 na výťah nikto nečakal. ",
+  "correct_answer_plain": "Na poschodí 1 na výťah nikto nečakal."
+}

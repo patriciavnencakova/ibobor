@@ -1,0 +1,33 @@
+{
+  "id": 375,
+  "serial_number": 13,
+  "title": "Hlavolam bobrej dediny",
+  "question": "V bobrej dedine sú 4 domy pospájané 5 tunelmi. Z domov je 7 východov do záhrady tak, ako vidíme na obrázku.<br/> Keď domy postavili, zistili, že sa dá prejsť cez všetky tunely a všetky východy bez toho, aby niektorým tunelom alebo východom išli viac než raz.<br/> <image_1><br/> V ktorom dome majú začať prechádzku, aby sa im to podarilo? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "D"
+    },
+    {
+      "value": "1",
+      "label": "A"
+    },
+    {
+      "value": "2",
+      "label": "C"
+    },
+    {
+      "value": "3",
+      "label": "B"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/17/2017-LT-01A-dedina.png"
+  ],
+  "year": "2017/2018",
+  "category": "Senior",
+  "type": "image",
+  "correct_index": 2,
+  "correct_answer": "C ",
+  "correct_answer_plain": "C"
+}

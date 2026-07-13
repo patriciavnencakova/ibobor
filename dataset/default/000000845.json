@@ -1,0 +1,40 @@
+{
+  "id": 844,
+  "serial_number": 2,
+  "title": "Žaby",
+  "question": "Čarodejník sa pohybuje podľa príkazov zadaných na kartičkách:<br/> <image_1> - sprav jeden krok dopredu<br/> <image_2> - vyčaruj pred sebou žabu<br/> Na opakovanie nejakej činnosti používame čísla a zátvorky takýmto spôsobom:<br/> <image_3> - opakuj štyrikrát: krok dopredu. Čarodejník teda spraví štyri kroky dopredu.<br/> Ak chceme opakovať viac ako jeden príkaz, použijeme aj zátvorky:<br/> <image_4> - opakuj štyrikrát: krok dopredu a krok dopredu. Čarodejník sa teda pohne o osem krokov dopredu.<br/> Čarodejník vyčaroval štyri žaby, ktoré sedia v jednom rade vedľa seba. Ktorým programom sme mu to prikázali?<br/> <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "<image_5>"
+    },
+    {
+      "value": "1",
+      "label": "<image_6>"
+    },
+    {
+      "value": "2",
+      "label": "<image_7>"
+    },
+    {
+      "value": "3",
+      "label": "<image_8>"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/10/2010-CZ-02-Magician.png",
+    "http://demo.ibobor.sk/sutaz/images/10/2010-CZ-02-Frog.png",
+    "http://demo.ibobor.sk/sutaz/images/10/2010-CZ-02-4steps.png",
+    "http://demo.ibobor.sk/sutaz/images/10/2010-CZ-02-8steps.png",
+    "http://demo.ibobor.sk/sutaz/images/10/2010-CZ-02-answerD.png",
+    "http://demo.ibobor.sk/sutaz/images/10/2010-CZ-02-answerC.png",
+    "http://demo.ibobor.sk/sutaz/images/10/2010-CZ-02-answerB.png",
+    "http://demo.ibobor.sk/sutaz/images/10/2010-CZ-02-answerA.png"
+  ],
+  "year": "2010/2011",
+  "category": "Kadet",
+  "type": "image",
+  "correct_index": 2,
+  "correct_answer": "http://demo.ibobor.sk/sutaz/images/10/2010-CZ-02-answerB.png",
+  "correct_answer_plain": null
+}

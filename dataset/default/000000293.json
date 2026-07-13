@@ -1,0 +1,31 @@
+{
+  "id": 292,
+  "serial_number": 5,
+  "title": "Nakladanie zmrzlín",
+  "question": "V stánku predávajú tri druhy zmrzliny: <br> Jahodová, Vanilková, Citrónová<br> Zmrzlinár dodržiava pri nakladaní zmrzliny do kornútka nasledujúci postup:<br> 1.Zober prázdny kornútok.<br> 2.Náhodne si zvoľ jeden druh zmrzliny a z neho daj navrch dva kopčeky na seba.<br> 3.Daj navrch jeden kopček zmrzliny iného druhu. <br> 4.Ak je zákazník spokojný, skonči, inak opakuj postup od bodu dva.<br> Pri nakladaní ktorého kornútka dodržal zmrzlinár postup? <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "Vanilková, citrónová, citrónová, jahodová, jahodová, vanilková"
+    },
+    {
+      "value": "1",
+      "label": "Jahodová, jahodová, citrónová, vanilková, vanilková, jahodová"
+    },
+    {
+      "value": "2",
+      "label": "Citrónová, citrónová, vanilková, jahodová, vanilková, citrónová"
+    },
+    {
+      "value": "3",
+      "label": "Vanilková, citrónová, jahodová"
+    }
+  ],
+  "images": [],
+  "year": "2018/2019",
+  "category": "Nevidiaci ZŠ",
+  "type": "text",
+  "correct_index": 1,
+  "correct_answer": "Jahodová, jahodová, citrónová, vanilková, vanilková, jahodová ",
+  "correct_answer_plain": "Jahodová, jahodová, citrónová, vanilková, vanilková, jahodová"
+}

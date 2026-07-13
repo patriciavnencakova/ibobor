@@ -1,0 +1,37 @@
+{
+  "id": 1086,
+  "serial_number": 4,
+  "title": "Symetrické riadky aj stĺpce",
+  "question": "Riadok <b>je symetrický</b>, ak útvary vidíme sprava doľava v rovnakom poradí ako zľava doprava.<br/> Stĺpec <b>je symetrický</b>, ak útvary vidíme zhora nadol v rovnakom poradí ako zdola nahor. Na obrázku vidíme ukážku symetrického riadku a stĺpca.<br/> <image_1><br/> <br/> Na ktorom obrázku je <b>každý riadok aj každý stĺpec</b> symetrický? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "<image_2>"
+    },
+    {
+      "value": "1",
+      "label": "<image_3>"
+    },
+    {
+      "value": "2",
+      "label": "<image_4>"
+    },
+    {
+      "value": "3",
+      "label": "<image_5>"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/20k/2020-SK-02_ukazka.png",
+    "http://demo.ibobor.sk/sutaz/images/20k/2020-SK-02_B.png",
+    "http://demo.ibobor.sk/sutaz/images/20k/2020-SK-02_C.png",
+    "http://demo.ibobor.sk/sutaz/images/20k/2020-SK-02_A.png",
+    "http://demo.ibobor.sk/sutaz/images/20k/2020-SK-02_D.png"
+  ],
+  "year": "Karanténa",
+  "category": "6.-9.roč.",
+  "type": "image",
+  "correct_index": 1,
+  "correct_answer": "http://demo.ibobor.sk/sutaz/images/20k/2020-SK-02_C.png",
+  "correct_answer_plain": null
+}

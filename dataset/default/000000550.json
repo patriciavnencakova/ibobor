@@ -1,0 +1,38 @@
+{
+  "id": 549,
+  "serial_number": 10,
+  "title": "Digitálne hodiny",
+  "question": "Bobor Jakub má digitálne hodiny. Každá číslica na nich sa skladá zo siedmich dielikov. Jednotlivé číslice vyzerajú takto:<br/> <image_1><br/> Čas sa zobrazuje štyrmi číslicami, na ktorých niektoré dieliky svietia a niektoré nesvietia.<br/> Jakubovi zrazu hodiny spadli. Keď ich zdvihol, všimol si, že jeden dielik nesvieti. <br/> Na hodinách videl takýto čas:<br/> <image_2><br/> Ktorý z nasledujúcich časov mal byť zobrazený na hodinách? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "<image_3>"
+    },
+    {
+      "value": "1",
+      "label": "<image_4>"
+    },
+    {
+      "value": "2",
+      "label": "<image_5>"
+    },
+    {
+      "value": "3",
+      "label": "<image_6>"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/14/2014-JP-02_cislice.png",
+    "http://demo.ibobor.sk/sutaz/images/14/2014-JP-02-fig2.png",
+    "http://demo.ibobor.sk/sutaz/images/14/2014-JP-02-fig_choices3.png",
+    "http://demo.ibobor.sk/sutaz/images/14/2014-JP-02-fig_choices1.png",
+    "http://demo.ibobor.sk/sutaz/images/14/2014-JP-02-fig_choices2.png",
+    "http://demo.ibobor.sk/sutaz/images/14/2014-JP-02-fig_choices4.png"
+  ],
+  "year": "2014/2015",
+  "category": "Bobrík",
+  "type": "image",
+  "correct_index": 1,
+  "correct_answer": "http://demo.ibobor.sk/sutaz/images/14/2014-JP-02-fig_choices1.png",
+  "correct_answer_plain": null
+}

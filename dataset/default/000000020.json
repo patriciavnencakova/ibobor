@@ -1,0 +1,35 @@
+{
+  "id": 19,
+  "serial_number": 11,
+  "title": "Predstavenie",
+  "question": "Herci počas predstavenia prichádzajú <image_1> na divadelnú scénu a odchádzajú z nej <image_2> v poradí, ako je zobrazené na obrázku.<br/> Hra má dve dejstvá, medzi ktorými je prestávka.<br/> <image_3> <br/> Ktorý výrok je <b>klamstvo</b>? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "Princezná a rytier boli spolu na scéne."
+    },
+    {
+      "value": "1",
+      "label": "Kráľ hral iba v prvom dejstve."
+    },
+    {
+      "value": "2",
+      "label": "Rytier prišiel na scénu až po prestávke."
+    },
+    {
+      "value": "3",
+      "label": "Kráľ a drak boli spolu na scéne."
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/20/2020-SK-01_prichod.png",
+    "http://demo.ibobor.sk/sutaz/images/20/2020-SK-01_odchod.png",
+    "http://demo.ibobor.sk/sutaz/images/20/2020-SK-01_Bo.png"
+  ],
+  "year": "2020/2021",
+  "category": "Bobrík",
+  "type": "image",
+  "correct_index": 3,
+  "correct_answer": "Kráľ a drak boli spolu na scéne.  ",
+  "correct_answer_plain": "Kráľ a drak boli spolu na scéne."
+}

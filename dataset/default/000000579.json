@@ -1,0 +1,37 @@
+{
+  "id": 578,
+  "serial_number": 12,
+  "title": "Origami",
+  "question": "Martin si pomocou návodu poskladal papierovú čiapku. Zobral si obdĺžnikový papier, ktorého jedna strana je biela a druhá bledomodrá.<br/> <br/> <image_1><br/> <br/> Martin papier znovu rozložil. Na papieri zostali zhyby, ktoré vznikli pri jeho skladaní podľa jednotlivých inštrukcií.<br/> <br/> Na ktorom obrázku sú čiary očíslované podľa inštrukcií, pri ktorých vznikli? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "<image_2>"
+    },
+    {
+      "value": "1",
+      "label": "<image_3>"
+    },
+    {
+      "value": "2",
+      "label": "<image_4>"
+    },
+    {
+      "value": "3",
+      "label": "<image_5>"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/14/2014-SK-02.png",
+    "http://demo.ibobor.sk/sutaz/images/14/2014-SK-02-a.png",
+    "http://demo.ibobor.sk/sutaz/images/14/2014-SK-02-d.png",
+    "http://demo.ibobor.sk/sutaz/images/14/2014-SK-02-c.png",
+    "http://demo.ibobor.sk/sutaz/images/14/2014-SK-02-b.png"
+  ],
+  "year": "2014/2015",
+  "category": "Kadet",
+  "type": "image",
+  "correct_index": 3,
+  "correct_answer": "http://demo.ibobor.sk/sutaz/images/14/2014-SK-02-b.png",
+  "correct_answer_plain": null
+}

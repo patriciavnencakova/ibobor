@@ -1,0 +1,37 @@
+{
+  "id": 446,
+  "serial_number": 9,
+  "title": "Skener obrázkov",
+  "question": "Dva skenery kódujú čierno-biele obrázky do postupnosti čísiel. Obrázok prechádzajú po riadkoch zľava doprava a zhora nadol. Zapisujú počet bodov rovnakej farby, ktoré nasledujú za sebou.<br/> Skener A pri prechode na nový riadok začne počítať odznovu.<br/> Skener B si nevšíma prechod na nový riadok.<br/> Napr. obrázok<br/> <image_1><br/> zakóduje skener A ako 3, 1, 1, 1, 2, 4<br/> (3 biele, 1 čierny, 1 čierny, 1 biely, 2 čierne, 4 čierne)<br/> a skener B ho zakóduje ako 3, 2, 1, 6<br/> (3 biele, 2 čierne, 1 biely, 6 čiernych)<br/> <br/> Ktorý z nasledujúcich obrázkov zakódujú oba skenery rovnako? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "<image_2>"
+    },
+    {
+      "value": "1",
+      "label": "<image_3>"
+    },
+    {
+      "value": "2",
+      "label": "<image_4>"
+    },
+    {
+      "value": "3",
+      "label": "<image_5>"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/16/2016-MY-02_ukazka.png",
+    "http://demo.ibobor.sk/sutaz/images/16/2016-MY-02_C.png",
+    "http://demo.ibobor.sk/sutaz/images/16/2016-MY-02_A.png",
+    "http://demo.ibobor.sk/sutaz/images/16/2016-MY-02_D.png",
+    "http://demo.ibobor.sk/sutaz/images/16/2016-MY-02_B.png"
+  ],
+  "year": "2016/2017",
+  "category": "Junior",
+  "type": "image",
+  "correct_index": 2,
+  "correct_answer": "http://demo.ibobor.sk/sutaz/images/16/2016-MY-02_D.png",
+  "correct_answer_plain": null
+}

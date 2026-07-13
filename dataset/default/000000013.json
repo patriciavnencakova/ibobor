@@ -1,0 +1,33 @@
+{
+  "id": 12,
+  "serial_number": 4,
+  "title": "Salón krásy",
+  "question": "V salóne krásy pracujú štyri asistentky: Agáta, Božena, Emília a Júlia.<br/> V tabuľke vidíme, aké <b>služby</b> salón poskytuje, ako dlho <b>trvajú</b> a koľko <b>stoja</b>:<table style=\"width:280px;border:1px solid black;\"> <tbody><tr><td style=\"border:1px solid black;padding:2px;text-align:left\"><b>služba</b></td><td style=\"border:1px solid black;padding:2px;text-align:left\"><b>čas</b></td><td style=\"border:1px solid black;padding:2px;text-align:left\"><b>cena</b></td></tr><tr><td style=\"border:1px solid black;padding:2px;text-align:left\">úprava srsti</td><td style=\"border:1px solid black;padding:2px;text-align:left\">8 minút</td><td style=\"border:1px solid black;padding:2px;text-align:left\">3 €</td></tr><tr><td style=\"border:1px solid black;padding:2px;text-align:left\">ostrenie zubov</td><td style=\"border:1px solid black;padding:2px;text-align:left\">7 minút</td><td style=\"border:1px solid black;padding:2px;text-align:left\">5 €</td></tr><tr><td style=\"border:1px solid black;padding:2px;text-align:left\">leštenie chvosta</td><td style=\"border:1px solid black;padding:2px;text-align:left\">3 minúty</td><td style=\"border:1px solid black;padding:2px;text-align:left\">12 €</td></tr></tbody></table>Každá asistentka poskytuje všetky služby.<br/> Asistentky začali práve teraz upravovať zákazníkov, pozri obrázok. Hneď ako asistentka doupravuje zákazníka, začne upravovať ďalšieho zákazníka, ktorý čaká v rade.<br/> Tina jediná čaká v rade.<br/> <image_1><br/> Ktorá asistentka ju bude upravovať? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "Júlia"
+    },
+    {
+      "value": "1",
+      "label": "Agáta"
+    },
+    {
+      "value": "2",
+      "label": "Božena"
+    },
+    {
+      "value": "3",
+      "label": "Emília"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/20/2020-CA-05_Bo.png"
+  ],
+  "year": "2020/2021",
+  "category": "Bobrík",
+  "type": "image",
+  "correct_index": 0,
+  "correct_answer": "Júlia ",
+  "correct_answer_plain": "Júlia"
+}

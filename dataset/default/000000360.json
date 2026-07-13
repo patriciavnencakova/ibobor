@@ -1,0 +1,33 @@
+{
+  "id": 359,
+  "serial_number": 12,
+  "title": "Sťahovanie súborov",
+  "question": "Anita sťahuje tri súbory súčasne. Predpokladáme, že prenosová rýchlosť sa počas celého sťahovania nemení a vždy sa rovnomerne delí medzi ešte nestiahnuté súbory.<br/> Anita vidí aktuálny stav sťahovania:<br/> <image_1><br/> Koľko musí ešte Anita čakať, kým sa stiahnu všetky tri súbory? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "10 minút"
+    },
+    {
+      "value": "1",
+      "label": "4,5 minúty"
+    },
+    {
+      "value": "2",
+      "label": "5 minút"
+    },
+    {
+      "value": "3",
+      "label": "5,5 minúty"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/17/2017-RU-01.png"
+  ],
+  "year": "2017/2018",
+  "category": "Junior",
+  "type": "image",
+  "correct_index": 2,
+  "correct_answer": "5 minút ",
+  "correct_answer_plain": "5 minút"
+}

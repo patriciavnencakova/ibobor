@@ -1,0 +1,37 @@
+{
+  "id": 647,
+  "serial_number": 9,
+  "title": "Batožinový pás",
+  "question": "Pracovník na letisku nakladá kufre na pohyblivý batožinový pás. Ďalší kufor položí až na <b>tretie prázdne</b> miesto na páse.<br/> <image_1><br/> Ako vyzerá batožinový pás, keď naložil všetkých päť kufrov? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "<image_2>"
+    },
+    {
+      "value": "1",
+      "label": "<image_3>"
+    },
+    {
+      "value": "2",
+      "label": "<image_4>"
+    },
+    {
+      "value": "3",
+      "label": "<image_5>"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/13/2013-AT-04_SK_pas.png",
+    "http://demo.ibobor.sk/sutaz/images/13/2013-AT-04_SK_c.png",
+    "http://demo.ibobor.sk/sutaz/images/13/2013-AT-04_SK_b.png",
+    "http://demo.ibobor.sk/sutaz/images/13/2013-AT-04_SK_d.png",
+    "http://demo.ibobor.sk/sutaz/images/13/2013-AT-04_SK_a.png"
+  ],
+  "year": "2013/2014",
+  "category": "Kadet",
+  "type": "image",
+  "correct_index": 1,
+  "correct_answer": "http://demo.ibobor.sk/sutaz/images/13/2013-AT-04_SK_b.png",
+  "correct_answer_plain": null
+}

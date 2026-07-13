@@ -1,0 +1,31 @@
+{
+  "id": 1013,
+  "serial_number": 9,
+  "title": "Heslo",
+  "question": "Bobor Bruno sa chce zaregistrovať do diskusnej skupiny. Pri registrácii si musí zvoliť heslo, ktoré začína písmenom (veľkým alebo malým), za ktorým musí nasledovať päť číslic, napr. <b>A12345</b> alebo <b>a09595</b> (predpokladáme abecedu s 26 písmenami).<br> <br> Koľko rôznych možností má bobor pri výbere svojho hesla? <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "5,200,000 = 26x2x100000"
+    },
+    {
+      "value": "1",
+      "label": "67,600,000 = 262x100000"
+    },
+    {
+      "value": "2",
+      "label": "1,300 = 26x10x5"
+    },
+    {
+      "value": "3",
+      "label": "2,600,000 = 26x100000"
+    }
+  ],
+  "images": [],
+  "year": "2008/2009",
+  "category": "Senior",
+  "type": "text",
+  "correct_index": 0,
+  "correct_answer": "5,200,000  = 26x2x100000 ",
+  "correct_answer_plain": "5,200,000  = 26x2x100000"
+}

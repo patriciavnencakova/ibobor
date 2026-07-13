@@ -1,0 +1,31 @@
+{
+  "id": 88,
+  "serial_number": 8,
+  "title": "Nájdi stôl",
+  "question": "V reštaurácii je v dvoch radoch umiestnených 6 inteligentných stolov označených písmenami. Stôl s písmenom A je najbližšie pri pokladni, stoly s písmenami D, E, F sú pri okne.<br> Každý stôl dokáže prichádzajúcemu robotu poslať informáciu – <b>svoje písmeno a počet robotov</b>, ktoré pri ňom sedia.<br> Do reštaurácie vošiel nový robot.<br> Najradšej by si sadol k stolu, ktorý je voľný.<br> Ak taký v reštaurácii nie je, prisadne si k stolu, pri ktorom sedí najmenej robotov.<br> Ak by mal na výber viac takýchto stolov, chce si radšej sadnúť k stolu, ktorý je najďalej od pokladne a nie je pri okne.<br> Robot dostal od stolov nasledujúce informácie:<br> <b>A 2 B 4 C 2 D 3 E 2 F 3</b><br> Ku ktorému stolu si robot prisadne? <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "E"
+    },
+    {
+      "value": "1",
+      "label": "C"
+    },
+    {
+      "value": "2",
+      "label": "D"
+    },
+    {
+      "value": "3",
+      "label": "A"
+    }
+  ],
+  "images": [],
+  "year": "2020/2021",
+  "category": "Nevidiaci SŠ",
+  "type": "text",
+  "correct_index": 1,
+  "correct_answer": "C",
+  "correct_answer_plain": "C"
+}

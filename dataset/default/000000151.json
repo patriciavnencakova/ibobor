@@ -1,0 +1,31 @@
+{
+  "id": 150,
+  "serial_number": 1,
+  "title": "Zapni 3 žiarovky",
+  "question": "V izbe sú tri žiarovky (X, Y, Z) a štyri tlačidlá (1, 2, 3, 4).<br> Vieme, že<br> <b>tlačidlo 1</b>: zapne žiarovku Y, vypne žiarovku X<br> <b>tlačidlo 2</b>: zapne žiarovky X aj Y, vypne žiarovku Z<br> <b>tlačidlo 3</b>: zapne žiarovku Z, vypne žiarovku Y<br> <b>tlačidlo 4</b>: zapne žiarovku X<br> Ak stlačíme tlačidlo, ktoré má vypnúť takú žiarovku, ktorá je vypnutá, tak táto žiarovka ostane vypnutá. Ak stlačíme tlačidlo, ktoré má zapnúť takú žiarovku, ktorá je zapnutá, žiarovka ostane zapnutá.<br> Momentálne sú všetky žiarovky <b>vypnuté</b>.<br> Dorka chce stlačiť čo <b>najmenej</b> tlačidiel tak, aby zapla všetky 3 žiarovky.<br> Ktorú z nasledujúcich postupností má stlačiť? <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "2 → 3 → 1 → 4"
+    },
+    {
+      "value": "1",
+      "label": "2 → 3"
+    },
+    {
+      "value": "2",
+      "label": "4 → 1 → 3"
+    },
+    {
+      "value": "3",
+      "label": "3 → 1 → 4"
+    }
+  ],
+  "images": [],
+  "year": "2019/2020",
+  "category": "Junior",
+  "type": "text",
+  "correct_index": 3,
+  "correct_answer": "3 → 1 → 4 ",
+  "correct_answer_plain": "3 → 1 → 4"
+}

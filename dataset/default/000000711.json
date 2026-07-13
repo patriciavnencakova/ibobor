@@ -1,0 +1,33 @@
+{
+  "id": 710,
+  "serial_number": 15,
+  "title": "Výber robotov",
+  "question": "V triede majú 15 robotických hračiek, ktoré dokážu počúvať a vykonávať príkazy, ktoré dostávajú.<br/> <image_1><br/> <br/> Teraz žiaci potrebujú len niektoré roboty, a preto im povedali takúto postupnosť príkazov:<br/> <ol><li>Všetky roboty s modrými kolieskami prestaňte počúvať!</li><li>Všetky roboty s nohami aj ramenom, choďte k tabuli!</li><li>Všetky roboty s nohami alebo ramenom prestaňte počúvať!</li><li>Všetky roboty choďte k tabuli!</li></ol>Koľko robotov pôjde k tabuli? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "0"
+    },
+    {
+      "value": "1",
+      "label": "15"
+    },
+    {
+      "value": "2",
+      "label": "5"
+    },
+    {
+      "value": "3",
+      "label": "8"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/12/2012-DE-07_SK.png"
+  ],
+  "year": "2012/2013",
+  "category": "Benjamín",
+  "type": "image",
+  "correct_index": 2,
+  "correct_answer": "5 ",
+  "correct_answer_plain": "5"
+}

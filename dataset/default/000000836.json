@@ -1,0 +1,33 @@
+{
+  "id": 835,
+  "serial_number": 8,
+  "title": "Náhrdelník",
+  "question": "Janka si chce vyrobiť nový náhrdelník z 10 bielych korálikov. Päť už má navlečených, ale ďalších 5 musí vyvliecť z tohto náhrdelníka:<br/> <image_1><br/> <br/> Najmenej koľko čiernych korálikov z neho musí vyvliecť, aby z neho vyvliekla aj 5 bielych? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "7"
+    },
+    {
+      "value": "1",
+      "label": "5"
+    },
+    {
+      "value": "2",
+      "label": "4"
+    },
+    {
+      "value": "3",
+      "label": "6"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/10/nahrdelnikCB.png"
+  ],
+  "year": "2010/2011",
+  "category": "Benjamín",
+  "type": "image",
+  "correct_index": 1,
+  "correct_answer": "5 ",
+  "correct_answer_plain": "5"
+}

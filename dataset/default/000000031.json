@@ -1,0 +1,33 @@
+{
+  "id": 30,
+  "serial_number": 10,
+  "title": "Krajské mestá",
+  "question": "Filip vytvoril tabuľku krajských miest Slovenska s ich počtom obyvateľov.<br/> <image_1><br/> Ktoré čísla v nej vyznačil zelenou farbou? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "obsahujúce číslicu 3"
+    },
+    {
+      "value": "1",
+      "label": "medzi 55000 a 78000"
+    },
+    {
+      "value": "2",
+      "label": "štyri najmenšie"
+    },
+    {
+      "value": "3",
+      "label": "väčšie ako 80000"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/20/2020-SK-20_B.png"
+  ],
+  "year": "2020/2021",
+  "category": "Benjamín",
+  "type": "image",
+  "correct_index": 2,
+  "correct_answer": "štyri najmenšie ",
+  "correct_answer_plain": "štyri najmenšie"
+}

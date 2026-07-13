@@ -1,0 +1,33 @@
+{
+  "id": 579,
+  "serial_number": 13,
+  "title": "Hra od mimozemšťanov",
+  "question": "Bobríci našli hru, ktorú zanechali na bobrej hrádzi mimozemšťania. <br/> Bola v nej mapa bludiska. Na nej je umiestnený robot a poklad.<br/> <br/> <image_1><br/> <br/> Hra obsahuje štyri postupnosti príkazov v neznámom jazyku. Jednotlivé príkazy v nich znamenajú: hore, dole, vľavo, vpravo. Po zadaní príkazu prejde robot v bludisku na ďalší štvorec v danom smere. Nevieme ale, ktorý príkaz označuje ktorý zo smerov.<br/> <br/> Ktorú postupnosť príkazov má hráč použiť, aby sa jeho robot dostal k pokladu? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "Ha', poS, poS, Ha', Ha', nIH"
+    },
+    {
+      "value": "1",
+      "label": "Ha', Ha', poS, Ha'"
+    },
+    {
+      "value": "2",
+      "label": "Ha', poS, poS, Ha', nIH, Ha'"
+    },
+    {
+      "value": "3",
+      "label": "Ha', poS, nIH, vI'ogh, Ha', poS"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/14/2014-SI-02.png"
+  ],
+  "year": "2014/2015",
+  "category": "Kadet",
+  "type": "image",
+  "correct_index": 0,
+  "correct_answer": "Ha', poS, poS, Ha', Ha', nIH ",
+  "correct_answer_plain": "Ha', poS, poS, Ha', Ha', nIH"
+}

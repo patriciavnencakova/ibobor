@@ -1,0 +1,33 @@
+{
+  "id": 342,
+  "serial_number": 10,
+  "title": "Graf zrážok",
+  "question": "Graf zobrazuje priemerné mesačné úhrny zrážok na Slovensku v rokoch 2015 a 2016.<br/> <image_1><br/> Ktoré z týchto tvrdení je pravdivé? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "Najsuchší mesiac v roku 2015 bol február."
+    },
+    {
+      "value": "1",
+      "label": "Najviac zrážok v roku 2016 spadlo v máji."
+    },
+    {
+      "value": "2",
+      "label": "Vo februári 2015 pršalo oveľa viac ako vo februári 2016."
+    },
+    {
+      "value": "3",
+      "label": "V januári a máji roku 2015 spadlo približne rovnaké množstvo zrážok."
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/17/2017-SK-18-zrazky.png"
+  ],
+  "year": "2017/2018",
+  "category": "Kadet",
+  "type": "image",
+  "correct_index": 3,
+  "correct_answer": "V januári a máji roku 2015 spadlo približne rovnaké množstvo zrážok. ",
+  "correct_answer_plain": "V januári a máji roku 2015 spadlo približne rovnaké množstvo zrážok."
+}

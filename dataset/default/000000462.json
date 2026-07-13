@@ -1,0 +1,34 @@
+{
+  "id": 461,
+  "serial_number": 9,
+  "title": "Hra 3-a-viac",
+  "question": "Hra 3-a-viac sa hrá na štvorčekovej hracej ploche s niekoľkými druhmi farebných kameňov. Hráč môže vymieňať susedné dva kamene. Ak sa touto výmenou ocitne vedľa seba v riadku alebo v stĺpci 3 a viac rovnakých kameňov, tieto kamene zmiznú. Ostatné kamene spadnú dolu. Po páde kameňov sa proces opakuje pokiaľ platí, že sa vedľa seba ocitne tri a viac rovnakých kameňov.<br/> Hráč vyhráva, ak všetky kamene zmiznú. Na obrázku vidíme konkrétne rozmiestnenie kameňov, výmenu zeleného a žltého kameňa a následné padanie a miznutie ostatných kameňov. V tejto hre hráč nevyhral, lebo mu ostali dva zelené kamene.<br/> <image_1><br/> Ktoré dva kamene má hráč vymeniť, aby vyhral pri takomto rozmiestnení kameňov?<br/> <image_2> <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "kamene označené 2"
+    },
+    {
+      "value": "1",
+      "label": "kamene označené 4"
+    },
+    {
+      "value": "2",
+      "label": "kamene označené 3"
+    },
+    {
+      "value": "3",
+      "label": "kamene označené 1"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/16/2016-RU-07_ukazka.png",
+    "http://demo.ibobor.sk/sutaz/images/16/2016-RU-07_zadanie.png"
+  ],
+  "year": "2016/2017",
+  "category": "Senior",
+  "type": "image",
+  "correct_index": 3,
+  "correct_answer": "kamene označené 1 ",
+  "correct_answer_plain": "kamene označené 1"
+}

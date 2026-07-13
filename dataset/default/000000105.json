@@ -1,0 +1,35 @@
+{
+  "id": 104,
+  "serial_number": 6,
+  "title": "Stánok s balónmi",
+  "question": "Štyri bobry si postupne berú balóny zo stánku.<br/> <image_1><br/> Keď je bobor na rade, vezme si ten balón, ktorý je k nemu najbližšie.<br/> Emil si vezme zelený <image_2>balón.<br/> Kto si vezme červený <image_3>balón? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "Emil"
+    },
+    {
+      "value": "1",
+      "label": "Ema"
+    },
+    {
+      "value": "2",
+      "label": "Dana"
+    },
+    {
+      "value": "3",
+      "label": "Hugo"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/19/2019-PK-01.png",
+    "http://demo.ibobor.sk/sutaz/images/19/2019-PK-01_zeleny.png",
+    "http://demo.ibobor.sk/sutaz/images/19/2019-PK-01_cerveny.png"
+  ],
+  "year": "2019/2020",
+  "category": "Drobec",
+  "type": "image",
+  "correct_index": 2,
+  "correct_answer": "Dana ",
+  "correct_answer_plain": "Dana"
+}

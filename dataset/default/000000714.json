@@ -1,0 +1,33 @@
+{
+  "id": 713,
+  "serial_number": 3,
+  "title": "Rodokmeň",
+  "question": "Program zobrazuje rodokmeň Jakuba. Jakub má tri deti, ktoré sú s ním spojené čiarami. Deti sú nakreslené zľava doprava, podľa poradia v akom sa narodili. Pod nimi sú rovnakým spôsobom nakreslené ich deti, atď.<br/> V programe je zvolená Nela (pozri obrázok). Ak chceme zvoliť iného člena Jakubovej rodiny, musíme povedať postupnosť príkazov. Program ovládame hlasom a pozná tieto príkazy<br/> <b>rodič</b> - zvolí rodiča práve zvolenej osoby<br/> <b>dieťa <i>N</i></b> – zvolí N-té dieťa práve zvolenej osoby. Napríklad: <b>dieťa 3</b> zvolí tretie dieťa.<br/> <image_1><br/> Koho zvolí program, ak je aktuálne zvolená Nela a povieme tieto príkazy: <br/> <b>rodič, rodič, rodič, dieťa 3, dieťa 2, dieťa 1</b> <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "Viktor"
+    },
+    {
+      "value": "1",
+      "label": "Šimon"
+    },
+    {
+      "value": "2",
+      "label": "Filip"
+    },
+    {
+      "value": "3",
+      "label": "Nina"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/12/2012-HU-06.png"
+  ],
+  "year": "2012/2013",
+  "category": "Kadet",
+  "type": "image",
+  "correct_index": 1,
+  "correct_answer": "Šimon ",
+  "correct_answer_plain": "Šimon"
+}

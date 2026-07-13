@@ -1,0 +1,33 @@
+{
+  "id": 708,
+  "serial_number": 13,
+  "title": "Bobrofón",
+  "question": "Bobor Bruno si postavil Bobrofón z dvoch kmeňov a zo šiestich latiek. Dokáže na ňom hrať tak, že poskakuje na jednej latke alebo skočí z latky, na ktorej stojí, na niektorú susednú.<br/> <image_1><br/> Melódie, ktoré takto zahral, si začal zapisovať pomocou troch značiek<br/> = znamená „poskoč na tej latke, na ktorej si“<br/> - znamená „skoč doľava“<br/> + znamená „skoč doprava“<br/> Napríklad: - + znamená vyskoč na niektorú latku Bobrofónu, skoč doľava, skoč doprava.<br/> Ktorá z melódií sa <b>nedá</b> zahrať na Bobrofóne? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "- - - = + - = - - = = = +"
+    },
+    {
+      "value": "1",
+      "label": "- - - - - = + + + + + = - - - - -"
+    },
+    {
+      "value": "2",
+      "label": "- - + - - + - - = - + - -"
+    },
+    {
+      "value": "3",
+      "label": "+ = = = + = = = + = = = + = = = +"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/12/2012-CZ-04_bobrofon.jpg"
+  ],
+  "year": "2012/2013",
+  "category": "Benjamín",
+  "type": "image",
+  "correct_index": 2,
+  "correct_answer": "- - + - - + - - = - + - - ",
+  "correct_answer_plain": "- - + - - + - - = - + - -"
+}

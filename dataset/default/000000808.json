@@ -1,0 +1,31 @@
+{
+  "id": 807,
+  "serial_number": 10,
+  "title": "Hod kockou",
+  "question": "Mladí bobríci sa chceli po škole spolu zahrať. Nevedeli sa však dohodnúť, kde to bude, preto sa rozhodli hádzať kockou s číslami 1 až 6. Rozhodnú sa podľa týchto pravidiel:<pre>AK je prvý hod väčší než druhý<br>TAK do lesa<br>INAK AK je tretí hod menší než prvý<br> TAK k rieke<br> INAK na ihrisko</pre>Ako mohli hádzať kockou, keď na základe pravidiel išli na ihrisko? <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "Prvý hod 6, druhý hod 6, tretí hod 2."
+    },
+    {
+      "value": "1",
+      "label": "Prvý hod 5, druhý hod 3, tretí hod 6."
+    },
+    {
+      "value": "2",
+      "label": "Prvý hod 3, druhý hod 4, tretí hod 3."
+    },
+    {
+      "value": "3",
+      "label": "Prvý hod 2, druhý hod 4, tretí hod 1."
+    }
+  ],
+  "images": [],
+  "year": "2011/2012",
+  "category": "Junior",
+  "type": "text",
+  "correct_index": 2,
+  "correct_answer": "Prvý hod 3, druhý hod 4, tretí hod 3. ",
+  "correct_answer_plain": "Prvý hod 3, druhý hod 4, tretí hod 3."
+}

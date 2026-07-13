@@ -1,0 +1,31 @@
+{
+  "id": 512,
+  "serial_number": 3,
+  "title": "Telefónny zoznam",
+  "question": "Bobor Max hľadá vo veľmi dlhom zozname telefónne číslo svojho priateľa. Nevie, ako sa presne píše jeho meno. Vyhľadávací program umožňuje použiť pri vyhľadávaní:<br> znak <b>?</b> keď nepoznáme práve jeden znak<br> znak <b>&amp;</b> keď nepoznáme práve dva po sebe idúce znaky<br> znak <b>%</b> keď nepoznáme zvyšok mena<br> Napríklad, ak napíšeme <b>Ti%</b> program nájde mená Tibor, Tina, atď.<br> Max zadá: <b>E?o B&amp;zi%</b><br> Ktoré z týchto mien program nájde? <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "Elo Bazinovský"
+    },
+    {
+      "value": "1",
+      "label": "Edon Breza"
+    },
+    {
+      "value": "2",
+      "label": "Emil Brezička"
+    },
+    {
+      "value": "3",
+      "label": "Edo Brezinka"
+    }
+  ],
+  "images": [],
+  "year": "2015/2016",
+  "category": "Junior",
+  "type": "text",
+  "correct_index": 3,
+  "correct_answer": "Edo Brezinka ",
+  "correct_answer_plain": "Edo Brezinka"
+}

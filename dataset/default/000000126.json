@@ -1,0 +1,33 @@
+{
+  "id": 125,
+  "serial_number": 6,
+  "title": "Sadenie mrkvy",
+  "question": "V počítačovej hre hráč riadi robotického zajačika po štvorčekovej hracej ploche.<br/> Po stlačení klávesovej šípky sa zajačik posunie na štvorček v smere šípky, ktorú hráč stlačil. Ak hráč stlačí kláves M, zajačik zasadí mrkvu na ten štvorček, v ktorom sa nachádza.<br/> Riadky štvorčekovej siete sú označené číslami 1 až 5, stĺpce písmenami A až E.<br/> <image_1><br/> Zajačik začal na štvorčeku C4 a hráč postupne stlačil klávesy:<br/> ← ←↑M → ↑→ → M<br/> Na ktoré dva štvorčeky zasadil zajačik mrkvu? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "na A3 a na E2"
+    },
+    {
+      "value": "1",
+      "label": "na A2 a na E2"
+    },
+    {
+      "value": "2",
+      "label": "na A3 a na D2"
+    },
+    {
+      "value": "3",
+      "label": "na A2 a na D2"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/19/2019-SK-06_B.png"
+  ],
+  "year": "2019/2020",
+  "category": "Benjamín",
+  "type": "image",
+  "correct_index": 2,
+  "correct_answer": "na A3 a na D2 ",
+  "correct_answer_plain": "na A3 a na D2"
+}

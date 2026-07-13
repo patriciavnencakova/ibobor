@@ -1,0 +1,37 @@
+{
+  "id": 1083,
+  "serial_number": 1,
+  "title": "Potvorky a diagram",
+  "question": "Jožko sa hral s obrázkami potvoriek. Podľa počtu očí ich usporiadal do troch radov.<br/> <image_1><br/> <br/> K takto usporiadaným potvorkám vytvoril diagram.<br/> Ktorý diagram Jožko vytvoril?<br/> <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "<image_2>"
+    },
+    {
+      "value": "1",
+      "label": "<image_3>"
+    },
+    {
+      "value": "2",
+      "label": "<image_4>"
+    },
+    {
+      "value": "3",
+      "label": "<image_5>"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/20k/2020-SK-03.png",
+    "http://demo.ibobor.sk/sutaz/images/20k/2020-SK-03_C.png",
+    "http://demo.ibobor.sk/sutaz/images/20k/2020-SK-03_B.png",
+    "http://demo.ibobor.sk/sutaz/images/20k/2020-SK-03_A.png",
+    "http://demo.ibobor.sk/sutaz/images/20k/2020-SK-03_D.png"
+  ],
+  "year": "Karanténa",
+  "category": "6.-9.roč.",
+  "type": "image",
+  "correct_index": 1,
+  "correct_answer": "http://demo.ibobor.sk/sutaz/images/20k/2020-SK-03_B.png",
+  "correct_answer_plain": null
+}

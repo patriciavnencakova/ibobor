@@ -1,0 +1,33 @@
+{
+  "id": 168,
+  "serial_number": 4,
+  "title": "Priame lety",
+  "question": "Letecká spoločnosť ponúka lety medzi mestami podľa obrázku:<br/> <image_1><br/> Aerolínie musia zrušiť niektoré priame lety, ale chcú zabezpečiť, aby sa cestujúci aj naďalej dostali do všetkých týchto miest.<br/> Ak napríklad zrušia priamy let medzi San Franciscom a Washingtonom, cestujúci môžu letieť zo San Francisca do New Yorku a odtiaľ do Washingtonu.<br/> Aký maximálny počet priamych letov môžu aerolínie zrušiť? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "8"
+    },
+    {
+      "value": "1",
+      "label": "7"
+    },
+    {
+      "value": "2",
+      "label": "9"
+    },
+    {
+      "value": "3",
+      "label": "6"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/19/2019-BE-07.png"
+  ],
+  "year": "2019/2020",
+  "category": "Senior",
+  "type": "image",
+  "correct_index": 0,
+  "correct_answer": "8 ",
+  "correct_answer_plain": "8"
+}

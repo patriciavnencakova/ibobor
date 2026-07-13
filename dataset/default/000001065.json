@@ -1,0 +1,31 @@
+{
+  "id": 1064,
+  "serial_number": 15,
+  "title": "41",
+  "question": "Na webovej stránke predajcu počítačov sú o jednom notebooku takéto údaje:<br> Intel Celeron M Processor 530 (1.73GHz, 533MHz FSB, 1MB L2 cache) - Intel GM965 - 512 MB DDRII 667MHz (1) - 80 GB 5.4krpm S-ATA - 15.4\" TFT WXGA 1280 x 800 BrightView - Intel Graphics Media Accelerator X3100 384MB shared - DVD+/-RW SuperMulti DL fixed - Modem56K/LAN10/100 - 802.11b/g WLAN - no Bluetooth - ports: 3x USB 2.0, audio in/out, VGA, RJ-11, RJ-45 - 6-cell Li-Ion Battery- ExpressCard/54 slot -Secure Digital slot - travel battery connector - no dock - 2.49kg - 32,3x358x266 - FREE DOS<br> <br> Na základe týchto údajov určite, ktoré z nižšie uvedených tvrdení o ponúkanom notebooku je <b>pravdivé</b>. <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "môže sa pripojiť do internetu pomocou WiFi"
+    },
+    {
+      "value": "1",
+      "label": "jeho disk sa točí rýchlosťou 5400 otáčok za sekundu"
+    },
+    {
+      "value": "2",
+      "label": "má rozhranie FireWire"
+    },
+    {
+      "value": "3",
+      "label": "má dvojjadrový procesor"
+    }
+  ],
+  "images": [],
+  "year": "2007/2008",
+  "category": "Senior",
+  "type": "text",
+  "correct_index": 0,
+  "correct_answer": "môže sa pripojiť do internetu pomocou WiFi ",
+  "correct_answer_plain": "môže sa pripojiť do internetu pomocou WiFi"
+}

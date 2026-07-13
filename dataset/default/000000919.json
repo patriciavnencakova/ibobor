@@ -1,0 +1,33 @@
+{
+  "id": 918,
+  "serial_number": 4,
+  "title": "Kde býva Fero?",
+  "question": "Fero šiel na bicykli do školy. Cestou prešiel štyrmi križovatkami. Na každej mal na výber tri smery: mohol ísť doprava (P), doľava (Ľ), alebo rovno (R). Vybral si túto postupnosť smerov:<br/> Ľ – P – Ľ – R. <br/> Keď prišiel do školy, pozrel sa na mapu.<br/> <br/> <image_1><br/> <br/> V ktorom zo 4 označených domov býva Fero? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "4"
+    },
+    {
+      "value": "1",
+      "label": "2"
+    },
+    {
+      "value": "2",
+      "label": "1"
+    },
+    {
+      "value": "3",
+      "label": "3"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/09/K_Kde_byva_Fero.gif"
+  ],
+  "year": "2009/2010",
+  "category": "Kadet",
+  "type": "image",
+  "correct_index": 1,
+  "correct_answer": "2 ",
+  "correct_answer_plain": "2"
+}

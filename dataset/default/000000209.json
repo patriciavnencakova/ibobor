@@ -1,0 +1,37 @@
+{
+  "id": 208,
+  "serial_number": 2,
+  "title": "Princeznin náramok",
+  "question": "Princezná si pri prechádzke v hradnom parku všimla na zemi rozhádzané koráliky. Cestou k <b>jazierku</b> ich zbierala a navliekala na šnúrku.<br/> <br/> <image_1><br/> <br/> Ktorý náramok vytvorila? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "<image_2>"
+    },
+    {
+      "value": "1",
+      "label": "<image_3>"
+    },
+    {
+      "value": "2",
+      "label": "<image_4>"
+    },
+    {
+      "value": "3",
+      "label": "<image_5>"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/18/2018-SK-32.png",
+    "http://demo.ibobor.sk/sutaz/images/18/2018-SK-32_c.png",
+    "http://demo.ibobor.sk/sutaz/images/18/2018-SK-32_b.png",
+    "http://demo.ibobor.sk/sutaz/images/18/2018-SK-32_a.png",
+    "http://demo.ibobor.sk/sutaz/images/18/2018-SK-32_d.png"
+  ],
+  "year": "2018/2019",
+  "category": "Bobrík",
+  "type": "image",
+  "correct_index": 0,
+  "correct_answer": "http://demo.ibobor.sk/sutaz/images/18/2018-SK-32_c.png",
+  "correct_answer_plain": null
+}

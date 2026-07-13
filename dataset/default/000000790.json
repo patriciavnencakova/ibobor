@@ -1,0 +1,39 @@
+{
+  "id": 789,
+  "serial_number": 7,
+  "title": "Programovanie robota",
+  "question": "Robot pozná dva príkazy:<br/> <b>chod_dolava</b>: prejde 10 krokov dopredu a otočí sa o 90 stupňov doľava.<br/> <b>chod_doprava</b>: prejde 10 krokov dopredu a otočí sa o 90 stupňov doprava.<br/> Na začiatku je robot natočený na sever: <image_1>. Počas chôdze kreslí čiaru.<br/> Napísali sme program, v ktorom sme použili <b>trikrát</b> príkaz <b>chod_dolava</b> a <b>dvakrát</b> príkaz <b>chod_doprava</b>.<br/> Ktorú kresbu <b>nemôže</b> robot nakresliť?<br/> <image_2> počiatočná pozícia <image_3> koncová pozícia <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "<image_4>"
+    },
+    {
+      "value": "1",
+      "label": "<image_5>"
+    },
+    {
+      "value": "2",
+      "label": "<image_6>"
+    },
+    {
+      "value": "3",
+      "label": "<image_7>"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/11/2011-NL-15_sipka.gif",
+    "http://demo.ibobor.sk/sutaz/images/11/robotinit.gif",
+    "http://demo.ibobor.sk/sutaz/images/11/robotend.gif",
+    "http://demo.ibobor.sk/sutaz/images/11/robot_c.gif",
+    "http://demo.ibobor.sk/sutaz/images/11/robot_d.gif",
+    "http://demo.ibobor.sk/sutaz/images/11/robot_b.gif",
+    "http://demo.ibobor.sk/sutaz/images/11/robot_a.gif"
+  ],
+  "year": "2011/2012",
+  "category": "Kadet",
+  "type": "image",
+  "correct_index": 1,
+  "correct_answer": "http://demo.ibobor.sk/sutaz/images/11/robot_d.gif",
+  "correct_answer_plain": null
+}

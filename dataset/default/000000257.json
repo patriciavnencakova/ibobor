@@ -1,0 +1,33 @@
+{
+  "id": 256,
+  "serial_number": 8,
+  "title": "Ktorá cesta?",
+  "question": "Bobor Filip prešiel na svojej prechádzke 8 kilometrov. Vždy, keď prešiel 1 kilometer, odbočil buď vpravo alebo vľavo. Odbočenie si zapísal do zošita symbolom 1 alebo 0, ale zabudol, ktorý symbol znamená ktoré odbočenie.<br/> V zošite má zapísané: <b>1000100</b><br/> Všimni si, že na ceste je vyznačená začiatočná pozícia bobra a smer, ktorým išiel.<br/> <image_1><br/> Po ktorých z týchto ciest mohol ísť? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "B alebo C"
+    },
+    {
+      "value": "1",
+      "label": "A alebo D"
+    },
+    {
+      "value": "2",
+      "label": "B alebo D"
+    },
+    {
+      "value": "3",
+      "label": "len po ceste B"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/18/2018-CY-04.png"
+  ],
+  "year": "2018/2019",
+  "category": "Junior",
+  "type": "image",
+  "correct_index": 2,
+  "correct_answer": "B alebo D ",
+  "correct_answer_plain": "B alebo D"
+}

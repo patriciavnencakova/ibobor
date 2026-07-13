@@ -1,0 +1,37 @@
+{
+  "id": 29,
+  "serial_number": 9,
+  "title": "Náhrdelník: hviezdy a mesiace",
+  "question": "Lenka chce náhrdelník, ktorý vidíš na obrázku:<br/> <image_1><br/> Preto zatelefonovala zlatníkovi takéto inštrukcie:<ul><li>spoj jednu hviezdu a jeden mesiac</li><li>predchádzajúci krok zopakuj ešte dvakrát</li><li>zober tieto 3 časti a spoj ich</li><li>na každý koniec pridaj hviezdu a oba konce spoj</li></ul><br/> Podľa jej inštrukcií sa dá vytvoriť viacero náhrdelníkov.<br/> Ktorý náhrdelník sa <b>nedá</b> vytvoriť podľa Lenkiných inštrukcií? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "<image_2>"
+    },
+    {
+      "value": "1",
+      "label": "<image_3>"
+    },
+    {
+      "value": "2",
+      "label": "<image_4>"
+    },
+    {
+      "value": "3",
+      "label": "<image_5>"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/20/2020-BE-03.png",
+    "http://demo.ibobor.sk/sutaz/images/20/2020-BE-03_A.png",
+    "http://demo.ibobor.sk/sutaz/images/20/2020-BE-03_D.png",
+    "http://demo.ibobor.sk/sutaz/images/20/2020-BE-03_B.png",
+    "http://demo.ibobor.sk/sutaz/images/20/2020-BE-03_C.png"
+  ],
+  "year": "2020/2021",
+  "category": "Benjamín",
+  "type": "image",
+  "correct_index": 3,
+  "correct_answer": "http://demo.ibobor.sk/sutaz/images/20/2020-BE-03_C.png",
+  "correct_answer_plain": null
+}

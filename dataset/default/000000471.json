@@ -1,0 +1,33 @@
+{
+  "id": 470,
+  "serial_number": 3,
+  "title": "Šaty",
+  "question": "Katka si chce kúpiť nové šaty, ktoré<ul><li>majú krátke rukávy</li><li>vpredu majú viac ako tri gombíky</li><li>a na rukávoch majú hviezdičky.</li></ul><br/> Katka videla takéto šaty v jednom z týchto obchodov:<br/> <image_1><br/> V ktorom obchode videla šaty, ktoré si chce kúpiť? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "Bebranova"
+    },
+    {
+      "value": "1",
+      "label": "B&A"
+    },
+    {
+      "value": "2",
+      "label": "Bob Yorker"
+    },
+    {
+      "value": "3",
+      "label": "Bom Baylor"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/15/2015-SK-05_vsetky.png"
+  ],
+  "year": "2015/2016",
+  "category": "Bobrík",
+  "type": "image",
+  "correct_index": 1,
+  "correct_answer": "B&A ",
+  "correct_answer_plain": "B&A"
+}

@@ -1,0 +1,31 @@
+{
+  "id": 726,
+  "serial_number": 1,
+  "title": "Poštový holub",
+  "question": "Bobor Bruno je na prázdninách. Chce poslať poštu svojej kamarátke Babsi. Dobre však vie, že poštový holub je veľmi zvedavý. Preto sa Bruno a Babsi dohodli, že svoje správy budú šifrovať. Bruno napísal:<br> <b>ONURBERBODASMAMENSARKEJEVORTSOAN</b><br> To znamená: Na ostrove je krasne Mam sa dobre Bruno<br> Babsi mu napísala:<br> <b>ISBABAMODSAVARPZOROPIMOKTESV</b><br> <br> Akú správu poslala Babsi?<br> <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "Napis viacej Babsi"
+    },
+    {
+      "value": "1",
+      "label": "Dakujem za spravy Babsi"
+    },
+    {
+      "value": "2",
+      "label": "Tesim sa ked sa vratis Babsi"
+    },
+    {
+      "value": "3",
+      "label": "Vsetko mi porozpravas doma Babsi"
+    }
+  ],
+  "images": [],
+  "year": "2012/2013",
+  "category": "Junior",
+  "type": "text",
+  "correct_index": 3,
+  "correct_answer": "Vsetko mi porozpravas doma Babsi ",
+  "correct_answer_plain": "Vsetko mi porozpravas doma Babsi"
+}

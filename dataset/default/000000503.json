@@ -1,0 +1,37 @@
+{
+  "id": 502,
+  "serial_number": 8,
+  "title": "Kresliace roboty",
+  "question": "Jakub vytvoril dva kresliace roboty, ktoré dokážu vykonávať dva príkazy:<br/> <b>choď</b> - robot prejde dopredu jeden krok a pritom kreslí čiaru<br/> <b>otoč_sa</b> - robot sa otočí o 90 stupňov<br/> Jakub položil roboty na zem a poslal im nasledujúce príkazy:<b>choď, otoč_sa, choď</b><br/> <image_1><br/> Keď roboty príkazy vykonávali, Jakub si všimol, že jeden robot vykoná príkaz <b>otoč_sa</b> tak, že sa vždy otočí o 90 stupňov <b>vpravo</b>, ale druhý sa vždy otočí o 90 stupňov <b>vľavo</b>.<br/> Potom sa Jakub pokúšal nakresliť veľa obrázkov tak, že postavil oba roboty na rôzne miesta na zemi a poslal im <b>rovnaké príkazy</b>. Príkazy vymýšľal tak, aby roboty neboli nikdy v rovnakom čase na rovnakom mieste. Ak ale prejdú oba po jednej čiare (každý v inom čase), tak to nevadí.<br/> Ktorý obrázok <b>nemohli</b> nakresliť?<br/> <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "<image_2>"
+    },
+    {
+      "value": "1",
+      "label": "<image_3>"
+    },
+    {
+      "value": "2",
+      "label": "<image_4>"
+    },
+    {
+      "value": "3",
+      "label": "<image_5>"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/15/2015-SK-01_priklad.png",
+    "http://demo.ibobor.sk/sutaz/images/15/2015-SK-01_C.png",
+    "http://demo.ibobor.sk/sutaz/images/15/2015-SK-01_D.png",
+    "http://demo.ibobor.sk/sutaz/images/15/2015-SK-01_B.png",
+    "http://demo.ibobor.sk/sutaz/images/15/2015-SK-01_A.png"
+  ],
+  "year": "2015/2016",
+  "category": "Kadet",
+  "type": "image",
+  "correct_index": 1,
+  "correct_answer": "http://demo.ibobor.sk/sutaz/images/15/2015-SK-01_D.png",
+  "correct_answer_plain": null
+}

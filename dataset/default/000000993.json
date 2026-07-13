@@ -1,0 +1,31 @@
+{
+  "id": 992,
+  "serial_number": 3,
+  "title": "Fotka na webovej stránke",
+  "question": "Bobor Kubo sa zaľúbil do bobrej slečny Bibi. Vytvoril pre ňu webovú stránku s obrázkom, na ktorom sa sama kúpe v jazere. Hneď potom jej napísal ľúbostný list, v ktorom chváli svoj čin.<br> Rozhorčená Bibi mu okamžite zavolala a žiadala, aby jej fotografiu odstránil z webu.<br> <br> Ktorý z nasledujúcich výrokov je pravdivý? <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "Kubo môže odstrániť fotku z webu, no potrvá ešte 24 hodín, kým Bibinu fotku na webe nikto nenájde."
+    },
+    {
+      "value": "1",
+      "label": "Kubo môže odstrániť fotku z webu, no Bibi si nikdy nemôže byť istá, že ju už nikto na webe nenájde."
+    },
+    {
+      "value": "2",
+      "label": "Kubo môže odstrániť fotku z webu a Bibinu fotku viac nikto na webe nenájde."
+    },
+    {
+      "value": "3",
+      "label": "Kubo nemusí odstraňovať fotku z webu, lebo Bibi ho o to nemá právo žiadať."
+    }
+  ],
+  "images": [],
+  "year": "2008/2009",
+  "category": "Junior",
+  "type": "text",
+  "correct_index": 1,
+  "correct_answer": "Kubo môže odstrániť fotku z webu, no Bibi si nikdy nemôže byť istá, že ju už nikto na webe nenájde. ",
+  "correct_answer_plain": "Kubo môže odstrániť fotku z webu, no Bibi si nikdy nemôže byť istá, že ju už nikto na webe nenájde."
+}

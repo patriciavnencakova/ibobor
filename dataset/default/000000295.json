@@ -1,0 +1,31 @@
+{
+  "id": 294,
+  "serial_number": 7,
+  "title": "Textový kurzor",
+  "question": "Malý bobor chcel napísať na počítači text <br> <b>počítač je super</b><br> Text, ktorý napísal bol:<br> <b>počítítač je supeper</b><br> Po dopísaní si všimol, že v texte sa nachádza viacero chýb. Kurzor je nastavený na konci textu.<br> Bobrík vie zatiaľ používať iba tieto klávesy: <br> <b>Delete, Backspace, Home, End, šípka vľavo, šípka vpravo.</b><br> Najmenej koľko klávesov musí stlačiť, aby bol text bez chýb? <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "16"
+    },
+    {
+      "value": "1",
+      "label": "9"
+    },
+    {
+      "value": "2",
+      "label": "10"
+    },
+    {
+      "value": "3",
+      "label": "11"
+    }
+  ],
+  "images": [],
+  "year": "2018/2019",
+  "category": "Nevidiaci ZŠ",
+  "type": "text",
+  "correct_index": 1,
+  "correct_answer": "9 ",
+  "correct_answer_plain": "9"
+}

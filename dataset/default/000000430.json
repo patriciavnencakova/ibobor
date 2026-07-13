@@ -1,0 +1,37 @@
+{
+  "id": 429,
+  "serial_number": 7,
+  "title": "Reštaurácia RIVER",
+  "question": "Reštaurácia RIVER má nad vchodom svetielkujúci nápis. Jednotlivé písmená cyklicky menia svoju farbu. Po modrej farbe nasleduje červená, po červenej žltá, po žltej farbe modrá. Každá farba svieti určitý časový interval<br/> modrá – 3 minúty<br/> červená – 2 minúty<br/> žltá – 1 minútu<br/> O 18:00 hod. zapol majiteľ reštaurácie nápis a písmená mali takéto farby:<br/> <image_1><br/> Ako vyzeral nápis v priebehu šiestej minúty od zapnutia? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "<image_2>"
+    },
+    {
+      "value": "1",
+      "label": "<image_3>"
+    },
+    {
+      "value": "2",
+      "label": "<image_4>"
+    },
+    {
+      "value": "3",
+      "label": "<image_5>"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/16/2016-SK-08a_ukazka.png",
+    "http://demo.ibobor.sk/sutaz/images/16/2016-SK-08a_C.png",
+    "http://demo.ibobor.sk/sutaz/images/16/2016-SK-08a_A.png",
+    "http://demo.ibobor.sk/sutaz/images/16/2016-SK-08a_B.png",
+    "http://demo.ibobor.sk/sutaz/images/16/2016-SK-08a_D.png"
+  ],
+  "year": "2016/2017",
+  "category": "Kadet",
+  "type": "image",
+  "correct_index": 0,
+  "correct_answer": "http://demo.ibobor.sk/sutaz/images/16/2016-SK-08a_C.png",
+  "correct_answer_plain": null
+}

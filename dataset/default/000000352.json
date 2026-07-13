@@ -1,0 +1,33 @@
+{
+  "id": 351,
+  "serial_number": 4,
+  "title": "Rýchlokorčuliari",
+  "question": "Sedem korčuliarov ide v jednom rade za sebou. Na začiatku sú zoradení ako na obrázku (V je prvý, P je posledný).<br/> <image_1><br/> Korčuliar, ktorý je prvý, sa najrýchlejšie unaví, takže každú celú minútu sa prvý korčuliar presunie na koniec radu.<br/> Kto bude prvý v čase 60 minút 30 sekúnd? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "T"
+    },
+    {
+      "value": "1",
+      "label": "V"
+    },
+    {
+      "value": "2",
+      "label": "R"
+    },
+    {
+      "value": "3",
+      "label": "P"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/17/2017-CA-03.png"
+  ],
+  "year": "2017/2018",
+  "category": "Junior",
+  "type": "image",
+  "correct_index": 2,
+  "correct_answer": "R ",
+  "correct_answer_plain": "R"
+}

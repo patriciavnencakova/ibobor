@@ -1,0 +1,34 @@
+{
+  "id": 55,
+  "serial_number": 5,
+  "title": "Kódovanie prstami",
+  "question": "Aby sa dalo na prstoch jednej ruky ukázať väčšie číslo ako 5, navrhli sme pre jednotlivé prsty takéto kódovanie: zdvihnutý palec znamená 1, ukazovák 2, prostredník 4, prsteník 8 a malíček 16.<br/> Ukazované číslo potom vypočítame ako <b>súčet</b> čísel, ktoré znamenajú jednotlivé zdvihnuté prsty.<br/> Na obrázkoch vidíme, ako ukážeme číslo 1 a číslo 6:<br/> <image_1><br/> Aké číslo ukazuje táto ruka?<br/> <image_2> <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "2"
+    },
+    {
+      "value": "1",
+      "label": "30"
+    },
+    {
+      "value": "2",
+      "label": "64"
+    },
+    {
+      "value": "3",
+      "label": "0123456789"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/20/2020-DE-01_ukazka.png",
+    "http://demo.ibobor.sk/sutaz/images/20/2020-DE-01.png"
+  ],
+  "year": "2020/2021",
+  "category": "Junior",
+  "type": "image",
+  "correct_index": 1,
+  "correct_answer": " 30 ",
+  "correct_answer_plain": "30"
+}

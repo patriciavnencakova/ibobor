@@ -1,0 +1,33 @@
+{
+  "id": 919,
+  "serial_number": 5,
+  "title": "Prezentácia",
+  "question": "<image_1><br/> <br/> Julka predniesla v triede prezentáciu o svojej kamarátke Janke. Keďže bola výborná, učiteľ ju požiadal, aby prezentáciu zverejnila na školskej webovej stránke.<br/> <br/> Čo by mala Julka urobiť? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "Zverejniť prezentáciu na školskej stránke čo najskôr."
+    },
+    {
+      "value": "1",
+      "label": "Spýtať sa Jankiných rodičov, či súhlasia so zverejnením prezentácie na školskej stránke."
+    },
+    {
+      "value": "2",
+      "label": "Neposlúchnuť učiteľovu žiadosť a nechať si prezentáciu iba pre seba."
+    },
+    {
+      "value": "3",
+      "label": "Spýtať sa svojej mamy, či so zverejnením prezentácie súhlasí."
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/09/K_Prezentacia.jpg"
+  ],
+  "year": "2009/2010",
+  "category": "Kadet",
+  "type": "image",
+  "correct_index": 1,
+  "correct_answer": "Spýtať sa Jankiných rodičov, či súhlasia so zverejnením prezentácie na školskej stránke. ",
+  "correct_answer_plain": "Spýtať sa Jankiných rodičov, či súhlasia so zverejnením prezentácie na školskej stránke."
+}

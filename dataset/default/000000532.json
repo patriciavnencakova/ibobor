@@ -1,0 +1,37 @@
+{
+  "id": 531,
+  "serial_number": 7,
+  "title": "Benzín",
+  "question": "Na obrázku je zobrazená mapa oblasti. Krúžkami sú označené mestá. Číslo v krúžku mesta znamená, koľko litrov natankuje vodič v tomto meste. Ak sú dve mestá na mape spojené čiarou, dá sa prejsť z jedného mesta do druhého. Číslo pri čiare označuje spotrebu benzínu v litroch.<br/> Jakub sa nachádza v žltom meste a má prázdnu nádrž.<br/> <image_1><br/> Ktorými mestami má Jakub prechádzať, aby sa dostal do červeného mesta a aby mal vždy benzín na prejdenie do ďalšieho mesta? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "<image_2>"
+    },
+    {
+      "value": "1",
+      "label": "<image_3>"
+    },
+    {
+      "value": "2",
+      "label": "<image_4>"
+    },
+    {
+      "value": "3",
+      "label": "<image_5>"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/15/2015-IL-01_mapa.png",
+    "http://demo.ibobor.sk/sutaz/images/15/2015-IL-01_B.png",
+    "http://demo.ibobor.sk/sutaz/images/15/2015-IL-01_D.png",
+    "http://demo.ibobor.sk/sutaz/images/15/2015-IL-01_A.png",
+    "http://demo.ibobor.sk/sutaz/images/15/2015-IL-01_C.png"
+  ],
+  "year": "2015/2016",
+  "category": "Senior",
+  "type": "image",
+  "correct_index": 2,
+  "correct_answer": "http://demo.ibobor.sk/sutaz/images/15/2015-IL-01_A.png",
+  "correct_answer_plain": null
+}

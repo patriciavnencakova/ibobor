@@ -1,0 +1,31 @@
+{
+  "id": 81,
+  "serial_number": 1,
+  "title": "Kódovanie prstami",
+  "question": "Aby sa dalo na prstoch jednej ruky ukázať väčšie číslo, navrhli sme pre jednotlivé prsty takéto kódovanie: <b>zdvihnutý</b> palec znamená 1, ukazovák 2, prostredník 4, prstenník 8 a malíček 16.<br> Číslo, ktoré ukazuje ruka, potom vypočítame ako <b>súčet</b> čísel, ktoré znamenajú jednotlivé prsty.<br> Napríklad<ul><li>ak je zdvihnutý len palec, ruka ukazuje číslo 1</li><li>ak je zdvihnutý ukazovák a prostredník, ruka ukazuje číslo 6</li></ul>Aké číslo ukazuje ruka, ak sú zdvihnuté všetky prsty okrem palca? <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "0123456789"
+    },
+    {
+      "value": "1",
+      "label": "30"
+    },
+    {
+      "value": "2",
+      "label": "64"
+    },
+    {
+      "value": "3",
+      "label": "2"
+    }
+  ],
+  "images": [],
+  "year": "2020/2021",
+  "category": "Nevidiaci SŠ",
+  "type": "text",
+  "correct_index": 1,
+  "correct_answer": " 30 ",
+  "correct_answer_plain": "30"
+}

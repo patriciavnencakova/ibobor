@@ -1,0 +1,37 @@
+{
+  "id": 243,
+  "serial_number": 10,
+  "title": "Zmeň slovo",
+  "question": "Peter má prístroj, ktorý mení štvorpísmenové slová tromi rôznymi spôsobmi.<br/> Na obrázku vidíme, ako prístroj zmenil slovo VODA a ako zmenil slovo ZUBY.<br/> <image_1><br/> Ktorý z týchto 4 prístrojov je Petrov? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "<image_2>"
+    },
+    {
+      "value": "1",
+      "label": "<image_3>"
+    },
+    {
+      "value": "2",
+      "label": "<image_4>"
+    },
+    {
+      "value": "3",
+      "label": "<image_5>"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/18/2018-TR-07_VODA_ZUBY.png",
+    "http://demo.ibobor.sk/sutaz/images/18/2018-TR-07_D.png",
+    "http://demo.ibobor.sk/sutaz/images/18/2018-TR-07_A.png",
+    "http://demo.ibobor.sk/sutaz/images/18/2018-TR-07_B.png",
+    "http://demo.ibobor.sk/sutaz/images/18/2018-TR-07_C.png"
+  ],
+  "year": "2018/2019",
+  "category": "Kadet",
+  "type": "image",
+  "correct_index": 1,
+  "correct_answer": "http://demo.ibobor.sk/sutaz/images/18/2018-TR-07_A.png",
+  "correct_answer_plain": null
+}

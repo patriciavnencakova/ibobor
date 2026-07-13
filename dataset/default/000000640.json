@@ -1,0 +1,33 @@
+{
+  "id": 639,
+  "serial_number": 1,
+  "title": "Prelievanie",
+  "question": "Bobria mama chce navariť 5 l polievky a 3 l čaju. V kuchyni má 3 nádoby bez vyznačenej mierky. Vie, že jedna nádoba má objem 8 l, druhá 4 l a tretia 1 l. Ak chce odmerať iné množstvo vody, môže preliať známe množstvo vody z jednej nádoby do druhej.<br/> Napr. ak preleje z plnej 8 l nádoby vodu do 1 l nádoby, ostane jej v 8 l nádobe 7 l, pozri obrázok.<br/> <image_1><br/> Na začiatku je v najväčšej nádobe 8 litrov vody a zvyšné nádoby sú prázdne.<br/> Koľko najmenej preliatí musí mama urobiť, aby získala 5 l vody na polievku v jednej nádobe a 3 l vody na čaj v druhej nádobe? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "3 preliatia"
+    },
+    {
+      "value": "1",
+      "label": "4 preliatia"
+    },
+    {
+      "value": "2",
+      "label": "2 preliatia"
+    },
+    {
+      "value": "3",
+      "label": "5 preliatí"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/13/2013-TW-03_SK_ukazka.png"
+  ],
+  "year": "2013/2014",
+  "category": "Kadet",
+  "type": "image",
+  "correct_index": 0,
+  "correct_answer": "3 preliatia ",
+  "correct_answer_plain": "3 preliatia"
+}

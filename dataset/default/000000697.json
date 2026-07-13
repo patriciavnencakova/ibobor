@@ -1,0 +1,34 @@
+{
+  "id": 696,
+  "serial_number": 1,
+  "title": "Pád",
+  "question": "Maťo navrhol odolného robota. Má tvar červenej guľôčky, dokáže sa gúľať, meniť smer svojho pohybu a nevadí mu pád. Keď ho položí do poschodového labyrintu, začne sa gúľať vpravo. Vždy, keď spadne na nižšie poschodie, zmení smer svojho pohybu. Na obrázku vidieť, ako robot padal a skončil v priehradke 3:<br/> <image_1><br/> V ktorej priehradke skončí, keď bude padať v tomto labyrinte?<br/> <image_2> <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "4"
+    },
+    {
+      "value": "1",
+      "label": "3"
+    },
+    {
+      "value": "2",
+      "label": "2"
+    },
+    {
+      "value": "3",
+      "label": "1"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/12/2012-FR-10_SK_ukazka.png",
+    "http://demo.ibobor.sk/sutaz/images/12/2012-FR-10_SK_zadanie.png"
+  ],
+  "year": "2012/2013",
+  "category": "Benjamín",
+  "type": "image",
+  "correct_index": 1,
+  "correct_answer": "3 ",
+  "correct_answer_plain": "3"
+}

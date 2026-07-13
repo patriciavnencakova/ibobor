@@ -1,0 +1,37 @@
+{
+  "id": 971,
+  "serial_number": 12,
+  "title": "Náhrdelníky",
+  "question": "Bobrie dievčatá sú parádnice, na každú oslavu si vyrábajú nové náhrdelníky. Majú na to <b>špeciálny stroj</b>. Musia mu však zadať <b>vzor</b>, ktorý má potom stroj pri navliekaní opakovať.<br/> <br/> Podľa ktorého vzoru im stroj vyrobí takýto náhrdelník?<br/> <image_1> <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "<image_2>"
+    },
+    {
+      "value": "1",
+      "label": "<image_3>"
+    },
+    {
+      "value": "2",
+      "label": "<image_4>"
+    },
+    {
+      "value": "3",
+      "label": "<image_5>"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/08/B_PUZ_SK_201.gif",
+    "http://demo.ibobor.sk/sutaz/images/08/K_INF_SK_201-d\n.gif",
+    "http://demo.ibobor.sk/sutaz/images/08/K_INF_SK_201-a\n.gif",
+    "http://demo.ibobor.sk/sutaz/images/08/K_INF_SK_201-b\n.gif",
+    "http://demo.ibobor.sk/sutaz/images/08/K_INF_SK_201-c\n.gif"
+  ],
+  "year": "2008/2009",
+  "category": "Benjamín",
+  "type": "image",
+  "correct_index": 1,
+  "correct_answer": "http://demo.ibobor.sk/sutaz/images/08/K_INF_SK_201-a\n.gif",
+  "correct_answer_plain": null
+}

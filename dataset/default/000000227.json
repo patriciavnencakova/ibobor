@@ -1,0 +1,33 @@
+{
+  "id": 226,
+  "serial_number": 8,
+  "title": "Električkou do ZOO",
+  "question": "V meste sú štyri linky električiek tak, ako vidíme na obrázku.<br/> Prestupné sú zastávky T1, T2 a T3.<br/> <image_1><br/> Filip cestoval do ZOO. Na svojej ceste iba raz prestúpil.<br/> Na ktorej z nasledujúcich zastávok nastúpil? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "Dubová"
+    },
+    {
+      "value": "1",
+      "label": "Brezová"
+    },
+    {
+      "value": "2",
+      "label": "Čerešňová"
+    },
+    {
+      "value": "3",
+      "label": "Agátová"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/18/2018-TW-02.png"
+  ],
+  "year": "2018/2019",
+  "category": "Benjamín",
+  "type": "image",
+  "correct_index": 0,
+  "correct_answer": "Dubová ",
+  "correct_answer_plain": "Dubová"
+}

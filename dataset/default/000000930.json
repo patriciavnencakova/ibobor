@@ -1,0 +1,33 @@
+{
+  "id": 929,
+  "serial_number": 15,
+  "title": "Hudobný štýl",
+  "question": "Kamarát Ti ukázal hudobné záznamy troch rôznych hudobných štýlov. Líšia sa v počte úderov za minútu. Vieš, že hip-hop udiera 100-krát, house 120-krát a drum'n'bass 150-krát. Čísla v hornom riadku záznamu sú sekundy.<br/> <br/> <image_1><br/> <br/> Urči jednotlivé hudobné štýly. <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "Prvý je house, druhý je drum'n'bass a tretí je hip-hop."
+    },
+    {
+      "value": "1",
+      "label": "Prvý je drum'n'bass, druhý je hip-hop tretí je house."
+    },
+    {
+      "value": "2",
+      "label": "Prvý je drum'n'bass, druhý je house a tretí je hip-hop."
+    },
+    {
+      "value": "3",
+      "label": "Prvý je hip-hop, druhý je house tretí je drum'n'bass."
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/09/K_Hudobny_styl.gif"
+  ],
+  "year": "2009/2010",
+  "category": "Kadet",
+  "type": "image",
+  "correct_index": 0,
+  "correct_answer": "Prvý je house, druhý je drum'n'bass a tretí je hip-hop. ",
+  "correct_answer_plain": "Prvý je house, druhý je drum'n'bass a tretí je hip-hop."
+}

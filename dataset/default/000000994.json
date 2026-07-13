@@ -1,0 +1,31 @@
+{
+  "id": 993,
+  "serial_number": 4,
+  "title": "Posielanie fotografie",
+  "question": "Rozhodol som sa, že kamarátovi pošlem e-mailom zopár fotiek z lyžovačky. Doma mám však pomalé pripojenie na internet – už prvý súbor s názvom FOTO1.BMP sa odosielal 54 sekúnd! Bol v ňom obrázok veľkosti 600x400 bodov.<br> Preto som sa rozhodol, že ďalšiu fotku FOTO2.BMP najprv zmenším v grafickom editore a až potom ju odošlem.<br> <br> Koľko sekúnd približne trvalo poslanie, ak som fotku zmenšil na veľkosť 200x133? <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "6 sekúnd"
+    },
+    {
+      "value": "1",
+      "label": "17 sekúnd"
+    },
+    {
+      "value": "2",
+      "label": "28 sekúnd"
+    },
+    {
+      "value": "3",
+      "label": "9 sekúnd"
+    }
+  ],
+  "images": [],
+  "year": "2008/2009",
+  "category": "Junior",
+  "type": "text",
+  "correct_index": 0,
+  "correct_answer": "6 sekúnd ",
+  "correct_answer_plain": "6 sekúnd"
+}

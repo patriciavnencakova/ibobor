@@ -1,0 +1,33 @@
+{
+  "id": 518,
+  "serial_number": 9,
+  "title": "Divadlo",
+  "question": "V bobrom divadle sú tri reflektory. Jeden z nich svieti na červeno, druhý na zeleno a tretí na modro. Farba osvetlenia na javisku závisí od toho, ktoré reflektory práve svietia. Závislosť je znázornená v tabuľke.<br/> <image_1><br/> Od začiatku predstavenia majú reflektory dodržiavať nasledujúci rozpis:<ul><li>Červený reflektor opakuje sekvenciu: minútu nesvieti a minútu svieti.</li><li>Zelený reflektor opakuje sekvenciu: striedavo pol minúty nesvieti a pol minúty svieti.</li><li>Modrý reflektor opakuje sekvenciu: dve minúty svieti a dve minúty nesvieti.</li></ul>Práve začína druhá minúta predstavenia.<br/> Aké svetlo bude na javisku nasledujúcu pol minútu? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "zelené"
+    },
+    {
+      "value": "1",
+      "label": "červené"
+    },
+    {
+      "value": "2",
+      "label": "biele"
+    },
+    {
+      "value": "3",
+      "label": "fialové"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/15/2015-SK-04.png"
+  ],
+  "year": "2015/2016",
+  "category": "Junior",
+  "type": "image",
+  "correct_index": 3,
+  "correct_answer": "fialové ",
+  "correct_answer_plain": "fialové"
+}

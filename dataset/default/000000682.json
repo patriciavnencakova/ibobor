@@ -1,0 +1,33 @@
+{
+  "id": 681,
+  "serial_number": 13,
+  "title": "Neodboč doľava",
+  "question": "V meste je dopravná zápcha! V tak hustej premávke sa nedá odbočiť doľava. Otec sa ponáhľa autom domov z hotela, kde pracuje. Na obrázku je pre každú ulicu uvedený čas v minútach, za ktorý sa dá ulica prejsť.<br/> <image_1><br/> Za aký <b>najmenší</b> čas môže prísť otec z hotela domov, keď nemôže odbočovať doľava? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "35 minút"
+    },
+    {
+      "value": "1",
+      "label": "33 minút"
+    },
+    {
+      "value": "2",
+      "label": "32 minút"
+    },
+    {
+      "value": "3",
+      "label": "30 minút"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images//13/2013-AT-08_SK.png"
+  ],
+  "year": "2013/2014",
+  "category": "Senior",
+  "type": "image",
+  "correct_index": 3,
+  "correct_answer": "30 minút ",
+  "correct_answer_plain": "30 minút"
+}

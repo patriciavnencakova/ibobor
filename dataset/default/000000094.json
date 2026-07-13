@@ -1,0 +1,31 @@
+{
+  "id": 93,
+  "serial_number": 4,
+  "title": "Čokolády",
+  "question": "Na stole sú 4 čokolády rôznych tvarov – krúžok, srdiečko, štvorec, hviezdička. Zuzka si môže vybrať iba jednu z nich a chce si vybrať tú s najväčšou hmotnosťou.<br> Vie že:<ul><li>krúžok je ťažší ako srdiečko</li><li>srdiečko je ťažšie ako štvorec</li><li>hviezdička je ťažšia ako štvorec</li><li>srdiečko je ťažšie ako hviezdička</li></ul>Aký tvar si Zuzka vyberie? <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "krúžok"
+    },
+    {
+      "value": "1",
+      "label": "štvorec"
+    },
+    {
+      "value": "2",
+      "label": "hviezdička"
+    },
+    {
+      "value": "3",
+      "label": "srdiečko"
+    }
+  ],
+  "images": [],
+  "year": "2020/2021",
+  "category": "Nevidiaci ZŠ",
+  "type": "text",
+  "correct_index": 0,
+  "correct_answer": "krúžok ",
+  "correct_answer_plain": "krúžok"
+}

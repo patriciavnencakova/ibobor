@@ -1,0 +1,33 @@
+{
+  "id": 619,
+  "serial_number": 8,
+  "title": "Riadenie robota",
+  "question": "Deti sa hrajú s robotom. Keď povedia <b>dopredu</b>, robot kráča dopredu, až kým nenarazí. Keď povedia <b>vľavo</b>, robot sa otočí vľavo a zostane na mieste. Keď povedia <b>vpravo</b>, otočí sa vpravo a zostane na mieste.<br/> <image_1><br/> Robot stojí v ľavom dolnom rohu dvora a je otočený ku škole. Deti chcú, aby prišiel ku kroviu v pravom hornom rohu dvora. <br/> Ktorá postupnosť povelov je správna? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "vpravo, dopredu, vľavo, dopredu, vľavo, dopredu"
+    },
+    {
+      "value": "1",
+      "label": "dopredu, vpravo, dopredu, vľavo, dopredu, vľavo, dopredu, vľavo, dopredu"
+    },
+    {
+      "value": "2",
+      "label": "dopredu, vpravo, dopredu, vľavo, dopredu, vpravo, dopredu, vľavo, dopredu"
+    },
+    {
+      "value": "3",
+      "label": "vpravo, dopredu, vľavo, dopredu, vpravo, dopredu, vpravo"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/13/2013-SK-04.png"
+  ],
+  "year": "2013/2014",
+  "category": "Bobrík",
+  "type": "image",
+  "correct_index": 2,
+  "correct_answer": "dopredu, vpravo, dopredu, vľavo, dopredu, vpravo, dopredu, vľavo, dopredu ",
+  "correct_answer_plain": "dopredu, vpravo, dopredu, vľavo, dopredu, vpravo, dopredu, vľavo, dopredu"
+}

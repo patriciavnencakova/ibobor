@@ -1,0 +1,31 @@
+{
+  "id": 968,
+  "serial_number": 9,
+  "title": "Typy písma",
+  "question": "Bobry dlho používali starý e-mailový program BoborLook 1.0. Ten však nevedel pracovať s typmi písma, preto si dohodli, že v bobrích e-mailoch budú chápať <ul><li>text uzavretý do zátvoriek (tučný) ako <b>tučný</b>,</li><li>text uzavretý do zátvoriek [kurzíva] ako <i>kurzíva</i> a</li><li>text uzavretý do zátvoriek {podčiarknutý} ako <u>podčiarknutý</u>.</li><br> </ul>Novší e-mailový program BoborBird 1.5 už vie zobraziť typy písma, pritom však pozná aj starý spôsob znázorňovania.<br> Ako sa zobrazí text<br> <br> (Bobor) [je {šikovný}]<br> <br> keď ho jeden bobor pošle pomocou BoborLook 1.0 a druhý ho prijme v BoborBird 1.5? <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "<b>Bobor</b> <i>je <u>šikovný</u></i>"
+    },
+    {
+      "value": "1",
+      "label": "<i>Bobor</i> <u>je <b>šikovný</b></u>"
+    },
+    {
+      "value": "2",
+      "label": "<u>Bobor</u> <i>je</i> <b>šikovný</b>"
+    },
+    {
+      "value": "3",
+      "label": "<b>Bobor</b> je <i>šikovný</i>"
+    }
+  ],
+  "images": [],
+  "year": "2008/2009",
+  "category": "Benjamín",
+  "type": "text",
+  "correct_index": 0,
+  "correct_answer": "<b>Bobor</b> <i>je <u>šikovný</u></i> ",
+  "correct_answer_plain": "Bobor je šikovný"
+}

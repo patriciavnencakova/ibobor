@@ -1,0 +1,33 @@
+{
+  "id": 569,
+  "serial_number": 3,
+  "title": "Miesta na hranie",
+  "question": "Bobor sa rozhoduje podľa nasledujúcich pravidiel, kde sa bude hrať:<br/> <ul><li>Ak je dnes slnečno, <b>pláva v rieke</b>.</li><li>Ak dnes prší, ale včera bolo slnečno, hrá sa <b>doma</b>.</li><li>Ak dnes prší, aj včera pršalo, ale predvčerom bolo slnečno, hrá sa <b>na brehu rieky</b>.</li><li>Inak: <b>nehrá sa</b>.</li></ul><br/> V nasledujúcej tabuľke je znázornené počasie počas niekoľkých dní v novembri:<br/> <image_1><br/> Kde sa bobor hral 7. 11.? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "nehral sa"
+    },
+    {
+      "value": "1",
+      "label": "doma"
+    },
+    {
+      "value": "2",
+      "label": "v rieke"
+    },
+    {
+      "value": "3",
+      "label": "na brehu rieky"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/14/2014-JP-05-SK.png"
+  ],
+  "year": "2014/2015",
+  "category": "Kadet",
+  "type": "image",
+  "correct_index": 3,
+  "correct_answer": "na brehu rieky ",
+  "correct_answer_plain": "na brehu rieky"
+}

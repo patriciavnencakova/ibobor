@@ -1,0 +1,33 @@
+{
+  "id": 488,
+  "serial_number": 9,
+  "title": "Rodinka Úžasných",
+  "question": "V rodinke Úžasných má každý člen nejaké zvláštne schopnosti. <br/> Dcéry dedia všetky schopnosti od mamy, synovia od otca.<br/> Každý člen rodiny sa narodí s vlastnou zvláštnou schopnosťou. Nasledujúci obrázok ukazuje vzťahy v rodine. Pod menom každého člena rodiny je zapísaná schopnosť, s ktorou sa narodil.<br/> <image_1><br/> Ktorý výrok je pravdivý? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "Teta Marta má schopnosti: tancovanie a plávanie."
+    },
+    {
+      "value": "1",
+      "label": "Tomáš má schopnosti: jazdectvo, maľovanie a fotografovanie"
+    },
+    {
+      "value": "2",
+      "label": "Sára má schopnosti: šplhanie, programovanie a maľovanie."
+    },
+    {
+      "value": "3",
+      "label": "Tomáš zdedil schopnosť rýchlopočítať od starej mamy Anny."
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/15/2015-AT-01_B.png"
+  ],
+  "year": "2015/2016",
+  "category": "Benjamín",
+  "type": "image",
+  "correct_index": 1,
+  "correct_answer": "Tomáš má schopnosti: jazdectvo, maľovanie a fotografovanie ",
+  "correct_answer_plain": "Tomáš má schopnosti: jazdectvo, maľovanie a fotografovanie"
+}

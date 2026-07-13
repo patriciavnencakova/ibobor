@@ -1,0 +1,34 @@
+{
+  "id": 466,
+  "serial_number": 14,
+  "title": "Navliekanie šnúrok",
+  "question": "Na navliekanie šnúrky do topánky sa používa robot. Polovica každej šnúrky je modrá (M) a polovica oranžová (O). Navliekanie modrej šnúrky začína zľava a oranžovej sprava.<br/> Robot rozumie príkazom:<br/> <code>DNU</code> : prestrč šnúrku dnu cez dierku<br/> <code>VON</code> : prestrč šnúrku von cez dierku<br/> <code>+</code> : dierka o riadok vyššie<br/> <code>N {…}</code> : N-krát opakuj príkazy, ktoré sú v zátvorkách<br/> <code>X</code> : ako ďalšiu použi dierku, ktorá je na opačnej strane, t.j. ak si navliekal vľavo, prejdi doprava a naopak<br/> Tradičný spôsob navliekania šnúrok na obrázku robot vykoná podľa programu:<br/> <image_1><br/> <code>M: VON, O: VON, 6 {O: + X VON, M: + X VON} </code><br/> Ktorým programom navlečie robot šnúrky tak, ako na tomto obrázku?<br/> <image_2> <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "<code>M: DNU, O: DNU, M: + VON, 2 {O: + + X VON, M: X DNU + + X VON, O: X DNU} O: + + X VON, M: X DNU + VON</code>"
+    },
+    {
+      "value": "1",
+      "label": "<code>M: VON, O: VON, M: + DNU, 2 {O: + + X DNU, M: X VON + + X DNU, O: X VON} O: + + X DNU, M: X VON + DNU</code>"
+    },
+    {
+      "value": "2",
+      "label": "<code>O: DNU, M: DNU, M: + VON, 2 {M: + + X VON, O: X DNU + + X VON, M: X DNU} M: + + X VON, O: X DNU + VON</code>"
+    },
+    {
+      "value": "3",
+      "label": "<code>M: VON, O: VON, M: + VON, 2 {O: + + X VON, M: X DNU + + X VON, O: X DNU} O: + + X VON, M: X DNU + VON</code>"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/16/2016-AT-05_S_ukazka.png",
+    "http://demo.ibobor.sk/sutaz/images/16/2016-AT-05_S_zadanie.png"
+  ],
+  "year": "2016/2017",
+  "category": "Senior",
+  "type": "image",
+  "correct_index": 0,
+  "correct_answer": "<code>M: DNU, O: DNU, M: + VON, 2 {O: + + X VON, M: X DNU + + X VON, O: X DNU} O: + + X VON, M: X DNU + VON</code> ",
+  "correct_answer_plain": "M: DNU, O: DNU, M: + VON, 2 {O: + + X VON, M: X DNU + + X VON, O: X DNU} O: + + X VON, M: X DNU + VON"
+}

@@ -1,0 +1,33 @@
+{
+  "id": 673,
+  "serial_number": 5,
+  "title": "Kalkulačka",
+  "question": "Bobor má kalkulačku, ktorá má 2 displeje (A a B) a 6 tlačidiel. Pomocou nich môže sčítavať a odčítavať zobrazené čísla a výsledok zobrazovať na niektorom displeji.<br/> <image_1><br/> Ktorá postupnosť stlačení tlačidiel vymení čísla, ktoré sú zobrazené na displejoch? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "A+B → B; B-A → A; A-B → B"
+    },
+    {
+      "value": "1",
+      "label": "A+B → B; B-A → B; B-A → A"
+    },
+    {
+      "value": "2",
+      "label": "A+B → A; A-B → B; A-B → A"
+    },
+    {
+      "value": "3",
+      "label": "A+B → A; A-B → B; B-A → A"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/13/2013-RU-09_SK.png"
+  ],
+  "year": "2013/2014",
+  "category": "Senior",
+  "type": "image",
+  "correct_index": 2,
+  "correct_answer": "A+B → A;  A-B → B;  A-B → A ",
+  "correct_answer_plain": "A+B → A;  A-B → B;  A-B → A"
+}

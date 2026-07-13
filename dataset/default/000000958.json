@@ -1,0 +1,34 @@
+{
+  "id": 957,
+  "serial_number": 13,
+  "title": "Zlomená vetvička",
+  "question": "V obci Bobrovice je strom, ktorý rastie zvláštnym spôsobom: Z jeho kmeňa vyrastajú 2 konáre. Každý konár sa rozvetvuje do 2 ďalších konárov. Každý najmladší konár končí listom. Každý rok vyrastú z najmladších konárov dva nové s listami na koncoch. Teda strom má v 1. roku svojho života 1 list, v 2. roku svojho života 2 listy, atď. <br/> <image_1><br/> Jeden rok sa stalo, že sa niektorý najtenší konár zlomil a žiadne ďalšie z neho už nenarástli. Aj napriek tomu vieme spočítaním opadaných listov zistiť reálny vek stromu. Napríklad, ak sa vetvička zlomila v 3. roku života stromu a strom má 5 rokov, bude mať 12 listov namiesto 16.<br/> <image_2><br/> <br/> Tento rok má strom 62 listov. <br/> <b>Kedy sa zlomila najtenšia vetva?</b><br/> <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "keď mal strom 4 roky"
+    },
+    {
+      "value": "1",
+      "label": "keď mal strom 3 roky"
+    },
+    {
+      "value": "2",
+      "label": "minulý rok"
+    },
+    {
+      "value": "3",
+      "label": "predminulý rok"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/09/S_zlomena_vetvicka_uplny.png ",
+    "http://demo.ibobor.sk/sutaz/images/09/S_zlomena_vetvicka_zlomeny.png "
+  ],
+  "year": "2009/2010",
+  "category": "Senior",
+  "type": "image",
+  "correct_index": 2,
+  "correct_answer": "minulý rok ",
+  "correct_answer_plain": "minulý rok"
+}

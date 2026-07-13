@@ -1,0 +1,36 @@
+{
+  "id": 349,
+  "serial_number": 2,
+  "title": "Šifrovací písací stroj",
+  "question": "V Bobrove majú šifrovací písací stroj. Funguje tak, že keď stlačíme nejaké písmeno, napíše sa iné, ktoré je k nemu priradené podľa dohodnutého predpisu. <br/> Danko napísal: BUDEM VONKU<br/> Zuzka dostala: VISRN BLMJI<br/> Podľa akého predpisu sú priradené jednotlivé písmená? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "<image_1>"
+    },
+    {
+      "value": "1",
+      "label": "<image_2>"
+    },
+    {
+      "value": "2",
+      "label": "<image_3>"
+    },
+    {
+      "value": "3",
+      "label": "<image_4>"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/17/2017-MY-06_C.png",
+    "http://demo.ibobor.sk/sutaz/images/17/2017-MY-06_B.png",
+    "http://demo.ibobor.sk/sutaz/images/17/2017-MY-06_D.png",
+    "http://demo.ibobor.sk/sutaz/images/17/2017-MY-06_A.png"
+  ],
+  "year": "2017/2018",
+  "category": "Junior",
+  "type": "image",
+  "correct_index": 0,
+  "correct_answer": "http://demo.ibobor.sk/sutaz/images/17/2017-MY-06_C.png",
+  "correct_answer_plain": null
+}

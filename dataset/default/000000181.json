@@ -1,0 +1,31 @@
+{
+  "id": 180,
+  "serial_number": 1,
+  "title": "Superveža",
+  "question": "Nasledujúca postupnosť čísel predstavuje výšky desiatich vysielacích veží. <br> 11 10 13 12 14 16 15 17 18 20<br> Ak o niektorej veži platí, že všetky veže vľavo od nej sú nižšie a všetky veže vpravo od nej sú vyššie, tak je to SUPER veža.<br> Akú výšku má najnižšia SUPER veža? <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "16"
+    },
+    {
+      "value": "1",
+      "label": "17"
+    },
+    {
+      "value": "2",
+      "label": "14"
+    },
+    {
+      "value": "3",
+      "label": "13"
+    }
+  ],
+  "images": [],
+  "year": "2019/2020",
+  "category": "Nevidiaci SŠ",
+  "type": "text",
+  "correct_index": 2,
+  "correct_answer": "14 ",
+  "correct_answer_plain": "14"
+}

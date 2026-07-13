@@ -1,0 +1,33 @@
+{
+  "id": 1043,
+  "serial_number": 9,
+  "title": "24",
+  "question": "Na obrázku je čiernou farbou nakreslený labyrint. Kolmá vzdialenosť medzi stenami chodby je 2 metre.<br/> <br/> <image_1><br/> <br/> Aká dlhá je oranžová cesta, ktorá ide stredom chodieb? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "71 m"
+    },
+    {
+      "value": "1",
+      "label": "72 m"
+    },
+    {
+      "value": "2",
+      "label": "69 m"
+    },
+    {
+      "value": "3",
+      "label": "70 m"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/labyrint.png"
+  ],
+  "year": "2007/2008",
+  "category": "Junior",
+  "type": "image",
+  "correct_index": 0,
+  "correct_answer": "71 m ",
+  "correct_answer_plain": "71 m"
+}

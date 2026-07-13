@@ -1,0 +1,31 @@
+{
+  "id": 298,
+  "serial_number": 2,
+  "title": "SMS-ka",
+  "question": "Danka našla Samov telefón a poslala z neho SMSku jeho kamarátovi Mirovi. <br> Vedela, že Samo píše v SMS-ke každé slovo na začiatku s veľkým písmenom. <br> Ako napísala správu Danka, aby si Miro myslel, že správu písal Samo? <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "na večeru som mal kilo cukríkov"
+    },
+    {
+      "value": "1",
+      "label": "Vyhral som SuperStar!"
+    },
+    {
+      "value": "2",
+      "label": "Včera som bol v kine."
+    },
+    {
+      "value": "3",
+      "label": "Zajtra Nepôjdem Do Školy."
+    }
+  ],
+  "images": [],
+  "year": "2017/2018",
+  "category": "Drobec",
+  "type": "text",
+  "correct_index": 3,
+  "correct_answer": "Zajtra Nepôjdem Do Školy. ",
+  "correct_answer_plain": "Zajtra Nepôjdem Do Školy."
+}

@@ -1,0 +1,31 @@
+{
+  "id": 385,
+  "serial_number": 8,
+  "title": "Stretnutie v parku",
+  "question": "Budova nového kina má 4 steny, pričom každá z nich je olemovaná iným druhom stromov. <br> Štyri priateľky – Anna, Beáta, Cilka a Danka – sa dohodli, že sa zídu na rohu kina. Žiaľ, každá z nich prišla k inému rohu. Dievčatá si však zavolali, aby charakterizovali svoju polohu podľa stromov, ktoré sú vedľa nich.<br> Anna povedala, že stojí pri lipe a smreku.<br> Beáta povedala, že stojí pri smreku a jabloni.<br> Cilka povedala, že stojí pri jabloni a breze.<br> <b>Čo povedala Danka?</b> <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "Stojím pri smreku a ten druhý strom neviem ako sa volá."
+    },
+    {
+      "value": "1",
+      "label": "Stojím pri breze a lipe."
+    },
+    {
+      "value": "2",
+      "label": "Stojím pri lipe a jabloni."
+    },
+    {
+      "value": "3",
+      "label": "Stojím pri breze a smreku."
+    }
+  ],
+  "images": [],
+  "year": "2017/2018",
+  "category": "Nevidiaci SŠ",
+  "type": "text",
+  "correct_index": 1,
+  "correct_answer": "Stojím pri breze a lipe. ",
+  "correct_answer_plain": "Stojím pri breze a lipe."
+}

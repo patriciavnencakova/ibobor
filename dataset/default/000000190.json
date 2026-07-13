@@ -1,0 +1,31 @@
+{
+  "id": 189,
+  "serial_number": 1,
+  "title": "Celebrita",
+  "question": "Celebritou skupiny v sociálnej sieti je ten, koho sledujú všetci ostatní členovia a on nesleduje žiadneho iného jej člena.<br> Ema, Ida, Rišo, Adam tvoria skupinu v sociálnej sieti.<br> Ema sleduje Idu a Adama.<br> Emu a Idu sleduje Rišo.<br> Adam sleduje Riša a Idu.<br> Kto je celebritou skupiny? <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "Skupina nemá celebritu."
+    },
+    {
+      "value": "1",
+      "label": "Ida"
+    },
+    {
+      "value": "2",
+      "label": "Adam"
+    },
+    {
+      "value": "3",
+      "label": "Ema"
+    }
+  ],
+  "images": [],
+  "year": "2019/2020",
+  "category": "Nevidiaci ZŠ",
+  "type": "text",
+  "correct_index": 1,
+  "correct_answer": "Ida ",
+  "correct_answer_plain": "Ida"
+}

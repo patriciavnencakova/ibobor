@@ -1,0 +1,31 @@
+{
+  "id": 806,
+  "serial_number": 9,
+  "title": "Porušil zákon?",
+  "question": "Boleslav si v internetovom obchode kúpil video súbor s jeho obľúbeným filmom. Film chcel mať vždy po ruke, preto si vytvoril kópiu, previedol ju do formátu pre mobily a nahral do svojho mobilu.<br> Čím porušil autorský zákon? <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "Ničím, všetko urobil úplne legálne."
+    },
+    {
+      "value": "1",
+      "label": "Nedovolene uložil kópiu filmu do mobilu."
+    },
+    {
+      "value": "2",
+      "label": "Nedovolene previedol video do formátu pre mobily a uložil kópiu do mobilu."
+    },
+    {
+      "value": "3",
+      "label": "Nedovolene previedol video do formátu pre mobily."
+    }
+  ],
+  "images": [],
+  "year": "2011/2012",
+  "category": "Junior",
+  "type": "text",
+  "correct_index": 0,
+  "correct_answer": "Ničím, všetko urobil úplne legálne. ",
+  "correct_answer_plain": "Ničím, všetko urobil úplne legálne."
+}

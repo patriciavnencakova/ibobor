@@ -1,0 +1,34 @@
+{
+  "id": 494,
+  "serial_number": 15,
+  "title": "Robotické auto",
+  "question": "Jakub zostrojil robotické auto. Na každej križovatke, cez ktorú prechádza, musí auto odbočiť buď vpravo alebo vľavo. Auto na križovatke vydá nejaký zvuk, podľa toho, kam sa dá odbočiť, pozri obrázok:<br/> <image_1><br/> Jakub položil auto na koberec s križovatkami tak, ako vidíme na obrázku.<br/> <image_2><br/> Auto na svojej ceste vydalo zvuky: <b>Huiii Ding Huiii Dong</b><br/> Na ktoré miesto sa auto dostalo? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "A"
+    },
+    {
+      "value": "1",
+      "label": "C"
+    },
+    {
+      "value": "2",
+      "label": "B"
+    },
+    {
+      "value": "3",
+      "label": "D"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/15/2015-DE-03_zvuky.png",
+    "http://demo.ibobor.sk/sutaz/images/15/2015-DE-03.png"
+  ],
+  "year": "2015/2016",
+  "category": "Benjamín",
+  "type": "image",
+  "correct_index": 2,
+  "correct_answer": "B ",
+  "correct_answer_plain": "B"
+}

@@ -1,0 +1,36 @@
+{
+  "id": 425,
+  "serial_number": 3,
+  "title": "Obed",
+  "question": "Janka chce pre svojich priateľov pripraviť slávnostný obed. Chce uvariť polievku, mäso v paradajkovej omáčke a zemiaky.<br/> Obed bude variť na 2 ohniskách a vie, že:<ul><li>uvariť zemiaky trvá 30 minút,</li><li>polievka sa uvarí za 80 minút,</li><li>omáčka sa uvarí za 10 minút,</li><li>mäso sa varí 60 minút, ale musí sa variť v už uvarenej omáčke.</li></ul><br/> Ako musí Janka variť obed, aby bol hotový za 90 minút? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "<image_1>"
+    },
+    {
+      "value": "1",
+      "label": "<image_2>"
+    },
+    {
+      "value": "2",
+      "label": "<image_3>"
+    },
+    {
+      "value": "3",
+      "label": "<image_4>"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/16/2016-HU-08_B.png",
+    "http://demo.ibobor.sk/sutaz/images/16/2016-HU-08_D.png",
+    "http://demo.ibobor.sk/sutaz/images/16/2016-HU-08_C.png",
+    "http://demo.ibobor.sk/sutaz/images/16/2016-HU-08_A.png"
+  ],
+  "year": "2016/2017",
+  "category": "Kadet",
+  "type": "image",
+  "correct_index": 0,
+  "correct_answer": "http://demo.ibobor.sk/sutaz/images/16/2016-HU-08_B.png",
+  "correct_answer_plain": null
+}

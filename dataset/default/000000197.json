@@ -1,0 +1,31 @@
+{
+  "id": 196,
+  "serial_number": 8,
+  "title": "Pomaranče",
+  "question": "Emil kúpil 3 plné vedierka pomarančov. Do každého z nich sa zmestí 30 pomarančov. Emil pôjde domov cez 30 mostov. Na každom moste je škriatok.<br> Aby mohol prejsť Emil cez most, musí dať škriatkovi toľko pomarančov, v koľkých vedierkach ešte má pomaranče (prázdne vedierka sa nepočítajú).<br> Najviac koľko pomarančov môže priniesť Emil domov? <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "60"
+    },
+    {
+      "value": "1",
+      "label": "0"
+    },
+    {
+      "value": "2",
+      "label": "30"
+    },
+    {
+      "value": "3",
+      "label": "25"
+    }
+  ],
+  "images": [],
+  "year": "2019/2020",
+  "category": "Nevidiaci ZŠ",
+  "type": "text",
+  "correct_index": 3,
+  "correct_answer": "25 ",
+  "correct_answer_plain": "25"
+}

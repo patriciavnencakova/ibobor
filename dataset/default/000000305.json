@@ -1,0 +1,33 @@
+{
+  "id": 304,
+  "serial_number": 8,
+  "title": "Kruhové objazdy",
+  "question": "Keď je robotické autíčko na štarte a stlačím 1-4-2, príde do školy takto: z prvého kruhového objazdu vyjde na 1. výjazde, z ďalšieho objazdu na 4. výjazde a z posledného na 2. výjazde.<br/> <image_1><br/> Kde skončí, ak bude na štarte a stlačím: 2-2-1-4? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "v škole"
+    },
+    {
+      "value": "1",
+      "label": "v kine"
+    },
+    {
+      "value": "2",
+      "label": "v potravinách"
+    },
+    {
+      "value": "3",
+      "label": "v kostole"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/17/2017-SK-20_objazdy.png"
+  ],
+  "year": "2017/2018",
+  "category": "Drobec",
+  "type": "image",
+  "correct_index": 0,
+  "correct_answer": "v škole ",
+  "correct_answer_plain": "v škole"
+}

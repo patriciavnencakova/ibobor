@@ -1,0 +1,33 @@
+{
+  "id": 981,
+  "serial_number": 7,
+  "title": "Zaparkuj autíčko",
+  "question": "Cestu autíčka z nejakého miesta na parkovisko môžeme popísať pomocou nasledujúcich príkazov:<br/> <b>dopredu</b> – autíčko prejde k nasledujúcej zákrute alebo na parkovisko,<br/> <b>vpravo</b> – autíčko zatočí doprava o 90 stupňov a neposunie sa,<br/> <b>vľavo</b> – autíčko zatočí doľava o 90 stupňov a neposunie sa.<br/> <br/> <image_1><br/> <br/> Ktorá <b>postupnosť príkazov</b> popisuje <b>cestu</b> nášho autíčka na <b>parkovisko</b>? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "dopredu vľavo dopredu vľavo dopredu vľavo dopredu vpravo dopredu"
+    },
+    {
+      "value": "1",
+      "label": "vľavo dopredu vpravo dopredu vľavo dopredu vpravo dopredu"
+    },
+    {
+      "value": "2",
+      "label": "dopredu vľavo dopredu vpravo dopredu vľavo dopredu vpravo dopredu"
+    },
+    {
+      "value": "3",
+      "label": "dopredu vľavo dopredu vpravo dopredu vľavo dopredu vľavo dopredu"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/08/B-K_manadtory_SK_018.gif"
+  ],
+  "year": "2008/2009",
+  "category": "Kadet",
+  "type": "image",
+  "correct_index": 2,
+  "correct_answer": "dopredu vľavo dopredu vpravo dopredu vľavo dopredu vpravo dopredu ",
+  "correct_answer_plain": "dopredu vľavo dopredu vpravo dopredu vľavo dopredu vpravo dopredu"
+}

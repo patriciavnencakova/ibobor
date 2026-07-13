@@ -1,0 +1,31 @@
+{
+  "id": 830,
+  "serial_number": 3,
+  "title": "Čo nehrá?",
+  "question": "Na počítači mám spustené štyri programy a z reproduktorov počujem hudbu. Ktorý z programov určite nehrá hudbu? <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "media player"
+    },
+    {
+      "value": "1",
+      "label": "bežiaca prezentácia"
+    },
+    {
+      "value": "2",
+      "label": "internetový prehliadač"
+    },
+    {
+      "value": "3",
+      "label": "grafický editor"
+    }
+  ],
+  "images": [],
+  "year": "2010/2011",
+  "category": "Benjamín",
+  "type": "text",
+  "correct_index": 3,
+  "correct_answer": "grafický editor ",
+  "correct_answer_plain": "grafický editor"
+}

@@ -1,0 +1,34 @@
+{
+  "id": 251,
+  "serial_number": 3,
+  "title": "Vlajkové signály",
+  "question": "Štyri bobrie kamarátky si vlajkovými signálmi oznamujú, kto pôjde nakupovať. Ich mená sa skladajú zo 4 písmen, ktoré signalizujú nasledovne:<br/> <image_1><br/> Bobrica Anna signalizuje nasledujúce meno:<br/> <image_2><br/> <b>Kto pôjde nakupovať?</b> <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "ETNA"
+    },
+    {
+      "value": "1",
+      "label": "TENA"
+    },
+    {
+      "value": "2",
+      "label": "ANNA"
+    },
+    {
+      "value": "3",
+      "label": "ENTA"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/18/2018-TW-06_signaly.png",
+    "http://demo.ibobor.sk/sutaz/images/18/2018-TW-06_meno.png"
+  ],
+  "year": "2018/2019",
+  "category": "Junior",
+  "type": "image",
+  "correct_index": 0,
+  "correct_answer": "ETNA ",
+  "correct_answer_plain": "ETNA"
+}

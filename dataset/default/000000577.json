@@ -1,0 +1,33 @@
+{
+  "id": 576,
+  "serial_number": 10,
+  "title": "Kruhy a štvorce",
+  "question": "Janko pripol na nástenku 7 vystrihnutých objektov:<br/> <image_1><br/> Ktorý z nasledujúcich výrokov je pravdivý? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "Všetky kruhy sú vpravo od všetkých štvorcov."
+    },
+    {
+      "value": "1",
+      "label": "Všetky tmavomodré objekty sú nižšie ako všetky svetložlté objekty."
+    },
+    {
+      "value": "2",
+      "label": "Všetky svetložlté objekty sú vľavo od všetkých tmavomodrých objektov."
+    },
+    {
+      "value": "3",
+      "label": "Všetky štvorce sú vyššie ako všetky kruhy."
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/14/2014-RU-03_SK_upraveny.png"
+  ],
+  "year": "2014/2015",
+  "category": "Kadet",
+  "type": "image",
+  "correct_index": 1,
+  "correct_answer": "Všetky tmavomodré objekty sú nižšie ako všetky svetložlté objekty. ",
+  "correct_answer_plain": "Všetky tmavomodré objekty sú nižšie ako všetky svetložlté objekty."
+}

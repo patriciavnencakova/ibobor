@@ -1,0 +1,33 @@
+{
+  "id": 371,
+  "serial_number": 9,
+  "title": "Dokonalé zamiešanie",
+  "question": "Fero má kopu 8 bobrích kariet. Najprv sú červené v klesajúcom poradí, potom čierne v klesajúcom poradí.<br/> Učí sa dokonalé zamiešanie, ktoré robí takto:<br/> <b>Krok 1:</b> Kopu kariet rozdelíme bez toho, aby sme zmenili poradie kariet: Horné štyri karty budú prvá skupina a dolné štyri karty budú druhá skupina.<br/> <b>Krok 2:</b> Karty z oboch skupín zmiešame ako je znázornené na obrázku.<br/> <image_1><br/> Fero si všimol, že ak opakuje dokonlé zamiešanie niekoľkokrát po sebe, dostane znova pôvodné usporiadanie kariet.<br/> Koľko dokonalých zamiešaní musí vykonať, aby dostal opäť pôvodné usporiadanie? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "3 dokonalé zamiešania"
+    },
+    {
+      "value": "1",
+      "label": "5 dokonalých zamiešaní"
+    },
+    {
+      "value": "2",
+      "label": "4 dokonalé zamiešania"
+    },
+    {
+      "value": "3",
+      "label": "2 dokonalé zamiešania"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/17/2017-MY-03-postup.png"
+  ],
+  "year": "2017/2018",
+  "category": "Senior",
+  "type": "image",
+  "correct_index": 0,
+  "correct_answer": "3 dokonalé zamiešania ",
+  "correct_answer_plain": "3 dokonalé zamiešania"
+}

@@ -1,0 +1,31 @@
+{
+  "id": 1058,
+  "serial_number": 9,
+  "title": "36",
+  "question": "Pomocou zvukového editora bol zaznamenaný tón klavíra 440 Hz pri vzorkovacej frekvencii 22,050 kHz. Aký tón budeme počuť, keď zaznamenaný tón prehráme pri vzorkovacej frekvencii 44,100kHz? <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "220 Hz"
+    },
+    {
+      "value": "1",
+      "label": "445 Hz"
+    },
+    {
+      "value": "2",
+      "label": "880 Hz"
+    },
+    {
+      "value": "3",
+      "label": "440 Hz"
+    }
+  ],
+  "images": [],
+  "year": "2007/2008",
+  "category": "Senior",
+  "type": "text",
+  "correct_index": 2,
+  "correct_answer": "880 Hz ",
+  "correct_answer_plain": "880 Hz"
+}

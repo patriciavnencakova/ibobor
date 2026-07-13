@@ -1,0 +1,33 @@
+{
+  "id": 76,
+  "serial_number": 11,
+  "title": "Krvné testy",
+  "question": "Dr. Bobrová vie, že jeden zo 16 pacientov je chorý. V laboratóriu majú momentálne len <b>8 skúmaviek</b> (A, B, C, D, E, F, G, H) a môžu urobiť <b>len 4 testy</b>.<br/> Preto krv každého pacienta (0 až 15) rozdelili do viacerých skúmaviek podľa nasledujúceho rozpisu:<br/> <image_1><br/> Z rozpisu vidíme, že do každen skúmavky sa dostala krv viacerých pacientov a tiež to, že napr. pacient 0 má krv v skúmavkách A, C, E a G.<br/> V laboratóriu už urobili 3 testy a zistili, že: krv v skúmavke <b>A je pozitívna</b>, krv v skúmavke <b>C je negatívna</b> a krv v skúmavke <b>E je negatívna</b>.<br/> Ktorú skúmavku majú otestovať, aby vedeli presne určiť, ktorý bobor je chorý? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "D"
+    },
+    {
+      "value": "1",
+      "label": "F"
+    },
+    {
+      "value": "2",
+      "label": "G"
+    },
+    {
+      "value": "3",
+      "label": "B"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/20/2020-IE-07.png"
+  ],
+  "year": "2020/2021",
+  "category": "Senior",
+  "type": "image",
+  "correct_index": 2,
+  "correct_answer": "G ",
+  "correct_answer_plain": "G"
+}

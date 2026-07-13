@@ -1,0 +1,31 @@
+{
+  "id": 407,
+  "serial_number": 12,
+  "title": "Alica a značky",
+  "question": "Alica prechádza v krajine zázrakov po ceste, na ktorej sú postupne značky s inštrukciami:<br> <b>1. nasaď si klobúk</b><br> <b>2. daj si okuliare</b><br> <b>3. zlož si klobúk</b><br> <b>4. zober si paličku</b><br> <b>5. zober si kvet</b><br> <b>6. daj si dolu okuliare</b><br> Na začiatku cesty nemá Alica ani klobúk ani okuliare a tiež nemá žiadne veci so sebou.<br> <br> Čo bude mať Alica oblečené a aké veci bude mať so sebou, ak prejde po ceste a vykoná všetky inštrukcie na značkách? <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "bude mať klobúk, nebude mať okuliare, bude mať len paličku"
+    },
+    {
+      "value": "1",
+      "label": "nebude mať klobúk ani okuliare, bude mať paličku aj kvet"
+    },
+    {
+      "value": "2",
+      "label": "bude mať klobúk aj okuliare a bude mať paličku aj kvet"
+    },
+    {
+      "value": "3",
+      "label": "nebude mať klobúk ani okuliare, bude mať len paličku"
+    }
+  ],
+  "images": [],
+  "year": "2016/2017",
+  "category": "Bobrík",
+  "type": "text",
+  "correct_index": 1,
+  "correct_answer": "nebude mať klobúk ani okuliare, bude mať paličku aj kvet ",
+  "correct_answer_plain": "nebude mať klobúk ani okuliare, bude mať paličku aj kvet"
+}

@@ -1,0 +1,37 @@
+{
+  "id": 884,
+  "serial_number": 12,
+  "title": "Maľovanie dverí",
+  "question": "Bobor býva v činžiaku. Dvere každého z bytov sú buď červené (označené X), alebo modré (označené +), ako je vidno na obrázku:<br/> <image_1><br/> Maliar prišiel natrieť niektoré dvere na žlto. Natieranie je popísané takto:<br/> <pre>Procedúra Natri(poschodie, dvere)<br/>Ak byt (poschodie, dvere) existuje, tak<br/> Ak je farba dverí bytu (poschodie, dvere) červená, vykonaj nasledujúce príkazy:<br/> Prefarbi dvere bytu (poschodie, dvere) na žlto<br/> Natri(poschodie, dvere - 1) <br/> Natri(poschodie, dvere + 1) <br/> Natri(poschodie - 1, dvere) <br/> Natri(poschodie + 1, dvere</pre>Ako bude činžiak vyzerať po tom, čo maliar vykoná Natri(4,3)? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "<image_2>"
+    },
+    {
+      "value": "1",
+      "label": "<image_3>"
+    },
+    {
+      "value": "2",
+      "label": "<image_4>"
+    },
+    {
+      "value": "3",
+      "label": "<image_5>"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/10/dom.png",
+    "http://demo.ibobor.sk/sutaz/images/10/domb.png",
+    "http://demo.ibobor.sk/sutaz/images/10/domc.png",
+    "http://demo.ibobor.sk/sutaz/images/10/domd.png",
+    "http://demo.ibobor.sk/sutaz/images/10/doma.png"
+  ],
+  "year": "2010/2011",
+  "category": "Senior",
+  "type": "image",
+  "correct_index": 2,
+  "correct_answer": "http://demo.ibobor.sk/sutaz/images/10/domd.png",
+  "correct_answer_plain": null
+}

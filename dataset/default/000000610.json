@@ -1,0 +1,33 @@
+{
+  "id": 609,
+  "serial_number": 13,
+  "title": "Pri pokladni",
+  "question": "Mladé bobry Andrea, Braňo, Cecília, Dano a Emil, ktoré sú rôznej výšky, stoja v nejakom poradí v rade pred pokladňou. Každý bobor spočítal, koľko bobrov pred ním (bližšie k pokladni) a za ním je vyšších ako on sám:<br/> <image_1><br/> V akom poradí stoja (od pokladne)? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "Dano, Andrea, Emil, Braňo, Cecília"
+    },
+    {
+      "value": "1",
+      "label": "Dano, Andrea, Cecília, Braňo, Emil"
+    },
+    {
+      "value": "2",
+      "label": "Andrea, Cecília, Dano, Emil, Braňo"
+    },
+    {
+      "value": "3",
+      "label": "Dano, Cecília, Andrea, Braňo, Emil"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/14/2014-SE-04_tab.png"
+  ],
+  "year": "2014/2015",
+  "category": "Senior",
+  "type": "image",
+  "correct_index": 1,
+  "correct_answer": "Dano, Andrea, Cecília, Braňo, Emil ",
+  "correct_answer_plain": "Dano, Andrea, Cecília, Braňo, Emil"
+}

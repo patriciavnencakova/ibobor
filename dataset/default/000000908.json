@@ -1,0 +1,38 @@
+{
+  "id": 907,
+  "serial_number": 8,
+  "title": "Koráliky",
+  "question": "Janka našla na niti šesť korálikov a chcela si z nich spraviť nový náramok.<br/> <image_1><br/> Vzala novú niť a zauzlila ju na jednom konci.<br/> <image_2><br/> Vždy vyvliekla korálik buď z ľavého alebo pravého konca starej nite a navliekla ho na novú niť.<br/> <br/> Ktorý z týchto náramkov si mohla Janka vytvoriť? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "<image_3>"
+    },
+    {
+      "value": "1",
+      "label": "<image_4>"
+    },
+    {
+      "value": "2",
+      "label": "<image_5>"
+    },
+    {
+      "value": "3",
+      "label": "<image_6>"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/09/B_Koraliky_01.gif",
+    "http://demo.ibobor.sk/sutaz/images/09/B_Koraliky_02.gif",
+    "http://demo.ibobor.sk/sutaz/images/09/B_Koraliky_D.gif",
+    "http://demo.ibobor.sk/sutaz/images/09/B_Koraliky_B.gif",
+    "http://demo.ibobor.sk/sutaz/images/09/B_Koraliky_C.gif",
+    "http://demo.ibobor.sk/sutaz/images/09/B_Koraliky_A.gif"
+  ],
+  "year": "2009/2010",
+  "category": "Benjamín",
+  "type": "image",
+  "correct_index": 2,
+  "correct_answer": "http://demo.ibobor.sk/sutaz/images/09/B_Koraliky_C.gif",
+  "correct_answer_plain": null
+}

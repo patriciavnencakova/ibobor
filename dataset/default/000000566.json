@@ -1,0 +1,36 @@
+{
+  "id": 565,
+  "serial_number": 14,
+  "title": "Robotická lienka",
+  "question": "Robotická lienka dokáže vykonať tieto príkazy:<br/> <ul><li><b>Dopredu K</b> – posunie sa o <b>K</b> políčok dopredu smerom, ktorým je otočená.</li><li><b>Vľavo</b> – otočí sa vľavo bez toho, aby sa pohla dopredu.</li><li><b>Vpravo</b> – otočí sa vpravo bez toho, aby sa pohla dopredu.</li><li><b>Opakuj N (</b>príkazy<b>)</b> – <b>N</b>-krát zopakuje príkazy v zátvorkách.</li></ul><br/> Každý lienkin pohyb dopredu zanechá na mriežke stopu ako sa pohybovala.<br/> Maťo položil lienku niekam na mriežku a zadal jej takúto postupnosť príkazov:<br/> <b>Opakuj 3 (Dopredu 1, Vpravo, Dopredu 1, Vľavo) Vpravo, Opakuj 2 (Vpravo, Dopredu 3)</b><br/> Lienka vykonala príkazy, ktoré jej Maťo zadal.<br/> Ktorú stopu za sebou zanechala? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "<image_1>"
+    },
+    {
+      "value": "1",
+      "label": "<image_2>"
+    },
+    {
+      "value": "2",
+      "label": "<image_3>"
+    },
+    {
+      "value": "3",
+      "label": "<image_4>"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/14/2014-SK-03_b.png",
+    "http://demo.ibobor.sk/sutaz/images/14/2014-SK-03_a.png",
+    "http://demo.ibobor.sk/sutaz/images/14/2014-SK-03_c.png",
+    "http://demo.ibobor.sk/sutaz/images/14/2014-SK-03_d.png"
+  ],
+  "year": "2014/2015",
+  "category": "Benjamín",
+  "type": "image",
+  "correct_index": 2,
+  "correct_answer": "http://demo.ibobor.sk/sutaz/images/14/2014-SK-03_c.png",
+  "correct_answer_plain": null
+}

@@ -1,0 +1,33 @@
+{
+  "id": 475,
+  "serial_number": 8,
+  "title": "Narodeninové balóny",
+  "question": "V obchode majú farebné balóny s číslicami: 0 — zelený, 1 — žltý, 2 — červený, 3 — zelený, 4 — žltý, atď.<br/> <image_1><br/> Eva kúpila balóny svojej mame tak, aby sa z nich dal poskladať rok jej narodenia 1983.<br/> Akej farby sú balóny, ktoré kúpila? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "žltý, 2 červené, zelený"
+    },
+    {
+      "value": "1",
+      "label": "žltý, 3 zelené"
+    },
+    {
+      "value": "2",
+      "label": "žltý, 2 zelené, červený"
+    },
+    {
+      "value": "3",
+      "label": "žltý, 3 červené"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/15/2015-TR-03.png"
+  ],
+  "year": "2015/2016",
+  "category": "Bobrík",
+  "type": "image",
+  "correct_index": 2,
+  "correct_answer": "žltý, 2 zelené, červený ",
+  "correct_answer_plain": "žltý, 2 zelené, červený"
+}

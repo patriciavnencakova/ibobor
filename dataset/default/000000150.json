@@ -1,0 +1,33 @@
+{
+  "id": 149,
+  "serial_number": 15,
+  "title": "Balíky",
+  "question": "Adam roznáša balíky. Firma mu platí za počet kilometrov, ktoré prejde od pošty k poslednému domu, do ktorého nesie balík. Firma má však podmienku, že počas roznášky nemôže ísť po žiadnej ceste viackrát.<br/> Dnes má Adam rozniesť 7 balíkov do 7 domov. Nákres oblasti je na obrázku, číslo pri ceste znamená vzdialenosť medzi domami, ktoré sú ňou spojené:<br/> <image_1><br/> Ako dlhá je <b>najdlhšia</b> cesta, ktorou môže Adam rozniesť všetky balíky? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "26 km"
+    },
+    {
+      "value": "1",
+      "label": "24 km"
+    },
+    {
+      "value": "2",
+      "label": "25 km"
+    },
+    {
+      "value": "3",
+      "label": "22 km"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/19/2019-CA-04.png"
+  ],
+  "year": "2019/2020",
+  "category": "Kadet",
+  "type": "image",
+  "correct_index": 2,
+  "correct_answer": "25 km ",
+  "correct_answer_plain": "25 km"
+}

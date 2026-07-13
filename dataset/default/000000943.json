@@ -1,0 +1,31 @@
+{
+  "id": 942,
+  "serial_number": 13,
+  "title": "Zaspievajme si",
+  "question": "Najnovšia tínedžerská hviezda Bunny Banana spieva takto:<br> <ul><li>slovo tvorí z jednej spoluhlásky (b, d, n, s, ...) a z jednej samohlásky (a, e, i, ...) napr. da, ne, si,</li><li>verš tvorí z nepárneho počtu rovnakých slov (napr. da da da), v ktorom k prostrednému slovu pripojí „p di“, napr. „da dap di da“ alebo „ne ne nep di ne ne“,</li><li>pieseň skladá z jedného alebo viacerých veršov. Ak má viac ako jeden verš, môže byť posledný zakončený „yeah“.</li></ul><br> Bobri skúšajú spievať ako ona. Ktorému z nich sa to podarilo? <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "si sip di si su dup di su"
+    },
+    {
+      "value": "1",
+      "label": "sa sa sap di sa sa lu lu lup di lu lu yeah"
+    },
+    {
+      "value": "2",
+      "label": "da da dap di da da yeah"
+    },
+    {
+      "value": "3",
+      "label": "nu nu nup di nu nu di di dip di di yeah"
+    }
+  ],
+  "images": [],
+  "year": "2009/2010",
+  "category": "Junior",
+  "type": "text",
+  "correct_index": 1,
+  "correct_answer": "sa sa sap di sa sa\u000b\nlu lu lup di lu lu yeah ",
+  "correct_answer_plain": "sa sa sap di sa sa\u000b\nlu lu lup di lu lu yeah"
+}

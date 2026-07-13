@@ -1,0 +1,33 @@
+{
+  "id": 147,
+  "serial_number": 13,
+  "title": "Koľko mravcov?",
+  "question": "V močiari sa na kameni A nachádza 13 mravcov, na kameni F sú omrvinky. Kamene sú pospájané slamkami.<br/> <image_1><br/> Mravcovi trvá 1 minútu, kým prejde po slamke z jedného kameňa na druhý. Slamka udrží naraz vždy len <b>jedného</b> mravca. <br/> <b>Najviac</b> koľko mravcov sa dostane na kameň F za <b>4</b> minúty? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "9"
+    },
+    {
+      "value": "1",
+      "label": "12"
+    },
+    {
+      "value": "2",
+      "label": "10"
+    },
+    {
+      "value": "3",
+      "label": "11"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/19/2019-LT-06_K.png"
+  ],
+  "year": "2019/2020",
+  "category": "Kadet",
+  "type": "image",
+  "correct_index": 3,
+  "correct_answer": "11 ",
+  "correct_answer_plain": "11"
+}

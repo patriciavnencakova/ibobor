@@ -1,0 +1,33 @@
+{
+  "id": 322,
+  "serial_number": 5,
+  "title": "Parkovisko",
+  "question": "Vľavo na obrázku sú autá na parkovisku tak, ako parkovali v sobotu.<br/> Vpravo sú autá podľa toho, ako parkovali v nedeľu.<br/> <image_1><br/> Koľko parkovacích miest bolo voľných aj v sobotu, aj v nedeľu? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "3"
+    },
+    {
+      "value": "1",
+      "label": "6"
+    },
+    {
+      "value": "2",
+      "label": "4"
+    },
+    {
+      "value": "3",
+      "label": "5"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/17/2017-CA-01-parkovisko.png"
+  ],
+  "year": "2017/2018",
+  "category": "Benjamín",
+  "type": "image",
+  "correct_index": 2,
+  "correct_answer": "4 ",
+  "correct_answer_plain": "4"
+}

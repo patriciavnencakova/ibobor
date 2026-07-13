@@ -1,0 +1,33 @@
+{
+  "id": 984,
+  "serial_number": 10,
+  "title": "Rodokmeň",
+  "question": "Rodokmeň zobrazuje rodinné vzťahy. Rodič je s dieťaťom spojený čiarou vedúcou smerom nadol. Na našom obrázku sú nakreslení potomkovia Emila. Vidieť na ňom napríklad, že Emil má 3 deti; Lukášov otec je Juraj; Mária je Evina a Milanova babka.<br/> <br/> <image_1><br/> <br/> Ktoré z nasledujúcich tvrdení <b>nie je správne</b>? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "Juraj je Romanov dedko."
+    },
+    {
+      "value": "1",
+      "label": "Martin je Jozefov otec."
+    },
+    {
+      "value": "2",
+      "label": "Milena je sestra Márie."
+    },
+    {
+      "value": "3",
+      "label": "Monika nemá súrodencov."
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/08/K_INF_SK_021.gif"
+  ],
+  "year": "2008/2009",
+  "category": "Kadet",
+  "type": "image",
+  "correct_index": 1,
+  "correct_answer": "Martin je Jozefov otec. ",
+  "correct_answer_plain": "Martin je Jozefov otec."
+}

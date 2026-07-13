@@ -1,0 +1,37 @@
+{
+  "id": 496,
+  "serial_number": 2,
+  "title": "Kešky",
+  "question": "Ema a Tomáš hľadajú kešky (malé krabičky), ktoré niekto ukryl na lúke, pozri mapu. Každý z nich má v telefóne aplikáciu, ktorá ukazuje smer k hľadanej keške. Ema hľadá kešku 1, Tomáš kešku 2. Teraz stoja spolu niekde na lúke. V ľavej časti obrázka vidieť, aký smer ukazujú ich aplikácie. Nevieme však, ktorý telefón je čí.<br/> <image_1><br/> Na ktorom mieste stoja? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "<image_2>"
+    },
+    {
+      "value": "1",
+      "label": "<image_3>"
+    },
+    {
+      "value": "2",
+      "label": "<image_4>"
+    },
+    {
+      "value": "3",
+      "label": "<image_5>"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/15/2015-CZ-04_zad.png",
+    "http://demo.ibobor.sk/sutaz/images/15/2015-CZ-04_A.png",
+    "http://demo.ibobor.sk/sutaz/images/15/2015-CZ-04_B.png",
+    "http://demo.ibobor.sk/sutaz/images/15/2015-CZ-04_C.png",
+    "http://demo.ibobor.sk/sutaz/images/15/2015-CZ-04_D.png"
+  ],
+  "year": "2015/2016",
+  "category": "Kadet",
+  "type": "image",
+  "correct_index": 2,
+  "correct_answer": "http://demo.ibobor.sk/sutaz/images/15/2015-CZ-04_C.png",
+  "correct_answer_plain": null
+}

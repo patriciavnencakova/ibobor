@@ -1,0 +1,31 @@
+{
+  "id": 381,
+  "serial_number": 4,
+  "title": "Kód slova BOBOR",
+  "question": "V Bobrove kódujú písmená takto.<br> Kód každého písmena je jedna alebo viac číslic.<br> Kód nezačína iným kódom.<br> Kódovanie môže byť napríklad takéto:<br> K má kód 12,<br> L môže mať kód napríklad 2 (pretože 12 nezačína číslom 2),<br> M môže mať kód 11 (pretože 2 ani 12 nezačína číslom 11 ), ale nie 21 (pretože 21 začína číslom 2, ktoré je kódom pre L) a ani 121 (pretože 12 je kódom pre K).<br> Vieme, že kód slova BOBOR je<br> 2121212123<br> <b>Aké sú kódy jednotlivých písmen?</b> <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "B má kód 212, O má kód 1, R má kód 23"
+    },
+    {
+      "value": "1",
+      "label": "B má kód 2, O má kód 121, R má kód 23"
+    },
+    {
+      "value": "2",
+      "label": "B má kód 2, O má kód 1, R má kód 212123"
+    },
+    {
+      "value": "3",
+      "label": "B má kód 2, O má kód 121, R má kód 3"
+    }
+  ],
+  "images": [],
+  "year": "2017/2018",
+  "category": "Nevidiaci SŠ",
+  "type": "text",
+  "correct_index": 0,
+  "correct_answer": "B má kód 212, O má kód 1, R má kód 23 ",
+  "correct_answer_plain": "B má kód 212, O má kód 1, R má kód 23"
+}

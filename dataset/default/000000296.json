@@ -1,0 +1,31 @@
+{
+  "id": 295,
+  "serial_number": 8,
+  "title": "Rozprávací robot",
+  "question": "Rozprávací robot vysloví ľubovoľný text a pritom dodržiava takéto pravidlá:<ul><li>ak je pred slovom číslo, toto slovo vysloví toľkokrát, aká je hodnota čísla,</li><li>ak je postupnosť slov medzi príkazmi <b>opakuj číslo krat</b> a <b>koniec opakovania</b>, túto postupnosť slov vysloví toľkokrát, aká je hodnota čísla,</li></ul><br> Napríklad: <br> namiesto <b>3lampa</b> robot povie <b>lampa lampa lampa</b><br> namiesto <b>opakuj 2 krat čierna biela koniec opakovania</b> robot povie <b>čierna biela čierna biela</b><br> Emka chce, aby robot povedal<br> <b>bim bam bim bam bim bam bim ešte ešte troška si pospím</b><br> Akú postupnosť príkazov má Emka napísať? <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "3bim 3bam bim 2ešte troška si pospím"
+    },
+    {
+      "value": "1",
+      "label": "opakuj 4 krat bim bam koniec opakovania 2ešte troška si pospím"
+    },
+    {
+      "value": "2",
+      "label": "opakuj 3 krat bim bam koniec opakovania bim 2ešte troška si pospím"
+    },
+    {
+      "value": "3",
+      "label": "opakuj 3 krat bim bam koniec opakovania bim 2ešte si pospím"
+    }
+  ],
+  "images": [],
+  "year": "2018/2019",
+  "category": "Nevidiaci ZŠ",
+  "type": "text",
+  "correct_index": 2,
+  "correct_answer": "opakuj 3 krat bim bam koniec opakovania bim 2ešte troška si pospím ",
+  "correct_answer_plain": "opakuj 3 krat bim bam koniec opakovania bim 2ešte troška si pospím"
+}

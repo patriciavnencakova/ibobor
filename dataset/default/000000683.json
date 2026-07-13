@@ -1,0 +1,31 @@
+{
+  "id": 682,
+  "serial_number": 14,
+  "title": "Zavírený server",
+  "question": "Operačný systém Styx má špeciálnu funkciu. Počítač napadnutý vírusom vráti nepravdivú odpoveď na ľubovoľnú otázku, ktorú dostane cez internet.<br> Napríklad, keď dostane otázku <b>Si zavírený?</b> vráti <b>Nie.</b><br> Počítač, ktorý nie je zavírený odpovie vždy pravdivo. Jeho odpoveď na otázku <b>Si zavírený?</b> je <b>Nie.</b><br> Počítačový technik spoločnosti StyxOK testuje cez internet len servre a notebooky s operačným systémom Styx. <br> Na ktorú z týchto otázok odpovedia <b>Áno</b> len zavírené servre a žiadne iné počítače v testovanej sieti? <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "<b>Si nezavírený server?</b>"
+    },
+    {
+      "value": "1",
+      "label": "<b>Si zavírený server?</b>"
+    },
+    {
+      "value": "2",
+      "label": "<b>Si nezavírený notebook?</b>"
+    },
+    {
+      "value": "3",
+      "label": "<b>Si zavírený notebook?</b>"
+    }
+  ],
+  "images": [],
+  "year": "2013/2014",
+  "category": "Senior",
+  "type": "text",
+  "correct_index": 3,
+  "correct_answer": "<b>Si zavírený notebook?</b> ",
+  "correct_answer_plain": "Si zavírený notebook?"
+}

@@ -1,0 +1,31 @@
+{
+  "id": 394,
+  "serial_number": 8,
+  "title": "Vzdialenosť slov",
+  "question": "Bobry navrhli tri operácie so slovami:<br> 1. Vlož písmeno<br> 2. Zruš písmeno<br> 3. Zmeň niektoré písmeno na iné<br> Vzdialenosť dvoch slov je najmenší počet operácií, ktoré treba urobiť, aby sa jedno slovo zmenilo na druhé. <br> Napríklad vzdialenosť slov ROH a HLOH je 2:<br> ROH – HROH (vlož H)<br> HROH – HLOH (zmeň R na L).<br> Aká je vzdialenosť slov SLAMA a LOM? <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "4"
+    },
+    {
+      "value": "1",
+      "label": "3"
+    },
+    {
+      "value": "2",
+      "label": "2"
+    },
+    {
+      "value": "3",
+      "label": "5"
+    }
+  ],
+  "images": [],
+  "year": "2017/2018",
+  "category": "Nevidiaci ZŠ",
+  "type": "text",
+  "correct_index": 1,
+  "correct_answer": "3 ",
+  "correct_answer_plain": "3"
+}

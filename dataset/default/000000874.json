@@ -1,0 +1,33 @@
+{
+  "id": 873,
+  "serial_number": 1,
+  "title": "Cesta chrobáka",
+  "question": "Chrobák sa pohybuje po takejto hracej ploche<br/> <image_1><br/> podľa nasledujúcich pravidiel:<br/> <ul><li>Štartuje na ľubovoľnom políčku stĺpca A.</li><li>V jednom kroku sa pozrie na šípky v políčku, na ktorom stojí a posunie sa v smere šípok o toľko políčok, koľko je pod ním šípok (o jedno políčko, ak je tam jedna šípka, o dve políčka, ak sú tam dve šípky a o tri políčka, ak sú tam tri šípky).</li><li>Počas vykonávania jedného kroku ignoruje šípky v políčkach, ktorými prechádza.</li><li>Kroky opakuje dovtedy, kým buď nevyjde z hracej plochy, alebo nezastane na políčku bez šípok (v stĺpci E).</li></ul><br/> Z ktorých políčok má štartovať, aby skončil v stĺpci E? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "A2, A4"
+    },
+    {
+      "value": "1",
+      "label": "A1, A4"
+    },
+    {
+      "value": "2",
+      "label": "A2, A3, A4"
+    },
+    {
+      "value": "3",
+      "label": "A1, A2"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/10/2010_SK_03a.png"
+  ],
+  "year": "2010/2011",
+  "category": "Senior",
+  "type": "image",
+  "correct_index": 0,
+  "correct_answer": "A2, A4 ",
+  "correct_answer_plain": "A2, A4"
+}

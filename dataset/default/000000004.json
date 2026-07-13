@@ -1,0 +1,33 @@
+{
+  "id": 3,
+  "serial_number": 4,
+  "title": "Salón krásy",
+  "question": "V tabuľke vidíme, koľko trvá každá služba v salóne krásy. <br/><table style=\"width:200px;border:1px solid black;\"> <tbody><tr><td style=\"border:1px solid black;padding:2px;text-align:left\"><b>služba</b></td><td style=\"border:1px solid black;padding:2px;text-align:right\"><b>čas</b></td></tr><tr><td style=\"border:1px solid black;padding:2px;text-align:left\">úprava srsti</td><td style=\"border:1px solid black;padding:2px;text-align:right\">8 minút</td></tr><tr><td style=\"border:1px solid black;padding:2px;text-align:left\">ostrenie zubov</td><td style=\"border:1px solid black;padding:2px;text-align:right\">7 minút</td></tr><tr><td style=\"border:1px solid black;padding:2px;text-align:left\">leštenie chvosta</td><td style=\"border:1px solid black;padding:2px;text-align:right\">3 minúty</td></tr></tbody></table><br/> Asistentky Agáta, Božena, Emília a Júlia začali práve upravovať svojich zákazníkov. Pozri obrázok.<br/> <image_1><br/> Ktorá z nich skončí svoju prácu ako prvá? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "Júlia"
+    },
+    {
+      "value": "1",
+      "label": "Emília"
+    },
+    {
+      "value": "2",
+      "label": "Agáta"
+    },
+    {
+      "value": "3",
+      "label": "Božena"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/20/2020-CA-05_D.png"
+  ],
+  "year": "2020/2021",
+  "category": "Drobec",
+  "type": "image",
+  "correct_index": 0,
+  "correct_answer": "Júlia ",
+  "correct_answer_plain": "Júlia"
+}

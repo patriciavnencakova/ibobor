@@ -1,0 +1,31 @@
+{
+  "id": 95,
+  "serial_number": 6,
+  "title": "Požičiavanie kníh",
+  "question": "V bobrovskej škole majú v jednej polici v rade uložené knihy na požičiavanie. Keď si niekto požičiava knihu, <b>vezme prvú zľava</b> v rade a zapíše sa do knihy výpožičiek. Keď niekto vracia knihu, položí ju na <b>ľavú stranu radu</b> a zapíše sa do knihy výpožičiek.<br> Dnes ráno boli v polici zľava doprava uložené knihy v takomto poradí:<br> <b>Slovenské rozprávky, Nevedkove dobrodružstvá, Danka a Janka, O psíčkovi a mačičke</b><br> V knihe výpožičiek boli postupne takéto zápisy:<br> Anna – požičané<br> Ferko – požičané<br> Anna – vrátené<br> Zuzka – požičané<br> Marta – požičané<br> Ktorú knihu si požičala Marta? <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "Danka a Janka"
+    },
+    {
+      "value": "1",
+      "label": "Nevedkove dobrodružstvá"
+    },
+    {
+      "value": "2",
+      "label": "Slovenské rozprávky"
+    },
+    {
+      "value": "3",
+      "label": "O psíčkovi a mačičke"
+    }
+  ],
+  "images": [],
+  "year": "2020/2021",
+  "category": "Nevidiaci ZŠ",
+  "type": "text",
+  "correct_index": 0,
+  "correct_answer": "Danka a Janka ",
+  "correct_answer_plain": "Danka a Janka"
+}

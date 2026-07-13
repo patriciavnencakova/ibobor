@@ -1,0 +1,31 @@
+{
+  "id": 585,
+  "serial_number": 4,
+  "title": "Starí rodičia",
+  "question": "Bobrí bratia chcú nakresliť svoj rodokmeň. Rozprávali sa so staršími bobrami z ich rodiny a zapísali si, čo sa dozvedeli o vzťahoch medzi nimi.<br> Keď napíšu <b>rodič(A,B)</b>, znamená to, že A je rodičom B.<br> Zapísali si takýto zoznam:<br> <b>rodič(Tomáš, Peter)<br> rodič(Anna, Eva)<br> rodič(Rebeka, Juraj)<br> rodič(Margaréta, Anna)<br> rodič(Anna, Zoltán)<br> rodič(Peter, Juraj)<br> rodič(Karol, Zoltán)<br> rodič(Margaréta, Peter)<br> rodič(Tomáš, Anna)<br> rodič(Karol, Eva)</b><br> <br> Kto sú starí rodičia Zoltána podľa zoznamu? <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "Margaréta a Tomáš."
+    },
+    {
+      "value": "1",
+      "label": "Eva a Tomáš."
+    },
+    {
+      "value": "2",
+      "label": "Anna a Karol."
+    },
+    {
+      "value": "3",
+      "label": "Iba Margaréta."
+    }
+  ],
+  "images": [],
+  "year": "2014/2015",
+  "category": "Junior",
+  "type": "text",
+  "correct_index": 0,
+  "correct_answer": "Margaréta a Tomáš. ",
+  "correct_answer_plain": "Margaréta a Tomáš."
+}

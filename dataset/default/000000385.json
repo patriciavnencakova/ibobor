@@ -1,0 +1,31 @@
+{
+  "id": 384,
+  "serial_number": 7,
+  "title": "Sťahovanie súborov",
+  "question": "Anita sťahuje z internetu 3 súbory súčasne. Predpokladáme, že prenosová rýchlosť sa počas celého sťahovania nemení<br> a vždy sa rovnomerne delí medzi ešte nestiahnuté súbory. Anita vidí aktuálny stav sťahovania:<br> Súbor 1: Zostáva 1 minúta<br> Súbor 2: Zostáva 10 minút<br> Súbor 3: Zostávajú 4 minúty<br> <b>Koľko minút musí ešte Anita čakať, kým sa stiahnu všetky tri súbory?</b> <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "10 minút"
+    },
+    {
+      "value": "1",
+      "label": "5 a pol minúty"
+    },
+    {
+      "value": "2",
+      "label": "5 minút"
+    },
+    {
+      "value": "3",
+      "label": "4 a pol minúty"
+    }
+  ],
+  "images": [],
+  "year": "2017/2018",
+  "category": "Nevidiaci SŠ",
+  "type": "text",
+  "correct_index": 2,
+  "correct_answer": "5 minút ",
+  "correct_answer_plain": "5 minút"
+}

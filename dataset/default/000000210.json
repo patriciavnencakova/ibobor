@@ -1,0 +1,33 @@
+{
+  "id": 209,
+  "serial_number": 3,
+  "title": "Roboti",
+  "question": "<image_1><br/> <br/> Simonka nám o troch robotoch na obrázku povedala tieto vety:<br/> <ol><li>Každý robot má päť prstov.</li><li>Emil aj Aurel majú na hlave vrtuľku.</li><li>Aurel má okrúhlu hlavu a Sofia jazdí na koliesku.</li></ol>Ktorá veta je pravdivá? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "2."
+    },
+    {
+      "value": "1",
+      "label": "3."
+    },
+    {
+      "value": "2",
+      "label": "1."
+    },
+    {
+      "value": "3",
+      "label": "žiadna"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/18/2018-LV-03Bo.png"
+  ],
+  "year": "2018/2019",
+  "category": "Bobrík",
+  "type": "image",
+  "correct_index": 1,
+  "correct_answer": "3. ",
+  "correct_answer_plain": "3."
+}

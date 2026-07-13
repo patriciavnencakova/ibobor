@@ -1,0 +1,33 @@
+{
+  "id": 982,
+  "serial_number": 8,
+  "title": "Nádoby šušiek",
+  "question": "Každá nádoba obsahuje vyznačené množstvo šušiek. Bobor na svojej ceste zje všetky šušky z nádoby. Svoju cestu začína v ľavom hornom rohu, končí v pravom dolnom rohu a môže sa pohybovať len smerom vpravo alebo dolu.<br/> <image_1><br/> <br/> Aký najväčší počet šušiek môže bobor zjesť na svojej ceste? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "87"
+    },
+    {
+      "value": "1",
+      "label": "78"
+    },
+    {
+      "value": "2",
+      "label": "125"
+    },
+    {
+      "value": "3",
+      "label": "74"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/08/K_STRUC_UKR_002.gif"
+  ],
+  "year": "2008/2009",
+  "category": "Kadet",
+  "type": "image",
+  "correct_index": 1,
+  "correct_answer": "78 ",
+  "correct_answer_plain": "78"
+}

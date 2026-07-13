@@ -1,0 +1,33 @@
+{
+  "id": 838,
+  "serial_number": 11,
+  "title": "Robot",
+  "question": "Kresliaci robot pozná príkazy: <br/> <ul><li>dopredu počet – prejde počet krokov smerom, ktorým je natočený</li><li>vpravo uhol – otočí sa na mieste o daný uhol vpravo,</li><li>vľavo uhol– otočí sa na mieste o daný uhol vľavo,</li><li>opakuj číslo [príkaz príkaz ...] – robot zopakuje príkazy v zátvorkách [príkaz príkaz ...] toľkokrát, koľko udáva číslo</li></ul><br/> Ktorým z týchto príkazov nakreslí robot obrázok?<br/> <image_1> <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "opakuj 4 [dopredu 40 vpravo 90 dopredu 10 vpravo 90 dopredu 10 vpravo 90]"
+    },
+    {
+      "value": "1",
+      "label": "opakuj 4 [dopredu 40 vpravo 90 dopredu 10 vpravo 90 dopredu 10]"
+    },
+    {
+      "value": "2",
+      "label": "opakuj 4 [dopredu 40 vľavo 90 dopredu 10 vpravo 90 dopredu 10 vľavo 90]"
+    },
+    {
+      "value": "3",
+      "label": "opakuj 4 [dopredu 40 vľavo 90 dopredu 10 vľavo 90]"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/10/B_Dada_robot.gif"
+  ],
+  "year": "2010/2011",
+  "category": "Benjamín",
+  "type": "image",
+  "correct_index": 0,
+  "correct_answer": "opakuj 4 [dopredu 40 vpravo 90 dopredu 10 vpravo 90 dopredu 10 vpravo 90] ",
+  "correct_answer_plain": "opakuj 4 [dopredu 40 vpravo 90 dopredu 10 vpravo 90 dopredu 10 vpravo 90]"
+}

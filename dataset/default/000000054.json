@@ -1,0 +1,31 @@
+{
+  "id": 53,
+  "serial_number": 3,
+  "title": "Pečenie koláča",
+  "question": "Ruženka sa učí piecť tri druhy koláčov: <b>vanilkový</b>, <b>čokoládový</b> a <b>škoricovo-jablkový</b>.<br> Pri výrobe vanilkového koláča postupovala takto:<ul><li>Zmiešala mokré a suché ingrediencie dohromady.</li><li>Pridala vanilkový extrakt.</li><li>Vyliala cesto na plech.</li><li>Rúru vyhriala na 163° C.</li><li>Koláč piekla 1 hodinu 15 minút.</li></ul><br> Keďže vie, že postup pri ostatných koláčoch bude podobný, do svojej kuchárskej knihy si zapísala: <b>koláč(vanilkový extrakt, 163, 75)</b><br> Čo si zapísala pre ďalšie dva koláče? <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "<b>koláč(177, 30, čokoláda); koláč(180, 50, škorica)</b>"
+    },
+    {
+      "value": "1",
+      "label": "<b>koláč(čokoláda, 30, 177); koláč(škorica, 50, 180)</b>"
+    },
+    {
+      "value": "2",
+      "label": "<b>koláč(30, čokoláda, 177); koláč(50, škorica, 180)</b>"
+    },
+    {
+      "value": "3",
+      "label": "<b>koláč(čokoláda, 177, 30); koláč(škorica, 180, 50)</b>"
+    }
+  ],
+  "images": [],
+  "year": "2020/2021",
+  "category": "Junior",
+  "type": "text",
+  "correct_index": 3,
+  "correct_answer": "<b>koláč(čokoláda, 177, 30); koláč(škorica, 180, 50)</b> ",
+  "correct_answer_plain": "koláč(čokoláda, 177, 30); koláč(škorica, 180, 50)"
+}

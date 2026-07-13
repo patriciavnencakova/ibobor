@@ -1,0 +1,34 @@
+{
+  "id": 145,
+  "serial_number": 11,
+  "title": "Vyšívanie",
+  "question": "Tetka Marika si kúpila automatický vyšívací stroj. Na jeho programovanie sa používajú dvojice príkazov, ktoré určujú, na ktorom mieste plátna je potrebné vytiahnuť, resp. zapichnúť ihlu s niťou.<br/> Výšivka<br/> <image_1><br/> vznikne príkazmi <b>VON(B2)-DNU(D4)</b>; <b>VON(E2)-DNU(E4)</b><br/> Ktorými príkazmi vznikla táto výšivka?<br/> <image_2> <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "<b>VON(A1)-DNU(F1); VON(F8)-DNU(A1); VON(A8)-DNU(A1); VON(F8)-DNU(A8)</b>"
+    },
+    {
+      "value": "1",
+      "label": "<b>VON(A1)-DNU(F1); VON(A8)-DNU(F8); VON(A8)-DNU(F1); VON(F8)-DNU(A8)</b>"
+    },
+    {
+      "value": "2",
+      "label": "<b>VON(A1)-DNU(F1); VON(A1)-DNU(A8); VON(F8)-DNU(A8); VON(F1)-DNU(A8)</b>"
+    },
+    {
+      "value": "3",
+      "label": "<b>VON(A1)-DNU(F1); VON(A1)-DNU(F8); VON(A8)-DNU(F1); VON(F8)-DNU(A8)</b>"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/19/2019-KR-05.png",
+    "http://demo.ibobor.sk/sutaz/images/19/2019-KR-05-otazka.png"
+  ],
+  "year": "2019/2020",
+  "category": "Kadet",
+  "type": "image",
+  "correct_index": 3,
+  "correct_answer": "<b>VON(A1)-DNU(F1); VON(A1)-DNU(F8); VON(A8)-DNU(F1); VON(F8)-DNU(A8)</b> ",
+  "correct_answer_plain": "VON(A1)-DNU(F1); VON(A1)-DNU(F8); VON(A8)-DNU(F1); VON(F8)-DNU(A8)"
+}

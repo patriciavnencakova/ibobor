@@ -1,0 +1,33 @@
+{
+  "id": 277,
+  "serial_number": 14,
+  "title": "Ostrovy a mosty",
+  "question": "K Bobrolandu sa pripojilo 6 nových ostrovov. Starosta sa rozhodol, že ak je súčet obyvateľov niektorých dvoch ostrovov <b>väčší ako jeho obľúbené číslo</b>, postavia medzi nimi most.<br/> Na obrázku vidíme 6 ostrovov, počet obyvateľov na každom z nich a mosty, ktoré nechal starosta postaviť.<br/> <image_1><br/> Aké je starostove obľúbené číslo? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "36"
+    },
+    {
+      "value": "1",
+      "label": "37"
+    },
+    {
+      "value": "2",
+      "label": "29"
+    },
+    {
+      "value": "3",
+      "label": "38"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/18/2018-IT-02.png"
+  ],
+  "year": "2018/2019",
+  "category": "Senior",
+  "type": "image",
+  "correct_index": 0,
+  "correct_answer": "36 ",
+  "correct_answer_plain": "36"
+}

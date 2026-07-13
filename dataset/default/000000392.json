@@ -1,0 +1,31 @@
+{
+  "id": 391,
+  "serial_number": 5,
+  "title": "Búdky",
+  "question": "Bobria mamička chce kúpiť na narodeniny svojej dcérke Vaneske búdku pre vtáčiky. V obchode majú nasledujúce búdky:<br> Búdka 1: s veľkým okienkom, s malým srdiečkom, s veľkým srdiečkom<br> Búdka 2: s hviezdičkou, s malým okienkom, s veľkým okienkom<br> Búdka 3: s malým okienkom, so srdiečkom, s veľkým okienkom<br> Búdka 4: s veľkým okienkom, so srdiečkom, s hviezdičkou<br> Vaneske sa najviac páči búdka s dvomi okienkami a srdiečkom. Ktorú búdku má mama kúpiť? <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "Búdku 3"
+    },
+    {
+      "value": "1",
+      "label": "Búdku 1"
+    },
+    {
+      "value": "2",
+      "label": "Búdku 4"
+    },
+    {
+      "value": "3",
+      "label": "Búdku 2"
+    }
+  ],
+  "images": [],
+  "year": "2017/2018",
+  "category": "Nevidiaci ZŠ",
+  "type": "text",
+  "correct_index": 0,
+  "correct_answer": "Búdku 3 ",
+  "correct_answer_plain": "Búdku 3"
+}

@@ -1,0 +1,33 @@
+{
+  "id": 205,
+  "serial_number": 8,
+  "title": "ZOO",
+  "question": "Lev Filip utiekol zo svojej klietky a chce pozdraviť svojich štyroch kamarátov. Prebehnúť časť cestičky po najbližšiu križovatku mu trvá <b>1 minútu</b>.<br/> <image_1><br/> Najmenej koľko minút mu to bude trvať? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "11"
+    },
+    {
+      "value": "1",
+      "label": "4"
+    },
+    {
+      "value": "2",
+      "label": "12"
+    },
+    {
+      "value": "3",
+      "label": "8"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/18/2018-SK-14.png"
+  ],
+  "year": "2018/2019",
+  "category": "Drobec",
+  "type": "image",
+  "correct_index": 0,
+  "correct_answer": "11 ",
+  "correct_answer_plain": "11"
+}

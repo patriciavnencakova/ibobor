@@ -1,0 +1,37 @@
+{
+  "id": 832,
+  "serial_number": 5,
+  "title": "Šablóny",
+  "question": "Pri kreslení využívame takéto tri šablóny<br/> z (zub) <image_1> <br/> c (cesta) <image_2> <br/> s (schod) <image_3><br/> Ak chceme nakresliť niečo zložitejšie, postupne ich ukladáme na papier a obkresľujeme.<br/> Napr. položením šablón s c c z dostaneme obrázok<br/> <image_4><br/> <br/> Akou postupnosťou šablón dostaneme takýto obrázok?<br/> <image_5><br/> <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "z c c s z c"
+    },
+    {
+      "value": "1",
+      "label": "z c c s z c"
+    },
+    {
+      "value": "2",
+      "label": "z c c s s c"
+    },
+    {
+      "value": "3",
+      "label": "z c s c z c"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/10/sablony-zub.gif",
+    "http://demo.ibobor.sk/sutaz/images/10/sablony-cesta.gif",
+    "http://demo.ibobor.sk/sutaz/images/10/sablony-schod.gif",
+    "http://demo.ibobor.sk/sutaz/images/10/sablony-ukazka.gif",
+    "http://demo.ibobor.sk/sutaz/images/10/sablony-otazka.gif"
+  ],
+  "year": "2010/2011",
+  "category": "Benjamín",
+  "type": "image",
+  "correct_index": 2,
+  "correct_answer": "z c c s s c ",
+  "correct_answer_plain": "z c c s s c"
+}

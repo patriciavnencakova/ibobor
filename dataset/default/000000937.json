@@ -1,0 +1,34 @@
+{
+  "id": 936,
+  "serial_number": 7,
+  "title": "Digitálne hodiny",
+  "question": "Veľké digitálne hodiny ukazujú čas pomocou štyroch číslic:<br/> <br/> <image_1><br/> <br/> Každá číslica sa skladá zo siedmich segmentov. Jednotlivé číslice vyzerajú takto:<br/> <br/> <image_2><br/> <br/> Teda v číslici 0 svieti 6 segmentov, v 1 len dva.<br/> Počas celého dňa (medzi 00:00 a 23:59) niektoré segmenty svietia dlhšie, iné kratšie.<br/> <br/> Ako dlho svieti segment v prvej číslici zľava, ktorý počas dňa svieti najkratšie? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "240 minút"
+    },
+    {
+      "value": "1",
+      "label": "200 minút"
+    },
+    {
+      "value": "2",
+      "label": "340 minút"
+    },
+    {
+      "value": "3",
+      "label": "300 minút"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/09/J_Digitalne_hodiny_01.gif",
+    "http://demo.ibobor.sk/sutaz/images/09/J_Digitalne_hodiny_02.gif"
+  ],
+  "year": "2009/2010",
+  "category": "Junior",
+  "type": "image",
+  "correct_index": 0,
+  "correct_answer": "240 minút ",
+  "correct_answer_plain": "240 minút"
+}

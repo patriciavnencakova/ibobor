@@ -1,0 +1,31 @@
+{
+  "id": 642,
+  "serial_number": 4,
+  "title": "Fotky a videá",
+  "question": "Mišo sa vrátil domov z výletu. Z mobilu a z fotoaparátu si do počítača stiahol spolu 100 fotiek a 16 videí. Chce ich všetky zobrať do školy na USB kľúči. Každá z Mišových fotiek má približne 5MB a každé video 250MB.<br> Aký <b>najmenší</b> USB kľúč bude potrebovať? <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "4 GB"
+    },
+    {
+      "value": "1",
+      "label": "8 GB"
+    },
+    {
+      "value": "2",
+      "label": "16 GB"
+    },
+    {
+      "value": "3",
+      "label": "2 GB"
+    }
+  ],
+  "images": [],
+  "year": "2013/2014",
+  "category": "Kadet",
+  "type": "text",
+  "correct_index": 1,
+  "correct_answer": "8 GB ",
+  "correct_answer_plain": "8 GB"
+}

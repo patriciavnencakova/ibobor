@@ -1,0 +1,37 @@
+{
+  "id": 704,
+  "serial_number": 9,
+  "title": "Ukladanie fotiek",
+  "question": "Bobor Braňo používa na ukladanie a triedenie svojich digitálnych fotiek jednoduchú aplikáciu. Aplikácia ukladá fotky do albumov alebo krabíc, albumy sú uložené v krabiciach. Všetko je uložené v hlavnej krabici, ktorá sa volá <b>Moje fotky</b>. Obrázok dolu popisuje spôsob, ako si Braňo uložil svoje fotky, albumy a krabice.<br/> <image_1><br/> Braňo ďalej dvojklikol na krabicu s názvom <b>Prázdniny</b> a v ďalšom (novo zobrazenom) okne na krabicu s názvom <b>Zima</b>. Ktoré z okien sa potom objavilo? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "<image_2>"
+    },
+    {
+      "value": "1",
+      "label": "<image_3>"
+    },
+    {
+      "value": "2",
+      "label": "<image_4>"
+    },
+    {
+      "value": "3",
+      "label": "<image_5>"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/12/2012-FR-02_SK_zadanie.jpg",
+    "http://demo.ibobor.sk/sutaz/images/12/2012-FR-02_SK_C.jpg",
+    "http://demo.ibobor.sk/sutaz/images/12/2012-FR-02_SK_A.jpg",
+    "http://demo.ibobor.sk/sutaz/images/12/2012-FR-02_SK_B.jpg",
+    "http://demo.ibobor.sk/sutaz/images/12/2012-FR-02_SK_D.jpg"
+  ],
+  "year": "2012/2013",
+  "category": "Benjamín",
+  "type": "image",
+  "correct_index": 2,
+  "correct_answer": "http://demo.ibobor.sk/sutaz/images/12/2012-FR-02_SK_B.jpg",
+  "correct_answer_plain": null
+}

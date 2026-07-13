@@ -1,0 +1,38 @@
+{
+  "id": 796,
+  "serial_number": 14,
+  "title": "Brožúrka",
+  "question": "Vydavateľ chce z jedného listu papiera vytvoriť brožúrku, ktorá bude mať 8 očíslovaných a správne usporiadaných stránok.<br/> Postupuje takto:<ul><li>podľa návrhu vytlačí list so správne usporiadanými a natočenými stranami,</li> <li>list dvakrát preloží (napr. tak, ako ukazuje obrázok, ale sú aj <b>iné možnosti</b> preloženia listu),</li> <li>list rozreže, aby sa brožúrka dala listovať</li></ul> <image_1> <image_2><br/> Toto sú 4 návrhy rozloženia stránok na liste.<br/> Ktorý návrh je <b>nesprávny</b>? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "<image_3>"
+    },
+    {
+      "value": "1",
+      "label": "<image_4>"
+    },
+    {
+      "value": "2",
+      "label": "<image_5>"
+    },
+    {
+      "value": "3",
+      "label": "<image_6>"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/11/2011-CZ-02-brozurka.png",
+    "http://demo.ibobor.sk/sutaz/images/11/2011-CZ-02-listy.png",
+    "http://demo.ibobor.sk/sutaz/images/11/2011-CZ-02_A.png",
+    "http://demo.ibobor.sk/sutaz/images/11/2011-CZ-02_C.png",
+    "http://demo.ibobor.sk/sutaz/images/11/2011-CZ-02_D.png",
+    "http://demo.ibobor.sk/sutaz/images/11/2011-CZ-02_B.png"
+  ],
+  "year": "2011/2012",
+  "category": "Kadet",
+  "type": "image",
+  "correct_index": 1,
+  "correct_answer": "http://demo.ibobor.sk/sutaz/images/11/2011-CZ-02_C.png",
+  "correct_answer_plain": null
+}

@@ -1,0 +1,37 @@
+{
+  "id": 58,
+  "serial_number": 8,
+  "title": "Tajná správa",
+  "question": "Veľký šéf neverí svojim agentom rovnako, a preto tajnú správu rozdelí na štyri časti (1 až 4). Každej časti priradí úroveň utajenia.<br/> Správu s úrovňou „-“ smie čítať len agent, ktorý ju dostal (na obrázku ide bodkovaná šípka k agentovi, ktorý správu dostal).<br/> Správu s úrovňou „#“ smie čítať len agent, ktorý ju dostal a jeho podriadení (na obrázku ide sivá šípka od podriadeného k nadriadenému).<br/> Správu s úrovňou „+“ smie čítať každý agent (preto od nej nevedie žiadna bodkovaná šípka).<br/> Nasledujúci obrázok zobrazuje agentov a ktoré správy dostali.<br/> <image_1><br/> Ktorý agent si môže prečítať všetky časti správy? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "<image_2>"
+    },
+    {
+      "value": "1",
+      "label": "<image_3>"
+    },
+    {
+      "value": "2",
+      "label": "<image_4>"
+    },
+    {
+      "value": "3",
+      "label": "<image_5>"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/20/2020-AT-03.png",
+    "http://demo.ibobor.sk/sutaz/images/20/2020-AT-03_B.png",
+    "http://demo.ibobor.sk/sutaz/images/20/2020-AT-03_C.png",
+    "http://demo.ibobor.sk/sutaz/images/20/2020-AT-03_A.png",
+    "http://demo.ibobor.sk/sutaz/images/20/2020-AT-03_D.png"
+  ],
+  "year": "2020/2021",
+  "category": "Junior",
+  "type": "image",
+  "correct_index": 3,
+  "correct_answer": "http://demo.ibobor.sk/sutaz/images/20/2020-AT-03_D.png",
+  "correct_answer_plain": null
+}

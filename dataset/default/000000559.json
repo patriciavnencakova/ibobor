@@ -1,0 +1,33 @@
+{
+  "id": 558,
+  "serial_number": 7,
+  "title": "Miesta na hranie",
+  "question": "Bobor sa rozhoduje podľa nasledujúcich pravidiel, kde sa bude hrať:<ul><li>Ak je dnes slnečno, ale včera pršalo, pláva <b>v rieke</b>.</li><li>Ak je dnes slnečno a včera bolo tiež slnečno, hrá sa na piesku <b>na brehu rieky</b>.</li><li>Ak dnes prší, ale včera bolo pekne, hrá sa so stavebnicou <b>doma</b>.</li><li>Ak dnes prší a včera tiež pršalo, <b>nehrá sa</b>.</li></ul><br/> Nasledujúca tabuľka zobrazuje, aké bolo počasie v predchádzajúcich dňoch:<br/> <image_1><br/> Kde sa bobor hral 7. novembra? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "nehral sa"
+    },
+    {
+      "value": "1",
+      "label": "v rieke"
+    },
+    {
+      "value": "2",
+      "label": "doma"
+    },
+    {
+      "value": "3",
+      "label": "na brehu rieky"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/14/2014-JP-05_SK_tabulka.png"
+  ],
+  "year": "2014/2015",
+  "category": "Benjamín",
+  "type": "image",
+  "correct_index": 0,
+  "correct_answer": "nehral sa ",
+  "correct_answer_plain": "nehral sa"
+}

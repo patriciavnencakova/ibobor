@@ -1,0 +1,37 @@
+{
+  "id": 1068,
+  "serial_number": 4,
+  "title": "Elektrické autá",
+  "question": "Na mape mesta sú znázornené elektrické autá, ktoré sa práve nabíjajú na nabíjacích staniciach popri ceste.<br/> <image_1><br/> Martin išiel <b>do lesa</b>.<br/> V akom poradí vidiel autá? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "<image_2>"
+    },
+    {
+      "value": "1",
+      "label": "<image_3>"
+    },
+    {
+      "value": "2",
+      "label": "<image_4>"
+    },
+    {
+      "value": "3",
+      "label": "<image_5>"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/19/2019-SK-32.png",
+    "http://demo.ibobor.sk/sutaz/images/19/2019-SK-32_C.png",
+    "http://demo.ibobor.sk/sutaz/images/19/2019-SK-32_D.png",
+    "http://demo.ibobor.sk/sutaz/images/19/2019-SK-32_B.png",
+    "http://demo.ibobor.sk/sutaz/images/19/2019-SK-32_A.png"
+  ],
+  "year": "Prechádzky",
+  "category": "3.-4.roč.",
+  "type": "image",
+  "correct_index": 0,
+  "correct_answer": "http://demo.ibobor.sk/sutaz/images/19/2019-SK-32_C.png",
+  "correct_answer_plain": null
+}

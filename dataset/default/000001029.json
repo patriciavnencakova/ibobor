@@ -1,0 +1,31 @@
+{
+  "id": 1028,
+  "serial_number": 9,
+  "title": "10",
+  "question": "Štyria kamaráti Anton, Boris, Cyril a Dušan hrali futbal a rozbili okno.<br> Povedali:<br> Anton: Ja som ho nerozbil.<br> Boris: Ani ja.<br> Cyril: Dušan to urobil.<br> Dušan: Nie, bol to Boris.<br> <br> Vieme, že iba jeden klamal. Kto teda rozbil okno?<br> <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "Cyril"
+    },
+    {
+      "value": "1",
+      "label": "Boris"
+    },
+    {
+      "value": "2",
+      "label": "Anton"
+    },
+    {
+      "value": "3",
+      "label": "Dušan"
+    }
+  ],
+  "images": [],
+  "year": "2007/2008",
+  "category": "Benjamín",
+  "type": "text",
+  "correct_index": 3,
+  "correct_answer": "Dušan ",
+  "correct_answer_plain": "Dušan"
+}

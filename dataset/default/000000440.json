@@ -1,0 +1,33 @@
+{
+  "id": 439,
+  "serial_number": 2,
+  "title": "Upratovanie parku",
+  "question": "Každé ráno vyjde školník zo školy, pozametá všetky chodníky a vráti sa naspäť do školy. Chodníkov je 27 (pozri obrázok), každý z nich meria 10 metrov.<br/> <image_1><br/> Akú <b>najkratšiu</b> trasu musí školník prejsť? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "280 metrov"
+    },
+    {
+      "value": "1",
+      "label": "540 metrov"
+    },
+    {
+      "value": "2",
+      "label": "300 metrov"
+    },
+    {
+      "value": "3",
+      "label": "270 metrov"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/16/2016-SI-02.png"
+  ],
+  "year": "2016/2017",
+  "category": "Junior",
+  "type": "image",
+  "correct_index": 0,
+  "correct_answer": "280 metrov ",
+  "correct_answer_plain": "280 metrov"
+}

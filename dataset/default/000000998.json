@@ -1,0 +1,34 @@
+{
+  "id": 997,
+  "serial_number": 8,
+  "title": "Bobor v štvorcovej sieti",
+  "question": "Bobor sa pohybuje v štvorcovej sieti. Môže sa posunúť o jedno políčko vodorovne alebo zvislo, alebo preskočiť vodorovne alebo zvislo cez žltý štvorček. Nemôže však nikdy stáť na žltom štvorčeku. Napríklad v situácii na obrázku si môže bobor vybrať jeden zo štyroch krokov:<br/> <image_1><br/> Bobor sa chce dostať na políčko označené písmenom F na čo najmenší počet krokov. Môže si zvoliť jedno z troch štartovacích políčok: A, B alebo C.<br/> <image_2><br/> Ktoré z týchto tvrdení je správne? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "Všetky štartové políčka sú rovnako dobré."
+    },
+    {
+      "value": "1",
+      "label": "Ak si zvolí štartové políčko A, dosiahne cieľové políčko F na najmenší počet krokov."
+    },
+    {
+      "value": "2",
+      "label": "Ak si zvolí štartové políčko B, dosiahne cieľové políčko F na najmenší počet krokov."
+    },
+    {
+      "value": "3",
+      "label": "Ak si zvolí štartové políčko C, dosiahne cieľové políčko F na najmenší počet krokov."
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/08/J_ALG_LT_038.gif",
+    "http://demo.ibobor.sk/sutaz/images/08/J_ALG_LT_038-2.gif"
+  ],
+  "year": "2008/2009",
+  "category": "Junior",
+  "type": "image",
+  "correct_index": 0,
+  "correct_answer": "Všetky štartové políčka sú rovnako dobré. ",
+  "correct_answer_plain": "Všetky štartové políčka sú rovnako dobré."
+}

@@ -1,0 +1,33 @@
+{
+  "id": 39,
+  "serial_number": 4,
+  "title": "Krajské mestá",
+  "question": "Filip vytvoril tabuľku krajských miest Slovenska s ich počtom obyvateľov.<br/> <image_1><br/> Ktoré čísla v nej vyznačil modrou farbou? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "väčšie ako 80 000"
+    },
+    {
+      "value": "1",
+      "label": "medzi 55 000 a 78 000"
+    },
+    {
+      "value": "2",
+      "label": "štyri najmenšie"
+    },
+    {
+      "value": "3",
+      "label": "obsahujúce číslicu 3"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/20/2020-SK-20_K.png"
+  ],
+  "year": "2020/2021",
+  "category": "Kadet",
+  "type": "image",
+  "correct_index": 0,
+  "correct_answer": "väčšie ako 80 000 ",
+  "correct_answer_plain": "väčšie ako 80 000"
+}

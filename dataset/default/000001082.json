@@ -1,0 +1,33 @@
+{
+  "id": 1081,
+  "serial_number": 8,
+  "title": "Talentová súťaž",
+  "question": "V Bobrove majú 4 školy. Z každej z nich má prísť na talentovú súťaž jeden žiak. <br/> Na obrázku vidíme umiestnenie škôl, autobusové spojenia a cenu cestovného lístku.<br/> <image_1><br/> V ktorej škole sa má súťaž uskutočniť, aby sa za všetky lístky zaplatilo čo <b>najmenej</b>? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "Alfamor"
+    },
+    {
+      "value": "1",
+      "label": "Dobromil"
+    },
+    {
+      "value": "2",
+      "label": "Betahlav"
+    },
+    {
+      "value": "3",
+      "label": "Cerolin"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/15/2015-JP-03_SK.png"
+  ],
+  "year": "Prechádzky",
+  "category": "5.-7.roč.",
+  "type": "image",
+  "correct_index": 3,
+  "correct_answer": "Cerolin ",
+  "correct_answer_plain": "Cerolin"
+}

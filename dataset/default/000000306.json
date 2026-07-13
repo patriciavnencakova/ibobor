@@ -1,0 +1,33 @@
+{
+  "id": 305,
+  "serial_number": 9,
+  "title": "Červíček",
+  "question": "Červíček sedí na konci vetvy stromu. Prejsť každú časť vetvy mu trvá 1 minútu.<br/> <image_1><br/> Koľko minút mu bude trvať <b>najkratšia</b> cesta, keď chce zjesť všetky jablká? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "11"
+    },
+    {
+      "value": "1",
+      "label": "12"
+    },
+    {
+      "value": "2",
+      "label": "8"
+    },
+    {
+      "value": "3",
+      "label": "4"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/17/2017-SK-08_Drobci.png"
+  ],
+  "year": "2017/2018",
+  "category": "Drobec",
+  "type": "image",
+  "correct_index": 0,
+  "correct_answer": "11 ",
+  "correct_answer_plain": "11"
+}

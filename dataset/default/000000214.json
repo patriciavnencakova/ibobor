@@ -1,0 +1,33 @@
+{
+  "id": 213,
+  "serial_number": 7,
+  "title": "Mravenisko",
+  "question": "<image_1><br/> Mravcožrút Edo ide po mravčích cestičkách. Na <b>každej križovatke</b> sa zastaví a čaká na príkaz, kadiaľ má ďalej ísť.<br/> Janka chce, aby Edo pozbieral <b>všetky veľké červené</b> mravce a dostal sa do mraveniska.<br/> Ktorú postupnosť príkazov mu Janka povedala? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "hore, vpravo, vpravo, dole, vpravo"
+    },
+    {
+      "value": "1",
+      "label": "hore, vpravo, dole, vpravo, hore, vpravo"
+    },
+    {
+      "value": "2",
+      "label": "hore, dole, vpravo, vľavo, vľavo, dole"
+    },
+    {
+      "value": "3",
+      "label": "hore, vpravo, dole, vpravo, hore, hore"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/18/2018-AU-01.png"
+  ],
+  "year": "2018/2019",
+  "category": "Bobrík",
+  "type": "image",
+  "correct_index": 1,
+  "correct_answer": "hore, vpravo, dole, vpravo, hore, vpravo ",
+  "correct_answer_plain": "hore, vpravo, dole, vpravo, hore, vpravo"
+}

@@ -1,0 +1,33 @@
+{
+  "id": 315,
+  "serial_number": 10,
+  "title": "Vežička",
+  "question": "Danka stavia vežičku z farebných krúžkov.<br/> Krúžky ukladá v poradí:<br/> 1. červený<br/> 2. zelený<br/> 3. modrý<br/> Toto opakuje a prestane, keď už nemá krúžok potrebnej farby.<br/> Na obrázku vidieť, ako Danka začala stavať vežičku a aké krúžky ešte má.<br/> <image_1><br/> Koľko krúžkov bude mať jej veža? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "8"
+    },
+    {
+      "value": "1",
+      "label": "9"
+    },
+    {
+      "value": "2",
+      "label": "10"
+    },
+    {
+      "value": "3",
+      "label": "13"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/17/2017-SK-16.png"
+  ],
+  "year": "2017/2018",
+  "category": "Bobrík",
+  "type": "image",
+  "correct_index": 2,
+  "correct_answer": "10 ",
+  "correct_answer_plain": "10"
+}

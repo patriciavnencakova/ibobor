@@ -1,0 +1,33 @@
+{
+  "id": 786,
+  "serial_number": 4,
+  "title": "Míny",
+  "question": "Cieľom hry Míny je odokryť všetky štvorce, ktoré neobsahujú míny.<br/> <image_1><br/> Číslo 1 až 8 na odkrytom štvorci predstavuje počet mín, ktoré sa nachádzajú na susedných štvorcoch. Ak na štvorci nie je číslo, znamená to, že na žiadnom susednom štvorci nie je mína. Odokrývaním štvorcov, na ktorých sú čísla alebo ktoré sú prázdne môžeme zistiť, kde sa míny nachádzajú.<br/> Ktorý zo štvorcov A, B, C, D <b>neobsahuje</b> mínu? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "C"
+    },
+    {
+      "value": "1",
+      "label": "D"
+    },
+    {
+      "value": "2",
+      "label": "B"
+    },
+    {
+      "value": "3",
+      "label": "A"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/11/2011-CZ-11_SK.png"
+  ],
+  "year": "2011/2012",
+  "category": "Kadet",
+  "type": "image",
+  "correct_index": 2,
+  "correct_answer": "B ",
+  "correct_answer_plain": "B"
+}

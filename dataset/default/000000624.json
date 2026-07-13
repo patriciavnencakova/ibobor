@@ -1,0 +1,34 @@
+{
+  "id": 623,
+  "serial_number": 12,
+  "title": "Padajúce loptičky",
+  "question": "Bobor vynašiel výhybku, ktorá mení smer padajúcej loptičky. Keď loptička padá a narazí na výhybku (pozri ľavý obrázok), spadne vľavo, a pritom preklopí výhybku do opačnej polohy (pozri pravý obrázok).<br/> <image_1><br/> Ďalšia loptička teda spadne vpravo a zasa preklopí výhybku. Bobor si potom vyrobil zariadenie s tromi výhybkami:<br/> <image_2><br/> Cez ktorý otvor vypadne tretia, teda žltá loptička? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "cez A"
+    },
+    {
+      "value": "1",
+      "label": "cez D"
+    },
+    {
+      "value": "2",
+      "label": "cez C"
+    },
+    {
+      "value": "3",
+      "label": "cez B"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/13/2013-RU-05-SK-ukazka.png",
+    "http://demo.ibobor.sk/sutaz/images/13/2013-RU-05-SK-3vyhybky.png"
+  ],
+  "year": "2013/2014",
+  "category": "Bobrík",
+  "type": "image",
+  "correct_index": 3,
+  "correct_answer": "cez B ",
+  "correct_answer_plain": "cez B"
+}

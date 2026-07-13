@@ -1,0 +1,38 @@
+{
+  "id": 973,
+  "serial_number": 14,
+  "title": "Kvety",
+  "question": "Bobor dnes kreslí kvetiny. Používa na to špeciálneho robota a príkaz <b>lupeň</b>, ktorým robot nakreslí lupeň kvetu.<br/> <image_1><br/> Ak zadá príkaz <b>štetec Zelený</b>, robot si pripraví zelenú farbu.<br/> Ak zadá príkaz <b>vpravo uhol</b>, robot otočí štetec o zadaný uhol vpravo.<br/> Ak chce zopakovať niekoľko <b>príkazov</b>, napíše <b>opakuj koľkokrát [ príkazy ]</b>.<br/> <br/> Napríklad príkazmi <b>štetec Červený opakuj 4 [lupeň vpravo 90]</b> nakreslí takýto kvet:<br/> <image_2><br/> <br/> Ktorý kvet nakreslí nasledujúcim programom?<b><br/> <pre>štetec Žltý opakuj 2 [lupeň vpravo 45]<br/>štetec Modrý opakuj 3 [lupeň vpravo 45]<br/>štetec Zelený opakuj 2 [lupeň vpravo 45]<br/>štetec Červený opakuj 1 [lupeň vpravo 45]</pre></b> <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "<image_3>"
+    },
+    {
+      "value": "1",
+      "label": "<image_4>"
+    },
+    {
+      "value": "2",
+      "label": "<image_5>"
+    },
+    {
+      "value": "3",
+      "label": "<image_6>"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/08/B_ALG_SK_007-1.gif",
+    "http://demo.ibobor.sk/sutaz/images/08/B_ALG_SK_007-2.gif",
+    "http://demo.ibobor.sk/sutaz/images/08/B_ALG_SK_007-b.gif",
+    "http://demo.ibobor.sk/sutaz/images/08/B_ALG_SK_007-c.gif",
+    "http://demo.ibobor.sk/sutaz/images/08/B_ALG_SK_007-a.gif",
+    "http://demo.ibobor.sk/sutaz/images/08/B_ALG_SK_007-d.gif"
+  ],
+  "year": "2008/2009",
+  "category": "Benjamín",
+  "type": "image",
+  "correct_index": 1,
+  "correct_answer": "http://demo.ibobor.sk/sutaz/images/08/B_ALG_SK_007-c.gif",
+  "correct_answer_plain": null
+}

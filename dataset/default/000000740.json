@@ -1,0 +1,34 @@
+{
+  "id": 739,
+  "serial_number": 14,
+  "title": "Knižnica",
+  "question": "V školskej knižnici majú na jednej poličke viacdielnu encyklopédiu, ale jednotlivé diely nie sú uložené v správnom poradí. Knihovník ich chce usporiadať a postupuje nasledovne (pozri aj obrázky nižšie): <b>vyberie jednu</b> knihu z poličky, <b>posunie niekoľko</b> kníh na poličke doľava alebo doprava a <b>vloží</b> vybranú knihu na nové prázdne miesto.<br/> <image_1><br/> <br/> Aký je minimálny počet takýchto <i>„vyber-posuň-vlož“</i> úkonov potrebných na usporiadanie dielov encyklopédie, ak boli knihy na začiatku uložené takto?<br/> <image_2><br/> <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "6"
+    },
+    {
+      "value": "1",
+      "label": "2"
+    },
+    {
+      "value": "2",
+      "label": "9"
+    },
+    {
+      "value": "3",
+      "label": "4"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/12/2012-EE-03_navod.jpg",
+    "http://demo.ibobor.sk/sutaz/images/12/2012-EE-03_otazka.jpg"
+  ],
+  "year": "2012/2013",
+  "category": "Junior",
+  "type": "image",
+  "correct_index": 3,
+  "correct_answer": "4 ",
+  "correct_answer_plain": "4"
+}

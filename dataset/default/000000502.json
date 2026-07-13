@@ -1,0 +1,33 @@
+{
+  "id": 501,
+  "serial_number": 7,
+  "title": "Zbieranie peľu",
+  "question": "Včielka Maja lieta z kvetu na kvet a zbiera peľ. Pri každom svojom lete navštívi len jeden kvet a zoberie z neho najviac 10 mg peľu. Ku kvetu sa môže vrátiť aj viackrát.<br/> Na jednotlivých kvetoch je toľko peľu (v mg) ako na obrázku.<br/> <image_1><br/> Najviac koľko mg peľu môže včielka pozbierať pri 20 letoch? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "190 mg"
+    },
+    {
+      "value": "1",
+      "label": "195 mg"
+    },
+    {
+      "value": "2",
+      "label": "196 mg"
+    },
+    {
+      "value": "3",
+      "label": "200 mg"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/15/2015-MY-03.png"
+  ],
+  "year": "2015/2016",
+  "category": "Kadet",
+  "type": "image",
+  "correct_index": 2,
+  "correct_answer": "196 mg ",
+  "correct_answer_plain": "196 mg"
+}

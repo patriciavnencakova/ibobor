@@ -1,0 +1,38 @@
+{
+  "id": 535,
+  "serial_number": 11,
+  "title": "Rozpoznávanie nábytku",
+  "question": "Rozpoznávací systém nábytku na sedenie je založený na troch neurónoch, ktoré sčítavajú body za to, či má objekt nohy, sedadlo, opierky na ruky a operadlo na chrbát. Konkrétne body za každú časť objektu a pre každý neurón sú uvedené na obrázku.<br/> <image_1><br/> Neuróny dokážu rozpoznať tri typy objektov: kreslo, stoličku s opierkami a stolček.<br/> Niektorý z uvedených objektov sa rozpozná práve vtedy, ak má práve jeden z neurónov súčet bodov viac ako 10 a ostatné menej alebo rovné ako 10.<br/> Napríklad objekt na nasledujúcom obrázku má nohy, sedadlo a operadlo na chrbát.<br/> <image_2><br/> Teda prvý neurón ma súčet 13 bodov, druhý má 9 bodov a tretí 10. Preto sa rozpozná ako kreslo.<br/> Ktorý z nasledujúcich objektov sytém <b>nerozpozná</b>? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "<image_3>"
+    },
+    {
+      "value": "1",
+      "label": "<image_4>"
+    },
+    {
+      "value": "2",
+      "label": "<image_5>"
+    },
+    {
+      "value": "3",
+      "label": "<image_6>"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/15/2015-RU-01_SK.png",
+    "http://demo.ibobor.sk/sutaz/images/15/2015-RU-01_objekt.png",
+    "http://demo.ibobor.sk/sutaz/images/15/2015-RU-01_C.png",
+    "http://demo.ibobor.sk/sutaz/images/15/2015-RU-01_A.png",
+    "http://demo.ibobor.sk/sutaz/images/15/2015-RU-01_D.png",
+    "http://demo.ibobor.sk/sutaz/images/15/2015-RU-01_B.png"
+  ],
+  "year": "2015/2016",
+  "category": "Senior",
+  "type": "image",
+  "correct_index": 2,
+  "correct_answer": "http://demo.ibobor.sk/sutaz/images/15/2015-RU-01_D.png",
+  "correct_answer_plain": null
+}

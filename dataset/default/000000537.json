@@ -1,0 +1,33 @@
+{
+  "id": 536,
+  "serial_number": 12,
+  "title": "Skákajúci klokan",
+  "question": "V rade je 10 tanierov, na každom z nich je jablko.<br/> <image_1><br/> Klokan Laco má rád skákanie aj jablká. <br/> Najprv skočil na tanier A. Potom skákal buď o 2 taniere vpravo alebo o 3 taniere vľavo. Skákal vždy len na také taniere, na ktorých je jablko. Keď skočil na tanier, jablko z neho zobral do svojho klokanieho vaku.<br/> Keď klokan Laco pozbieral všetkých 10 jabĺk, na ktorý tanier skočil ako na posledný? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "Na tanier H."
+    },
+    {
+      "value": "1",
+      "label": "Na tanier J."
+    },
+    {
+      "value": "2",
+      "label": "Na tanier B."
+    },
+    {
+      "value": "3",
+      "label": "Na tanier I."
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/15/2015-RU-08_SK.png"
+  ],
+  "year": "2015/2016",
+  "category": "Senior",
+  "type": "image",
+  "correct_index": 3,
+  "correct_answer": "Na tanier I. ",
+  "correct_answer_plain": "Na tanier I."
+}

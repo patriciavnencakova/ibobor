@@ -1,0 +1,35 @@
+{
+  "id": 517,
+  "serial_number": 8,
+  "title": "Zdobenie torty",
+  "question": "V továrni navrhli automatickú linku a robotickú ruku, pomocou ktorej dokážu ozdobiť tortu. Torta sa otáča pomocou príkazu <b>OTOC</b> a robot na ňu kreslí pomocou príkazov <b>OVAL</b> a <b>KRUZOK</b>.<br/> <image_1><br/> príkaz <b>OVAL</b> nakreslí elipsu<br/> príkaz <b>KRUZOK</b> nakreslí kružnicu<br/> príkaz <b>OTOC k</b> otočí tortu o k stupňov vpravo<br/> príkaz <b>OPAKUJ n [ príkazy ]</b> zopakuje n-krát postupnosť príkazov, ktoré sú uvedené v zátvorkách<br/> Ak chceme takúto tortu <image_2> napíšeme napríklad takúto postupnosť príkazov <b>OPAKUJ 4 [ KRUZOK OTOC 90 ]</b><br/> Chceme takúto tortu:<br/> <image_3><br/> Ktorá postupnosť príkazov ju takto <b>neozdobí</b>? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "<b>OPAKUJ 3 [ OTOC 120 OPAKUJ 2 [OVAL OTOC 30 KRUZOK OTOC 150 ] ]</b>"
+    },
+    {
+      "value": "1",
+      "label": "<b>OPAKUJ 6 [ OVAL OTOC 60 ] OPAKUJ 6 [ KRUZOK OTOC 60 ]</b>"
+    },
+    {
+      "value": "2",
+      "label": "<b>OPAKUJ 6 [ OVAL OTOC 60 ] OTOC 330 OPAKUJ 6 [ KRUZOK OTOC 300 ]</b>"
+    },
+    {
+      "value": "3",
+      "label": "<b>OPAKUJ 6 [ OTOC 30 KRUZOK OTOC 30 OVAL ]</b>"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/15/2015-LT-03_stroj.png",
+    "http://demo.ibobor.sk/sutaz/images/15/2015-LT-03_priklad.png",
+    "http://demo.ibobor.sk/sutaz/images/15/2015-LT-03_zadanie.png"
+  ],
+  "year": "2015/2016",
+  "category": "Junior",
+  "type": "image",
+  "correct_index": 1,
+  "correct_answer": "<b>OPAKUJ 6 [ OVAL OTOC 60 ] OPAKUJ 6 [ KRUZOK OTOC 60 ]</b> ",
+  "correct_answer_plain": "OPAKUJ 6 [ OVAL OTOC 60 ] OPAKUJ 6 [ KRUZOK OTOC 60 ]"
+}

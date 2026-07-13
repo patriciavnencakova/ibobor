@@ -1,0 +1,33 @@
+{
+  "id": 413,
+  "serial_number": 6,
+  "title": "Čarovné nápoje",
+  "question": "Čarodejník vyrobil štyri nové čarovné nápoje s takýmito účinkami:<ul><li>predlžovanie uší</li><li>zväčšovanie zubov</li><li>kučeravenie fúzov</li><li>zbelenie nosa</li></ul>Každý nápoj nalial do iného pohára, poháre označil A až D. Zabudol však, ktorý nápoj dal do ktorého pohára.<br/> Čarodejník dal každému z troch bobrov odpiť z dvoch pohárov. Nápoje mali na bobry také účinky, ako je znázornené na obrázku:<br/> <image_1><br/> K čarodejníkovi prišiel Emil, ktorý chce mať kučeravé fúzy a dlhé uši.<br/> <br/> Z ktorých pohárov si musí Emil odpiť? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "B a C"
+    },
+    {
+      "value": "1",
+      "label": "A a C"
+    },
+    {
+      "value": "2",
+      "label": "B a D"
+    },
+    {
+      "value": "3",
+      "label": "A a D"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/16/2016-JP-01_B.png"
+  ],
+  "year": "2016/2017",
+  "category": "Benjamín",
+  "type": "image",
+  "correct_index": 3,
+  "correct_answer": "A a D ",
+  "correct_answer_plain": "A a D"
+}

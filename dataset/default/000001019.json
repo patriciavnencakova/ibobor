@@ -1,0 +1,36 @@
+{
+  "id": 1018,
+  "serial_number": 14,
+  "title": "Laná",
+  "question": "V triede je 6 stoličiek a niektoré dvojice z nich sú spojené lanom. Žiaci sa majú posadiť na stoličky tak, aby platilo, že ak sú dve stoličky spojené lanom, tak na jednej sedí chlapec a na druhej dievča. Na ktorú konštrukciu sa nevedia posadiť podľa zadania? Bod reprezentuje stoličku a čiara lano. <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "<image_1>"
+    },
+    {
+      "value": "1",
+      "label": "<image_2>"
+    },
+    {
+      "value": "2",
+      "label": "<image_3>"
+    },
+    {
+      "value": "3",
+      "label": "<image_4>"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/08/J-S_AT_006-c.gif",
+    "http://demo.ibobor.sk/sutaz/images/08/J-S_AT_006-b.gif",
+    "http://demo.ibobor.sk/sutaz/images/08/J-S_AT_006-a.gif",
+    "http://demo.ibobor.sk/sutaz/images/08/J-S_AT_006-d.gif"
+  ],
+  "year": "2008/2009",
+  "category": "Senior",
+  "type": "image",
+  "correct_index": 0,
+  "correct_answer": "http://demo.ibobor.sk/sutaz/images/08/J-S_AT_006-c.gif",
+  "correct_answer_plain": null
+}

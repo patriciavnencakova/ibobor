@@ -1,0 +1,33 @@
+{
+  "id": 865,
+  "serial_number": 8,
+  "title": "Klub tanca",
+  "question": "Rasťo chodí do klubu moderného tanca a všetci ho považujú za horúceho kandidáta na víťaza klubovej súťaže. Raz v parku videl mladého černocha Sama predvádzať hip-hop a pozval ho do súťaže. Sam súhlasil a začal usilovne trénovať. Prišiel na súťaž a stal sa absolútnym víťazom!<br/> <br/> Nasledujúci diagram znázorňuje hlavných aktérov a niektoré činnosti v tomto príbehu. Ktorú z nasledujúcich možností vyjadruje v diagrame zelená šípka?<br/> <image_1> <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "tancovať v parku hip-hop"
+    },
+    {
+      "value": "1",
+      "label": "pozvať niekoho do súťaže"
+    },
+    {
+      "value": "2",
+      "label": "zvíťaziť v súťaži nad niekým"
+    },
+    {
+      "value": "3",
+      "label": "trénovať vlastné vystúpenie"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/10/2010-IT-02_sk.png"
+  ],
+  "year": "2010/2011",
+  "category": "Junior",
+  "type": "image",
+  "correct_index": 2,
+  "correct_answer": "zvíťaziť v súťaži nad niekým\n ",
+  "correct_answer_plain": "zvíťaziť v súťaži nad niekým"
+}

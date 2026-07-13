@@ -1,0 +1,31 @@
+{
+  "id": 1029,
+  "serial_number": 10,
+  "title": "7",
+  "question": "Programy Miranda, Skype a ICQ sa používajú na: <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "komunikáciu medzi ľuďmi"
+    },
+    {
+      "value": "1",
+      "label": "spracovanie textov"
+    },
+    {
+      "value": "2",
+      "label": "komunikáciu medzi počítačmi"
+    },
+    {
+      "value": "3",
+      "label": "posielanie e-mailov"
+    }
+  ],
+  "images": [],
+  "year": "2007/2008",
+  "category": "Benjamín",
+  "type": "text",
+  "correct_index": 0,
+  "correct_answer": "komunikáciu medzi ľuďmi ",
+  "correct_answer_plain": "komunikáciu medzi ľuďmi"
+}

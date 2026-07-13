@@ -1,0 +1,33 @@
+{
+  "id": 444,
+  "serial_number": 7,
+  "title": "Križovatka pre električky",
+  "question": "V Bobrove majú zložitú križovatku. Električky na ňu prichádzajú zo všetkých štyroch svetových strán, z príslušného smeru každá po pravom páre koľajníc. Električka môže pokračovať buď rovno, vľavo alebo vpravo. Smery pre električky určujú nastavenia štyroch prepínačov. Prvý (najľavejší) prepínač určuje smer električky, ktorá prichádza <b>z juhu</b>, druhý prepínač pre električku <b>zo západu</b>, tretí <b>zo severu</b> a štvrtý <b>z východu</b>.<br/> <br/> Napr. pre nastavenia <b>VĽAVO – ROVNO – VĽAVO – VPRAVO</b> pôjdu električky takto:<br/> <image_1><br/> Všimni si, že ak by pri tomto nastavení súčasne prišla električka z juhu aj električka zo západu, tak by sa zrazili.<br/> <br/> Jedného dňa prišli súčasne na križovatku 4 električky zo všetkých štyroch svetových strán.<br/> Aké nastavenie prepínačov spôsobí zrážku? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "<b>VPRAVO – VPRAVO – VPRAVO – VPRAVO</b>"
+    },
+    {
+      "value": "1",
+      "label": "<b>VPRAVO – VĽAVO – VPRAVO – VĽAVO </b>"
+    },
+    {
+      "value": "2",
+      "label": "<b>VPRAVO – VPRAVO – VĽAVO – VĽAVO</b>"
+    },
+    {
+      "value": "3",
+      "label": "<b>VĽAVO – VPRAVO – VĽAVO – VPRAVO </b>"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/16/2016-RU-04.png"
+  ],
+  "year": "2016/2017",
+  "category": "Junior",
+  "type": "image",
+  "correct_index": 2,
+  "correct_answer": "<b>VPRAVO – VPRAVO – VĽAVO – VĽAVO</b> ",
+  "correct_answer_plain": "VPRAVO – VPRAVO – VĽAVO – VĽAVO"
+}

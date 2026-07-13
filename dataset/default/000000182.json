@@ -1,0 +1,31 @@
+{
+  "id": 181,
+  "serial_number": 2,
+  "title": "Trezor",
+  "question": "Trezor sa otvára pomocou otočného gombíka s ukazovateľom, okolo ktorého sú písmená od A po H usporiadané v smere pohybu hodinových ručičiek podľa abecedy.<br> Ak chceme otvoriť trezor a poznáme heslo, otáčame gombíkom tak, aby ukazovateľ postupne ukázal na všetky písmená hesla.<br> Pred zadávaním hesla musíme otočiť ukazovateľ k písmenu A (počiatočná pozícia).<br> Napr. ak by bolo heslo DC, otočíme (z počiatočnej pozície) ukazovateľ trikrát doprava – bude ukazovať na písmeno D a potom ho otočíme raz doľava – bude ukazovať na písmeno C. Heslo si môžeme zapísať pomocou postupnosti čísel, pred ktorými je znamienko plus (ak točíme doprava) alebo mínus (ak točíme doľava). <br> V prípade hesla DC to je postupnosť +3 -1<br> Ktorou postupnosťou si zapíšeme heslo <b>GABE</b>? <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "-2 +2 +1 +3"
+    },
+    {
+      "value": "1",
+      "label": "-2 +2 -1 -3"
+    },
+    {
+      "value": "2",
+      "label": "+2 -2 -1 -3"
+    },
+    {
+      "value": "3",
+      "label": "+6 -6 +1 -3"
+    }
+  ],
+  "images": [],
+  "year": "2019/2020",
+  "category": "Nevidiaci SŠ",
+  "type": "text",
+  "correct_index": 0,
+  "correct_answer": "-2 +2 +1 +3 ",
+  "correct_answer_plain": "-2 +2 +1 +3"
+}

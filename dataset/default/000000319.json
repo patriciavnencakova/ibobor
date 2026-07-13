@@ -1,0 +1,31 @@
+{
+  "id": 318,
+  "serial_number": 1,
+  "title": "Správy na ePriatelia",
+  "question": "Tomáš išiel von a zabudol sa odhlásiť zo svojho konta na sociálnej sieti ePriatelia.<br> K jeho počítaču si sadla Janka a napísala jeho kamarátovi správu. Nevedela však o Tomášovom zvyku, že posledné písmeno každého slova správy napíše dvakrát.<br> Ktorú správu napísala Janka? <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "Zajtraa jee sobotaa, pôjdemee naa výlett."
+    },
+    {
+      "value": "1",
+      "label": "Včeraa somm boll naa kúpaliskuu."
+    },
+    {
+      "value": "2",
+      "label": "Dostall somm dvojkuu zz diktátuu."
+    },
+    {
+      "value": "3",
+      "label": "Dnes pôjdem s Emou do kina."
+    }
+  ],
+  "images": [],
+  "year": "2017/2018",
+  "category": "Benjamín",
+  "type": "text",
+  "correct_index": 3,
+  "correct_answer": "Dnes pôjdem s Emou do kina. ",
+  "correct_answer_plain": "Dnes pôjdem s Emou do kina."
+}

@@ -1,0 +1,31 @@
+{
+  "id": 745,
+  "serial_number": 5,
+  "title": "Mačka",
+  "question": "Máme takýto príbeh:<br> <i>Janko našiel na ceste mačku. Pretože bola zima, rozhodol sa, že si ju zoberie domov. Mačka sa u Janka cítila dobre, v izbe bolo teplo a tak zaspala pri krbe. Vtedy prišla domov Jankova mama. Nevšimla si mačku pri krbe a stúpila jej na chvost. Mačka sa zľakla, vyskočila a poškriabala mamu.</i><br> <br> Chceme ho vyjadriť v kompaktnejšej podobe pomocou udalostí, ktoré sa v ňom odohrali. Navrhli sme symbolický zápis troch udalostí <b>Poškriabať</b>, <b>Spať</b>, <b>Priniesť</b>:<br> <ul><li><b>Poškriabať(A,B)</b> znamená, že <b>A</b> poškriabal <b>B</b></li><li><b>Spať(A)</b> znamená, že <b>A</b> zaspal</li><li><b>Priniesť(A,B)</b> znamená, že <b>A</b> priniesol <b>B</b> domov</li></ul><br> Ktorá z nasledujúcich postupností udalostí najlepšie reprezentuje uvedený príbeh? <b>J</b> označuje Janka, <b>M</b> označuje Jankovu mamu a <b>C</b> označuje mačku. <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "<b>Priniesť(J,C)</b>, potom <b>Spať(M)</b>, potom <b>Poškriabať(M,C)</b>"
+    },
+    {
+      "value": "1",
+      "label": "<b>Priniesť(C)</b>, potom <b>Spať(C)</b>, potom <b>Poškriabať(C,M)</b>"
+    },
+    {
+      "value": "2",
+      "label": "<b>Spať(C)</b>, potom <b>Poškriabať(C,M)</b>, potom <b>Priniesť(C,J)</b>"
+    },
+    {
+      "value": "3",
+      "label": "<b>Priniesť(J,C)</b>, potom <b>Spať(C)</b>, potom <b>Poškriabať (C,M)</b>"
+    }
+  ],
+  "images": [],
+  "year": "2012/2013",
+  "category": "Senior",
+  "type": "text",
+  "correct_index": 3,
+  "correct_answer": "<b>Priniesť(J,C)</b>, potom <b>Spať(C)</b>, potom <b>Poškriabať (C,M)</b> ",
+  "correct_answer_plain": "Priniesť(J,C) , potom Spať(C) , potom Poškriabať (C,M)"
+}

@@ -1,0 +1,33 @@
+{
+  "id": 473,
+  "serial_number": 6,
+  "title": "Zbieranie hríbov",
+  "question": "Na obrázku sú pozície troch bobrov v lese. Každý bobor pôjde podľa šípok na svojom pláne a cestou pozbiera všetky hríby.<br/> <image_1><br/> Koľko hríbov pozbieral každý bobor? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "Modrý pozbieral 2 hríby, žltý 4 hríby a červený 5 hríbov."
+    },
+    {
+      "value": "1",
+      "label": "Modrý pozbieral 2 hríby, žltý 4 hríby a červený 1 hríb."
+    },
+    {
+      "value": "2",
+      "label": "Modrý pozbieral 5 hríbov, žltý 4 hríby a červený 3 hríby."
+    },
+    {
+      "value": "3",
+      "label": "Modrý pozbieral 5 hríbov, žltý 4 hríby a červený 1 hríb."
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/15/2015-UA-04.png"
+  ],
+  "year": "2015/2016",
+  "category": "Bobrík",
+  "type": "image",
+  "correct_index": 2,
+  "correct_answer": "Modrý pozbieral 5 hríbov, žltý 4 hríby a červený 3 hríby. ",
+  "correct_answer_plain": "Modrý pozbieral 5 hríbov, žltý 4 hríby a červený 3 hríby."
+}

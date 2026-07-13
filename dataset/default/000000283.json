@@ -1,0 +1,31 @@
+{
+  "id": 282,
+  "serial_number": 4,
+  "title": "Balóny",
+  "question": "Filip ide na narodeninovú oslavu k Lucii, ktorá vyzdobila svoju izbu štyrmi radmi balónov s písmenami.<br> Žiaľ, Filip si niektoré písmená mýli.<br> Písmeno P si mýli s písmenom D a písmeno C si mýli s písmenom O.<br> Rady balónov vyzerajú nasledovne:<br> DOPEC<br> DOPEP<br> POPEO<br> DODEC<br> Koľko radov balónov vidí Filip ako rovnaké? <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "Dva rady"
+    },
+    {
+      "value": "1",
+      "label": "Žiadne dva rady nevidí ako rovnaké"
+    },
+    {
+      "value": "2",
+      "label": "Tri rady"
+    },
+    {
+      "value": "3",
+      "label": "Všetky štyri rady"
+    }
+  ],
+  "images": [],
+  "year": "2018/2019",
+  "category": "Nevidiaci SŠ",
+  "type": "text",
+  "correct_index": 2,
+  "correct_answer": "Tri rady ",
+  "correct_answer_plain": "Tri rady"
+}

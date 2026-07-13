@@ -1,0 +1,37 @@
+{
+  "id": 680,
+  "serial_number": 12,
+  "title": "Starý počítač",
+  "question": "Andrej našiel na povale svoj starý počítač. Chcel na ňom spočítať dve čísla. Počítač má tri registre (pamäťové miesta, do ktorých sa dajú ukladať celé čísla väčšie alebo rovné nule) s menami R1, R2 a R3. Na programovanie počítača sa používa postupnosť operácií.<br/> Tu je tabuľka operácií a ich význam (<i>i</i> a <i>j</i> sú čísla registrov a <i>q</i> je číslo operácie):<br/> <image_1><br/> Andrej vložil do registrov R1 a R2 dve čísla, ktoré chce spočítať.<br/> Ktorá z nasledujúcich postupností operácií spočíta tieto čísla a výsledok vloží do registra R1? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "<image_2>"
+    },
+    {
+      "value": "1",
+      "label": "<image_3>"
+    },
+    {
+      "value": "2",
+      "label": "<image_4>"
+    },
+    {
+      "value": "3",
+      "label": "<image_5>"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/13/2013-BE-04_SK_tab.png",
+    "http://demo.ibobor.sk/sutaz/images/13/2013-BE-04_SK_D.png",
+    "http://demo.ibobor.sk/sutaz/images/13/2013-BE-04_SK_B.png",
+    "http://demo.ibobor.sk/sutaz/images/13/2013-BE-04_SK_C.png",
+    "http://demo.ibobor.sk/sutaz/images/13/2013-BE-04_SK_A.png"
+  ],
+  "year": "2013/2014",
+  "category": "Senior",
+  "type": "image",
+  "correct_index": 1,
+  "correct_answer": "http://demo.ibobor.sk/sutaz/images/13/2013-BE-04_SK_B.png",
+  "correct_answer_plain": null
+}

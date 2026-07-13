@@ -1,0 +1,37 @@
+{
+  "id": 876,
+  "serial_number": 4,
+  "title": "Chýbajúci dielik",
+  "question": "Ktorý dielik patrí na miesto označené otáznikom? Dieliky môžeš aj otáčať.<br/> <image_1> <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "<image_2>"
+    },
+    {
+      "value": "1",
+      "label": "<image_3>"
+    },
+    {
+      "value": "2",
+      "label": "<image_4>"
+    },
+    {
+      "value": "3",
+      "label": "<image_5>"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/10/2010-NL-19_image.png",
+    "http://demo.ibobor.sk/sutaz/images/10/2010-NL-19_imaged.png",
+    "http://demo.ibobor.sk/sutaz/images/10/2010-NL-19_imagec.png",
+    "http://demo.ibobor.sk/sutaz/images/10/2010-NL-19_imageb.png",
+    "http://demo.ibobor.sk/sutaz/images/10/2010-NL-19_imagea.png"
+  ],
+  "year": "2010/2011",
+  "category": "Senior",
+  "type": "image",
+  "correct_index": 0,
+  "correct_answer": "http://demo.ibobor.sk/sutaz/images/10/2010-NL-19_imaged.png",
+  "correct_answer_plain": null
+}

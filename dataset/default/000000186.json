@@ -1,0 +1,31 @@
+{
+  "id": 185,
+  "serial_number": 6,
+  "title": "Nákup počítača",
+  "question": "Filip má jednu mincu 1 € a po jednej z týchto bankoviek 100 €, 1000 €, 10000 €. Filip si chce kúpiť počítač tak, aby mu nemuseli vydávať žiadne peniaze. <br> V predajni majú počítače za takéto ceny:<br> 10101 €<br> 11010 €<br> 11001 €<br> 11011 €<br> 11100 €<br> Medzi koľkými cenami počítača sa musí Filip rozhodnúť? <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "0"
+    },
+    {
+      "value": "1",
+      "label": "2"
+    },
+    {
+      "value": "2",
+      "label": "4"
+    },
+    {
+      "value": "3",
+      "label": "3"
+    }
+  ],
+  "images": [],
+  "year": "2019/2020",
+  "category": "Nevidiaci SŠ",
+  "type": "text",
+  "correct_index": 3,
+  "correct_answer": "3 ",
+  "correct_answer_plain": "3"
+}

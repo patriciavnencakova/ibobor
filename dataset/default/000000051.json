@@ -1,0 +1,36 @@
+{
+  "id": 50,
+  "serial_number": 15,
+  "title": "Večera",
+  "question": "Matej pozval na večeru priateľa Róberta a dve rodiny. Rodinu Žitných s ich synom Adamom a dcérou Ninou a rodinu Čížových s ich dcérami Luciou a Danou. Všetci budú sedieť pri okrúhlom stole tak, aby sa pri ich rozsadení dodržali nasledujúce pravidlá:<ul><li>Vedľa seba nemôžu sedieť dve ženy.</li><li>Mama a otec z tej istej rodiny nemôžu sedieť vedľa seba.</li><li>Deti nemôžu sedieť vedľa svojich rodičov.</li></ul><br/> Pri ktorom z nasledujúcich rozsadení sú dodržané všetky tri pravidlá? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "<image_1>"
+    },
+    {
+      "value": "1",
+      "label": "<image_2>"
+    },
+    {
+      "value": "2",
+      "label": "<image_3>"
+    },
+    {
+      "value": "3",
+      "label": "<image_4>"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/20/2020-IN-01_A.png",
+    "http://demo.ibobor.sk/sutaz/images/20/2020-IN-01_D.png",
+    "http://demo.ibobor.sk/sutaz/images/20/2020-IN-01_C.png",
+    "http://demo.ibobor.sk/sutaz/images/20/2020-IN-01_B.png"
+  ],
+  "year": "2020/2021",
+  "category": "Kadet",
+  "type": "image",
+  "correct_index": 3,
+  "correct_answer": "http://demo.ibobor.sk/sutaz/images/20/2020-IN-01_B.png",
+  "correct_answer_plain": null
+}

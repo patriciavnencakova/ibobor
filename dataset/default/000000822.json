@@ -1,0 +1,35 @@
+{
+  "id": 821,
+  "serial_number": 9,
+  "title": "L-Systémy",
+  "question": "L-Systémy sa používajú na popis rastu rastlín. V prvej úrovni rastlina pozostáva len z jednej vetvy. V ďalšej úrovni je každá vetva nahradená skupinou vetiev podľa popisu, pozri dva príklady na obrázku:<br/> <br/> <image_1> <image_2><br/> <br/> V popise sa vyskytuje päť znakov s nasledujúcim významom:<br/> <b>F</b> nakresli šípku<br/> + otoč sa o 35 stupňov v smere pohybu hodinových ručičiek<br/> - otoč sa o 35 stupňov proti smeru pohybu hodinových ručičiek<br/> ( nová vetva, pamätaj si pozíciu<br/> ) koniec vetvy, vráť sa na zapamätanú pozíciu<br/> <br/> Ako vyzerá popis nasledujúceho vetvenia?<br/> <image_3><br/> <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "F(-F-F)(++F+F)FF"
+    },
+    {
+      "value": "1",
+      "label": "F(-F+F)F(++F+F)F"
+    },
+    {
+      "value": "2",
+      "label": "F(-F-F)F(++F-F)F"
+    },
+    {
+      "value": "3",
+      "label": "FFF(-F-F)(++F-F)"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/11/2011-CH-11_image_tree1.png",
+    "http://demo.ibobor.sk/sutaz/images/11/2011-CH-11_image_tree2.png",
+    "http://demo.ibobor.sk/sutaz/images/11/2011-CH-11_image_task-tree.png"
+  ],
+  "year": "2011/2012",
+  "category": "Senior",
+  "type": "image",
+  "correct_index": 2,
+  "correct_answer": "F(-F-F)F(++F-F)F ",
+  "correct_answer_plain": "F(-F-F)F(++F-F)F"
+}

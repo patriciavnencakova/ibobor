@@ -1,0 +1,33 @@
+{
+  "id": 1080,
+  "serial_number": 7,
+  "title": "Na prechádzke",
+  "question": "Na obrázku je mapa parku:<br/> <image_1><br/> Zelené kruhy s písmenami označujú stromy, napr. A označuje agát, B buk, atď.<br/> Hnedé čiary sú chodníky medzi stromami.<br/> Prechádzku od stromu <b>F</b> k stromu <b>B</b> môžeme zapísať ako postupnosť stromov, popri ktorých pôjdeme:<br/> <b>F D E C A B</b><br/> V nedeľu o 14:00 si vyšli do parku pán Bobor a pán Jazvec s rodinami. Vieme, že každá rodina prejde chodník medzi dvoma stromami za ten istý čas. Zapísali sme prechádzky oboch rodín.<br/> Prechádzka rodiny pána Bobra: <b>B A C D C E E D A</b><br/> Prechádzka rodiny pána Jazveca: <b>F D A D E E D E A</b><br/> Koľkokrát sa obe rodiny stretli pri <b>nejakom strome</b>? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "trikrát"
+    },
+    {
+      "value": "1",
+      "label": "raz"
+    },
+    {
+      "value": "2",
+      "label": "dvakrát"
+    },
+    {
+      "value": "3",
+      "label": "rodiny sa na prechádzke v nedeľu nestretli pri žiadnom strome"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/18/2018-SK-06.png"
+  ],
+  "year": "Prechádzky",
+  "category": "5.-7.roč.",
+  "type": "image",
+  "correct_index": 1,
+  "correct_answer": "raz ",
+  "correct_answer_plain": "raz"
+}

@@ -1,0 +1,33 @@
+{
+  "id": 542,
+  "serial_number": 3,
+  "title": "Zavlažovanie",
+  "question": "<image_1><br/> Do nádoby <b>A</b> aj do nádoby <b>B</b> nalejeme vodu.<br/> Ktoré kvety dostanú vodu? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "len 1"
+    },
+    {
+      "value": "1",
+      "label": "len 2"
+    },
+    {
+      "value": "2",
+      "label": "všetky"
+    },
+    {
+      "value": "3",
+      "label": "len 2 a 3"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/14/2014-SI-07_SK.png"
+  ],
+  "year": "2014/2015",
+  "category": "Bobrík",
+  "type": "image",
+  "correct_index": 1,
+  "correct_answer": "len 2 ",
+  "correct_answer_plain": "len 2"
+}

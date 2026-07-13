@@ -1,0 +1,37 @@
+{
+  "id": 908,
+  "serial_number": 9,
+  "title": "Autá v garáži",
+  "question": "Autá stoja v úzkej garáži takto:<br/> <image_1><br/> <br/> Z garáže môže vychádzať vždy iba jedno z krajných áut.<br/> <br/> V akom poradí mohli autá vyjsť z garáže? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "<image_2>"
+    },
+    {
+      "value": "1",
+      "label": "<image_3>"
+    },
+    {
+      "value": "2",
+      "label": "<image_4>"
+    },
+    {
+      "value": "3",
+      "label": "<image_5>"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/09/B_Auta_v_garazi.gif",
+    "http://demo.ibobor.sk/sutaz/images/09/B_Auta_v_garazi_A.gif",
+    "http://demo.ibobor.sk/sutaz/images/09/B_Auta_v_garazi_D.gif",
+    "http://demo.ibobor.sk/sutaz/images/09/B_Auta_v_garazi_C.gif",
+    "http://demo.ibobor.sk/sutaz/images/09/B_Auta_v_garazi_B.gif"
+  ],
+  "year": "2009/2010",
+  "category": "Benjamín",
+  "type": "image",
+  "correct_index": 0,
+  "correct_answer": "http://demo.ibobor.sk/sutaz/images/09/B_Auta_v_garazi_A.gif",
+  "correct_answer_plain": null
+}

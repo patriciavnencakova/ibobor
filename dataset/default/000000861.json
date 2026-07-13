@@ -1,0 +1,31 @@
+{
+  "id": 860,
+  "serial_number": 3,
+  "title": "Zmena veľkosti obrázkov",
+  "question": "Roman má digitálny fotoaparát, ktorý robí obrázky s rozmermi 2048 pixelov (šírka) x 1536 pixelov (výška). Ak chce dať obrázok na webovú stránku, musí ho zmenšiť. Na aký rozmer ho má zmenšiť, aby čo najlepšie zachoval obsah pôvodného obrázka? <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "480x600"
+    },
+    {
+      "value": "1",
+      "label": "800x600"
+    },
+    {
+      "value": "2",
+      "label": "600x600"
+    },
+    {
+      "value": "3",
+      "label": "20x15"
+    }
+  ],
+  "images": [],
+  "year": "2010/2011",
+  "category": "Junior",
+  "type": "text",
+  "correct_index": 1,
+  "correct_answer": "800x600 ",
+  "correct_answer_plain": "800x600"
+}

@@ -1,0 +1,31 @@
+{
+  "id": 847,
+  "serial_number": 5,
+  "title": "Sociálna sieť",
+  "question": "Ema rada navštevuje sociálnu sieť a píše sem o tom, čo práve teraz robia jej priatelia. Je to správne? <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "Áno, ale len ak text jej správ nikomu z nich neubližuje."
+    },
+    {
+      "value": "1",
+      "label": "Áno, ale len v prípade, že aj oni sú členmi sociálnej siete"
+    },
+    {
+      "value": "2",
+      "label": "Áno, pretože sú to jej priatelia a nie neznámi ľudia."
+    },
+    {
+      "value": "3",
+      "label": "Áno, ale len v prípade, ak s tým jej priatelia súhlasili."
+    }
+  ],
+  "images": [],
+  "year": "2010/2011",
+  "category": "Kadet",
+  "type": "text",
+  "correct_index": 3,
+  "correct_answer": "Áno, ale len v prípade, ak s tým jej priatelia súhlasili.\n ",
+  "correct_answer_plain": "Áno, ale len v prípade, ak s tým jej priatelia súhlasili."
+}

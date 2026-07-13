@@ -1,0 +1,37 @@
+{
+  "id": 801,
+  "serial_number": 4,
+  "title": "Hracia kocka",
+  "question": "Steny hracej kocky sú označené jednou, dvoma, až šiestimi bodkami tak, že súčet počtu bodiek na každých dvoch protiľahlých stenách je 7.<br/> <image_1><br/> Kocku môžeme reprezentovať schémou:<br/> <ul><li>Štvorčeky predstavujú steny kocky a čísla v nich znamenajú počet bodiek.</li><li>Čiarami sú spojené štvorčeky predstavujúce susediace steny kocky.</li></ul><br/> Ktorá schéma správne reprezentuje hraciu kocku? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "<image_2>"
+    },
+    {
+      "value": "1",
+      "label": "<image_3>"
+    },
+    {
+      "value": "2",
+      "label": "<image_4>"
+    },
+    {
+      "value": "3",
+      "label": "<image_5>"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/11/2011-LT-12_kocka.gif",
+    "http://demo.ibobor.sk/sutaz/images/11/2011-LT-12_A.gif",
+    "http://demo.ibobor.sk/sutaz/images/11/2011-LT-12_C.gif",
+    "http://demo.ibobor.sk/sutaz/images/11/2011-LT-12_D.gif",
+    "http://demo.ibobor.sk/sutaz/images/11/2011-LT-12_B.gif"
+  ],
+  "year": "2011/2012",
+  "category": "Junior",
+  "type": "image",
+  "correct_index": 2,
+  "correct_answer": "http://demo.ibobor.sk/sutaz/images/11/2011-LT-12_D.gif",
+  "correct_answer_plain": null
+}

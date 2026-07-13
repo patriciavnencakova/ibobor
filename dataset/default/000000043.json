@@ -1,0 +1,33 @@
+{
+  "id": 42,
+  "serial_number": 7,
+  "title": "Farebné domy",
+  "question": "Hugo sa prisťahoval do nového domu. Susedia na jeho ulici sa dohodli, že svoje domy prefarbia podľa nasledujúcich pravidiel:<ul><li>Každý dom musí byť červený, zelený alebo modrý.</li><li>Dva domy vedľa seba nesmú mať rovnakú farbu.</li><li>Dom nesmie mať rovnakú farbu ako dom priamo cez ulicu.</li></ul><br/> Na obrázku vidíme, že niektorí susedia si už svoje domy zafarbili podľa pravidiel:<br/> <image_1><br/> Akú farbu musí mať Hugov dom, aby sa <b>všetky</b> domy na ulici dali zafarbiť podľa pravidiel? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "nedá sa určiť"
+    },
+    {
+      "value": "1",
+      "label": "zelenú"
+    },
+    {
+      "value": "2",
+      "label": "červenú"
+    },
+    {
+      "value": "3",
+      "label": "modrú"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/20/2020-JP-02.png"
+  ],
+  "year": "2020/2021",
+  "category": "Kadet",
+  "type": "image",
+  "correct_index": 3,
+  "correct_answer": "modrú ",
+  "correct_answer_plain": "modrú"
+}

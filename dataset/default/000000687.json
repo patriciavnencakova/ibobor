@@ -1,0 +1,33 @@
+{
+  "id": 686,
+  "serial_number": 3,
+  "title": "Potvorky",
+  "question": "Janka si nakreslila štrnásť potvoriek a potom ich rozdelila do štyroch skupín.<br/> <image_1><br/> Podľa akého pravidla? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "podľa farby topánok"
+    },
+    {
+      "value": "1",
+      "label": "podľa farby"
+    },
+    {
+      "value": "2",
+      "label": "podľa počtu očí"
+    },
+    {
+      "value": "3",
+      "label": "podľa tvaru"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/12/2012-SK_potvorky.png"
+  ],
+  "year": "2012/2013",
+  "category": "Bobrík",
+  "type": "image",
+  "correct_index": 3,
+  "correct_answer": "podľa tvaru\n ",
+  "correct_answer_plain": "podľa tvaru"
+}

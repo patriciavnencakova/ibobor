@@ -1,0 +1,33 @@
+{
+  "id": 665,
+  "serial_number": 12,
+  "title": "Koleso šťastia",
+  "question": "Bobor postavil koleso šťastia, ktoré sa otáča doprava alebo doľava. Keď sa koleso zastaví, malý robot odfotí políčko pred ním a obrázok dá na pohyblivý pás.<br/> <image_1><br/> Bobor zapisuje o koľko políčok sa koleso otočilo. Napríklad +3 znamená, že koleso sa otočilo o 3 políčka doprava, -2 znamená, že sa koleso otočilo o 2 políčka doľava.<br/> Všimni si, že posledné číslo v postupnosti otočení (najviac vpravo) zodpovedá poslednému otočeniu kolesa, teda tesne pred posledným odfotením políčka na kolese.<br/> Ktorá postupnosť opisuje otočenia kolesa, pri ktorých robot vytvoril postupnosť fotiek na pohyblivom páse? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "-2, +2, +1, -7, -4"
+    },
+    {
+      "value": "1",
+      "label": "+3, +1, +1, +6, +3"
+    },
+    {
+      "value": "2",
+      "label": "+3, -2, +4, -2, +3"
+    },
+    {
+      "value": "3",
+      "label": "+10, +1, +1, +2, -4"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/13/2013-IT-01b_SK.png"
+  ],
+  "year": "2013/2014",
+  "category": "Junior",
+  "type": "image",
+  "correct_index": 2,
+  "correct_answer": "+3, -2, +4, -2, +3 ",
+  "correct_answer_plain": "+3, -2, +4, -2, +3"
+}

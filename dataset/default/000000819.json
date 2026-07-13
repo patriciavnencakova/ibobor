@@ -1,0 +1,31 @@
+{
+  "id": 818,
+  "serial_number": 6,
+  "title": "Umelý jazyk",
+  "question": "Bruno rád vymýšľa umelé jazyky. Slová jazyka vytvára podľa pravidiel. Toto sú pravidlá pre jazyk aibi:<br> <ol><li>V správnom slove sa vyskytujú len písmená <b>a</b> a <b>b</b>.</li><li>Počas vytvárania slova si dočasne pomáhame aj písmenami <b>S</b> a <b>X</b>.</li><li>Slovo začíname vytvárať tak, že napíšeme <b>S</b>.</li><li>Písmeno <b>S</b> v slove môžeme nahradiť písmenami <b>aX</b>.</li><li>Písmeno <b>X</b> v slove môžeme nahradiť písmenami <b>aXb</b>.</li><li>Písmeno <b>X</b> v slove môžeme nahradiť písmenom <b>b</b>.</li></ol> Napríklad správne slovo <b>aabb</b> vytvorí takto:<br> (pravidlo 3) S → aX (pravidlo 4) → aaXb (pravidlo 5) → aabb (pravidlo 6)<br> <br> Ktoré z týchto slov je správne slovo jazyka aibi? <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "aX"
+    },
+    {
+      "value": "1",
+      "label": "aabbb"
+    },
+    {
+      "value": "2",
+      "label": "aaaXbb"
+    },
+    {
+      "value": "3",
+      "label": "aaaabbbb"
+    }
+  ],
+  "images": [],
+  "year": "2011/2012",
+  "category": "Senior",
+  "type": "text",
+  "correct_index": 3,
+  "correct_answer": "aaaabbbb ",
+  "correct_answer_plain": "aaaabbbb"
+}

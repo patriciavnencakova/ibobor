@@ -1,0 +1,31 @@
+{
+  "id": 783,
+  "serial_number": 1,
+  "title": "Počítačový vírus",
+  "question": "Počítačový vírus je <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "Kus hardvéru."
+    },
+    {
+      "value": "1",
+      "label": "Škodlivý program."
+    },
+    {
+      "value": "2",
+      "label": "Nebezpečná baktéria."
+    },
+    {
+      "value": "3",
+      "label": "Časť operačného systému."
+    }
+  ],
+  "images": [],
+  "year": "2011/2012",
+  "category": "Kadet",
+  "type": "text",
+  "correct_index": 1,
+  "correct_answer": "Škodlivý program. ",
+  "correct_answer_plain": "Škodlivý program."
+}

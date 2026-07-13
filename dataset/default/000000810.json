@@ -1,0 +1,35 @@
+{
+  "id": 809,
+  "serial_number": 12,
+  "title": "Heslo",
+  "question": "Bobry si majú v počítačovom laboratóriu nastaviť nové heslo. Môžu v ňom používať malé a veľké písmená a číslice 0 až 9. Správne heslo musí byť vytvorené podľa pravidiel, ktoré sú popísané diagramom.<br/> <image_1><br/> Takáto slučka znamená, že nasleduje žiadne, jedno alebo niekoľko veľkých písmen. Podobné slučky môžu byť pre malé písmená a aj pre číslice.<br/> <image_2><br/> Takáto čiara so šípkou znamená, že v hesle nasleduje práve jedno malé písmeno. Podobná šípka môže byť pre veľké písmená a aj pre číslice.<br/> <image_3><br/> Ktoré heslo <b>nie je správne</b> podľa tohto diagramu? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "Peter3ABCd"
+    },
+    {
+      "value": "1",
+      "label": "2010Beaver4EVEr"
+    },
+    {
+      "value": "2",
+      "label": "bENNOZzz"
+    },
+    {
+      "value": "3",
+      "label": "123aNNa"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/11/2011-AT-14_slucka.png ",
+    "http://demo.ibobor.sk/sutaz/images/11/2011-AT-14_ciara.png ",
+    "http://demo.ibobor.sk/sutaz/images/11/2011-AT-14.png "
+  ],
+  "year": "2011/2012",
+  "category": "Junior",
+  "type": "image",
+  "correct_index": 2,
+  "correct_answer": "bENNOZzz ",
+  "correct_answer_plain": "bENNOZzz"
+}

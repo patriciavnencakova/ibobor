@@ -1,0 +1,37 @@
+{
+  "id": 37,
+  "serial_number": 2,
+  "title": "Planéta RYBA-STROM",
+  "question": "Na planéte RYBA-STROM žijú dve skupiny potvoriek. Jedny jedia na obed ryby, druhé listy zo stromov, pozri tabuľku:<br/> <image_1><br/> Okolo jazera s rybami rastie veľa stromov, preto sa rozhodli, že na obed budú chodiť spolu také 3 potvorky, aby aspoň jedna z nich jedla listy zo stromov.<br/> Ktoré tri potvorky <b>nemôžu</b> chodiť spolu na obed? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "<image_2>"
+    },
+    {
+      "value": "1",
+      "label": "<image_3>"
+    },
+    {
+      "value": "2",
+      "label": "<image_4>"
+    },
+    {
+      "value": "3",
+      "label": "<image_5>"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/20/2020-IE-08.png",
+    "http://demo.ibobor.sk/sutaz/images/20/2020-IE-08_B.png",
+    "http://demo.ibobor.sk/sutaz/images/20/2020-IE-08_D.png",
+    "http://demo.ibobor.sk/sutaz/images/20/2020-IE-08_A.png",
+    "http://demo.ibobor.sk/sutaz/images/20/2020-IE-08_C.png"
+  ],
+  "year": "2020/2021",
+  "category": "Kadet",
+  "type": "image",
+  "correct_index": 2,
+  "correct_answer": "http://demo.ibobor.sk/sutaz/images/20/2020-IE-08_A.png",
+  "correct_answer_plain": null
+}

@@ -1,0 +1,33 @@
+{
+  "id": 986,
+  "serial_number": 12,
+  "title": "Buldozér",
+  "question": "Buldozér ovládame príkazmi.<br/><br/> Po zadaní príkazu <b>vľavo <i>a</i></b> sa buldozér otočí o <b><i>a</i></b> stupňov vľavo.<br/><br/> Po zadaní príkazu <b>vpravo <i>a</i></b> sa buldozér otočí o <b><i>a</i></b> stupňov vpravo.<br/><br/> Po zadaní príkazu <b>dopredu <i>b</i></b> sa buldozér posunie o <b><i>b</i></b> metrov.<br/><br/> Po zadaní príkazu <b>vzad <i>b</i></b> buldozér cúvne o <b><i>b</i></b> metrov.<br/> <br/> Ktorý z nasledujúcich programov zabezpečí, aby buldozér prešiel takúto dráhu <b>čo najrýchlejšie</b>? Buldozér sa totiž otáča veľmi pomaly – za sekundu o uhol 1 stupeň.<br/> <image_1> <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "<pre>dopredu 100 vpravo 225 dopredu 70 vpravo 225 dopredu 100 </pre>"
+    },
+    {
+      "value": "1",
+      "label": "<pre>dopredu 100 vľavo 45 dopredu 70 vľavo 45 dopredu 100 </pre>"
+    },
+    {
+      "value": "2",
+      "label": "<pre>dopredu 100 vpravo 45 vzad 70 vpravo 45 dopredu 100 </pre>"
+    },
+    {
+      "value": "3",
+      "label": "<pre>dopredu 100 vpravo 225 dopredu 70 vľavo 45 vzad 100 </pre>"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/08/K_GE_010.gif"
+  ],
+  "year": "2008/2009",
+  "category": "Kadet",
+  "type": "image",
+  "correct_index": 2,
+  "correct_answer": "<pre>dopredu 100\nvpravo 45 \nvzad 70\nvpravo 45 \ndopredu 100\n</pre> ",
+  "correct_answer_plain": "dopredu 100\nvpravo 45 \nvzad 70\nvpravo 45 \ndopredu 100"
+}

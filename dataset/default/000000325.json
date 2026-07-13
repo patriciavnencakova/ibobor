@@ -1,0 +1,33 @@
+{
+  "id": 324,
+  "serial_number": 7,
+  "title": "Chameleón",
+  "question": "Chameleón sa nachádza v ľavom dolnom rohu farebnej štvorčekovej siete.<br/> Chce sa dostať do pravého horného rohu. V každom kroku môže prejsť na susedný štvorček buď <b>vodorovne</b>, <b>zvisle</b> alebo <b>šikmo</b>.<br/> Keď prejde na susedný štvorček, zmení svoju farbu.<br/> <image_1><br/> <b>Najmenej</b> koľko farieb bude mať na svojej ceste? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "2: červenú, modrú"
+    },
+    {
+      "value": "1",
+      "label": "2: červenú, zelenú"
+    },
+    {
+      "value": "2",
+      "label": "3: červenú, zelenú, žltú"
+    },
+    {
+      "value": "3",
+      "label": "4: červenú, zelenú, žltú, modrú"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/17/2017-UA-01_1_grid_map.png"
+  ],
+  "year": "2017/2018",
+  "category": "Benjamín",
+  "type": "image",
+  "correct_index": 0,
+  "correct_answer": "2: červenú, modrú ",
+  "correct_answer_plain": "2: červenú, modrú"
+}

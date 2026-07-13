@@ -1,0 +1,33 @@
+{
+  "id": 173,
+  "serial_number": 9,
+  "title": "Pomaranče",
+  "question": "Amar kúpil 3 plné vrecia pomarančov. Do každého vreca sa zmestí 30 pomarančov.<br/> <image_1><br/> Domov pôjde cez 30 mostov. Na každom moste je škriatok.<br/> Aby mohol prejsť Amar cez most, musí dať škriatkovi toľko pomarančov, v koľkých vreciach ešte nesie pomaranče.<br/> <b>Najviac</b> koľko pomarančov môže priniesť Amar domov? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "30"
+    },
+    {
+      "value": "1",
+      "label": "60"
+    },
+    {
+      "value": "2",
+      "label": "25"
+    },
+    {
+      "value": "3",
+      "label": "0"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/19/2019-IN-07.png"
+  ],
+  "year": "2019/2020",
+  "category": "Senior",
+  "type": "image",
+  "correct_index": 2,
+  "correct_answer": "25 ",
+  "correct_answer_plain": "25"
+}

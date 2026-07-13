@@ -1,0 +1,37 @@
+{
+  "id": 701,
+  "serial_number": 6,
+  "title": "Obraz",
+  "question": "Samo dostal od učiteľa výtvarnej výchovy červený výkres a návod, ako naň nakresliť obraz. Návod sa skladá zo štyroch kartičiek s inštrukciami:<br/> 1: Zafarbi dolnú polovicu výkresu namodro (obloha).<br/> 2: Otoč výkres o 180 stupňov.<br/> 3: Zafarbi dolnú polovicu výkresu nazeleno (trávnik).<br/> 4: Nakresli žltý kruh vpravo hore (slnko).<br/> Ak inštrukcie na kartičkách vykoná v poradí 1 – 2 – 3 – 4, postupne nakreslí:<br/> <image_1><br/> Samovi sa kôpka kartičiek rozsypala a kartičky pri kreslení použil v poradí 3 – 1 – 2 – 4. <br/> Ako vyzeral jeho výkres? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "<image_2>"
+    },
+    {
+      "value": "1",
+      "label": "<image_3>"
+    },
+    {
+      "value": "2",
+      "label": "<image_4>"
+    },
+    {
+      "value": "3",
+      "label": "<image_5>"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/12/2012-AT-01_SK.png",
+    "http://demo.ibobor.sk/sutaz/images/12/2012-AT-01_SK_A.png",
+    "http://demo.ibobor.sk/sutaz/images/12/2012-AT-01_SK_D.png",
+    "http://demo.ibobor.sk/sutaz/images/12/2012-AT-01_SK_C.png",
+    "http://demo.ibobor.sk/sutaz/images/12/2012-AT-01_SK_B.png"
+  ],
+  "year": "2012/2013",
+  "category": "Benjamín",
+  "type": "image",
+  "correct_index": 3,
+  "correct_answer": "http://demo.ibobor.sk/sutaz/images/12/2012-AT-01_SK_B.png",
+  "correct_answer_plain": null
+}

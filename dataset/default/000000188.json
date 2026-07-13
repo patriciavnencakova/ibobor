@@ -1,0 +1,31 @@
+{
+  "id": 187,
+  "serial_number": 8,
+  "title": "Zapni 3 žiarovky",
+  "question": "V izbe sú 3 žiarovky X, Y, T a 4 tlačidlá 1, 2, 3, 4.<br> Tlačidlá fungujú takto:<br> 1: zapne Y, vypne X<br> 2: zapne X aj Y, vypne T<br> 3: zapne T, vypne Y<br> 4: zapne X<br> Ak stlačíme tlačidlo, ktoré má vypnúť takú žiarovku, ktorá je vypnutá, tak táto žiarovka ostane vypnutá. Ak stlačíme tlačidlo, ktoré má zapnúť takú žiarovku, ktorá je zapnutá, žiarovka ostane zapnutá.<br> Momentálne sú všetky žiarovky vypnuté.<br> Po ktorej z nasledujúcich postupností stláčaní tlačidiel budú všetky žiarovky zapnuté? <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "1 2 3"
+    },
+    {
+      "value": "1",
+      "label": "3 1 4"
+    },
+    {
+      "value": "2",
+      "label": "2 3 4"
+    },
+    {
+      "value": "3",
+      "label": "4 1 3"
+    }
+  ],
+  "images": [],
+  "year": "2019/2020",
+  "category": "Nevidiaci SŠ",
+  "type": "text",
+  "correct_index": 1,
+  "correct_answer": "3 1 4 ",
+  "correct_answer_plain": "3 1 4"
+}

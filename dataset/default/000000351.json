@@ -1,0 +1,33 @@
+{
+  "id": 350,
+  "serial_number": 3,
+  "title": "Skákajúce žaby",
+  "question": "V jazierku skáču po leknách dve žaby. Vždy skočia obidve naraz.<br/> Zelená žaba začína na lekne 1 a skočí vždy o dve lekná v smere ich očíslovania, červená žaba začína na lekne 7 a skočí vždy o tri lekná proti smeru ich očíslovania (viď obrázok).<br/> <image_1><br/> Na ktorom lekne sa žaby stretnú po prvý raz? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "Na lekne 6."
+    },
+    {
+      "value": "1",
+      "label": "Nestretnú sa."
+    },
+    {
+      "value": "2",
+      "label": "Na lekne 5."
+    },
+    {
+      "value": "3",
+      "label": "Na lekne 7."
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/17/2017-RO-06.png"
+  ],
+  "year": "2017/2018",
+  "category": "Junior",
+  "type": "image",
+  "correct_index": 2,
+  "correct_answer": "Na lekne 5. ",
+  "correct_answer_plain": "Na lekne 5."
+}

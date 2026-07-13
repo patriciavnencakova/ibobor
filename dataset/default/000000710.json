@@ -1,0 +1,33 @@
+{
+  "id": 709,
+  "serial_number": 14,
+  "title": "Stroje na slová",
+  "question": "Máme dva druhy strojov na slová. Stroj ZLEP dostane dve slová a zlepí ich do jedného slova, pozri obr. vľavo hore. Stroj OTOČ dostane jedno slovo a otočí ho, pozri obr. vľavo dolu.<br/> <image_1><br/> Z dvoch strojov ZLEP a z jedného OTOČ sme vytvorili nový stroj, pozri obrázok vpravo. Ten potrebuje ako vstup tri slová (na obrázku sú označené ako sivé elipsy). Tie spracuje do nového slova a výsledok sa objaví v najspodnejšej elipse.<br/> <br/> Z ktorých troch vstupných slov vzniklo slovo JAZIERKO?<br/> <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "AJ EIZ RKO"
+    },
+    {
+      "value": "1",
+      "label": "EIZ AJ KRO"
+    },
+    {
+      "value": "2",
+      "label": "REI ZAJ KO"
+    },
+    {
+      "value": "3",
+      "label": "RIE ZAJ KO"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/12/2012-SK-02.png"
+  ],
+  "year": "2012/2013",
+  "category": "Benjamín",
+  "type": "image",
+  "correct_index": 2,
+  "correct_answer": "REI ZAJ KO ",
+  "correct_answer_plain": "REI ZAJ KO"
+}

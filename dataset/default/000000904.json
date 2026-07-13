@@ -1,0 +1,31 @@
+{
+  "id": 903,
+  "serial_number": 4,
+  "title": "Slovo odzadu",
+  "question": "Kamaráti písali v textovom editore slovo Perinbaba a pritom sa hrali. Jano stlačil po napísaní každého písmena kláves Enter, Anka kláves Backspace (ktorý maže znak pred kurzorom), Marienka šípku vľavo a Peter kláves CapsLock.<br> Keď potom kontrolovali, čo kto napísal, zistili, že jeden z nich má slovo Perinbaba napísané odzadu.<br> <br> Kto to bol? <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "Marienka"
+    },
+    {
+      "value": "1",
+      "label": "Jano"
+    },
+    {
+      "value": "2",
+      "label": "Peter"
+    },
+    {
+      "value": "3",
+      "label": "Anka"
+    }
+  ],
+  "images": [],
+  "year": "2009/2010",
+  "category": "Benjamín",
+  "type": "text",
+  "correct_index": 0,
+  "correct_answer": "Marienka ",
+  "correct_answer_plain": "Marienka"
+}

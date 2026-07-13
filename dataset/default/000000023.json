@@ -1,0 +1,33 @@
+{
+  "id": 22,
+  "serial_number": 2,
+  "title": "Vstupné heslo",
+  "question": "Anita a jej priatelia používajú na posielanie správ špeciálny kód. Dnes im chce Anita poslať heslo, ktorým sa dostanú na jej tajnú oslavu.<br/> Na ľavom obrázku vidíme heslo a na pravom sú zapísané jednotlivé riadky kódu.<br/> <image_1><br/> Aký je posledný riadok kódu? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "1:3131331"
+    },
+    {
+      "value": "1",
+      "label": "0:3131331"
+    },
+    {
+      "value": "2",
+      "label": "1:321231111"
+    },
+    {
+      "value": "3",
+      "label": "1:231231111"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/20/2020-IE-01a.png"
+  ],
+  "year": "2020/2021",
+  "category": "Benjamín",
+  "type": "image",
+  "correct_index": 0,
+  "correct_answer": "1:3131331 ",
+  "correct_answer_plain": "1:3131331"
+}

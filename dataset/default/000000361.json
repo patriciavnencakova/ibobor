@@ -1,0 +1,33 @@
+{
+  "id": 360,
+  "serial_number": 13,
+  "title": "Farebný dom",
+  "question": "Budova nového kina má osem stien a každá z nich má inú farbu. <br/> Štyri kamarátky sa dohodli, že sa zídu pri tejto budove. Žiaľ, každá z nich prišla na iné miesto.<br/> <image_1><br/> Anna, Beáta a Cilka prišli na miesta označené krúžkami. Danka prišla na miesto označené krížikom. Dievčatá si zavolali, aby popísali svoju polohu.<br/> Anna povedala, že vidí tyrkysovú, fialovú a žltú stenu.<br/> Beáta povedala, že vidí červenú, modrú a fialovú stenu.<br/> Cilka povedala, že vidí zelenú, červenú a oranžovú stenu.<br/> Poradie, v akom dievčatá farby vymenovali, nie je dôležité.<br/> Čo povedala Danka? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "Vidím oranžovú, ružovú a tyrkysovú stenu."
+    },
+    {
+      "value": "1",
+      "label": "Vidím oranžovú, ružovú a zelenú stenu."
+    },
+    {
+      "value": "2",
+      "label": "Vidím oranžovú, zelenú a tyrkysovú stenu."
+    },
+    {
+      "value": "3",
+      "label": "Vidím žltú, ružovú a tyrkysovú stenu."
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/17/2017-JP-04.png"
+  ],
+  "year": "2017/2018",
+  "category": "Junior",
+  "type": "image",
+  "correct_index": 0,
+  "correct_answer": "Vidím oranžovú, ružovú a tyrkysovú stenu. ",
+  "correct_answer_plain": "Vidím oranžovú, ružovú a tyrkysovú stenu."
+}

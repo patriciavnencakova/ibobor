@@ -1,0 +1,33 @@
+{
+  "id": 306,
+  "serial_number": 1,
+  "title": "Počítanie áut",
+  "question": "Kamil sedel pri ceste a zapisoval si do počítača farby áut, ktoré prešli okolo neho:<br/> modré = 10, červené = 44, biele = 3, zelené = 8, čierne = 15<br/> Počítač mu vyrobil takýto diagram:<br/> <image_1><br/> Pri stĺpcoch chýbajú názvy farieb áut.<br/> Akej farbe áut patrí stredný stĺpec diagramu? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "bielej"
+    },
+    {
+      "value": "1",
+      "label": "modrej"
+    },
+    {
+      "value": "2",
+      "label": "červenej"
+    },
+    {
+      "value": "3",
+      "label": "zelenej"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/17/2017-SK-09-chart.png"
+  ],
+  "year": "2017/2018",
+  "category": "Bobrík",
+  "type": "image",
+  "correct_index": 1,
+  "correct_answer": "modrej ",
+  "correct_answer_plain": "modrej"
+}

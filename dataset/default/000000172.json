@@ -1,0 +1,33 @@
+{
+  "id": 171,
+  "serial_number": 7,
+  "title": "Záhrada",
+  "question": "V počítačovej hre je záhrada rozdelená na viacero častí. V každej z nich je niekoľko kvetov.<br/> Začneš v časti, ktorá je vľavo hore (modrá) a ideš do časti, ktorá je vpravo dole (zelená). Pritom môžeš ísť len <b>doprava</b> a <b>dole</b>.<br/> <image_1><br/> <b>Najviac</b> koľko kvetov môžeš pozbierať? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "41"
+    },
+    {
+      "value": "1",
+      "label": "58"
+    },
+    {
+      "value": "2",
+      "label": "38"
+    },
+    {
+      "value": "3",
+      "label": "35"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/19/2019-RO-02.png"
+  ],
+  "year": "2019/2020",
+  "category": "Senior",
+  "type": "image",
+  "correct_index": 0,
+  "correct_answer": "41 ",
+  "correct_answer_plain": "41"
+}

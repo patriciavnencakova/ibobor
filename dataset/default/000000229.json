@@ -1,0 +1,31 @@
+{
+  "id": 228,
+  "serial_number": 10,
+  "title": "Autobus",
+  "question": "Piati kamaráti, Adam, Braňo, Cyril, Dano, Emil nastúpili do autobusu takto:<br> <ul><li>Braňo pred Adamom</li><li>Braňo pred Danom</li><li>Dano pred Emilom</li><li>Dano pred Cyrilom</li><li>Emil pred Cyrilom</li></ul><br> V ktorom z týchto poradí nastupovali do autobusu? <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "Braňo – Adam – Emil – Dano – Cyril"
+    },
+    {
+      "value": "1",
+      "label": "Braňo – Cyril – Dano – Emil – Adam"
+    },
+    {
+      "value": "2",
+      "label": "Braňo – Dano – Emil – Cyril – Adam"
+    },
+    {
+      "value": "3",
+      "label": "Braňo – Adam – Dano – Cyril – Emil"
+    }
+  ],
+  "images": [],
+  "year": "2018/2019",
+  "category": "Benjamín",
+  "type": "text",
+  "correct_index": 2,
+  "correct_answer": "Braňo – Dano – Emil – Cyril – Adam ",
+  "correct_answer_plain": "Braňo – Dano – Emil – Cyril – Adam"
+}

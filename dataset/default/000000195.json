@@ -1,0 +1,31 @@
+{
+  "id": 194,
+  "serial_number": 6,
+  "title": "Zajačik",
+  "question": "V počítačovej hre Dorka ovláda pohyb zajačika pomocou klávesov so šípkami hore, dole, vpravo, vľavo. Po stlačení klávesu sa zajačik presunie na susedné políčko v príslušnom smere. <br> Hracia plocha, po ktorej sa zajačik pohybuje má štyri riadky označené zhora nadol číslami 1, 2, 3, 4 a tri stĺpce označené zľava doprava písmenami C, D, E. Každé políčko vieme určiť podľa riadku a stĺpca, v ktorom sa nachádza.<br> Momentálne je zajačik na políčku <br> D3 (v treťom riadku a druhom stĺpci).<br> Dorka postupne stlačila klávesy v poradí:<br> dole vľavo hore vpravo hore <br> Na ktorom políčku je zajačik teraz? <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "D2"
+    },
+    {
+      "value": "1",
+      "label": "C3"
+    },
+    {
+      "value": "2",
+      "label": "E1"
+    },
+    {
+      "value": "3",
+      "label": "E4"
+    }
+  ],
+  "images": [],
+  "year": "2019/2020",
+  "category": "Nevidiaci ZŠ",
+  "type": "text",
+  "correct_index": 0,
+  "correct_answer": "D2 ",
+  "correct_answer_plain": "D2"
+}

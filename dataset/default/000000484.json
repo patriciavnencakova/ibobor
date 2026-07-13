@@ -1,0 +1,33 @@
+{
+  "id": 483,
+  "serial_number": 4,
+  "title": "Električky",
+  "question": "Toto je mapa električiek v Bobrove:<br/> <image_1><br/> Mišo nastúpil do niektorej električky na spoločnej zastávke všetkých električiek (na mape vľavo). Na tretej zastávke električka odbočila a na nasledujúcej zastávke opäť odbočila. Potom mala na štvrtej zastávke svoju konečnú.<br/> Aké číslo mala električka, v ktorej sa viezol Mišo? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "6"
+    },
+    {
+      "value": "1",
+      "label": "2"
+    },
+    {
+      "value": "2",
+      "label": "8"
+    },
+    {
+      "value": "3",
+      "label": "5"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/15/2015-HU-04.png"
+  ],
+  "year": "2015/2016",
+  "category": "Benjamín",
+  "type": "image",
+  "correct_index": 0,
+  "correct_answer": "6 ",
+  "correct_answer_plain": "6"
+}

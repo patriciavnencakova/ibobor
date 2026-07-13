@@ -1,0 +1,31 @@
+{
+  "id": 279,
+  "serial_number": 1,
+  "title": "Vlajkové signály",
+  "question": "Štyri bobrie kamarátky si vlajkovými signálmi oznamujú, kto pôjde nakupovať. Každé písmeno sa signalizuje kombináciou dvoch polôh vlajky – hore alebo dole. Mená dievčat sa skladajú zo 4 písmen, ktoré signalizujú nasledovne:<br> <b>A</b> sa signalizuje <b>hore dole</b><br> <b>E</b> sa signalizuje <b>hore hore</b><br> <b>N</b> sa signalizuje <b>dole hore</b><br> <b>T</b> sa signalizuje <b>dole dole</b><br> Bobrica Anna signalizuje nasledujúce meno takto:<br> <b>hore hore dole dole dole hore hore dole</b><br> Kto pôjde nakupovať? <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "ENTA"
+    },
+    {
+      "value": "1",
+      "label": "ANNA"
+    },
+    {
+      "value": "2",
+      "label": "ETNA"
+    },
+    {
+      "value": "3",
+      "label": "TENA"
+    }
+  ],
+  "images": [],
+  "year": "2018/2019",
+  "category": "Nevidiaci SŠ",
+  "type": "text",
+  "correct_index": 2,
+  "correct_answer": "ETNA ",
+  "correct_answer_plain": "ETNA"
+}

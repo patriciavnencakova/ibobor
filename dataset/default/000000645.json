@@ -1,0 +1,33 @@
+{
+  "id": 644,
+  "serial_number": 6,
+  "title": "Obchod",
+  "question": "Bobor si otvoril 20. novembra nový obchod. Do tabuľky vľavo si zapísal zoznam tovarov, ktoré predáva. Za prvé dva dni predal 10 kusov tovaru. Dátum predaja a kód tovaru si zapísal do tabuľky vpravo.<br/> <image_1><br/> Označ <b>NESPRÁVNY</b> výrok. <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "20. novembra predal 4 kusy tovaru."
+    },
+    {
+      "value": "1",
+      "label": "Za prvé 2 dni predal najviac tovaru s názvom čokoláda."
+    },
+    {
+      "value": "2",
+      "label": "Predal viac kusov tovarov od Sama ako od Kuba."
+    },
+    {
+      "value": "3",
+      "label": "21. novembra predal tovar za 55 BVR."
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/13/2013-JP-09_SK_tabulky.png"
+  ],
+  "year": "2013/2014",
+  "category": "Kadet",
+  "type": "image",
+  "correct_index": 2,
+  "correct_answer": "Predal viac kusov tovarov od Sama ako od Kuba. ",
+  "correct_answer_plain": "Predal viac kusov tovarov od Sama ako od Kuba."
+}

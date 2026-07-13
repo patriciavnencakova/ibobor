@@ -1,0 +1,37 @@
+{
+  "id": 765,
+  "serial_number": 10,
+  "title": "Vyfarbovanie",
+  "question": "Nakreslili sme si takýto obrázok: <br/> <image_1><br/> Potom sme v ňom vyfarbili <br/> <ul><li>na modro časť, ktorá patrí trojuholníku a nepatrí ani štvorcu ani kruhu,</li><li>na žlto časť, ktorá patrí len štvorcu,</li><li>na červeno spoločnú časť všetkých troch útvarov</li></ul><br/> Ako vyzerá výsledný obrázok? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "<image_2>"
+    },
+    {
+      "value": "1",
+      "label": "<image_3>"
+    },
+    {
+      "value": "2",
+      "label": "<image_4>"
+    },
+    {
+      "value": "3",
+      "label": "<image_5>"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/11/2011-SK-01-new.png",
+    "http://demo.ibobor.sk/sutaz/images/11/2011-SK-01-new_D.png",
+    "http://demo.ibobor.sk/sutaz/images/11/2011-SK-01-new_A.png",
+    "http://demo.ibobor.sk/sutaz/images/11/2011-SK-01-new_C.png",
+    "http://demo.ibobor.sk/sutaz/images/11/2011-SK-01-new_B.png"
+  ],
+  "year": "2011/2012",
+  "category": "Bobrík",
+  "type": "image",
+  "correct_index": 1,
+  "correct_answer": "http://demo.ibobor.sk/sutaz/images/11/2011-SK-01-new_A.png",
+  "correct_answer_plain": null
+}

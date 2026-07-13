@@ -1,0 +1,31 @@
+{
+  "id": 930,
+  "serial_number": 1,
+  "title": "Pri jazere",
+  "question": "Deň pri jazere:<br> Zuzka prišla o 8:00 a odišla o 13:00.<br> Jana prišla o 9:00 a odišla o 11:00.<br> Dana prišla o 12:00 a odišla o 16:00.<br> Lenka prišla o 11:00 a odišla o 15:00.<br> Jano prišiel o 10:00 a odišiel o 14:00.<br> Peter prišiel o 12:00 a odišiel o 14:00.<br> <br> O koľkej bolo najviac detí pri jazere? <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "10:30"
+    },
+    {
+      "value": "1",
+      "label": "12:30"
+    },
+    {
+      "value": "2",
+      "label": "13:30"
+    },
+    {
+      "value": "3",
+      "label": "11:30"
+    }
+  ],
+  "images": [],
+  "year": "2009/2010",
+  "category": "Junior",
+  "type": "text",
+  "correct_index": 1,
+  "correct_answer": "12:30 ",
+  "correct_answer_plain": "12:30"
+}

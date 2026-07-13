@@ -1,0 +1,34 @@
+{
+  "id": 70,
+  "serial_number": 5,
+  "title": "Semafory",
+  "question": "V Bobrove sú na každej križovatke semafory. Keď je na semafore zelená, autá môžú ísť rovno, doľava alebo doprava. Keď je červená, autá majú zastať a čakať na zelenú. Zelená a červená sa na každom semafore striedajú <b>každých 10 sekúnd</b>. Každý semafor má svoje počítadlo sekúnd, ktoré odpočítava od 10 do 0. Bobry vidia počítadlo a semafor zmení farbu vždy, keď dosiahne časovač 0. Vtedy sa časovač zmení na 10 a začne sa odpočítavanie pre druhú farbu.<br/> <image_1><br/> Bobrovi trvá 1 sekundu prejsť na ďalší štvorček, aj keď ide rovno, aj keď zatáča.<br/> Na mape sú znázornené ulice, ktoré spájajú bobrov dom a školu a tiež hodnoty počítadiel v okamihu, keď bobor vyrazí z domu (zo štvorčeka, na ktorom je auto).<br/> <image_2><br/> Bobor sa chce dostať do školy (modrý štvorček) tak, aby na žiadnom semafore <b>nemusel zastaviť</b> kvôli červenej.<br/> Ktorou trasou pôjde? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "P→Q→S→R→T→škola"
+    },
+    {
+      "value": "1",
+      "label": "P→R→T→škola"
+    },
+    {
+      "value": "2",
+      "label": "P→Q→S→škola"
+    },
+    {
+      "value": "3",
+      "label": "P→R→S→škola"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/20/2020-TW-03a_prejdi_stoj.png",
+    "http://demo.ibobor.sk/sutaz/images/20/2020-TW-03a.png"
+  ],
+  "year": "2020/2021",
+  "category": "Senior",
+  "type": "image",
+  "correct_index": 3,
+  "correct_answer": "P→R→S→škola ",
+  "correct_answer_plain": "P→R→S→škola"
+}

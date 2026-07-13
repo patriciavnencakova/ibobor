@@ -1,0 +1,36 @@
+{
+  "id": 1095,
+  "serial_number": 13,
+  "title": "Vyfarbovanie štvorčekov",
+  "question": "Pani učiteľka poslala všetkým žiakom <b>predlohu s obrázkom štvorčekovej siete</b>, v ktorej sú všetky štvorčeky vyfarbené. Každý žiak si mal doma nakresliť rovnakú štvorčekovú sieť s bielymi štvorčekmi.<br/> Žiaci sú teraz online a vyfarbujú svoju sieť podľa predlohy. Pani učiteľka vidí obrazovky 4 žiakov. Hoci <b>nevidí predlohu</b>, aj tak vie, že teraz sa práve jeden žiak pri vyfarbovaní pomýlil a <b>jeden štvorček</b> omylom zafarbil inou farbou.<br/> Ktorý žiak sa pomýlil?<br/> <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "<image_1>"
+    },
+    {
+      "value": "1",
+      "label": "<image_2>"
+    },
+    {
+      "value": "2",
+      "label": "<image_3>"
+    },
+    {
+      "value": "3",
+      "label": "<image_4>"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/20k/2020-SK-11_B.png",
+    "http://demo.ibobor.sk/sutaz/images/20k/2020-SK-11_D.png",
+    "http://demo.ibobor.sk/sutaz/images/20k/2020-SK-11_A.png",
+    "http://demo.ibobor.sk/sutaz/images/20k/2020-SK-11_C.png"
+  ],
+  "year": "Karanténa",
+  "category": "6.-9.roč.",
+  "type": "image",
+  "correct_index": 2,
+  "correct_answer": "http://demo.ibobor.sk/sutaz/images/20k/2020-SK-11_A.png",
+  "correct_answer_plain": null
+}

@@ -1,0 +1,44 @@
+{
+  "id": 136,
+  "serial_number": 2,
+  "title": "Vesmírne cestovanie",
+  "question": "Šípky na mape označujú, akými dopravnými prostriedkami vieme cestovať medzi jednotlivými planétami.<br/> <image_1><br/> Napr. Ak sa chceme dostať z Venuše <image_2> na Saturn <image_3>, môžeme ísť raketou na Jupiter <image_4>, potom ufom na Neptún <image_5> a nakoniec ufom na Saturn.<br/> Tento cestovný plán môžeme zapísať takto:<br/> <image_6><br/> Tina je na Neptúne <image_7> a chce ísť na Zem <image_8>.<br/> Ktorý cestovný plán ju tam <b>neprivedie</b>? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "<image_9>"
+    },
+    {
+      "value": "1",
+      "label": "<image_10>"
+    },
+    {
+      "value": "2",
+      "label": "<image_11>"
+    },
+    {
+      "value": "3",
+      "label": "<image_12>"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/19/2019-SI-03.png",
+    "http://demo.ibobor.sk/sutaz/images/19/2019-SI-03_venusa.png",
+    "http://demo.ibobor.sk/sutaz/images/19/2019-SI-03_saturn.png",
+    "http://demo.ibobor.sk/sutaz/images/19/2019-SI-03_jupiter.png",
+    "http://demo.ibobor.sk/sutaz/images/19/2019-SI-03_neptun.png",
+    "http://demo.ibobor.sk/sutaz/images/19/2019-SI-03_priklad.png",
+    "http://demo.ibobor.sk/sutaz/images/19/2019-SI-03_neptun.png",
+    "http://demo.ibobor.sk/sutaz/images/19/2019-SI-03_zem.png",
+    "http://demo.ibobor.sk/sutaz/images/19/2019-SI-03_A.png",
+    "http://demo.ibobor.sk/sutaz/images/19/2019-SI-03_C.png",
+    "http://demo.ibobor.sk/sutaz/images/19/2019-SI-03_D.png",
+    "http://demo.ibobor.sk/sutaz/images/19/2019-SI-03_B.png"
+  ],
+  "year": "2019/2020",
+  "category": "Kadet",
+  "type": "image",
+  "correct_index": 2,
+  "correct_answer": "http://demo.ibobor.sk/sutaz/images/19/2019-SI-03_D.png",
+  "correct_answer_plain": null
+}

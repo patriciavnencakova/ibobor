@@ -1,0 +1,33 @@
+{
+  "id": 540,
+  "serial_number": 1,
+  "title": "Zmrzlina",
+  "question": "Ujo zmrzlinár dáva kopčeky zmrzliny do kornútika v rovnakom poradí, v akom si ich od neho pýtame. Ako si vypýtal zmrzlinu Maťo, ak dostal takýto kornútik so zmrzlinami?<br/> <image_1><br/> Dobrý deň! Prosím si: <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "jahodovú, čokoládovú a pistáciovú zmrzlinu."
+    },
+    {
+      "value": "1",
+      "label": "jahodovú, pistáciovú a čokoládovú zmrzlinu."
+    },
+    {
+      "value": "2",
+      "label": "pistáciovú, čokoládovú a jahodovú zmrzlinu."
+    },
+    {
+      "value": "3",
+      "label": "čokoládovú, pistáciovú a jahodovú zmrzlinu."
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/14/2014-CZ-10_SK_kaja.png"
+  ],
+  "year": "2014/2015",
+  "category": "Bobrík",
+  "type": "image",
+  "correct_index": 1,
+  "correct_answer": "jahodovú, pistáciovú a čokoládovú zmrzlinu. ",
+  "correct_answer_plain": "jahodovú, pistáciovú a čokoládovú zmrzlinu."
+}

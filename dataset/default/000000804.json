@@ -1,0 +1,33 @@
+{
+  "id": 803,
+  "serial_number": 6,
+  "title": "Priatelia",
+  "question": "Lucia a jej kamaráti sú zaregistrovaní v sociálnej sieti. Na obrázku vidíme sieť Luciiných priateľov a ich priateľov. Ak sú dve osoby spojené čiarou, znamená to, že sú priatelia. Napr. Monika je priateľka Lucie, ale Saša nie je Luciina priateľka.<br/> <ul><li>Ak niekto zdieľa fotografiu s niektorými svojimi priateľmi, potom títo priatelia môžu fotku vidieť a aj komentovať.</li><li>Ak niekto okomentuje fotku, potom tento komentár aj s fotkou budú vidieť aj všetci jeho priatelia, ale tí fotku nemôžu komentovať, ak ju už nemohli komentovať predtým.</li></ul><image_1><br/> Lucia zverejnila svoju fotku. S ktorými zo svojich priateľov ju môže zdieľať, ak nechce, aby túto fotku videl Jakub? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "Danka, Miška a Eva"
+    },
+    {
+      "value": "1",
+      "label": "Miška, Eva a Jakub"
+    },
+    {
+      "value": "2",
+      "label": "Danka, Eva a Monika"
+    },
+    {
+      "value": "3",
+      "label": "Miška, Peťo a Monika"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/11/2011-SK-11_SK.png"
+  ],
+  "year": "2011/2012",
+  "category": "Junior",
+  "type": "image",
+  "correct_index": 0,
+  "correct_answer": "Danka, Miška a Eva ",
+  "correct_answer_plain": "Danka, Miška a Eva"
+}

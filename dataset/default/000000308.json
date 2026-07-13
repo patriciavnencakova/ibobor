@@ -1,0 +1,33 @@
+{
+  "id": 307,
+  "serial_number": 2,
+  "title": "Ninja meno",
+  "question": "Bobor chodí do krúžku Ninja bojovníkov a má meno <b>rinkashikume</b>.<br/> <image_1><br/> Aké je jeho skutočné meno? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "MATEJ"
+    },
+    {
+      "value": "1",
+      "label": "MARTIN"
+    },
+    {
+      "value": "2",
+      "label": "MARKO"
+    },
+    {
+      "value": "3",
+      "label": "MAREK"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/17/2017-HR-02_tabulka.png "
+  ],
+  "year": "2017/2018",
+  "category": "Bobrík",
+  "type": "image",
+  "correct_index": 3,
+  "correct_answer": "MAREK ",
+  "correct_answer_plain": "MAREK"
+}

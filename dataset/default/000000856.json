@@ -1,0 +1,37 @@
+{
+  "id": 855,
+  "serial_number": 13,
+  "title": "Automat na strihanie",
+  "question": "Strihací automat strihá tvary z plechu. Má na to dva tvary – štvorec a kruh rovnakej veľkosti. Automat pracuje podľa tohto programu:<br/> <ol><li>polož štvorec aj kruh hocikam na fóliu,</li><li>vykonaj jednu z operácií a) alebo b)<br/> a) vystrihni tú časť, kde sa oba tvary prekrývajú,<br/> b) vystrihni tú časť, ktorá tvorí spoločný obrys oboch tvarov.</li></ol><image_1><br/> <br/> Ktorý z nasledujúcich tvarov nedokáže takto pracujúci automat vystrihnúť?<br/> <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "<image_2>"
+    },
+    {
+      "value": "1",
+      "label": "<image_3>"
+    },
+    {
+      "value": "2",
+      "label": "<image_4>"
+    },
+    {
+      "value": "3",
+      "label": "<image_5>"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/10/2010-CZ-09-shapes.png",
+    "http://demo.ibobor.sk/sutaz/images/10/2010-CZ-09-shape2.png",
+    "http://demo.ibobor.sk/sutaz/images/10/2010-CZ-09-shape4.png",
+    "http://demo.ibobor.sk/sutaz/images/10/2010-CZ-09-shape1.png",
+    "http://demo.ibobor.sk/sutaz/images/10/2010-CZ-09-shape3.png"
+  ],
+  "year": "2010/2011",
+  "category": "Kadet",
+  "type": "image",
+  "correct_index": 2,
+  "correct_answer": "http://demo.ibobor.sk/sutaz/images/10/2010-CZ-09-shape1.png",
+  "correct_answer_plain": null
+}

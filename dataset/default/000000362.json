@@ -1,0 +1,33 @@
+{
+  "id": 361,
+  "serial_number": 14,
+  "title": "Najkratšia vzdialenosť?",
+  "question": "Na obrázku je sieť jednosmerných ciest. Číslo v každom zafarbenom uzle označuje najkratšiu vzdialenosť z S do príslušného uzla.<br/> <image_1><br/> Ktoré tvrdenie o dvoch uzloch, ktoré sú vyznačené zelenou farbou je pravdivé? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "Najkratšia vzdialenosť medzi týmito uzlami je presne 8."
+    },
+    {
+      "value": "1",
+      "label": "Najkratšia vzdialenosť medzi týmito uzlami je 8 alebo viac."
+    },
+    {
+      "value": "2",
+      "label": "Najkratšia vzdialenosť medzi týmito uzlami je 8 alebo menej."
+    },
+    {
+      "value": "3",
+      "label": "Žiadne z ostatných uvedených tvrdení nie je pravdivé."
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/17/2017-NL-05.png"
+  ],
+  "year": "2017/2018",
+  "category": "Junior",
+  "type": "image",
+  "correct_index": 1,
+  "correct_answer": "Najkratšia vzdialenosť medzi týmito uzlami je 8 alebo viac. ",
+  "correct_answer_plain": "Najkratšia vzdialenosť medzi týmito uzlami je 8 alebo viac."
+}

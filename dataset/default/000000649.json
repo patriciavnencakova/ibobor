@@ -1,0 +1,37 @@
+{
+  "id": 648,
+  "serial_number": 10,
+  "title": "CB kódovanie",
+  "question": "Bobor Hugo vymyslel spôsob na kódovanie čiernobielych obrázkov. Každý obrázok zakóduje pomocou postupnosti písmen tak, že namiesto bieleho štvorčeka napíše písmeno B a namiesto čierneho štvorčeka písmeno C.<br/> Obrázok <image_1> zakóduje ako BBBBCCCBB.<br/> Potom Huga napadlo vylepšenie. Ak v kóde nasleduje za sebou viac rovnakých písmen, napíše písmeno iba raz a zaň napíše počet jeho opakovaní.<br/> Takto zakódoval predošlý obrázok ako: B4C3B2. Dĺžka kódu je 6 znakov. <br/> Potom takto zakódoval nasledujúce štyri obrázky. <br/> Ktorý z nich má najkratší kód? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "<image_2>"
+    },
+    {
+      "value": "1",
+      "label": "<image_3>"
+    },
+    {
+      "value": "2",
+      "label": "<image_4>"
+    },
+    {
+      "value": "3",
+      "label": "<image_5>"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/13/2013-RU-02_SK_priklad.png",
+    "http://demo.ibobor.sk/sutaz/images/13/2013-RU-02_SK_a.png",
+    "http://demo.ibobor.sk/sutaz/images/13/2013-RU-02_SK_b.png",
+    "http://demo.ibobor.sk/sutaz/images/13/2013-RU-02_SK_d.png",
+    "http://demo.ibobor.sk/sutaz/images/13/2013-RU-02_SK_c.png"
+  ],
+  "year": "2013/2014",
+  "category": "Kadet",
+  "type": "image",
+  "correct_index": 0,
+  "correct_answer": "http://demo.ibobor.sk/sutaz/images/13/2013-RU-02_SK_a.png",
+  "correct_answer_plain": null
+}

@@ -1,0 +1,33 @@
+{
+  "id": 1059,
+  "serial_number": 10,
+  "title": "38",
+  "question": "Pán Bobor sa chystá na výlet, na ktorom chce navštíviť všetkých svojich príbuzných.<br/> Príbuzní žijú v dedinách označených modrými krúžkami. Pán Bobor býva v dedine označenej červeným krúžkom – tam jeho výlet začne aj skončí. Môže chodiť len po cestičkách, ktoré sú vyznačené na tejto mape. Na mape vidíme aj dĺžku každej cestičky.<br/> <br/> <image_1><br/> <br/> Aká je najmenšia možná dĺžka celého výletu pána Bobra? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "9"
+    },
+    {
+      "value": "1",
+      "label": "8"
+    },
+    {
+      "value": "2",
+      "label": "10"
+    },
+    {
+      "value": "3",
+      "label": "11"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/vylet.png"
+  ],
+  "year": "2007/2008",
+  "category": "Senior",
+  "type": "image",
+  "correct_index": 1,
+  "correct_answer": "8 ",
+  "correct_answer_plain": "8"
+}

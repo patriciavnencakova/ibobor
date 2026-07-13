@@ -1,0 +1,31 @@
+{
+  "id": 450,
+  "serial_number": 13,
+  "title": "Prechádzanie cez tunel",
+  "question": "Štvorčlenná rodina chce prejsť cez tmavý tunel. Cez tunel môžu ísť naraz maximálne dvaja a vždy musia mať baterku. Rodina má len jednu baterku.<br> Jednotlivým členom trvá cesta cez tunel nasledovne:<ul><li>mama – 20 minút</li><li>otec – 25 minút</li><li>dcéra Anna – 10 minút</li><li>syn Bruno – 5 minút</li></ul><br> Keď idú cez tunel dvaja, tak idú rýchlosťou pomalšieho.<br> <br> Za aký <b>najkratší</b> čas dokáže prejsť cez tunel celá rodina? <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "35 minút"
+    },
+    {
+      "value": "1",
+      "label": "60 minút"
+    },
+    {
+      "value": "2",
+      "label": "80 minút"
+    },
+    {
+      "value": "3",
+      "label": "45 minút"
+    }
+  ],
+  "images": [],
+  "year": "2016/2017",
+  "category": "Junior",
+  "type": "text",
+  "correct_index": 1,
+  "correct_answer": "60 minút ",
+  "correct_answer_plain": "60 minút"
+}

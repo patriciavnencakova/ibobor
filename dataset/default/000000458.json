@@ -1,0 +1,33 @@
+{
+  "id": 457,
+  "serial_number": 5,
+  "title": "Spoločné inštrukcie",
+  "question": "V sklade pracujú tri roboty, ktoré tvoria jeden tím. Keď tím dostane symbol niektorého smeru (S, J, V, Z) všetky roboty sa v rovnakom čase pohnú daným smerom o jeden štvorček. Po ukončení postupnosti príkazov každý robot zodvihne objekt, ktorý sa nachádza na jeho štvorčeku.<br/> Napr. ak tím dostane postupnosť S, V, J, jeden robot zdvihne kuželku, druhý koliesko a tretí tiež kuželku.<br/> <image_1><br/> Akú postupnosť máme poslať tímu robotov, aby zodvihli loptu, koliesko a kuželku? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "S, S, J, V, S"
+    },
+    {
+      "value": "1",
+      "label": "S, V, V, V"
+    },
+    {
+      "value": "2",
+      "label": "S, V, V, J, V"
+    },
+    {
+      "value": "3",
+      "label": "S, V, V, J, Z"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/16/2016-IE-05.png"
+  ],
+  "year": "2016/2017",
+  "category": "Senior",
+  "type": "image",
+  "correct_index": 2,
+  "correct_answer": "S, V, V, J, V ",
+  "correct_answer_plain": "S, V, V, J, V"
+}

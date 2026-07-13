@@ -1,0 +1,33 @@
+{
+  "id": 559,
+  "serial_number": 8,
+  "title": "V reštaurácii",
+  "question": "Timo, Bea a Majka sú v reštaurácii s pohyblivým pásom. Na páse sú položené taniere s jedlami. Opakovane sa na ňom v rovnakom poradí objavujú štyri jedlá: burger, pizza, mäso a hranolky.<br/> <image_1><br/> Keď si bobry sadli k pásu, každý si zobral tanier, ktorý bol pred ním, teda<br/> <ul><li>Timo si zobral tanier s burgerom.</li><li>Bea si zobrala nasledujúci tanier (pizzu).</li><li>Majka si zobrala nasledujúci tanier (mäso).<br/> </li></ul><br/> Ďalej sa rovnako pravidelne striedali v braní tanierov z pásu a nenechávali žiadne taniere na páse.<br/> <br/> Aké jedlá mala Majka na svojich prvých troch tanieroch? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "burger, hranolky, mäso"
+    },
+    {
+      "value": "1",
+      "label": "pizzu, burger, hranolky"
+    },
+    {
+      "value": "2",
+      "label": "mäso, pizzu, hranolky"
+    },
+    {
+      "value": "3",
+      "label": "mäso, pizzu, burger"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/14/2014-JP-04_SK_700.png"
+  ],
+  "year": "2014/2015",
+  "category": "Benjamín",
+  "type": "image",
+  "correct_index": 3,
+  "correct_answer": "mäso, pizzu, burger ",
+  "correct_answer_plain": "mäso, pizzu, burger"
+}

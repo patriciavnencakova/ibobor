@@ -1,0 +1,33 @@
+{
+  "id": 481,
+  "serial_number": 2,
+  "title": "Štvorčeková sieť",
+  "question": "Ema nakreslila v grafickom editore štvorčekovú sieť. Potom si k jej počítaču sadol Samo a časť obrázka vymazal. Obrázok potom vyzeral takto:<br/> <image_1><br/> Aby Ema svoj obrázok opravila, zvolila si v grafickom editore nástroj <b>ÚSEČKA</b>.<br/> <b>Najmenej</b> koľko úsečiek musela nakresliť? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "6"
+    },
+    {
+      "value": "1",
+      "label": "4"
+    },
+    {
+      "value": "2",
+      "label": "5"
+    },
+    {
+      "value": "3",
+      "label": "3"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/15/2015-SK-new_stv_siet.png"
+  ],
+  "year": "2015/2016",
+  "category": "Benjamín",
+  "type": "image",
+  "correct_index": 2,
+  "correct_answer": "5 ",
+  "correct_answer_plain": "5"
+}

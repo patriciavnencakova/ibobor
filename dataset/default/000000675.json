@@ -1,0 +1,34 @@
+{
+  "id": 674,
+  "serial_number": 6,
+  "title": "Upratovanie",
+  "question": "Izby v hoteli upratujú traja bratia Peter, Šimon a Jakub. Izby na jednom poschodí sú umiestnené na dlhej chodbe vždy dve oproti sebe a označené číslom a písmenom tak, ako na obrázku vľavo. Pri upratovaní musia byť bratia blízko seba, pretože používajú jednu predlžovaciu šnúru, ktorá je umiestnená v strede chodby a šnúry z nej do ich vysávačov dočiahnu do izieb len tak ďaleko, ako je to znázornené na obrázku vpravo (X je zástrčka na konci predlžovacej šnúry a dá sa posúvať pozdĺž stredu chodby).<br/> <image_1><br/> Upratanie jednej izby trvá každému z nich rovnaký čas, potom sa každý presunie do ďalšej izby. Na začiatku pracovného dňa jeden brat upratuje izbu 1A, druhý upratuje izbu 1B a tretí izbu 2A. Bratia chcú nájsť jeden algoritmus rovnaký pre všetkých troch, podľa ktorého by mal každý presne určené, kam sa má presunúť po vyčistení izby.<br/> Algoritmus by mohol vyzerať napríklad takto:<br/> <i>n</i>A -> <i>(n+1)</i>B, znamená \"po uprataní izby <i>n</i>A, choď do izby <i>(n+1)</i>B\"<br/> <i>n</i>B -> <i>n</i>A, znamená \"po uprataní izby <i>n</i>B, choď do izby <i>n</i>A\"<br/> Ak <b>Peter začne v izbe 1A</b>, podľa tohto algoritmu bude upratovať izby v poradí ako je znázornené na obrázku zelenou farbou. Červenou farbou je znázornené v akom poradí bude upratovať izby <b>Šimon, ktorý začne v izbe 1B</b>. Modrou farbou je poradie, v akom bude upratovať izby <b>Jakub, ktorý začne v 2A</b>:<br/> <image_2><br/> Tento algoritmus funguje dobre, ak by izby upratoval jeden brat. Ak budú podľa neho upratovať všetci traja, väčšina izieb by bola uprataná trikrát.<br/> Ktorý z nasledujúcich algoritmov zaručí, že každú izbu upracú práve raz a všetci traja bratia budú po celý čas blízko seba? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "<i>n</i>A -> <i>(n+1)</i>B; <i>n</i>B -> <i>(n+1)</i>B"
+    },
+    {
+      "value": "1",
+      "label": "<i>n</i>A -> <i>(n+1)</i>B; <i>n</i>B -> <i>(n+2)</i>A"
+    },
+    {
+      "value": "2",
+      "label": "<i>n</i>A -> <i>(n+2)</i>A; <i>n</i>B -> <i>(n+1)</i>B"
+    },
+    {
+      "value": "3",
+      "label": "<i>n</i>A -> <i>n</i>B; <i>n</i>B -> <i>(n+3)</i>A"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/13/2013-SE-04_SK_mensie.png",
+    "http://demo.ibobor.sk/sutaz/images/13/2013-SE-04_SK_vysv.png"
+  ],
+  "year": "2013/2014",
+  "category": "Senior",
+  "type": "image",
+  "correct_index": 1,
+  "correct_answer": "<i>n</i>A -> <i>(n+1)</i>B; <i>n</i>B -> <i>(n+2)</i>A ",
+  "correct_answer_plain": "n A -> (n+1) B; n B -> (n+2) A"
+}

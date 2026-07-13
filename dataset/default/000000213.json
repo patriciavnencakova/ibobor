@@ -1,0 +1,33 @@
+{
+  "id": 212,
+  "serial_number": 6,
+  "title": "Mikrovlnka",
+  "question": "<image_1><br/> Koliesko na mikrovlnke musíme pootočiť podľa toho, čo chceme zohrievať alebo rozmrazovať. Pri každom pootočení do iného nastavenia koliesko vydá zvuk <b>lup</b>.<br/> Koliesko je nastavené v polohe pizza.<br/> Mama najprv zohriala hrnček mlieka, potom tanier polievky a nakoniec rozmrazila párky v nastavení vločka.<br/> Koľkokrát mama počula zvuk <b>lup</b>? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "4"
+    },
+    {
+      "value": "1",
+      "label": "5"
+    },
+    {
+      "value": "2",
+      "label": "6"
+    },
+    {
+      "value": "3",
+      "label": "3"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/18/2018-CA-03a.png"
+  ],
+  "year": "2018/2019",
+  "category": "Bobrík",
+  "type": "image",
+  "correct_index": 1,
+  "correct_answer": "5 ",
+  "correct_answer_plain": "5"
+}

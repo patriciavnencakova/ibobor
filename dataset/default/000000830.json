@@ -1,0 +1,37 @@
+{
+  "id": 829,
+  "serial_number": 2,
+  "title": "Taniere",
+  "question": "V školskej jedálni majú dva rôzne typy tanierov: hlboké zelené pre malých bobrov a plytké hnedé pre väčších bobrov. Keď sa v jedálni vytvorí rad, kuchár musí pripraviť taniere tak, aby každý dostal jedlo do príslušného taniera: malý žiak do zeleného, veľký do hnedého. Napríklad takto:<br/> <image_1><br/> <br/> Pre ktorý rad bobrov kuchár nepripravil taniere v správnom poradí? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "<image_2>"
+    },
+    {
+      "value": "1",
+      "label": "<image_3>"
+    },
+    {
+      "value": "2",
+      "label": "<image_4>"
+    },
+    {
+      "value": "3",
+      "label": "<image_5>"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/10/2010-DE-03_beavers-example.png",
+    "http://demo.ibobor.sk/sutaz/images/10/2010-DE-03_beaversD.png",
+    "http://demo.ibobor.sk/sutaz/images/10/2010-DE-03_beaversC.png",
+    "http://demo.ibobor.sk/sutaz/images/10/2010-DE-03_beaversA.png",
+    "http://demo.ibobor.sk/sutaz/images/10/2010-DE-03_beaversB.png"
+  ],
+  "year": "2010/2011",
+  "category": "Benjamín",
+  "type": "image",
+  "correct_index": 1,
+  "correct_answer": "http://demo.ibobor.sk/sutaz/images/10/2010-DE-03_beaversC.png",
+  "correct_answer_plain": null
+}

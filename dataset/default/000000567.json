@@ -1,0 +1,33 @@
+{
+  "id": 566,
+  "serial_number": 15,
+  "title": "Mosty",
+  "question": "V mestskom parku je veľké jazero s niekoľkými ostrovmi. Ostrovy sú pospájané dvoma typmi mostov. Mosty sú buď voľne priechodné (plná čiara), alebo spoplatnené (prerušovaná čiara).<br/> <image_1><br/> Jakub sa chce dostať z domu do lesa. Má peniaze na zaplatenie prechodu po najviac dvoch spoplatnených mostoch.<br/> Najmenej cez koľko mostov musí prejsť? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "5"
+    },
+    {
+      "value": "1",
+      "label": "6"
+    },
+    {
+      "value": "2",
+      "label": "4"
+    },
+    {
+      "value": "3",
+      "label": "7"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/14/2014-CA-04_SK.png"
+  ],
+  "year": "2014/2015",
+  "category": "Benjamín",
+  "type": "image",
+  "correct_index": 0,
+  "correct_answer": "5 ",
+  "correct_answer_plain": "5"
+}

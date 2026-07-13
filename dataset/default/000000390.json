@@ -1,0 +1,31 @@
+{
+  "id": 389,
+  "serial_number": 3,
+  "title": "Správa na ePriatelia",
+  "question": "Tomáš išiel von a zabudol sa odhlásiť zo svojho konta na sociálnej sieti ePriatelia. K jeho počítaču si sadla Janka a napísala správu. Nevedela však o Tomášovom zvyku, že posledné písmeno každého slova správy napíše dvakrát.<br> Ktorú správu mala Janka napísať, aby bolo vierohodné, že ju písal Tomáš? <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "Dostal som dvojku z diktátuu."
+    },
+    {
+      "value": "1",
+      "label": "Včeraa som bol na kúpalisku."
+    },
+    {
+      "value": "2",
+      "label": "Zajtraa jee sobotaa, pôjdemee naa výlett."
+    },
+    {
+      "value": "3",
+      "label": "Dnes pôjdem s Emou do kina."
+    }
+  ],
+  "images": [],
+  "year": "2017/2018",
+  "category": "Nevidiaci ZŠ",
+  "type": "text",
+  "correct_index": 2,
+  "correct_answer": "Zajtraa jee sobotaa, pôjdemee naa výlett. ",
+  "correct_answer_plain": "Zajtraa jee sobotaa, pôjdemee naa výlett."
+}

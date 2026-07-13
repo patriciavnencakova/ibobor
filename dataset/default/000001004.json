@@ -1,0 +1,33 @@
+{
+  "id": 1003,
+  "serial_number": 14,
+  "title": "Korytnačie kreslenie",
+  "question": "Korytnačka kreslí obrázky pomocou príkazov:<br/> <b>do</b> <i>k</i> – prejde dopredu <i>k</i> krokov<br/> <b>vp</b> <i>s</i> – otočí sa vpravo o <i>s</i> stupňov<br/> <b>opakuj</b> <i>n</i> <b>[</b><i>príkazy</i><b>]</b> – opakuje <i>n</i>-krát <i>príkazy</i><br/> <br/> Aké číslo musí byť za príkazom <b>vp</b>, aby nakreslila takýto obrázok?<br/> <b>opakuj 10 [do 100 vp ___ ]</b><br/> <image_1> <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "72"
+    },
+    {
+      "value": "1",
+      "label": "108"
+    },
+    {
+      "value": "2",
+      "label": "36"
+    },
+    {
+      "value": "3",
+      "label": "144"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/08/B-J_ALG_SK_009.gif"
+  ],
+  "year": "2008/2009",
+  "category": "Junior",
+  "type": "image",
+  "correct_index": 1,
+  "correct_answer": "108 ",
+  "correct_answer_plain": "108"
+}

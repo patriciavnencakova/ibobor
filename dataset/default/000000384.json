@@ -1,0 +1,31 @@
+{
+  "id": 383,
+  "serial_number": 6,
+  "title": "Šifrovací písací stroj",
+  "question": "V Bobrove majú šifrovací písací stroj. Funguje tak, že keď stlačíme nejaké písmeno, napíše sa iné písmeno, ktoré je k nemu priradené podľa dohodnutého predpisu. <br> Danko napísal: <br> BUDEM VONKU<br> Zuzka dostala: <br> PRIDE NAHOR <br> <b>Podľa akého predpisu sa nahrádzajú písmená D, E? </b> <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "D sa nahradí písmenom E, E sa nahradí písmenom M"
+    },
+    {
+      "value": "1",
+      "label": "D sa nahradí písmenom E, E sa nahradí písmenom D"
+    },
+    {
+      "value": "2",
+      "label": "D sa nahradí písmenom I, E sa nahradí písmenom D"
+    },
+    {
+      "value": "3",
+      "label": "D sa nahradí písmenom I, E sa nahradí písmenom M"
+    }
+  ],
+  "images": [],
+  "year": "2017/2018",
+  "category": "Nevidiaci SŠ",
+  "type": "text",
+  "correct_index": 2,
+  "correct_answer": "D sa nahradí písmenom I, E sa nahradí písmenom D ",
+  "correct_answer_plain": "D sa nahradí písmenom I, E sa nahradí písmenom D"
+}

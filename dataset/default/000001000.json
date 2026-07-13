@@ -1,0 +1,33 @@
+{
+  "id": 999,
+  "serial_number": 10,
+  "title": "Vyhľadávanie v databáze",
+  "question": "Všetky údaje o študentoch z Bobrej školy sú zaznamenané v databáze. Študenti sú rozdelení do niekoľkých kategórií.<br/> <image_1><br/> Chceme nájsť údaje o všetkých bobrích študentoch, ktorí spĺňajú zároveň obe tieto podmienky:<ul><li>sú vegetariáni ALEBO športujú</li><li>jedia mäso</li></ul><br/> <br/> Koľko študentov spĺňa zároveň obe podmienky? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "500"
+    },
+    {
+      "value": "1",
+      "label": "850"
+    },
+    {
+      "value": "2",
+      "label": "300"
+    },
+    {
+      "value": "3",
+      "label": "550"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/08/J_AT_006.gif"
+  ],
+  "year": "2008/2009",
+  "category": "Junior",
+  "type": "image",
+  "correct_index": 2,
+  "correct_answer": "300 ",
+  "correct_answer_plain": "300"
+}

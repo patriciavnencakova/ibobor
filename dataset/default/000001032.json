@@ -1,0 +1,31 @@
+{
+  "id": 1031,
+  "serial_number": 12,
+  "title": "12",
+  "question": "Pascalina bol(a) <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "Manželka matematika, fyzika a filozofa Blaisa Pascala."
+    },
+    {
+      "value": "1",
+      "label": "Jedna z prvých známych mechanickych kalkulačiek."
+    },
+    {
+      "value": "2",
+      "label": "Predchodca programovacieho jazyka Pascal."
+    },
+    {
+      "value": "3",
+      "label": "Elektronická pasca na nevyžiadané e-maily."
+    }
+  ],
+  "images": [],
+  "year": "2007/2008",
+  "category": "Benjamín",
+  "type": "text",
+  "correct_index": 1,
+  "correct_answer": "Jedna z prvých známych mechanickych kalkulačiek. ",
+  "correct_answer_plain": "Jedna z prvých známych mechanickych kalkulačiek."
+}

@@ -1,0 +1,33 @@
+{
+  "id": 357,
+  "serial_number": 10,
+  "title": "Chutné brvná",
+  "question": "Bobor David zistil, že čím viac listov je na brvne, tým je chutnejšie.<br/> Pomôž mu usporiadať brvná tak, že najbližšie k nemu bude brvno so 6 lístkami, vedľa neho také, čo má 5 lístkov, atď.<br/> Usporadúvať brvná môžeš iba výmenou ľubovoľných dvoch brvien.<br/> <image_1><br/> <b>Minimálne</b> koľko výmen musíš spraviť? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "6 výmen"
+    },
+    {
+      "value": "1",
+      "label": "5 výmen"
+    },
+    {
+      "value": "2",
+      "label": "4 výmeny"
+    },
+    {
+      "value": "3",
+      "label": "3 výmeny"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/17/2017-CH-08b_J.png"
+  ],
+  "year": "2017/2018",
+  "category": "Junior",
+  "type": "image",
+  "correct_index": 2,
+  "correct_answer": "4 výmeny ",
+  "correct_answer_plain": "4 výmeny"
+}

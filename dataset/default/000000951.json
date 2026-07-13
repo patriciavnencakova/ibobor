@@ -1,0 +1,31 @@
+{
+  "id": 950,
+  "serial_number": 6,
+  "title": "Paralelné procesy",
+  "question": "Počítač dokáže vykonávať súčasne niekoľko programov dokonca aj vtedy, ak má len jeden procesor. Trik spočíva v tom, že operačný systém nechá jeden program bežať istý (kratučký) čas, potom druhý, potom zase prvý a tak ďalej. Bežiace programy nazývame procesy a hovoríme, že operačný systém prepína procesy.<br> <br> Máme dve celočíselné premenné X a A. Na začiatku majú obe premenné hodnotu 0.<br> Máme dva jednoduché procesy, ktorých programy sú takéto:<br> <b>Proces 1:</b> <br> zväčši hodnotu X o 1<br> zmenši hodnotu X o 1<br> <b>Proces 2:</b><br> skopíruj hodnotu X do A <br> skopíruj hodnotu A do X<br> <br> Oba procesy odštartujeme naraz a bežia paralelne.<br> To znamená, že operačný systém sa rozhodne, ktorý z procesov sa začne vykonávať ako prvý. Potom môže (ale nemusí) medzi nimi prepínať, ale vždy len medzi dvoma riadkami programu.<br>  <br> Aká bude hodnota X, keď oba procesy skončia svoje vykonávanie? <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "môže byť 0, 1 alebo 2"
+    },
+    {
+      "value": "1",
+      "label": "bude vždy 0"
+    },
+    {
+      "value": "2",
+      "label": "môže byť 0 alebo 1"
+    },
+    {
+      "value": "3",
+      "label": "môže byť 0, −1 alebo 1"
+    }
+  ],
+  "images": [],
+  "year": "2009/2010",
+  "category": "Senior",
+  "type": "text",
+  "correct_index": 3,
+  "correct_answer": "môže byť 0, −1 alebo 1 ",
+  "correct_answer_plain": "môže byť 0, −1 alebo 1"
+}

@@ -1,0 +1,31 @@
+{
+  "id": 526,
+  "serial_number": 2,
+  "title": "Telefónny zoznam",
+  "question": "Bobrica Maxima hľadá vo veľmi dlhom zozname telefónne číslo svojej priateľky. Nevie, ako sa presne píše jej meno. Vyhľadávací program umožňuje použiť pri vyhľadávaní:<ul><li>znak <b>?</b> keď nepoznáme práve jeden znak</li><li>znak <b>&amp;</b> keď nepoznáme práve dva po sebe idúce znaky</li><li>znak <b>%</b> keď nepoznáme zvyšok mena</li></ul><br> Napríklad, ak napíšeme <b>Te%</b> program nájde mená Tereza, Teodor, atď.<br> <br> Maxima zadá: <b>S?ra H&amp;bo%</b><br> Ktoré z týchto mien program nájde? <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "Sára Hubová"
+    },
+    {
+      "value": "1",
+      "label": "Sára Hrubovská"
+    },
+    {
+      "value": "2",
+      "label": "Saša Hladká"
+    },
+    {
+      "value": "3",
+      "label": "Sandra Hruboňová"
+    }
+  ],
+  "images": [],
+  "year": "2015/2016",
+  "category": "Senior",
+  "type": "text",
+  "correct_index": 1,
+  "correct_answer": "Sára Hrubovská ",
+  "correct_answer_plain": "Sára Hrubovská"
+}

@@ -1,0 +1,37 @@
+{
+  "id": 1023,
+  "serial_number": 4,
+  "title": "5",
+  "question": "V programe na spracovanie textu chceme upraviť text tak, aby vyzeral ako text vpravo.<br/> <br/> <image_1><br/> <br/> Ktoré z týchto tlačidiel pri tom nepotrebujeme použiť? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "<image_2>"
+    },
+    {
+      "value": "1",
+      "label": "<image_3>"
+    },
+    {
+      "value": "2",
+      "label": "<image_4>"
+    },
+    {
+      "value": "3",
+      "label": "<image_5>"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/text.png",
+    "http://demo.ibobor.sk/sutaz/images/nastroj3.png",
+    "http://demo.ibobor.sk/sutaz/images/nastroj4.png",
+    "http://demo.ibobor.sk/sutaz/images/nastroj1.png",
+    "http://demo.ibobor.sk/sutaz/images/nastroj2.png"
+  ],
+  "year": "2007/2008",
+  "category": "Benjamín",
+  "type": "image",
+  "correct_index": 0,
+  "correct_answer": "http://demo.ibobor.sk/sutaz/images/nastroj3.png",
+  "correct_answer_plain": null
+}

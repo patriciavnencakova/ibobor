@@ -1,0 +1,31 @@
+{
+  "id": 388,
+  "serial_number": 2,
+  "title": "Zavírený počítač",
+  "question": "Janka zistila, že má zavírený počítač. S priateľmi diskutovala o tom, ako sa to mohlo stať. <br> Zuzka povedala: „Používala si počítač s neumytými rukami.” <br> Peter povedal: „Nemala si používať počítač, keď si bola chorá.” <br> Janko povedal: „Zasunula si tam zavírený USB kľúč.” <br> Katka povedala: „Príliš veľa času venuješ hraniu počítačových hier.” <br> Kto z kamarátov spomenul možnosť, ktorá by naozaj spôsobila zavírenie počítača? <br> <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "Katka"
+    },
+    {
+      "value": "1",
+      "label": "Zuzka"
+    },
+    {
+      "value": "2",
+      "label": "Peter"
+    },
+    {
+      "value": "3",
+      "label": "Janko"
+    }
+  ],
+  "images": [],
+  "year": "2017/2018",
+  "category": "Nevidiaci ZŠ",
+  "type": "text",
+  "correct_index": 3,
+  "correct_answer": "Janko ",
+  "correct_answer_plain": "Janko"
+}

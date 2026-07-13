@@ -1,0 +1,33 @@
+{
+  "id": 1050,
+  "serial_number": 1,
+  "title": "31",
+  "question": "Máme tri drevené paličky, na ktoré sa dajú nastokávať drevené krúžky.<br/> Krúžky sú rovnako veľké, ale každý má iné číslo.<br/> <br/> S krúžkami môžeme robiť len dve operácie:<br/> <b>PUSH</b> - zoberieme vrchný krúžok z ľavej paličky a dáme ho na vrch kôpky krúžkov na strednej paličke<br/> <b>POP</b> - zoberieme vrchný krúžok zo strednej paličky a dáme ho na vrch kôpky krúžkov na pravej paličke<br/> <br/> <image_1><br/> <br/> Na začiatku máme 4 krúžky na ľavej paličke a ich čísla sú zdola nahor 1, 2, 3, 4.<br/> Vykonáme postupnosť operácií:<br/> PUSH, POP, PUSH, PUSH, POP, PUSH, POP, POP<br/> Aké bude poradie krúžkov na pravej paličke (zdola nahor) po ich vykonaní?<br/> <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "3,1,2,4"
+    },
+    {
+      "value": "1",
+      "label": "4,2,3,1"
+    },
+    {
+      "value": "2",
+      "label": "4,3,2,1"
+    },
+    {
+      "value": "3",
+      "label": "4,2,1,3"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/pushpop.gif"
+  ],
+  "year": "2007/2008",
+  "category": "Senior",
+  "type": "image",
+  "correct_index": 3,
+  "correct_answer": "4,2,1,3 ",
+  "correct_answer_plain": "4,2,1,3"
+}

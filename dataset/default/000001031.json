@@ -1,0 +1,36 @@
+{
+  "id": 1030,
+  "serial_number": 11,
+  "title": "14",
+  "question": "Bobrova priateľka korytnačka pozná takéto príkazy:<br/> <br/> <pre><b>dopredu <i>číslo</i></b></pre> - ide dopredu <b><i>číslo</i></b> krokov a kreslí čiaru<br/> <pre><b>vľavo <i>číslo</i></b></pre> - otočí sa na mieste vľavo o <b><i>číslo</i></b> stupňov<br/> <pre><b>vpravo <i>číslo</i></b></pre> - otočí sa na mieste vpravo o <b><i>číslo</i></b> stupňov<br/> <pre><b>nechFarbaPera \"menoFarby</b></pre> - zmení farbu pera<br/> <pre><b>opakuj <i>číslo</i> [príkazy]</b></pre> - opakuje <b><i>číslo</i></b>-krát príkazy v hranatých zátvorkách<br/> <br/> Korytnačka je vždy na začiatku otočená hore (na sever) a má čierne pero<br/> <br/> Korytnačke dáme takéto príkazy:<br/> <br/> <pre><b>dopredu 70 nechFarbaPera \"červená vľavo 30 opakuj 3 [dopredu 50 vpravo 120]</b></pre><br/> <br/> Čo nakreslí? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "<image_1>"
+    },
+    {
+      "value": "1",
+      "label": "<image_2>"
+    },
+    {
+      "value": "2",
+      "label": "<image_3>"
+    },
+    {
+      "value": "3",
+      "label": "<image_4>"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/znacka4.png",
+    "http://demo.ibobor.sk/sutaz/images/znacka1.png",
+    "http://demo.ibobor.sk/sutaz/images/znacka2.png",
+    "http://demo.ibobor.sk/sutaz/images/znacka3.png"
+  ],
+  "year": "2007/2008",
+  "category": "Benjamín",
+  "type": "image",
+  "correct_index": 2,
+  "correct_answer": "http://demo.ibobor.sk/sutaz/images/znacka2.png",
+  "correct_answer_plain": null
+}

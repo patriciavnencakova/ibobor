@@ -1,0 +1,31 @@
+{
+  "id": 333,
+  "serial_number": 1,
+  "title": "Vzdialenosť slov",
+  "question": "Bobry navrhli tri operácie so slovami<br> 1. vlož písmeno<br> 2. zruš písmeno<br> 3. zmeň niektoré písmeno za iné<br> <b>Vzdialenosť</b> dvoch slov je najmenší počet operácií, ktoré treba urobiť, aby sa jedno slovo zmenilo na druhé.<br> Vzdialenosť slov BRLOH a HLOH je 2:<br> BRLOH → RLOH (zruš B)<br> RLOH → HLOH (zmeň R na B)<br> Aká je vzdialenosť slov BRLOH a OBLOHA? <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "3"
+    },
+    {
+      "value": "1",
+      "label": "4"
+    },
+    {
+      "value": "2",
+      "label": "2"
+    },
+    {
+      "value": "3",
+      "label": "5"
+    }
+  ],
+  "images": [],
+  "year": "2017/2018",
+  "category": "Kadet",
+  "type": "text",
+  "correct_index": 0,
+  "correct_answer": "3 ",
+  "correct_answer_plain": "3"
+}

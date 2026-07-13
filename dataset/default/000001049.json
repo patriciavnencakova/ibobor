@@ -1,0 +1,31 @@
+{
+  "id": 1048,
+  "serial_number": 14,
+  "title": "27",
+  "question": "Nekompresovaný rastrový obrázok má 40x50 pixelov a zaberá v pamäti presne 1000 bajtov.<br> Koľko najviac rôznych farieb môže používať? <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "viac než 65000 farieb"
+    },
+    {
+      "value": "1",
+      "label": "2 farby"
+    },
+    {
+      "value": "2",
+      "label": "16 farieb"
+    },
+    {
+      "value": "3",
+      "label": "256 farieb"
+    }
+  ],
+  "images": [],
+  "year": "2007/2008",
+  "category": "Junior",
+  "type": "text",
+  "correct_index": 2,
+  "correct_answer": "16  farieb ",
+  "correct_answer_plain": "16  farieb"
+}

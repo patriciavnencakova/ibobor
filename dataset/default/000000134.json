@@ -1,0 +1,33 @@
+{
+  "id": 133,
+  "serial_number": 14,
+  "title": "Stará mama",
+  "question": "Na obrázku je mapa dediny s cestami. Číslo nad cestou vyjadruje počet minút, za aký po nej stará mama prejde.<br/> <image_1><br/> Stará mama potrebuje<ul><li>v <b>tržnici</b> nakúpiť ovocie a zeleninu,</li><li>ísť ku <b>kováčovi</b> dať nabrúsiť nôž,</li><li>zájsť do <b>lekárne</b> pre lieky.</li></ul><br/> <b>Najmenej</b> koľko minút jej bude trvať, kým všetko vybaví a <b>vráti sa domov</b>? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "36 minút"
+    },
+    {
+      "value": "1",
+      "label": "35 minút"
+    },
+    {
+      "value": "2",
+      "label": "38 minút"
+    },
+    {
+      "value": "3",
+      "label": "37 minút"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/19/2019-IN-08.png"
+  ],
+  "year": "2019/2020",
+  "category": "Benjamín",
+  "type": "image",
+  "correct_index": 0,
+  "correct_answer": "36 minút ",
+  "correct_answer_plain": "36 minút"
+}

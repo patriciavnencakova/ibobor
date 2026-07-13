@@ -1,0 +1,31 @@
+{
+  "id": 837,
+  "serial_number": 10,
+  "title": "Mapa k pokladu",
+  "question": "Kapitán Rebro skryl na tajnom mieste 1000 zlatiek a miesto skrýše si zakreslil do mapy.<br> Jeho prvý dôstojník si tajne prekreslil kapitánovu mapu.<br> Po niekoľkých rokoch chcel kapitán Rebro pridať k svojmu pokladu ďalších 600 zlatiek. Nanešťastie v skrýši už nebolo miesto, preto všetko svoje zlato presunul na nové tajné miesto a opravil svoju mapu tak, aby označovala miesto novej skrýše.<br> O 400 rokov neskôr si náhodou našiel kapitánovu aj dôstojníkovu mapu. Ak pôjdeš na miesta označené v týchto mapách, čo nájdeš?<br> <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "podľa Rebrovej mapy nič, podľa dôstojníkovej mapy 1600 zlatiek"
+    },
+    {
+      "value": "1",
+      "label": "podľa Rebrovej mapy 1000 zlatiek, podľa dôstojníkovej mapy 600 zlatiek"
+    },
+    {
+      "value": "2",
+      "label": "podľa Rebrovej mapy 1600 zlatiek, podľa dôstojníkovej mapy nič"
+    },
+    {
+      "value": "3",
+      "label": "podľa Rebrovej mapy 600 zlatiek, podľa dôstojníkovej mapy 1000 zlatiek"
+    }
+  ],
+  "images": [],
+  "year": "2010/2011",
+  "category": "Benjamín",
+  "type": "text",
+  "correct_index": 2,
+  "correct_answer": "podľa Rebrovej mapy 1600 zlatiek, podľa dôstojníkovej mapy nič ",
+  "correct_answer_plain": "podľa Rebrovej mapy 1600 zlatiek, podľa dôstojníkovej mapy nič"
+}

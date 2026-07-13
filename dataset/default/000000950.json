@@ -1,0 +1,33 @@
+{
+  "id": 949,
+  "serial_number": 5,
+  "title": "Čítač obrazovky",
+  "question": "Aj ľudia so zrakovým postihnutím dokážu surfovať po internete. Používajú na to napríklad čítač obrazovky – softvér, ktorý prečíta iba text z webovej stránky.<br/> <br/> Dve webové stránky zobrazujú rovnaký text:<br/> <image_1><br/> Ich html kód je však rôzny:<br/> <br/> <b>Prvá stránka:</b><pre><p><br/>Dnešná špeciálna akcia: <br /><br/><span style=\"color:red\"> Zľava 50 %!</span><br/></p></pre><br/> <b>Druhá stránka:</b><pre><img src=\"image.png\" alt=\"image.png\" title=\"image.png\" /></pre><br/> Ktorá stránka je vhodnejšia pre zrakovo postihnutých ľudí používajúcich čítač obrazovky? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "obe sú rovnako vhodné"
+    },
+    {
+      "value": "1",
+      "label": "prvá, pretože používa len text"
+    },
+    {
+      "value": "2",
+      "label": "druhá, pretože používa obrázok s alternatívnym textom namiesto textu"
+    },
+    {
+      "value": "3",
+      "label": "obe sú rovnako nevhodné, lebo obe používajú farby"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/09/S_citac_obrazovky.png "
+  ],
+  "year": "2009/2010",
+  "category": "Senior",
+  "type": "image",
+  "correct_index": 1,
+  "correct_answer": "prvá, pretože používa len text ",
+  "correct_answer_plain": "prvá, pretože používa len text"
+}

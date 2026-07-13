@@ -1,0 +1,33 @@
+{
+  "id": 1005,
+  "serial_number": 1,
+  "title": "Trajekt",
+  "question": "Trajekt prepravuje autá a autá s prívesom z pevniny na ostrovy v Severnom mori. Paluba trajektu má dĺžku 20 metrov a autá sa na nej umiestňujú do troch pruhov. V každom pruhu môžu byť umiestnené autá aj autá s prívesom. Dĺžka auta je 3 metre a dĺžka auta s prívesom je 8 metrov.<br/> <image_1><br/> <br/> Na trajekt čaká niekoľko áut a áut s prívesom. Ktorá skupina sa zmestí na trajekt naraz? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "6 áut a 5 áut s prívesmi"
+    },
+    {
+      "value": "1",
+      "label": "10 áut a 4 autá s prívesmi"
+    },
+    {
+      "value": "2",
+      "label": "20 áut"
+    },
+    {
+      "value": "3",
+      "label": "4 autá a 6 áut s prívesmi"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/08/S_STRUC_NL_011.gif"
+  ],
+  "year": "2008/2009",
+  "category": "Senior",
+  "type": "image",
+  "correct_index": 0,
+  "correct_answer": "6 áut a 5 áut s prívesmi ",
+  "correct_answer_plain": "6 áut a 5 áut s prívesmi"
+}

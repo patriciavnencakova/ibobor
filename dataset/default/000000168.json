@@ -1,0 +1,37 @@
+{
+  "id": 167,
+  "serial_number": 3,
+  "title": "Trezor",
+  "question": "Trezor sa otvára pomocou otočného gombíka s ukazovateľom, okolo ktorého sú písmená.<br/> Ak chceme otvoriť trezor a poznáme heslo, otáčame gombíkom tak, aby ukazovateľ <b>postupne</b> ukázal na všetky písmená hesla.<br/> Pred zadávaním hesla musíme otočiť ukazovateľ k písmenu A (počiatočná pozícia).<br/> Napr. ak by bolo heslo BH, otočíme ukazovateľ raz doprava – bude ukazovať na písmeno B a potom ho otočíme dvakrát doľava – bude ukazovať na písmeno H.<br/> Heslo si môžeme zapísať pomocou čísla a šípky, pozri obrázok.<br/> <image_1><br/> Pri zápise hesla sa musia otočenia gombíkom vľavo a vpravo <b>striedať</b>.<br/> Ktorou postupnosťou si zapíšeme heslo <b>CHEFDG</b>? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "<image_2>"
+    },
+    {
+      "value": "1",
+      "label": "<image_3>"
+    },
+    {
+      "value": "2",
+      "label": "<image_4>"
+    },
+    {
+      "value": "3",
+      "label": "<image_5>"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/19/2019-TW-05b.png",
+    "http://demo.ibobor.sk/sutaz/images/19/2019-TW-05b_S_A.png",
+    "http://demo.ibobor.sk/sutaz/images/19/2019-TW-05b_S_C.png",
+    "http://demo.ibobor.sk/sutaz/images/19/2019-TW-05b_S_D.png",
+    "http://demo.ibobor.sk/sutaz/images/19/2019-TW-05b_S_B.png"
+  ],
+  "year": "2019/2020",
+  "category": "Senior",
+  "type": "image",
+  "correct_index": 1,
+  "correct_answer": "http://demo.ibobor.sk/sutaz/images/19/2019-TW-05b_S_C.png",
+  "correct_answer_plain": null
+}

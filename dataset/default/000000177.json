@@ -1,0 +1,38 @@
+{
+  "id": 176,
+  "serial_number": 12,
+  "title": "Náhrdelníky podľa pravidiel",
+  "question": "Štefan vytvára náhrdelníky. Začína s <image_1> a pokračuje pravidlami, na obrázku vľavo.<br/> Každý obdĺžnik naľavo nahradí jednou z postupností, na ktorú ukazuje.<br/> Napríklad viacnásobným aplikovaním pravidiel môže Štefan vytvoriť náhrdelníky, ktoré sú na obrázku vpravo.<br/> <image_2><br/> <br/> Podľa týchto pravidiel vytvoril Štefan ďalšie štyri náhrdelníky.<br/> Potom sa mu jeden náhrdelník roztrhol a keď ho opravoval, urobil chybu a nedal koráliky v rovnakom poradí.<br/> <br/> Ktorý zo štyroch náhrdelníkov <b>je chybný</b>? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "<image_3>"
+    },
+    {
+      "value": "1",
+      "label": "<image_4>"
+    },
+    {
+      "value": "2",
+      "label": "<image_5>"
+    },
+    {
+      "value": "3",
+      "label": "<image_6>"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/19/2019-BE-04_zac.png",
+    "http://demo.ibobor.sk/sutaz/images/19/2019-BE-04.png",
+    "http://demo.ibobor.sk/sutaz/images/19/2019-BE-04_C.png",
+    "http://demo.ibobor.sk/sutaz/images/19/2019-BE-04_D.png",
+    "http://demo.ibobor.sk/sutaz/images/19/2019-BE-04_A.png",
+    "http://demo.ibobor.sk/sutaz/images/19/2019-BE-04_B.png"
+  ],
+  "year": "2019/2020",
+  "category": "Senior",
+  "type": "image",
+  "correct_index": 0,
+  "correct_answer": "http://demo.ibobor.sk/sutaz/images/19/2019-BE-04_C.png",
+  "correct_answer_plain": null
+}

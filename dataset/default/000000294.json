@@ -1,0 +1,31 @@
+{
+  "id": 293,
+  "serial_number": 6,
+  "title": "Uchovaj – Pridaj",
+  "question": "Ferko sa hrá s počítačom hru Uchovaj - Pridaj. Počítač najprv vygeneruje niekoľko čísel. Potom vygeneruje niektoré z operácií:<br> <b>Uchovaj N</b> znamená, že ostanú len čísla väčšie ako číslo N. <br> <b>Pridaj C</b> znamená, že ku každému číslu sa pripočíta číslo C.<br> Úlohou hráča je vykonať s číslami vygenerovanú postupnosť operácií a zadať výslednú postupnosť čísel.<br> Počítač vygeneroval čísla<br> <b>58, 14, 82, 37, 79</b><br> a operácie <br> <b>Pridaj 10, Uchovaj 50, Pridaj 10</b><br> Aké čísla zostali? <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "68, 92, 89"
+    },
+    {
+      "value": "1",
+      "label": "68, 24, 92, 47, 89"
+    },
+    {
+      "value": "2",
+      "label": "78, 102, 57, 99"
+    },
+    {
+      "value": "3",
+      "label": "78, 102, 99"
+    }
+  ],
+  "images": [],
+  "year": "2018/2019",
+  "category": "Nevidiaci ZŠ",
+  "type": "text",
+  "correct_index": 3,
+  "correct_answer": "78, 102, 99 ",
+  "correct_answer_plain": "78, 102, 99"
+}

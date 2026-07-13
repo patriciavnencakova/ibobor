@@ -1,0 +1,33 @@
+{
+  "id": 933,
+  "serial_number": 4,
+  "title": "Graf",
+  "question": "Na grafe vidíme, koľko žiakov sa hlásilo do dramatického, speváckeho a výtvarného krúžku v rokoch 2000 – 2009.<br/> <br/> <image_1><br/> <br/> Kedy sa hlásilo viac žiakov na spevácky krúžok ako na výtvarný? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "2006"
+    },
+    {
+      "value": "1",
+      "label": "2000"
+    },
+    {
+      "value": "2",
+      "label": "2003"
+    },
+    {
+      "value": "3",
+      "label": "2007"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/09/J_Graf.gif"
+  ],
+  "year": "2009/2010",
+  "category": "Junior",
+  "type": "image",
+  "correct_index": 2,
+  "correct_answer": "2003 ",
+  "correct_answer_plain": "2003"
+}

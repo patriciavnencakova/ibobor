@@ -1,0 +1,31 @@
+{
+  "id": 98,
+  "serial_number": 9,
+  "title": "Robot",
+  "question": "V počítačovej hre Linda ovláda pohyb robota pomocou klávesov so šípkami hore, dole, vpravo, vľavo. Po stlačení klávesu sa robot presunie na susedné políčko v príslušnom smere.<br> Hracia plocha, po ktorej sa robot pohybuje, má 3 riadky a 3 stĺpce,<br> Linda stlačila šípky<br> vpravo, hore, vľavo, dole<br> Koľko je takých políčok, na ktorých môže robot stáť pred vykonaním programu, aby počas vykonávania programu nevyšiel z hracej plochy? <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "0"
+    },
+    {
+      "value": "1",
+      "label": "8"
+    },
+    {
+      "value": "2",
+      "label": "9"
+    },
+    {
+      "value": "3",
+      "label": "4"
+    }
+  ],
+  "images": [],
+  "year": "2020/2021",
+  "category": "Nevidiaci ZŠ",
+  "type": "text",
+  "correct_index": 3,
+  "correct_answer": "4 ",
+  "correct_answer_plain": "4"
+}

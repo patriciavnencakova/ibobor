@@ -1,0 +1,33 @@
+{
+  "id": 966,
+  "serial_number": 7,
+  "title": "Čo je na obrázku?",
+  "question": "Nasledujúci obrázok pochádza z roku 1981. Pozorne ho preskúmaj a urči, čo je to.<br/><br/> <image_1> <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "autorádio"
+    },
+    {
+      "value": "1",
+      "label": "prenosný počítač"
+    },
+    {
+      "value": "2",
+      "label": "dvojitý CD prehrávač"
+    },
+    {
+      "value": "3",
+      "label": "registračná pokladnica"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/08/K_B_LV_005.gif"
+  ],
+  "year": "2008/2009",
+  "category": "Benjamín",
+  "type": "image",
+  "correct_index": 1,
+  "correct_answer": "prenosný počítač ",
+  "correct_answer_plain": "prenosný počítač"
+}

@@ -1,0 +1,31 @@
+{
+  "id": 427,
+  "serial_number": 5,
+  "title": "Abecedné mená",
+  "question": "Meno nazývame <b>abecedné</b>, ak sa dá zostaviť zo všetkých jeho písmen nasledujúcim postupom:<ul><li>vytvor abecedne usporiadanú postupnosť zo všetkých písmen mena</li><li>začni prvým písmenom z postupnosti</li><li>zober nasledujúce písmeno z postupnosti a pridaj ho vľavo alebo vpravo od vytváraného mena</li><li>pokračuj, kým nie je postupnosť prázdna</li></ul>Napr. meno TOMÁŠ je abecedné a postup, ktorým ho vytvoríme je:<br> ÁMOŠT<br> <b>Á</b> → <b>M</b>Á → <b>O</b>MÁ → OMÁ<b>Š</b> → <b>T</b>OMÁŠ<br> <br> Ktoré z nasledujúcich mien je abecedné? <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "LUCIA"
+    },
+    {
+      "value": "1",
+      "label": "TIBOR"
+    },
+    {
+      "value": "2",
+      "label": "MONIKA"
+    },
+    {
+      "value": "3",
+      "label": "PETER"
+    }
+  ],
+  "images": [],
+  "year": "2016/2017",
+  "category": "Kadet",
+  "type": "text",
+  "correct_index": 1,
+  "correct_answer": "TIBOR ",
+  "correct_answer_plain": "TIBOR"
+}

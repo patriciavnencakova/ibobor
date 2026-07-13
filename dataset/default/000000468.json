@@ -1,0 +1,33 @@
+{
+  "id": 467,
+  "serial_number": 15,
+  "title": "Jaskyne",
+  "question": "Okolo Bobrova je niekoľko jaskýň. Jaskyne sú pospájané cestami tak, ako je na mape:<br/> <image_1><br/> Hana a Tomáš sa hrajú takúto hru: Tomáš skryje v niektorej jaskyni hračku a Hana sa snaží zistiť, do ktorej. Aby to Hana zistila, pozerá sa na mapu jaskýň a môže sa Tomáša opýtať iba otázky typu: „Je hračka v jaskyni X?“ Ak je hračka v tej jaskyni, ktorej meno Hana povie, Tomáš odpovie „áno“. Inak Tomáš povie meno takej susednej jaskyne, ktorá je na ceste od jaskyne X k jaskyni s hračkou. Ak Hana po odpovedi vie, kde je hračka, hra končí a Hana si pôjde do jaskyne pre hračku.<br/> Hana je veľmi bystrá. Podľa mapy si dokáže dopredu premyslieť postup, ako sa bude Tomáša pýtať mená jaskýň s ohľadom na tvar mapy a predpokladané Tomášove odpovede.<br/> <br/> Koľko <b>najmenej</b> otázok Hana potrebuje, aby s istotou vedela, v ktorej jaskyni je hračka? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "1"
+    },
+    {
+      "value": "1",
+      "label": "5"
+    },
+    {
+      "value": "2",
+      "label": "11"
+    },
+    {
+      "value": "3",
+      "label": "3"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/16/2016-NL-03.png"
+  ],
+  "year": "2016/2017",
+  "category": "Senior",
+  "type": "image",
+  "correct_index": 3,
+  "correct_answer": "3 ",
+  "correct_answer_plain": "3"
+}

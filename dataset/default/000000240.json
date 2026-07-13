@@ -1,0 +1,31 @@
+{
+  "id": 239,
+  "serial_number": 6,
+  "title": "Uchovaj - Odober",
+  "question": "Počítač vygeneruje postupnosť čísel a postupnosť operácií:<ul><li><b>Uchovaj N</b> - v postupnosti zostanú len čísla väčšie alebo rovné ako číslo <b>N</b>.</li><li><b>Odober D</b> - od každého čísla postupnosti sa odpočíta číslo <b>D</b>.</li></ul><br> Úlohou hráča je zistiť, aká bude výsledná postupnosť čísel.<br> Napr. <ul><li>ak počítač vygeneroval postupnosť čísel <b>50, 43, 12, 17, 66, 81</b></li><li>a postupnosť operácií <b>Uchovaj 50, Odober 10, Uchovaj 47</b></li><li>tak výsledná postupnosť čísel bude <b>56, 71</b></li></ul><br> Počítač vygeneroval postupnosť čísel <b>59, 64, 25, 30, 34, 95</b><br> a postupnosť operácií <b>Uchovaj 30, Odober 20, Uchovaj 20</b><br> <br> Aká bude výsledná postupnosť čísel? <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "<b>59, 64, 95</b>"
+    },
+    {
+      "value": "1",
+      "label": "<b>64, 34, 95</b>"
+    },
+    {
+      "value": "2",
+      "label": "<b>39, 44, 75</b>"
+    },
+    {
+      "value": "3",
+      "label": "<b>29, 34, 65</b>"
+    }
+  ],
+  "images": [],
+  "year": "2018/2019",
+  "category": "Kadet",
+  "type": "text",
+  "correct_index": 2,
+  "correct_answer": "<b>39, 44, 75</b> ",
+  "correct_answer_plain": "39, 44, 75"
+}

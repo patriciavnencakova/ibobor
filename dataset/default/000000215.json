@@ -1,0 +1,35 @@
+{
+  "id": 214,
+  "serial_number": 8,
+  "title": "Kvetinový záhon",
+  "question": "<image_1><br/> Deti zasadili kvety do troch radov. V každom rade sú štyri kvety, pozri obrázok.<br/> Mamička chcela, aby bol v každom rade <b>biely kvet</b> <image_2> <b>bližšie k plotu ako modrý kvet</b> <image_3>.<br/> <br/> V ktorom rade sú kvety zasadené podľa mamičkinho priania? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "v rade 1 aj v rade 2"
+    },
+    {
+      "value": "1",
+      "label": "v rade 1 aj v rade 3"
+    },
+    {
+      "value": "2",
+      "label": "vo všetkých troch radoch"
+    },
+    {
+      "value": "3",
+      "label": "iba v rade 1"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/18/2018-SK-02.png",
+    "http://demo.ibobor.sk/sutaz/images/18/2018-SK-02_biely.png",
+    "http://demo.ibobor.sk/sutaz/images/18/2018-SK-02_modry.png"
+  ],
+  "year": "2018/2019",
+  "category": "Bobrík",
+  "type": "image",
+  "correct_index": 1,
+  "correct_answer": "v rade 1 aj v rade 3 ",
+  "correct_answer_plain": "v rade 1 aj v rade 3"
+}

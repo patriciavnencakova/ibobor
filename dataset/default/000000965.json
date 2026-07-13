@@ -1,0 +1,36 @@
+{
+  "id": 964,
+  "serial_number": 5,
+  "title": "Bobor a elektrické stĺpy",
+  "question": "V krajine sa objavujú elektrické stĺpy, ktoré bobrom veľmi prekážajú. Zistili, že pomocou svojich silných zubov dokážu stĺp prehrýzť a ten potom spadne. Tým zničia aj všetky káble, ktoré boli priamo spojené so zvaleným stĺpom.<br/> Známy výtržník bobor Bruno chce čo najrýchlejšie zničiť celú elektrickú sieť.<br/> <br/> Ktorú z nasledujúcich sietí dokáže Bruno úplne zničiť tak, že zvalí iba 2 elektrické stĺpy? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "<image_1>"
+    },
+    {
+      "value": "1",
+      "label": "<image_2>"
+    },
+    {
+      "value": "2",
+      "label": "<image_3>"
+    },
+    {
+      "value": "3",
+      "label": "<image_4>"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/08/B_STRUC_SK_017-d.gif",
+    "http://demo.ibobor.sk/sutaz/images/08/B_STRUC_SK_017-a.gif",
+    "http://demo.ibobor.sk/sutaz/images/08/B_STRUC_SK_017-c.gif",
+    "http://demo.ibobor.sk/sutaz/images/08/B_STRUC_SK_017-b.gif"
+  ],
+  "year": "2008/2009",
+  "category": "Benjamín",
+  "type": "image",
+  "correct_index": 2,
+  "correct_answer": "http://demo.ibobor.sk/sutaz/images/08/B_STRUC_SK_017-c.gif",
+  "correct_answer_plain": null
+}

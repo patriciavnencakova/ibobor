@@ -1,0 +1,34 @@
+{
+  "id": 1051,
+  "serial_number": 2,
+  "title": "35",
+  "question": "Počas prípravy prezentácie vidí Alenka toto:<br/> <br/> <image_1><br/> <br/> Keď začne prezentáciu prehrávať, objaví sa toto:<br/> <br/> <image_2><br/> <br/> Čo je na vine? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "Alenkin monitor nevie zobraziť správne všetky farby."
+    },
+    {
+      "value": "1",
+      "label": "Obrázky majú definovanú animáciu a objavia sa, keď Alenka stlačí kláves."
+    },
+    {
+      "value": "2",
+      "label": "Pri prehrávaní prezentácie sa priveľké obrázky strácajú, treba ich zmenšiť."
+    },
+    {
+      "value": "3",
+      "label": "Pri prehrávaní prezentácie sa obrázky nikdy nezobrazujú, musia byť prevedené do vektorového tvaru."
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/prezentacia1.png",
+    "http://demo.ibobor.sk/sutaz/images/prezentacia2.png"
+  ],
+  "year": "2007/2008",
+  "category": "Senior",
+  "type": "image",
+  "correct_index": 1,
+  "correct_answer": "Obrázky majú definovanú animáciu a objavia sa, keď Alenka stlačí kláves. ",
+  "correct_answer_plain": "Obrázky majú definovanú animáciu a objavia sa, keď Alenka stlačí kláves."
+}

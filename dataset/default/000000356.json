@@ -1,0 +1,33 @@
+{
+  "id": 355,
+  "serial_number": 8,
+  "title": "Čitateľský klub",
+  "question": "Diagram na obrázku obsahuje mená členov čitateľského klubu a ich vek. Čiary znázorňujú priateľstvá medzi nimi.<br/> <image_1><br/> Člen, ktorý dostane knihu, sa riadi nasledujúcimi pravidlami:<br/> 1. Ak si knihu ešte nečítal, najprv ju prečítaj.<br/> 2. Daj knihu svojmu najmladšiemu priateľovi, ktorý ju ešte nečítal.<br/> 3. Ak knihu už čítali všetci tvoji priatelia, vráť ju tomu, kto ti ju dal.<br/> Aďa práve prečítala knihu, ktorú ešte nikto iný z klubu nečítal.<br/> Kto ju bude čítať ako posledný? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "Jana"
+    },
+    {
+      "value": "1",
+      "label": "Eva"
+    },
+    {
+      "value": "2",
+      "label": "Kika"
+    },
+    {
+      "value": "3",
+      "label": "Ina"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/17/2017-IR-07.png"
+  ],
+  "year": "2017/2018",
+  "category": "Junior",
+  "type": "image",
+  "correct_index": 0,
+  "correct_answer": "Jana ",
+  "correct_answer_plain": "Jana"
+}

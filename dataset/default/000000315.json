@@ -1,0 +1,37 @@
+{
+  "id": 314,
+  "serial_number": 9,
+  "title": "Samolepky",
+  "question": "Laura lepí cez seba obdĺžnikové samolepky s rôznymi symbolmi.<br/> <image_1><br/> V akom poradí ich Laura nalepila? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "<image_2>"
+    },
+    {
+      "value": "1",
+      "label": "<image_3>"
+    },
+    {
+      "value": "2",
+      "label": "<image_4>"
+    },
+    {
+      "value": "3",
+      "label": "<image_5>"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/17/2017-US-02_plagaty.png",
+    "http://demo.ibobor.sk/sutaz/images/17/2017-US-02_d.png",
+    "http://demo.ibobor.sk/sutaz/images/17/2017-US-02_a.png",
+    "http://demo.ibobor.sk/sutaz/images/17/2017-US-02_c.png",
+    "http://demo.ibobor.sk/sutaz/images/17/2017-US-02_b.png"
+  ],
+  "year": "2017/2018",
+  "category": "Bobrík",
+  "type": "image",
+  "correct_index": 0,
+  "correct_answer": "http://demo.ibobor.sk/sutaz/images/17/2017-US-02_d.png",
+  "correct_answer_plain": null
+}

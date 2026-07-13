@@ -1,0 +1,38 @@
+{
+  "id": 879,
+  "serial_number": 7,
+  "title": "EČV",
+  "question": "V Holandsku sú autá identifikované jedinečným reťazcom znakov. Tieto reťazce majú nasledovný formát:<br/> <cifra rôzna od 0> <cifra> - <spoluhláska> < spoluhláska > < spoluhláska > - <cifra rôzna od 0><br/> <image_1><br/> Nový identifikačný reťazec je vytvorený z posledne vytvoreného na základe nasledujúceho algoritmu: <br/> Ak je posledná cifra menšia než 9, tak sa zvýši o jedna, inak ju prepíšeme na 1 (lebo na tomto mieste nemôže byť 0) a zmeníme poslednú spoluhlásku: ak to nie je Z tak na nasledujúcu spoluhlásku v abecede, ak je to Z, prepíšeme ho na B a zmeníme rovnakým spôsobom predchádzajúcu spoluhlásku v reťazci. Podobným spôsobom budeme postupovať až po prvú cifru reťazca.<br/> <br/> Aký identifikačný reťazec predchádza tomuto?<br/> <image_2><br/> <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "<image_3>"
+    },
+    {
+      "value": "1",
+      "label": "<image_4>"
+    },
+    {
+      "value": "2",
+      "label": "<image_5>"
+    },
+    {
+      "value": "3",
+      "label": "<image_6>"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/10/2010-NL-14_image3.jpg",
+    "http://demo.ibobor.sk/sutaz/images/10/2010-NL-14_image1.png",
+    "http://demo.ibobor.sk/sutaz/images/10/2010-NL-14_imageb.png",
+    "http://demo.ibobor.sk/sutaz/images/10/2010-NL-14_imagec.png",
+    "http://demo.ibobor.sk/sutaz/images/10/2010-NL-14_imagea.png",
+    "http://demo.ibobor.sk/sutaz/images/10/2010-NL-14_imaged.png"
+  ],
+  "year": "2010/2011",
+  "category": "Senior",
+  "type": "image",
+  "correct_index": 1,
+  "correct_answer": "http://demo.ibobor.sk/sutaz/images/10/2010-NL-14_imagec.png",
+  "correct_answer_plain": null
+}

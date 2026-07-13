@@ -1,0 +1,31 @@
+{
+  "id": 290,
+  "serial_number": 3,
+  "title": "Kódovanie",
+  "question": "Lacko kóduje svoje správy tak, že medzi každé dve písmená v slove vloží iné písmeno, ktoré je náhodne zvolené.<br> Lacko poslal Jankovi správu s miestom ich stretnutia:<br> <b>PAREI ROIDETKIE</b><br> Kde sa stretnú? <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "PRI RIEKE"
+    },
+    {
+      "value": "1",
+      "label": "PRI TETKE"
+    },
+    {
+      "value": "2",
+      "label": "PRI ROTKE"
+    },
+    {
+      "value": "3",
+      "label": "PRI ODETKE"
+    }
+  ],
+  "images": [],
+  "year": "2018/2019",
+  "category": "Nevidiaci ZŠ",
+  "type": "text",
+  "correct_index": 0,
+  "correct_answer": "PRI RIEKE ",
+  "correct_answer_plain": "PRI RIEKE"
+}

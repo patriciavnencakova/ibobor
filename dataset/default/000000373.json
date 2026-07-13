@@ -1,0 +1,33 @@
+{
+  "id": 372,
+  "serial_number": 10,
+  "title": "Superhrdina",
+  "question": "Superhrdina sa pozerá z druhého brehu rieky na Bobrovo. Vo výhľade mu bráni 16 múrov. Z každého miesta za riekou by potreboval vidieť na mesto. <br/> Našťastie Superhrdina má superschopnosti:<ul><li>dokáže vidieť iba cez jeden múr</li><li>dokáže múr zničiť</li></ul><br/> Nanešťastie sa dokáže pozerať na mesto len kolmo.<br/> <image_1><br/> Na obrázku sú okrem červených múrov aj pomocné čiary, aby sa dalo lepšie vidieť, ako sa múry navzájom prekrývajú pri kolmom pohľade na mesto.<br/> Aký <b>najmenší počet múrov</b> musí superhrdina zničiť, aby videl každú časť mesta? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "12"
+    },
+    {
+      "value": "1",
+      "label": "9"
+    },
+    {
+      "value": "2",
+      "label": "11"
+    },
+    {
+      "value": "3",
+      "label": "10"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/17/2017-CA-04_S.png"
+  ],
+  "year": "2017/2018",
+  "category": "Senior",
+  "type": "image",
+  "correct_index": 1,
+  "correct_answer": "9 ",
+  "correct_answer_plain": "9"
+}

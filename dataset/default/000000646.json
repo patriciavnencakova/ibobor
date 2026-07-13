@@ -1,0 +1,33 @@
+{
+  "id": 645,
+  "serial_number": 7,
+  "title": "Dymové signály",
+  "question": "Pred mnohými rokmi slúžilo v Japonsku pre šogúnsku vládu niekoľko Nindžov. V prípade nebezpečenstva používali na komunikáciu medzi sebou dymové signály.<br/> <image_1><br/> Červený bod na obrázku označuje sídlo šogúnskej vlády, modré body označujú stanovištia Nindžov. Dva body sú spojené čiarou, ak je vidieť z jedného bodu druhý.<br/> Zo sídla šogúnskej vlády sa začal vysielať dymový signál. Keď niektorý Nindža uvidel dymový signál, o 1 minútu nato začal tiež vysielať dymový signál.<br/> Za ako dlho sa vysielal dymový signál zo všetkých bodov? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "6 minút"
+    },
+    {
+      "value": "1",
+      "label": "8 minút"
+    },
+    {
+      "value": "2",
+      "label": "4 minúty"
+    },
+    {
+      "value": "3",
+      "label": "5 minút"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/13/2013-JP-07_SK_mapa.png"
+  ],
+  "year": "2013/2014",
+  "category": "Kadet",
+  "type": "image",
+  "correct_index": 3,
+  "correct_answer": "5 minút ",
+  "correct_answer_plain": "5 minút"
+}

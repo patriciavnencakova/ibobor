@@ -1,0 +1,31 @@
+{
+  "id": 861,
+  "serial_number": 4,
+  "title": "E-mail: Aktualizácia údajov",
+  "question": "Prišiel Ti takýto e-mail:<br> <i>Predmet:</i> Aktualizácia údajov<br> <i>Text:</i><br> <i>Odosielateľovi tejto správy pošlite svoje používateľské meno a heslo k Vášmu účtu v sociálnej sieti BZZ, pretože inak bude Váš účet zrušený.</i><br> <br> Aká je správna reakcia na takúto správu? <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "Odpoviem na správu a spýtam sa, prečo sa musia moje údaje aktualizovať."
+    },
+    {
+      "value": "1",
+      "label": "Odpoviem na správu a pošlem v nej svoje meno a heslo."
+    },
+    {
+      "value": "2",
+      "label": "Odpoviem na správu, pošlem svoje údaje na aktualizáciu a pošlem tento e-mail priateľom."
+    },
+    {
+      "value": "3",
+      "label": "Neodpoviem na túto správu a zmažem ju."
+    }
+  ],
+  "images": [],
+  "year": "2010/2011",
+  "category": "Junior",
+  "type": "text",
+  "correct_index": 3,
+  "correct_answer": "Neodpoviem na túto správu a zmažem ju. ",
+  "correct_answer_plain": "Neodpoviem na túto správu a zmažem ju."
+}

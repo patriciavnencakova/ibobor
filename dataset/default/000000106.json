@@ -1,0 +1,37 @@
+{
+  "id": 105,
+  "serial_number": 7,
+  "title": "Farebný papier",
+  "question": "Na výtvarnej výchove si Matilda vyrobila papier zo 4 rôznych farieb (prvý obrázok), ktorý pokryla čiernym tušom (druhý obrázok). Ak po ňom prejde ihlou, ukáže sa pôvodná farba (posledný obrázok).<br/> <image_1><br/> Ktorý obrázok musí Matilda nakresliť ihlou, aby sa ukázali <b>iba tri</b> pôvodné farby? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "<image_2>"
+    },
+    {
+      "value": "1",
+      "label": "<image_3>"
+    },
+    {
+      "value": "2",
+      "label": "<image_4>"
+    },
+    {
+      "value": "3",
+      "label": "<image_5>"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/19/2019-KR-01.png",
+    "http://demo.ibobor.sk/sutaz/images/19/2019-KR-01_A.png",
+    "http://demo.ibobor.sk/sutaz/images/19/2019-KR-01_C.png",
+    "http://demo.ibobor.sk/sutaz/images/19/2019-KR-01_D.png",
+    "http://demo.ibobor.sk/sutaz/images/19/2019-KR-01_B.png"
+  ],
+  "year": "2019/2020",
+  "category": "Drobec",
+  "type": "image",
+  "correct_index": 1,
+  "correct_answer": "http://demo.ibobor.sk/sutaz/images/19/2019-KR-01_C.png",
+  "correct_answer_plain": null
+}

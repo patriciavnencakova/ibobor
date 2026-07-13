@@ -1,0 +1,33 @@
+{
+  "id": 275,
+  "serial_number": 12,
+  "title": "Žiarovky a vypínače",
+  "question": "Hugo, známy domáci kutil, zapájal žiarovky na vypínače. Každý zo 6 vypínačov spojil s jednou žiarovkou. Zabudol však, ktorý vypínač spojil s ktorou žiarovkou. Dokonca nevie ani to, či je vypínač „hore“ alebo „dolu“, keď žiarovka svieti.<br/> Aby zistil, ktorý vypínač je spojený s ktorou žiarovkou, skúšal zapínať a vypínať niektoré vypínače a zapisoval si, ktoré žiarovky sú zapnuté a ktoré vypnuté.<br/> Na obrázku vidíme výsledky Hugových experimentov:<br/> <image_1><br/> Ako sú zapojené vypínače a žiarovky? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "1 – C, 2 – E, 3 – D, 4 – A, 5 – F, 6 – B"
+    },
+    {
+      "value": "1",
+      "label": "1 – C, 2 – F, 3 – E, 4 – A, 5 – D, 6 – B"
+    },
+    {
+      "value": "2",
+      "label": "1 – C, 2 – F, 3 – D, 4 – E, 5 – A, 6 – B"
+    },
+    {
+      "value": "3",
+      "label": "1 – C, 2 – F, 3 – B, 4 – A, 5 – D, 6 – E"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/18/2018-HU-08.png"
+  ],
+  "year": "2018/2019",
+  "category": "Senior",
+  "type": "image",
+  "correct_index": 1,
+  "correct_answer": "1 – C, 2 – F, 3 – E, 4 – A, 5 – D, 6 – B ",
+  "correct_answer_plain": "1 – C, 2 – F, 3 – E, 4 – A, 5 – D, 6 – B"
+}

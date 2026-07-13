@@ -1,0 +1,34 @@
+{
+  "id": 32,
+  "serial_number": 12,
+  "title": "Najmenšie číslo",
+  "question": "Sára sa hrá s drevenými kockami, na ktorých sú číslice. Z kociek najprv postaví vežičku. Potom z vežičky postupne berie <b>vrchnú</b> kocku a uloží ju <b>na začiatok alebo na koniec</b> radu kociek. Takto z kociek vytvorí číslo. Na obrázku vidíme, ako z vežičky zo 4 kociek podľa týchto pravidiel vytvorila číslo 2534.<br/> <image_1><br/> Sára vytvorila takúto vežičku zo 6 čísel.<br/> <image_2><br/> Aké <b>najmenšie</b> číslo z nej môže poskladať? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "345567"
+    },
+    {
+      "value": "1",
+      "label": "346557"
+    },
+    {
+      "value": "2",
+      "label": "345657"
+    },
+    {
+      "value": "3",
+      "label": "347565"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/20/2020-PT-03.png",
+    "http://demo.ibobor.sk/sutaz/images/20/2020-PT-03_zadanie.png"
+  ],
+  "year": "2020/2021",
+  "category": "Benjamín",
+  "type": "image",
+  "correct_index": 3,
+  "correct_answer": "347565 ",
+  "correct_answer_plain": "347565"
+}

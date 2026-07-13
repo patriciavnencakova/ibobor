@@ -1,0 +1,31 @@
+{
+  "id": 770,
+  "serial_number": 3,
+  "title": "Algoritmus",
+  "question": "Čo <b>nie je</b> algoritmus? <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "Účet z obchodu."
+    },
+    {
+      "value": "1",
+      "label": "Postup, ktorý vypočíta obvod obdĺžnika."
+    },
+    {
+      "value": "2",
+      "label": "Recept v kuchárskej knihe."
+    },
+    {
+      "value": "3",
+      "label": "Návod na skladanie origami."
+    }
+  ],
+  "images": [],
+  "year": "2011/2012",
+  "category": "Benjamín",
+  "type": "text",
+  "correct_index": 0,
+  "correct_answer": "Účet z obchodu. ",
+  "correct_answer_plain": "Účet z obchodu."
+}

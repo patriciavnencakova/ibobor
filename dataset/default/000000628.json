@@ -1,0 +1,33 @@
+{
+  "id": 627,
+  "serial_number": 4,
+  "title": "Most",
+  "question": "Bobor navrhol v grafickom editore most.<br/> <image_1><br/> Koľko obdĺžnikov musel najmenej nakresliť? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "8"
+    },
+    {
+      "value": "1",
+      "label": "6"
+    },
+    {
+      "value": "2",
+      "label": "20"
+    },
+    {
+      "value": "3",
+      "label": "15"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/13/2013-SK-new_SK_MT_02.png"
+  ],
+  "year": "2013/2014",
+  "category": "Benjamín",
+  "type": "image",
+  "correct_index": 0,
+  "correct_answer": "8 ",
+  "correct_answer_plain": "8"
+}

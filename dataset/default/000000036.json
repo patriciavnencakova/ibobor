@@ -1,0 +1,33 @@
+{
+  "id": 35,
+  "serial_number": 15,
+  "title": "Horolezec",
+  "question": "Oliver je horolezec a najradšej má pohorie Bobrie hory, pozri obrázok:<br/> <image_1><br/> Oliver vystúpi na niektorý vrchol. Potom vystúpi <b>na susedný vyšší</b> vrchol. Ak sú vedľa neho dva vyššie vrcholy, vystúpi na vyšší z nich. Takto pokračuje dovtedy, kým je vedľa neho nejaký vyšší vrchol.<br/> Na koľkých vrcholoch môže začať tak, aby vystúpil na najvyšší vrchol pohoria? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "3"
+    },
+    {
+      "value": "1",
+      "label": "6"
+    },
+    {
+      "value": "2",
+      "label": "7"
+    },
+    {
+      "value": "3",
+      "label": "4"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/20/2020-CA-02.png"
+  ],
+  "year": "2020/2021",
+  "category": "Benjamín",
+  "type": "image",
+  "correct_index": 0,
+  "correct_answer": "3 ",
+  "correct_answer_plain": "3"
+}

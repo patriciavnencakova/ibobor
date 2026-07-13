@@ -1,0 +1,33 @@
+{
+  "id": 46,
+  "serial_number": 11,
+  "title": "V obchode",
+  "question": "Vieme, že kým Nela vo štvrtok nakupovala, stretla dvoch zákazníkov z1 a z2. Kým z1 a z2 nakupovali, každý z nich stretol tiež 2 zákazníkov.<br/> Situáciu, ktorá bola v obchode, môžeme zakresliť pomocou troch rôznych diagramov, v ktorých znázorníme, či zákazníci stretli rovnakých alebo iných zákazníkov.<br/> <image_1><br/> Z diagramu <b>vľavo</b> vyplýva, že zákazníci z1 a z2 sa navzájom nestretli a každý z nich stretol ďalšieho (iného) zákazníka, z1 stretol z3 a z2 stretol zákazníka z4. Teda zákazníkov, ktorí navštívili obchod, bolo 5.<br/> Z diagramu <b>v strede</b> vyplýva, že zákazníci z1 a z2 sa síce nestreli, ale obaja stretli toho istého zákazníka z3, teda obchod navštívili 4 zákazníci.<br/> V diagrame <b>vpravo</b> vidíme, že zákazníci z1 a z2 sa stretli (a obaja stretli Nelu), takže naozaj každý stretol 2 zákazníkov. Obchod v tomto prípade navštívili (naraz) 3 zákazníci.<br/> <br/> Keď Nela nakupovala <b>v piatok</b> stretla 3 zákazníkov. Prvý z nich stretol 2 zákazníkov a druhý a tretí stretli po 5 zákazníkov.<br/> <b>Najmenej koľko</b> zákazníkov navštívilo obchod <b>v piatok</b>? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "8 zákazníkov"
+    },
+    {
+      "value": "1",
+      "label": "7 zákazníkov"
+    },
+    {
+      "value": "2",
+      "label": "6 zákazníkov"
+    },
+    {
+      "value": "3",
+      "label": "5 zákazníkov"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/20/2020-TH-01.png"
+  ],
+  "year": "2020/2021",
+  "category": "Kadet",
+  "type": "image",
+  "correct_index": 1,
+  "correct_answer": "7 zákazníkov ",
+  "correct_answer_plain": "7 zákazníkov"
+}

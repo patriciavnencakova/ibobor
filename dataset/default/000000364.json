@@ -1,0 +1,38 @@
+{
+  "id": 363,
+  "serial_number": 1,
+  "title": "Zátvorkové ornamenty",
+  "question": "V matematickom šperkárstve tvoria zátvorkové ornamenty. Používajú zátvorky, ktoré sú vždy v pároch. Ornament začínajú tvoriť tak, že začnú jedným párom:<br/> <image_1><br/> Ornament zväčšujú tak, že ďalší pár zátvoriek vsúvajú na ľubovoľné miesto ornamentu.<br/> Napríklad:<br/> <image_2><br/> Ktorý z nasledujúcich ornamentov bol vytvorený opísanou metódou? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "<image_3>"
+    },
+    {
+      "value": "1",
+      "label": "<image_4>"
+    },
+    {
+      "value": "2",
+      "label": "<image_5>"
+    },
+    {
+      "value": "3",
+      "label": "<image_6>"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/17/2017-AT-06-zatvorky.png",
+    "http://demo.ibobor.sk/sutaz/images/17/2017-AT-06-priklady.png",
+    "http://demo.ibobor.sk/sutaz/images/17/2017-AT-06-C.png",
+    "http://demo.ibobor.sk/sutaz/images/17/2017-AT-06-D.png",
+    "http://demo.ibobor.sk/sutaz/images/17/2017-AT-06-B.png",
+    "http://demo.ibobor.sk/sutaz/images/17/2017-AT-06-A.png"
+  ],
+  "year": "2017/2018",
+  "category": "Senior",
+  "type": "image",
+  "correct_index": 1,
+  "correct_answer": "http://demo.ibobor.sk/sutaz/images/17/2017-AT-06-D.png",
+  "correct_answer_plain": null
+}

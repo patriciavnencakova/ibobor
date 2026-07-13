@@ -1,0 +1,31 @@
+{
+  "id": 947,
+  "serial_number": 3,
+  "title": "Rýchlejšie sťahovanie",
+  "question": "V počítačovej sieti máme zapojených päť počítačov, ktoré zdieľajú internetové pripojenie. Celá šírka pásma je rozdelená rovnomerne medzi všetkých, čiže každý používateľ má k dispozícii jej jednu pätinu.<br> Jeden z používateľov siete si dnes nainštaloval nástroj na urýchlenie sťahovania, ktorý pre neho vytvára štyri spojenia miesto jedného.<br> <br> Akú veľkú časť pásma má teraz k dispozícii? <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "1/2"
+    },
+    {
+      "value": "1",
+      "label": "1/5"
+    },
+    {
+      "value": "2",
+      "label": "4/5"
+    },
+    {
+      "value": "3",
+      "label": "1/4"
+    }
+  ],
+  "images": [],
+  "year": "2009/2010",
+  "category": "Senior",
+  "type": "text",
+  "correct_index": 0,
+  "correct_answer": "1/2 ",
+  "correct_answer_plain": "1/2"
+}

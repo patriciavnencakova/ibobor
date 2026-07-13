@@ -1,0 +1,40 @@
+{
+  "id": 497,
+  "serial_number": 3,
+  "title": "Kresli sieť",
+  "question": "Príkaz<br/> <image_1><br/> nakreslí štvorčekovú sieť s 2 riadkami a 5 stĺpcami.<br/> Príkaz<br/> <image_2><br/> zafarbí 2 štvorčeky v jednom riadku červenou farbou. Farbiť začne v 1. riadku a v 3. stĺpci.<br/> Po vykonaní týchto dvoch príkazov dostaneme takúto štvorčekovú sieť:<br/> <image_3><br/> Zadali sme nasledujúcu postupnosť príkazov:<br/> <image_4><br/> Ako vyzerá nimi vytvorená štvorčeková sieť?<br/> <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "<image_5>"
+    },
+    {
+      "value": "1",
+      "label": "<image_6>"
+    },
+    {
+      "value": "2",
+      "label": "<image_7>"
+    },
+    {
+      "value": "3",
+      "label": "<image_8>"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/15/2015-SK-02_prikaz1.png",
+    "http://demo.ibobor.sk/sutaz/images/15/2015-SK-02_prikaz2.png",
+    "http://demo.ibobor.sk/sutaz/images/15/2015-SK-02_priklad.png",
+    "http://demo.ibobor.sk/sutaz/images/15/2015-SK-02_zadanie.png",
+    "http://demo.ibobor.sk/sutaz/images/15/2015-SK-02_A.png",
+    "http://demo.ibobor.sk/sutaz/images/15/2015-SK-02_D.png",
+    "http://demo.ibobor.sk/sutaz/images/15/2015-SK-02_C.png",
+    "http://demo.ibobor.sk/sutaz/images/15/2015-SK-02_B.png"
+  ],
+  "year": "2015/2016",
+  "category": "Kadet",
+  "type": "image",
+  "correct_index": 1,
+  "correct_answer": "http://demo.ibobor.sk/sutaz/images/15/2015-SK-02_D.png",
+  "correct_answer_plain": null
+}

@@ -1,0 +1,33 @@
+{
+  "id": 859,
+  "serial_number": 2,
+  "title": "Kódovanie obrázkov",
+  "question": "Obrázok vľavo bol zakódovaný znakmi, ktoré vidíš vpravo. Kódovanie je ale neúplné. Aký má byť tretí riadok kódu?<br/> <br/> <image_1> <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "bodiao"
+    },
+    {
+      "value": "1",
+      "label": "oociaio"
+    },
+    {
+      "value": "2",
+      "label": "aobobicio"
+    },
+    {
+      "value": "3",
+      "label": "bocibo"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/10/2010-SK-06.png"
+  ],
+  "year": "2010/2011",
+  "category": "Junior",
+  "type": "image",
+  "correct_index": 0,
+  "correct_answer": "bodiao ",
+  "correct_answer_plain": "bodiao"
+}

@@ -1,0 +1,37 @@
+{
+  "id": 130,
+  "serial_number": 11,
+  "title": "Skrinky",
+  "question": "Vo fitnes si zákazníci odkladajú cennosti do skriniek. Aby na vrátnici vedeli, koľko skriniek je ešte voľných, každá skrinka posiela do systému každú minútu informáciu o tom, či sa <b>zmenil</b> jej stav vzhľadom k poslednej minúte. Ak sa jej stav zmenil, pošle 1, ak nie, pošle 0.<br/> Keď fitnes otvorili, boli všetky skrinky <b>otvorené</b>.<br/> O 12:30 systém zaznamenal: 0 0 1 1 1 1 1 1 1 0 0 1 a skrinky vyzerali ako na obrázku vľavo.<br/> O 12:31 systém zaznamenal: 0 0 0 0 0 0 0 1 1 0 0 1 a skrinky vyzerali ako na obrázku vpravo.<br/> <image_1><br/> O ďalšiu minútu systém zaznamenal 0 0 0 0 1 0 0 0 1 1 0 1.<br/> Ako vyzerali skrinky? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "<image_2>"
+    },
+    {
+      "value": "1",
+      "label": "<image_3>"
+    },
+    {
+      "value": "2",
+      "label": "<image_4>"
+    },
+    {
+      "value": "3",
+      "label": "<image_5>"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/19/2019-LT-09.png",
+    "http://demo.ibobor.sk/sutaz/images/19/2019-LT-09_A.png",
+    "http://demo.ibobor.sk/sutaz/images/19/2019-LT-09_D.png",
+    "http://demo.ibobor.sk/sutaz/images/19/2019-LT-09_B.png",
+    "http://demo.ibobor.sk/sutaz/images/19/2019-LT-09_C.png"
+  ],
+  "year": "2019/2020",
+  "category": "Benjamín",
+  "type": "image",
+  "correct_index": 0,
+  "correct_answer": "http://demo.ibobor.sk/sutaz/images/19/2019-LT-09_A.png",
+  "correct_answer_plain": null
+}

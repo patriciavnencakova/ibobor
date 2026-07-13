@@ -1,0 +1,31 @@
+{
+  "id": 183,
+  "serial_number": 4,
+  "title": "Jazyky",
+  "question": "V Bobrove majú systém na zistenie jazyka, z ktorého pochádzajú slová.<br> Celkové skóre slova systém vypočíta podľa tabuľky:<br> <table style=\"width:300px;border:1px solid black;\"><tbody><tr><td style=\"border:1px solid black;padding:2px;text-align:left\">začína písmenom p</td><td style=\"border:1px solid black;padding:2px;text-align:right\">-2</td></tr><tr><td style=\"border:1px solid black;padding:2px;text-align:left\">končí písmenom d<br> </td><td style=\"border:1px solid black;padding:2px;text-align:right\">-2</td></tr><tr><td style=\"border:1px solid black;padding:2px;text-align:left\">má viac ako 6 znakov</td><td style=\"border:1px solid black;padding:2px;text-align:right\">+3</td></tr><tr><td style=\"border:1px solid black;padding:2px;text-align:left\">je v ňom q, za ktorým nasleduje n alebo y</td><td style=\"border:1px solid black;padding:2px;text-align:right\">-4</td></tr><tr><td style=\"border:1px solid black;padding:2px;text-align:left\">má vedľa seba tri samohlásky (a, e, i, o, u)</td><td style=\"border:1px solid black;padding:2px;text-align:right\">+5</td></tr><tr><td style=\"border:1px solid black;padding:2px;text-align:left\">obsahuje apostrof</td><td style=\"border:1px solid black;padding:2px;text-align:right\">+1</td></tr></tbody></table> Ak vyjde skóre <b>menšie ako 0</b>, systém vyhodnotí, že slovo je z jazyka vydrovčina. Inak systém vyhodnotí, že slovo je z jazyka bobrovčina.<br> Napríklad pre slovo <br> palliod<br> systém vypočíta skóre <br> -2-2+3=-1<br> a vyhodnotí, že je z jazyka vydrovčina.<br> Systém dostal slovo<br> paqnoood<br> Ako systém vyhodnotil toto slovo? <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "vydrovčina"
+    },
+    {
+      "value": "1",
+      "label": "vydrovčina aj bobrovčina"
+    },
+    {
+      "value": "2",
+      "label": "bobrovčina"
+    },
+    {
+      "value": "3",
+      "label": "neviem určiť"
+    }
+  ],
+  "images": [],
+  "year": "2019/2020",
+  "category": "Nevidiaci SŠ",
+  "type": "text",
+  "correct_index": 2,
+  "correct_answer": "bobrovčina ",
+  "correct_answer_plain": "bobrovčina"
+}

@@ -1,0 +1,33 @@
+{
+  "id": 895,
+  "serial_number": 8,
+  "title": "Poradie",
+  "question": "Nástrojom vyplnený obdĺžnik sme nakreslili nasledujúci obrázok.<br/> <image_1><br/> V akom poradí sme obdĺžniky kreslili?<br/> <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "modrý, zelený, červený"
+    },
+    {
+      "value": "1",
+      "label": "červený, modrý, zelený"
+    },
+    {
+      "value": "2",
+      "label": "červený, zelený, modrý"
+    },
+    {
+      "value": "3",
+      "label": "zelený, modrý, červený"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/10/Bo_poradie.gif"
+  ],
+  "year": "2010/2011",
+  "category": "Bobrík",
+  "type": "image",
+  "correct_index": 1,
+  "correct_answer": "červený, modrý, zelený ",
+  "correct_answer_plain": "červený, modrý, zelený"
+}

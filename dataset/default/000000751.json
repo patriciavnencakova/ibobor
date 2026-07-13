@@ -1,0 +1,39 @@
+{
+  "id": 750,
+  "serial_number": 10,
+  "title": "Strihanie",
+  "question": "Máš pásik papiera, ktorý je dlhý 16 cm, široký 1 cm a je rozdelený na 16 štvorčekov 1x1 cm.<br/> <image_1><br/> Polož ho na stôl a rozstrihni ho v strede na dva rovnaké kúsky. Ten kúsok, ktorý je vpravo, posuň hore o 1 cm.<br/> <image_2><br/> Potom zopakuj ten istý postup pre oba kúsky, ktoré si dostal: rozstrihni ich v strede a kúsky, ktoré sú vpravo posuň o 1 cm vyššie.<br/> <image_3><br/> Vyššie popísaný postup opakuj pre tieto 4 kúsky a potom ešte raz pre všetkých 8 kúskov.<br/> <br/> Ako vyzerajú kúsky papiera na stole? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "<image_4>"
+    },
+    {
+      "value": "1",
+      "label": "<image_5>"
+    },
+    {
+      "value": "2",
+      "label": "<image_6>"
+    },
+    {
+      "value": "3",
+      "label": "<image_7>"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/12/2012-FR-09-1.png",
+    "http://demo.ibobor.sk/sutaz/images/12/2012-FR-09-2.png",
+    "http://demo.ibobor.sk/sutaz/images/12/2012-FR-09-3.png",
+    "http://demo.ibobor.sk/sutaz/images/12/2012-FR-09-a.png",
+    "http://demo.ibobor.sk/sutaz/images/12/2012-FR-09-d.png",
+    "http://demo.ibobor.sk/sutaz/images/12/2012-FR-09-b.png",
+    "http://demo.ibobor.sk/sutaz/images/12/2012-FR-09-c.png"
+  ],
+  "year": "2012/2013",
+  "category": "Senior",
+  "type": "image",
+  "correct_index": 1,
+  "correct_answer": "http://demo.ibobor.sk/sutaz/images/12/2012-FR-09-d.png",
+  "correct_answer_plain": null
+}

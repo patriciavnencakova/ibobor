@@ -1,0 +1,33 @@
+{
+  "id": 817,
+  "serial_number": 5,
+  "title": "Cesta domov",
+  "question": "Bobrík urobil model oblasti, kde býva, a robota, ktorý má prejsť v tomto modeli zo zelenej plochy (štart) na červenú (cieľ).<br/> <image_1><br/> Robot rozumie príkazom:<br/> <ul><li><b>GO</b> - prejde o 1 políčko dopredu,</li><li><b>RT</b> - otočí sa vpravo o 90 stupňov,</li><li><b>LT</b> - otočí sa vľavo o 90 stupňov,</li><li><b>FOR I=1 TO N GO</b> - N-krát opakuje príkaz GO</li></ul><br/> Ktorý z nasledujúcich programov ho <b><u>nedovedie</u></b> zo štartu do cieľa? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "FOR I=1 TO 8 GO RT FOR I=1 TO 5 GO"
+    },
+    {
+      "value": "1",
+      "label": "FOR I=1 TO 2 GO RT GO LT FOR I=1 TO 5 GO RT FOR I=1 TO 3 GO"
+    },
+    {
+      "value": "2",
+      "label": "FOR I=1 TO 2 GO RT GO LT FOR I=1 TO 6 GO RT FOR I=1 TO 3 GO"
+    },
+    {
+      "value": "3",
+      "label": "FOR I=1 TO 2 GO RT FOR I=1 TO 2 GO LT FOR I=1 TO 2 GO RT GO LT FOR I=1 TO 3 GO RT GO"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/11/2011-IT-10_SK.png"
+  ],
+  "year": "2011/2012",
+  "category": "Senior",
+  "type": "image",
+  "correct_index": 1,
+  "correct_answer": "FOR I=1 TO 2 GO\nRT\nGO\nLT \nFOR I=1 TO 5 GO\nRT\nFOR I=1 TO 3 GO ",
+  "correct_answer_plain": "FOR I=1 TO 2 GO\nRT\nGO\nLT \nFOR I=1 TO 5 GO\nRT\nFOR I=1 TO 3 GO"
+}

@@ -1,0 +1,37 @@
+{
+  "id": 134,
+  "serial_number": 15,
+  "title": "Kreslenie 3 číslami",
+  "question": "Keď sa robot pohybuje po štvorčekovej sieti, kreslí čiaru.<br/> Robot vytvára kresby, ktoré sú určené troma číslami.<br/> Napr. číslami <b>3,1,5</b> je určená kresba (pozri obr. 4), ktorá vznikne tak, že robot <b>štyrikrát</b> opakuje:<ul><li>pohne sa o 3 štvorčeky a otočí sa vpravo (pozri obr. 1)</li><li>pohne sa o 1 štvorček a otočí sa vpravo (pozri obr. 2)</li><li>pohne sa o 5 štvorčekov a otočí sa vpravo (pozri obr. 3)</li></ul><br/> <image_1><br/> Ktorá kresba je určená číslami <b>4,2,4</b>? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "<image_2>"
+    },
+    {
+      "value": "1",
+      "label": "<image_3>"
+    },
+    {
+      "value": "2",
+      "label": "<image_4>"
+    },
+    {
+      "value": "3",
+      "label": "<image_5>"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/19/2019-SK-04u.png",
+    "http://demo.ibobor.sk/sutaz/images/19/2019-SK-04u_C.png",
+    "http://demo.ibobor.sk/sutaz/images/19/2019-SK-04u_D.png",
+    "http://demo.ibobor.sk/sutaz/images/19/2019-SK-04u_B.png",
+    "http://demo.ibobor.sk/sutaz/images/19/2019-SK-04u_A.png"
+  ],
+  "year": "2019/2020",
+  "category": "Benjamín",
+  "type": "image",
+  "correct_index": 3,
+  "correct_answer": "http://demo.ibobor.sk/sutaz/images/19/2019-SK-04u_A.png",
+  "correct_answer_plain": null
+}

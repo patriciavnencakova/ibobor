@@ -1,0 +1,33 @@
+{
+  "id": 677,
+  "serial_number": 9,
+  "title": "Návšteva priateľov",
+  "question": "Pán Bobor má 4 priateľov, ktorí bývajú v rôznych dedinách. Každý deň chce navštíviť jedného z nich. Dedinu, do ktorej pôjde si bude vyberať podľa smeru šípky na križovatke. Vždy, keď križovatku prejde, otočí šípku do opačného smeru.<br/> V prvý deň (šípky sú ako na obrázku vľavo) pôjde na prvej križovatke vľavo (otočí šípku vpravo) a na druhej križovatke tiež vľavo (otočí šípku vpravo) a príde do dediny W. Na druhý deň (šípky sú ako na obrázku vpravo) pôjde na prvej križovatke vpravo a na druhej križovatke vľavo a navštívi priateľa v dedine Y. Na oboch križovatkách, cez ktoré prejde otočí šípky do opačného smeru.<br/> <image_1><br/> Do ktorej dediny príde na tridsiaty deň? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "do Z"
+    },
+    {
+      "value": "1",
+      "label": "do Y"
+    },
+    {
+      "value": "2",
+      "label": "do W"
+    },
+    {
+      "value": "3",
+      "label": "do X"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/13/2013-TW-04_day1a2.png"
+  ],
+  "year": "2013/2014",
+  "category": "Senior",
+  "type": "image",
+  "correct_index": 1,
+  "correct_answer": "do Y ",
+  "correct_answer_plain": "do Y"
+}

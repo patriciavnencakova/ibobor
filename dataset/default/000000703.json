@@ -1,0 +1,33 @@
+{
+  "id": 702,
+  "serial_number": 7,
+  "title": "Zlý kód",
+  "question": "Samo sa rozhodol vymyslieť svoje vlastné kódovanie. Pre prvých päť písmen abecedy už vymyslel kódy:<br/> <image_1><br/> Potom pomocou nich zakódoval nejakú správu a dostal 01101101.<br/> Ktorú z nasledujúcich správ Samo <b>nemohol</b> takto zakódovať? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "BDECD"
+    },
+    {
+      "value": "1",
+      "label": "EDDAD"
+    },
+    {
+      "value": "2",
+      "label": "BDCD"
+    },
+    {
+      "value": "3",
+      "label": "ACD"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/12/2012-CA-05_SK.png"
+  ],
+  "year": "2012/2013",
+  "category": "Benjamín",
+  "type": "image",
+  "correct_index": 2,
+  "correct_answer": "BDCD ",
+  "correct_answer_plain": "BDCD"
+}

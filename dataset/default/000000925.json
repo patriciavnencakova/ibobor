@@ -1,0 +1,33 @@
+{
+  "id": 924,
+  "serial_number": 10,
+  "title": "Agent Bobor 007",
+  "question": "Tajná abeceda agenta Bobra 007 má iba 5 písmen a tie sa kódujú takto:<br/> <br/> <image_1><br/> <br/> Ktorá z nasledujúcich správ je tajná správa od agenta Bobra 007? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "110100000110"
+    },
+    {
+      "value": "1",
+      "label": "110100011111"
+    },
+    {
+      "value": "2",
+      "label": "110100000100"
+    },
+    {
+      "value": "3",
+      "label": "110100001111"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/09/K_Agent_Bobor_007.gif"
+  ],
+  "year": "2009/2010",
+  "category": "Kadet",
+  "type": "image",
+  "correct_index": 0,
+  "correct_answer": "110100000110 ",
+  "correct_answer_plain": "110100000110"
+}

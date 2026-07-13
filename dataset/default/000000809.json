@@ -1,0 +1,31 @@
+{
+  "id": 808,
+  "serial_number": 11,
+  "title": "Poštár",
+  "question": "Bobor roznáša poštu podľa nasledujúceho systému: Pochôdzku začne v dome s ľubovoľným číslom. Nasledujúci dom musí byť taký, že v ňom bobor ešte počas pochôdzky nebol, a musí mať aspoň jednu cifru v čísle rovnakú, ako má dom, v ktorom sa práve nachádza. Ak taký dom nie je, bobor pochôdzku skončí.<br> Napr. z čísla 23 môže ísť do domu s číslom 28, 31 alebo 72, ale nie do domu s číslom 19.<br> <br> Bobor má doručiť poštu do týchto domov:<br> 11, 19, 29, 36, 40, 44, 52, 61, 70, 74, 83<br> <br> Aký je najväčší počet domov, do ktorých môže doručiť poštu počas jednej pochôdzky? <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "5"
+    },
+    {
+      "value": "1",
+      "label": "7"
+    },
+    {
+      "value": "2",
+      "label": "4"
+    },
+    {
+      "value": "3",
+      "label": "9"
+    }
+  ],
+  "images": [],
+  "year": "2011/2012",
+  "category": "Junior",
+  "type": "text",
+  "correct_index": 1,
+  "correct_answer": "7 ",
+  "correct_answer_plain": "7"
+}

@@ -1,0 +1,45 @@
+{
+  "id": 904,
+  "serial_number": 5,
+  "title": "Pískanie",
+  "question": "Bobry sa dorozumievajú na veľké vzdialenosti pomocou kratších <image_1> a dlhších <image_2> písknutí.<br/> Pre každé písmeno majú kód pozostávajúci z niekoľkých písknutí. Medzi pískaním jednotlivých písmen je vždy dlhšia pauza <image_3> .<br/> <br/> Rozhodol si sa, že ich kód rozlúštiš, a už vieš, že: <br/> A znie <image_4> <br/> E znie <image_5><br/> N znie <image_6><br/> R znie <image_7><br/> I znie <image_8><br/> T znie <image_9><br/> <br/> Ak si bobre pískajú slovo TANIER, ktorú z týchto postupností pískania budeš počuť? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "<image_10>"
+    },
+    {
+      "value": "1",
+      "label": "<image_11>"
+    },
+    {
+      "value": "2",
+      "label": "<image_12>"
+    },
+    {
+      "value": "3",
+      "label": "<image_13>"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/09/K_piskanie_bodka.gif",
+    "http://demo.ibobor.sk/sutaz/images/09/K_piskanie_ciarka.gif",
+    "http://demo.ibobor.sk/sutaz/images/09/K_piskanie_medzera.gif",
+    "http://demo.ibobor.sk/sutaz/images/09/B_Piskanie_A_znie.gif",
+    "http://demo.ibobor.sk/sutaz/images/09/B_Piskanie_E_znie.gif",
+    "http://demo.ibobor.sk/sutaz/images/09/B_Piskanie_N_znie.gif",
+    "http://demo.ibobor.sk/sutaz/images/09/B_Piskanie_R_znie.gif",
+    "http://demo.ibobor.sk/sutaz/images/09/B_Piskanie_I_znie.gif",
+    "http://demo.ibobor.sk/sutaz/images/09/B_Piskanie_T_znie.gif",
+    "http://demo.ibobor.sk/sutaz/images/09/B_Piskanie_A.gif",
+    "http://demo.ibobor.sk/sutaz/images/09/B_Piskanie_B.gif",
+    "http://demo.ibobor.sk/sutaz/images/09/B_Piskanie_D.gif",
+    "http://demo.ibobor.sk/sutaz/images/09/B_Piskanie_C.gif"
+  ],
+  "year": "2009/2010",
+  "category": "Benjamín",
+  "type": "image",
+  "correct_index": 2,
+  "correct_answer": "http://demo.ibobor.sk/sutaz/images/09/B_Piskanie_D.gif",
+  "correct_answer_plain": null
+}

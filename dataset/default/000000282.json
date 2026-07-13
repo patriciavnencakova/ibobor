@@ -1,0 +1,31 @@
+{
+  "id": 281,
+  "serial_number": 3,
+  "title": "Rozprávací robot",
+  "question": "Rozprávací robot vysloví ľubovoľný text a pritom dodržiava takéto pravidlá:<br> <ul><li>ak je pred slovom číslo, toto slovo vysloví toľkokrát, aká je hodnota čísla,</li><li>ak je postupnosť slov medzi príkazmi <b>opakuj číslo krat</b> a <b>koniec opakovania</b>, túto postupnosť slov vysloví toľkokrát, aká je hodnota čísla.</li></ul>Napríklad: <br> namiesto <b>3lampa</b> robot povie <b>lampa lampa lampa</b><br> namiesto <b>opakuj 2 krat čierna biela koniec opakovania</b> robot povie <b>čierna biela čierna biela</b><br> Emka chce, aby robot povedal<br> <b>tik tak tik tak tik tak tik čas nezastaví nezastaví nik</b><br> Akú postupnosť príkazov má Emka napísať? <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "opakuj 4 krat tik tak koniec opakovania čas 2nezastaví nik"
+    },
+    {
+      "value": "1",
+      "label": "opakuj 3 krat tik tak koniec opakovania čas 2nezastaví nik"
+    },
+    {
+      "value": "2",
+      "label": "3tik 3tak tik čas 2nezastaví nik"
+    },
+    {
+      "value": "3",
+      "label": "opakuj 3 krat tik tak koniec opakovania tik čas 2nezastaví nik"
+    }
+  ],
+  "images": [],
+  "year": "2018/2019",
+  "category": "Nevidiaci SŠ",
+  "type": "text",
+  "correct_index": 3,
+  "correct_answer": "opakuj 3 krat tik tak koniec opakovania tik čas 2nezastaví nik ",
+  "correct_answer_plain": "opakuj 3 krat tik tak koniec opakovania tik čas 2nezastaví nik"
+}

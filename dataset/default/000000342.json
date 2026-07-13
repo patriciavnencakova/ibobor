@@ -1,0 +1,33 @@
+{
+  "id": 341,
+  "serial_number": 9,
+  "title": "Rýchlokorčuliari",
+  "question": "Sedem rýchlokorčuliarov korčuľuje v jednom rade za sebou tak, ako vidíme na obrázku.<br/> Na začiatku je A prvý, G je posledný.<br/> <image_1><br/> Korčuliar, ktorý je prvý, sa najrýchlejšie unaví, takže každú celú minútu sa prvý korčuliar presunie na koniec radu.<br/> Ktorý korčuliar bol prvý v čase 30 minút 30 sekúnd? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "C"
+    },
+    {
+      "value": "1",
+      "label": "E"
+    },
+    {
+      "value": "2",
+      "label": "A"
+    },
+    {
+      "value": "3",
+      "label": "F"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/17/2017-CA-03-K.png"
+  ],
+  "year": "2017/2018",
+  "category": "Kadet",
+  "type": "image",
+  "correct_index": 0,
+  "correct_answer": "C ",
+  "correct_answer_plain": "C"
+}

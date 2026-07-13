@@ -1,0 +1,31 @@
+{
+  "id": 780,
+  "serial_number": 13,
+  "title": "Knihy",
+  "question": "V internetovej kaviarni majú jeden počítač, jednu tlačiareň a jeden viazací stroj. Zákazníci si tu môžu kúpiť a stiahnuť knihu z internetu, a hneď ju aj vytlačiť a zviazať.<br> Do kaviarne prišli naraz traja kamaráti a chcú spolu čo najskôr odísť. Každý si chce stiahnuť, vytlačiť a zviazať inú knihu. Stiahnutie každej knihy trvá 10 minút, vytlačenie 10 minút a aj zviazanie 10 minút.<br> Operácie, ktoré nevyžadujú to isté zariadenie, sa dajú robiť aj súčasne, napr. kým sa prvému z nich kniha tlačí, druhý si môže sťahovať svoju knihu. <br> <br> Najmenej koľko času musia stráviť v kaviarni, kým môžu spolu odísť so svojimi knihami?<br> <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "40 minút"
+    },
+    {
+      "value": "1",
+      "label": "90 minút"
+    },
+    {
+      "value": "2",
+      "label": "50 minút"
+    },
+    {
+      "value": "3",
+      "label": "30 minút"
+    }
+  ],
+  "images": [],
+  "year": "2011/2012",
+  "category": "Benjamín",
+  "type": "text",
+  "correct_index": 2,
+  "correct_answer": "50 minút    ",
+  "correct_answer_plain": "50 minút"
+}

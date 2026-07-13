@@ -1,0 +1,33 @@
+{
+  "id": 703,
+  "serial_number": 8,
+  "title": "Navigácia",
+  "question": "Bobor Plavko je vo svojej loďke na jazere, na ktorom sú ostrovy. Chce sa ňou doplaviť až k vlajke. Jeho loďka má autopilot, ktorý ju dokáže riadiť tak, že ju podľa príkazov presúva z bodu do bodu v 8 rôznych smeroch.<br/> Napr. príkaz <b>1 S</b> znamená 1 krok smerom na <b>sever</b>, <b>2 SV</b> znamenajú 2 kroky po uhlopriečke smerom na <b>severovýchod</b>.<br/> <image_1><br/> Ktorá z nasledujúcich postupností príkazov pre autopilot určuje cestu <b>s najmenším počtom krokov</b> k vlajke bez toho, aby loďka narazila do niektorého ostrova? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "<b>5 SZ</b>"
+    },
+    {
+      "value": "1",
+      "label": "<b>2 SZ, 3 S, 3 Z</b>"
+    },
+    {
+      "value": "2",
+      "label": "<b>2 SZ, 2 Z, 1 SZ, 2 S</b>"
+    },
+    {
+      "value": "3",
+      "label": "<b>2 SZ, 2 Z, 1 S, 1 Z, 2 S</b>"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/12/2012-IT-04_SK.jpg"
+  ],
+  "year": "2012/2013",
+  "category": "Benjamín",
+  "type": "image",
+  "correct_index": 2,
+  "correct_answer": "<b>2 SZ, 2 Z, 1 SZ, 2 S</b> ",
+  "correct_answer_plain": "2 SZ, 2 Z, 1 SZ, 2 S"
+}

@@ -1,0 +1,37 @@
+{
+  "id": 793,
+  "serial_number": 11,
+  "title": "Mozaika",
+  "question": "Janko vyrába na stene ozdobnú mozaiku z bielych a čiernych obkladačiek. Do horného radu ich nalepí v ľubovoľnom poradí. Farbu obkladačky v nasledujúcom rade vždy zvolí podľa farieb troch obkladačiek nad ňou:<br/> <image_1><br/> V ktorom prípade postupoval správne podľa pravidiel? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "<image_2>"
+    },
+    {
+      "value": "1",
+      "label": "<image_3>"
+    },
+    {
+      "value": "2",
+      "label": "<image_4>"
+    },
+    {
+      "value": "3",
+      "label": "<image_5>"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/11/2011-CH-02_vzory.png",
+    "http://demo.ibobor.sk/sutaz/images/11/2011-CH-02_SK_D.png",
+    "http://demo.ibobor.sk/sutaz/images/11/2011-CH-02_SK_A.png",
+    "http://demo.ibobor.sk/sutaz/images/11/2011-CH-02_SK_C.png",
+    "http://demo.ibobor.sk/sutaz/images/11/2011-CH-02_SK_B.png"
+  ],
+  "year": "2011/2012",
+  "category": "Kadet",
+  "type": "image",
+  "correct_index": 1,
+  "correct_answer": "http://demo.ibobor.sk/sutaz/images/11/2011-CH-02_SK_A.png",
+  "correct_answer_plain": null
+}

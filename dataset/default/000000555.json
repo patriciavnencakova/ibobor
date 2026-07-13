@@ -1,0 +1,33 @@
+{
+  "id": 554,
+  "serial_number": 3,
+  "title": "Zubné kefky",
+  "question": "Malé bobry mávajú zubné kefky zavesené v kúpeľni pri svojich menovkách zľava od najmenšej po najväčšiu. Raz večer si ich omylom dali na nesprávne miesta. Bobria mama im ich chce upratať.<br/> <image_1><br/> Najskôr vymenila Anitinu a Cyrilovu zubnú kefku.<br/> Ktoré dve zubné kefky ešte musí navzájom vymeniť? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "žiadne"
+    },
+    {
+      "value": "1",
+      "label": "Brunovu a Danovu"
+    },
+    {
+      "value": "2",
+      "label": "Anitinu a Evinu"
+    },
+    {
+      "value": "3",
+      "label": "Brunovu a Cyrilovu"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/14/2014-SI-08_SK_400.png"
+  ],
+  "year": "2014/2015",
+  "category": "Benjamín",
+  "type": "image",
+  "correct_index": 1,
+  "correct_answer": "Brunovu a Danovu ",
+  "correct_answer_plain": "Brunovu a Danovu"
+}

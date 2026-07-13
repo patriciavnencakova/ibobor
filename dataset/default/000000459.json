@@ -1,0 +1,31 @@
+{
+  "id": 458,
+  "serial_number": 6,
+  "title": "Funkcie zmen a zmen2",
+  "question": "Funkcia <code>zmen</code> dostáva ako vstup reťazec z písmen <code>A</code> a <code>B</code>. Jej výsledkom je reťazec, v ktorom sa písmená vo vstupnom reťazci postupne nahradia podľa nasledujúcich dvoch pravidiel<br> <code>A → BB<br> B → ABA</code><br> Napr. výsledkom týchto 3 volaní <code>zmen(zmen(zmen('A')))</code> je reťazec <code>'BBABABBBBABABB'</code><br> Postupne sa vykonajú 3 kroky nahradenia:<br> <code>'A' → 'BB' → 'ABAABA' → 'BBABABBBBABABB'</code><br> <br> Julo naprogramoval inú podobnú funkciu a nazval ju <code>zmen2</code>. Použil ju podobne ako <code>zmen</code> vo vyššie uvedenom príklade. Vieme len to, že po niekoľkých volaniach s nejakým počiatočným reťazcom bol výsledok <code>'ABBCCBCCBABA'</code>.<br> <br> Ktoré pravidlá použil Julo vo svojej funkcii? <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "<code> A → AA, B → CC, C → ABA</code>"
+    },
+    {
+      "value": "1",
+      "label": "<code> A → BC, B → AAA, C → BA</code>"
+    },
+    {
+      "value": "2",
+      "label": "<code> A → C, B → ABB, C → AA</code>"
+    },
+    {
+      "value": "3",
+      "label": "<code> A → AB, B → BCC, C → BA</code>"
+    }
+  ],
+  "images": [],
+  "year": "2016/2017",
+  "category": "Senior",
+  "type": "text",
+  "correct_index": 3,
+  "correct_answer": "<code> A → AB, B → BCC, C → BA</code> ",
+  "correct_answer_plain": "A → AB, B → BCC, C → BA"
+}

@@ -1,0 +1,33 @@
+{
+  "id": 560,
+  "serial_number": 9,
+  "title": "PIN kód",
+  "question": "Aby si Matej zapamätal svoj PIN kód, vytvoril si takúto tabuľku:<br/> <image_1><br/> Ak je jeho PIN kód 6541, môže si zapamätať napr. slovo PENA alebo slovo FOXU. Ak chce zistiť svoj PIN kód, tak k jednotlivým písmenám slova PENA nájde zodpovedajúce číslice vo vrchnom riadku tabuľky.<br/> Matej si zmenil PIN kód. <br/> Tri z nasledujúcich slov mu pomôžu zapamätať si ho.<br/> Ktoré slovo mu <b>nepomôže</b>? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "KINO"
+    },
+    {
+      "value": "1",
+      "label": "KILO"
+    },
+    {
+      "value": "2",
+      "label": "AIDE"
+    },
+    {
+      "value": "3",
+      "label": "USNE"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/14/2014-NL-01_tab.png"
+  ],
+  "year": "2014/2015",
+  "category": "Benjamín",
+  "type": "image",
+  "correct_index": 1,
+  "correct_answer": "KILO ",
+  "correct_answer_plain": "KILO"
+}

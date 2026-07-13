@@ -1,0 +1,33 @@
+{
+  "id": 752,
+  "serial_number": 12,
+  "title": "Programovanie hry",
+  "question": "Bobor Bob by rád naprogramoval hru, v ktorej zhora padá lopta. Keď dopadne na modrý obdĺžnik, zozelenie a odrazí sa. Ak dopadne mimo obdĺžnika, lopta sčervenie a hra končí.<br/> Hráč môže pohybovať obdĺžnikom doprava a doľava. Dĺžka obdĺžnika je uložená v premennej <b>b</b> a súradnica jeho ľavej strany je uložená v premennej <b>px</b>. Súradnica lopty je uložená v premennej <b>bx</b>.<br/> <image_1><br/> <br/> Ktorá z nasledujúcich podmienok je pravdivá práve vtedy, keď lopta zozelenie? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "<b>(bx<px) or (bx>px+b)</b>"
+    },
+    {
+      "value": "1",
+      "label": "<b>(bx>px) and (bx<px+b)</b>"
+    },
+    {
+      "value": "2",
+      "label": "<b>(bx>px) or (bx<px+b)</b>"
+    },
+    {
+      "value": "3",
+      "label": "<b>(bx<px) and (bx>px+b)</b>"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/12/2012-CH-01.png"
+  ],
+  "year": "2012/2013",
+  "category": "Senior",
+  "type": "image",
+  "correct_index": 1,
+  "correct_answer": "<b>(bx>px) and (bx<px+b)</b> ",
+  "correct_answer_plain": "(bx>px) and (bx<px+b)"
+}

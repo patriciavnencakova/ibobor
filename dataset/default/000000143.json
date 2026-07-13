@@ -1,0 +1,33 @@
+{
+  "id": 142,
+  "serial_number": 8,
+  "title": "Alergie",
+  "question": "Sofia chce nakúpiť pre bobríkov v ZOO mladé vetvičky. Niektoré bobríky sú však na niektoré stromy alergické.<br/> Sofia má zoznam mien bobríkov a zoznam stromov, na ktoré <b>nie sú</b> alergické:<br/> <image_1><br/> <b>Najmenej</b> koľko druhov vetvičiek musí Sofia kúpiť, aby mohol každý bobrík jesť niektoré z nich? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "5"
+    },
+    {
+      "value": "1",
+      "label": "3"
+    },
+    {
+      "value": "2",
+      "label": "4"
+    },
+    {
+      "value": "3",
+      "label": "2"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/19/2019-SI-02.png"
+  ],
+  "year": "2019/2020",
+  "category": "Kadet",
+  "type": "image",
+  "correct_index": 1,
+  "correct_answer": "3 ",
+  "correct_answer_plain": "3"
+}

@@ -1,0 +1,36 @@
+{
+  "id": 659,
+  "serial_number": 6,
+  "title": "Bodkovaný štvorec",
+  "question": "Máme pripravené tri príkazy <b>bStvorec_1</b>, <b>bStvorec_2</b> a <b>bStvorec_2A</b>, ktoré kreslia nasledujúce obrázky:<br/> <image_1><br/> Príkaz <b>otoc90</b> otočí nakreslený obrázok, napr. kombináciou príkazov <b>bStvorec_2A, otoc90</b> nakreslíme:<br/> <image_2><br/> Kombináciami príkazov dokážeme nakresliť bodkovaný štvorec s rôznym počtom a umiestnením bodiek, napr. príkazy <b>bStvorec_1, bStvorec_2, otoc90</b> nakreslia:<br/> <image_3><br/> Ktorá postupnosť príkazov nakreslí tento obrázok?<br/> <image_4> <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "<b>bStvorec_2, otoc90, bStvorec_2, bStvorec_2A</b>"
+    },
+    {
+      "value": "1",
+      "label": "<b>bStvorec_2A, otoc90, bStvorec_2, bStvorec_1</b>"
+    },
+    {
+      "value": "2",
+      "label": "<b>bStvorec_2, bStvorec_2A, otoc90, bStvorec_2</b>"
+    },
+    {
+      "value": "3",
+      "label": "<b>bStvorec_2A, bStvorec_2, otoc90, bStvorec_2</b>"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/13/2013-SK-09_bStvorec.png",
+    "http://demo.ibobor.sk/sutaz/images/13/2013-SK-09a-draw_2A_turn90.png",
+    "http://demo.ibobor.sk/sutaz/images/13/2013-SK-09a-draw_1_draw_2_turn90.png",
+    "http://demo.ibobor.sk/sutaz/images/13/2013-SK-09a-question.png"
+  ],
+  "year": "2013/2014",
+  "category": "Junior",
+  "type": "image",
+  "correct_index": 0,
+  "correct_answer": "<b>bStvorec_2, otoc90, bStvorec_2, bStvorec_2A</b> ",
+  "correct_answer_plain": "bStvorec_2, otoc90, bStvorec_2, bStvorec_2A"
+}

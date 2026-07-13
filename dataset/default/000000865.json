@@ -1,0 +1,33 @@
+{
+  "id": 864,
+  "serial_number": 7,
+  "title": "Kódovanie",
+  "question": "Boris si píše so svojím bratom tajné správy, ktoré kódujú podľa tohto postupu:<br/> <ol><li>Na začiatku zapíš zoznam všetkých písmen podľa abecedy abcdefghijklmnopqrstuvwxyz.</li><li>Pre každé písmeno slova opakuj<br/> <ul><li>nech P je poradové číslo písmena v súčasnom zozname písmen,</li><li>tajný kód pre písmeno bude P,</li><li>zmeň zoznam všetkých písmen tak, že presunieš písmeno z miesta P na jeho začiatok.</li></ul></li></ol>Postupnosť kódov jednotlivých písmen je zakódované slovo.<br/> <br/> Napr. pomocou tohto postupu zakódujme slovo bobor<br/> <image_1><br/> Takže zakódované slovo bobor je: 2, 15, 2, 2, 18<br/> <br/> Boris dostal takúto kódovanú správu od svojho brata 10, 2, 26, 7, 19, 17<br/> <br/> Aké slovo to bolo? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "jazvec"
+    },
+    {
+      "value": "1",
+      "label": "jahoda"
+    },
+    {
+      "value": "2",
+      "label": "jablko"
+    },
+    {
+      "value": "3",
+      "label": "jazero"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/10/2010-NL-01p2.png"
+  ],
+  "year": "2010/2011",
+  "category": "Junior",
+  "type": "image",
+  "correct_index": 3,
+  "correct_answer": "jazero ",
+  "correct_answer_plain": "jazero"
+}

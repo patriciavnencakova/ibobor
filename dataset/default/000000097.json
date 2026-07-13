@@ -1,0 +1,31 @@
+{
+  "id": 96,
+  "serial_number": 7,
+  "title": "Šírenie správy",
+  "question": "Štyria kamaráti si dohodli nasledujúce pravidlá na šírenie dôležitých správ:<ul><li>Najprv sa správu dozvie Adam.</li><li>Dano sa správu dozvie skôr ako Bruno.</li><li>Cyril sa správu dozvie až po Danovi.</li><li>Bruno sa správu dozvie až po Cyrilovi.</li></ul>V akom poradí sa správu dozvedia všetci kamaráti? <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "Adam, Cyril, Dano, Bruno"
+    },
+    {
+      "value": "1",
+      "label": "Adam, Dano, Cyril, Bruno"
+    },
+    {
+      "value": "2",
+      "label": "Adam, Dano, Bruno, Cyril"
+    },
+    {
+      "value": "3",
+      "label": "Adam, Bruno, Dano, Cyril"
+    }
+  ],
+  "images": [],
+  "year": "2020/2021",
+  "category": "Nevidiaci ZŠ",
+  "type": "text",
+  "correct_index": 1,
+  "correct_answer": "Adam, Dano, Cyril, Bruno ",
+  "correct_answer_plain": "Adam, Dano, Cyril, Bruno"
+}

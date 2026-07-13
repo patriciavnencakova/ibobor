@@ -1,0 +1,36 @@
+{
+  "id": 454,
+  "serial_number": 2,
+  "title": "Boborbanka",
+  "question": "Peter má uložené svoje úspory v Boborbanke, ktorá má sídlo na Slovensku. Založil si aj internetbanking a vie, že si má dávať pozor na nástrahy podvodníkov na internete.<br/> <br/> Ako musí vyzerať odkaz v prehliadači, aby sa Peter neobával, keď bude pristupovať do internetbankingu? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "<image_1>"
+    },
+    {
+      "value": "1",
+      "label": "<image_2>"
+    },
+    {
+      "value": "2",
+      "label": "<image_3>"
+    },
+    {
+      "value": "3",
+      "label": "<image_4>"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/16/2016-SK-22_B.png",
+    "http://demo.ibobor.sk/sutaz/images/16/2016-SK-22_C.png",
+    "http://demo.ibobor.sk/sutaz/images/16/2016-SK-22_D.png",
+    "http://demo.ibobor.sk/sutaz/images/16/2016-SK-22_A.png"
+  ],
+  "year": "2016/2017",
+  "category": "Senior",
+  "type": "image",
+  "correct_index": 1,
+  "correct_answer": "http://demo.ibobor.sk/sutaz/images/16/2016-SK-22_C.png",
+  "correct_answer_plain": null
+}

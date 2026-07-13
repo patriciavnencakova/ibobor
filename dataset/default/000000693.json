@@ -1,0 +1,37 @@
+{
+  "id": 692,
+  "serial_number": 9,
+  "title": "Vežičky",
+  "question": "Peťo a Hanka majú robota, ktorý dokáže klásť kocky na miesta označené písmenami A, B, C, D a E.<br/> Napríklad, ak robot dostane povel D, postaví novú kocku na vrch vežičky na mieste D. Kým bol Peťo vonku, Hanka pomocou neho postavila takéto vežičky:<br/> <image_1><br/> Keď sa Peťo vrátil, Hanka mu prezradila štyri posledné povely, ktoré zadala: D, B, C, D.<br/> Ako vyzerali vežičky predtým, ako ich robot vykonal?<br/> <br/> <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "<image_2>"
+    },
+    {
+      "value": "1",
+      "label": "<image_3>"
+    },
+    {
+      "value": "2",
+      "label": "<image_4>"
+    },
+    {
+      "value": "3",
+      "label": "<image_5>"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/12/2012-SK-vezicky.png",
+    "http://demo.ibobor.sk/sutaz/images/12/2012-SK-vezicky_D.png",
+    "http://demo.ibobor.sk/sutaz/images/12/2012-SK-vezicky_A.png",
+    "http://demo.ibobor.sk/sutaz/images/12/2012-SK-vezicky_C.png",
+    "http://demo.ibobor.sk/sutaz/images/12/2012-SK-vezicky_B.png"
+  ],
+  "year": "2012/2013",
+  "category": "Bobrík",
+  "type": "image",
+  "correct_index": 1,
+  "correct_answer": "http://demo.ibobor.sk/sutaz/images/12/2012-SK-vezicky_A.png",
+  "correct_answer_plain": null
+}

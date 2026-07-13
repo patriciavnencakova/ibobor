@@ -1,0 +1,33 @@
+{
+  "id": 255,
+  "serial_number": 7,
+  "title": "Zapni svetlá",
+  "question": "Svetlá vo veľkej miestnosti sú napojené na 7 vypínačov a sú s nimi pospájané tak, ako vidieť na obrázku. Pri stlačení vypínača všetky svetlá, ktoré sú s ním spojené, zmenia svoj stav – ak boli vypnuté, zapnú sa a naopak.<br/> Niektoré svetlá už svietia.<br/> <image_1><br/> Ktorou postupnosťou stlačenia vypínačov dosiahneme, aby svietili všetky svetlá? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "postupne stlačíme vypínače pri svetlách 5, 3, 1, 7"
+    },
+    {
+      "value": "1",
+      "label": "postupne stlačíme vypínače pri svetlách 7, 2, 5, 4"
+    },
+    {
+      "value": "2",
+      "label": "postupne stlačíme vypínače pri svetlách 2, 3, 1, 4"
+    },
+    {
+      "value": "3",
+      "label": "postupne stlačíme vypínače pri svetlách 6, 4, 5, 2"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/18/2018-DE-06.png"
+  ],
+  "year": "2018/2019",
+  "category": "Junior",
+  "type": "image",
+  "correct_index": 2,
+  "correct_answer": "postupne stlačíme vypínače pri svetlách 2, 3, 1, 4 ",
+  "correct_answer_plain": "postupne stlačíme vypínače pri svetlách 2, 3, 1, 4"
+}

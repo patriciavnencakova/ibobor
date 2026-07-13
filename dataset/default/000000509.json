@@ -1,0 +1,37 @@
+{
+  "id": 508,
+  "serial_number": 14,
+  "title": "Ceruzky",
+  "question": "Keď sa malý bobor unavil pri kreslení, začal sa hrať s ceruzkami, ktoré mal takto položené na stole:<br/> <image_1><br/> Ceruzky začal prekladať do dvoch krabičiek – maminej a otcovej. Zo stola berie ceruzky zľava doprava. Ceruzky dáva do krabičiek tiež zľava doprava. Prvú ceruzku položí do maminej krabičky. <br/> Potom pokračuje podľa tohto pravidla<ul><li>Zobrerie ceruzku zo stola a porovná ju s poslednou ceruzkou v maminej krabičke. Ak je väčšia ako posledná ceruzka v maminej krabičke, položí ju do otcovej krabičky. Inak ju položí do maminej krabičky.</li></ul><br/> Ako vyzerá otcova krabička po preložení všetkých ceruziek zo stola do krabičiek? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "<image_2>"
+    },
+    {
+      "value": "1",
+      "label": "<image_3>"
+    },
+    {
+      "value": "2",
+      "label": "<image_4>"
+    },
+    {
+      "value": "3",
+      "label": "<image_5>"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/15/2015-LT-04.png",
+    "http://demo.ibobor.sk/sutaz/images/15/2015-LT-04_D.png",
+    "http://demo.ibobor.sk/sutaz/images/15/2015-LT-04_B.png",
+    "http://demo.ibobor.sk/sutaz/images/15/2015-LT-04_A.png",
+    "http://demo.ibobor.sk/sutaz/images/15/2015-LT-04_C.png"
+  ],
+  "year": "2015/2016",
+  "category": "Kadet",
+  "type": "image",
+  "correct_index": 2,
+  "correct_answer": "http://demo.ibobor.sk/sutaz/images/15/2015-LT-04_A.png",
+  "correct_answer_plain": null
+}

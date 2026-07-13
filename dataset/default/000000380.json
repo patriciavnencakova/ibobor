@@ -1,0 +1,31 @@
+{
+  "id": 379,
+  "serial_number": 2,
+  "title": "Otáčanie mincí",
+  "question": "V Bobrove používajú mince, ktoré sú na jednej strane zlaté a na druhej strieborné. Bobry sa hrajú hru s piatimi mincami uloženými v rade vedľa seba. Úlohou je otočiť mince tak, aby boli všetky zlatou stranou nahor. Otáčať však môžu vždy len dve susedné mince. Na začiatku jednej hry vyzeral rad mincí nasledovne:<br> <b>strieborná zlatá strieborná zlatá strieborná<br> Koľko dvojíc mincí treba otočiť, aby boli všetky zlatou stranou nahor?</b> <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "nedá sa"
+    },
+    {
+      "value": "1",
+      "label": "2"
+    },
+    {
+      "value": "2",
+      "label": "3"
+    },
+    {
+      "value": "3",
+      "label": "8"
+    }
+  ],
+  "images": [],
+  "year": "2017/2018",
+  "category": "Nevidiaci SŠ",
+  "type": "text",
+  "correct_index": 0,
+  "correct_answer": "nedá sa ",
+  "correct_answer_plain": "nedá sa"
+}

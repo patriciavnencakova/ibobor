@@ -1,0 +1,36 @@
+{
+  "id": 983,
+  "serial_number": 9,
+  "title": "Bobrí brloh",
+  "question": "V bobrom brlohu je niekoľko úzkych chodbičiek. Keďže bobry nikdy necúvajú, chodbičky sa na niektorých miestach rozvetvujú, aby sa mohli bobry navzájom vyhnúť.<br/> Na každom políčku chodby sa môže vždy nachádzať iba jeden bobor.<br/> <br/> Zisti, na ktorom obrázku určite nastane \"dopravná\" zápcha, teda situácia, kedy sa žiaden bobor nebude môcť pohnúť. <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "<image_1>"
+    },
+    {
+      "value": "1",
+      "label": "<image_2>"
+    },
+    {
+      "value": "2",
+      "label": "<image_3>"
+    },
+    {
+      "value": "3",
+      "label": "<image_4>"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/08/K_PUZ_GE_014-c.gif",
+    "http://demo.ibobor.sk/sutaz/images/08/K_PUZ_GE_014-d.gif",
+    "http://demo.ibobor.sk/sutaz/images/08/K_PUZ_GE_014-b.gif",
+    "http://demo.ibobor.sk/sutaz/images/08/K_PUZ_GE_014-a.gif"
+  ],
+  "year": "2008/2009",
+  "category": "Kadet",
+  "type": "image",
+  "correct_index": 1,
+  "correct_answer": "http://demo.ibobor.sk/sutaz/images/08/K_PUZ_GE_014-d.gif",
+  "correct_answer_plain": null
+}

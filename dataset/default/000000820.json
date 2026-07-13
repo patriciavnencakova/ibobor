@@ -1,0 +1,31 @@
+{
+  "id": 819,
+  "serial_number": 7,
+  "title": "Pošta od priateľa?",
+  "question": "Si prihlásený na sociálnej sieti a na nástenke sa ti objavila správa od tvojho dobrého priateľa Miša: <b>„Check out my holiday pictures!“</b> Je k nej pripojený odkaz na webovú stránku.<br> Nevedel si, že Mišo bol v poslednej dobe na dovolenke. Prekvapilo ťa tiež, že správu napísal po anglicky a nie po slovensky. Vieš, že Mišo má známych aj v zahraničí, preto mohol správu napísať po anglicky, aby jej všetci rozumeli.<br> Mišo však nie je online a preto sa ho na to nemôžeš spýtať cez chat. <br> <br> Čo je <b><u>najbezpečnejšie riešenie</u></b> v takejto situácii? <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "Ignorovať správu, kým Mišo nebude online."
+    },
+    {
+      "value": "1",
+      "label": "Vymazať správu z nástenky, pretože je to s veľkou pravdepodobnosťou spam, a snažiť sa skontaktovať s Mišom."
+    },
+    {
+      "value": "2",
+      "label": "Preposlať správu priateľom s otázkou, či nevedia niečo o Mišovej dovolenke."
+    },
+    {
+      "value": "3",
+      "label": "Kliknúť na odkaz. Je to bezpečné, lebo Miša poznáš."
+    }
+  ],
+  "images": [],
+  "year": "2011/2012",
+  "category": "Senior",
+  "type": "text",
+  "correct_index": 1,
+  "correct_answer": "Vymazať správu z nástenky, pretože je to s veľkou pravdepodobnosťou spam, a snažiť sa skontaktovať s Mišom. ",
+  "correct_answer_plain": "Vymazať správu z nástenky, pretože je to s veľkou pravdepodobnosťou spam, a snažiť sa skontaktovať s Mišom."
+}

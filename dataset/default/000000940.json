@@ -1,0 +1,34 @@
+{
+  "id": 939,
+  "serial_number": 10,
+  "title": "Vzory",
+  "question": "Vyšívací stroj má osnovu s 12 bodmi. Vyšívacia ihla začína z prvého bodu (pozri obrázok). V jednom kroku natiahne niť z bodu, na ktorom je, do niektorého ďalšieho v smere hodinových ručičiek. Stroj sa riadi postupnosťou príkazov <b>tkaj</b>.<br/> V príkaze <b>tkaj(farba, počet, vynechaj)</b><br/> <ul><li><b>farba</b> znamená farbu nite<br/> </li><li><b>počet</b> určuje, koľkokrát natiahne niť</li><li><b>vynechaj</b> určuje, koľko bodov v smere pohybu hodinových ručičiek ihla vynechá</li></ul><br/> Príkazmi<br/> <b>tkaj (zelená, 5, 4)</b><br/> <b>tkaj (modrá, 2, 3)</b> vyšije takýto vzor:<br/> <br/> <image_1><br/> <br/> Ktorou postupnosťou príkazov vyšije takýto vzor?<br/> <image_2> <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "tkaj (modrá, 5, 4) tkaj (žltá, 4, 2) tkaj (červená, 3, 3)"
+    },
+    {
+      "value": "1",
+      "label": "tkaj (modrá, 5, 6) tkaj (červená, 4, 2) tkaj (žltá, 3, 3)"
+    },
+    {
+      "value": "2",
+      "label": "tkaj (modrá, 5, 6) tkaj (žltá, 4, 2) tkaj (červená, 3, 3)"
+    },
+    {
+      "value": "3",
+      "label": "tkaj (modrá, 5, 4) tkaj (červená, 4, 2) tkaj (žltá, 3, 3)"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/09/J_Vzory_01.gif",
+    "http://demo.ibobor.sk/sutaz/images/09/J_Vzory_02.gif"
+  ],
+  "year": "2009/2010",
+  "category": "Junior",
+  "type": "image",
+  "correct_index": 1,
+  "correct_answer": "tkaj (modrá, 5, 6)\n\u000btkaj (červená, 4, 2)\n\u000btkaj (žltá, 3, 3) ",
+  "correct_answer_plain": "tkaj (modrá, 5, 6)\n\u000btkaj (červená, 4, 2)\n\u000btkaj (žltá, 3, 3)"
+}

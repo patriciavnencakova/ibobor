@@ -1,0 +1,37 @@
+{
+  "id": 996,
+  "serial_number": 7,
+  "title": "Nájdi graf",
+  "question": "V tabuľke máme nasledujúce údaje:<br/> <image_1><br/> <br/> Ktorý z grafov <b>ne</b>znázorňuje tieto údaje? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "<image_2>"
+    },
+    {
+      "value": "1",
+      "label": "<image_3>"
+    },
+    {
+      "value": "2",
+      "label": "<image_4>"
+    },
+    {
+      "value": "3",
+      "label": "<image_5>"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/08/J-S_USE_LV_006.gif",
+    "http://demo.ibobor.sk/sutaz/images/08/J-S_USE_LV_006-aa.gif",
+    "http://demo.ibobor.sk/sutaz/images/08/J-S_USE_LV_006-cc.gif",
+    "http://demo.ibobor.sk/sutaz/images/08/J-S_USE_LV_006-bb.gif",
+    "http://demo.ibobor.sk/sutaz/images/08/J-S_USE_LV_006-dd.gif"
+  ],
+  "year": "2008/2009",
+  "category": "Junior",
+  "type": "image",
+  "correct_index": 1,
+  "correct_answer": "http://demo.ibobor.sk/sutaz/images/08/J-S_USE_LV_006-cc.gif",
+  "correct_answer_plain": null
+}

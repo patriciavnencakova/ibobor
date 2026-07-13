@@ -1,0 +1,33 @@
+{
+  "id": 172,
+  "serial_number": 8,
+  "title": "V ohrození",
+  "question": "Do trojuholníkového rámu sme dali 13 gúľ tak, ako to vidieť na obrázku. Ak nadvihneme horný roh rámu, hrozí nebezpečenstvo, že sa niektoré gule skotúľajú nižšie, lebo tam sú medzery.<br/> <image_1><br/> Hovoríme, že guľa je <b>ohrozená</b>, ak je splnená niektorá z podmienok:<ul><li>pod ňou hneď vľavo alebo vpravo je medzera</li><li>pod ňou hneď vľavo alebo vpravo je <b>ohrozená</b> guľa.</li></ul><br/> Koľko gúľ v ráme <b>nie je</b> ohrozených? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "10"
+    },
+    {
+      "value": "1",
+      "label": "5"
+    },
+    {
+      "value": "2",
+      "label": "2"
+    },
+    {
+      "value": "3",
+      "label": "8"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/19/2019-BE-02.png"
+  ],
+  "year": "2019/2020",
+  "category": "Senior",
+  "type": "image",
+  "correct_index": 3,
+  "correct_answer": "8 ",
+  "correct_answer_plain": "8"
+}

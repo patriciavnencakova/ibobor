@@ -1,0 +1,47 @@
+{
+  "id": 242,
+  "serial_number": 9,
+  "title": "Mimozemšťan Fufo",
+  "question": "Mimozemšťan má hlavu, brucho, dve ruky a dve nohy. Na jeho planéte je zvykom si meniť niektorú časť tela pomocou jedného z príkazov:<br/> <b>HK</b>: hlava je <image_1> <b>HO</b>: hlava je <image_2> <b>HT</b>: hlava je <image_3><br/> <b>BK</b>: brucho je <image_4> <b>BO</b>: brucho je <image_5> <b>BT</b>: brucho je <image_6><br/> <b>RK</b>: ruky sú <image_7> <b>RD</b>: ruky sú <image_8><br/> <b>NK</b>: nohy sú <image_9> <b>ND</b>: nohy sú <image_10><br/> Mimozemšťan Fufo vyzeral tak, ako na obrázku vľavo a po použití týchto príkazov <br/> <b>HO, BO, RK, NK</b><br/> vyzeral tak, ako na obrázku vpravo<br/> <image_11><br/> Fufo potom použil postupnosť týchto príkazov:<br/> <b>HT, ND, BT, RD, HK, RK, BK</b><br/> Na ktorom obrázku je Fufo?<br/> <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "<image_12>"
+    },
+    {
+      "value": "1",
+      "label": "<image_13>"
+    },
+    {
+      "value": "2",
+      "label": "<image_14>"
+    },
+    {
+      "value": "3",
+      "label": "<image_15>"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/18/2018-TR-06_HK.png",
+    "http://demo.ibobor.sk/sutaz/images/18/2018-TR-06_HO.png",
+    "http://demo.ibobor.sk/sutaz/images/18/2018-TR-06_HT.png",
+    "http://demo.ibobor.sk/sutaz/images/18/2018-TR-06_BK.png",
+    "http://demo.ibobor.sk/sutaz/images/18/2018-TR-06_BO.png",
+    "http://demo.ibobor.sk/sutaz/images/18/2018-TR-06_BT.png",
+    "http://demo.ibobor.sk/sutaz/images/18/2018-TR-06_RK.png",
+    "http://demo.ibobor.sk/sutaz/images/18/2018-TR-06_RD.png",
+    "http://demo.ibobor.sk/sutaz/images/18/2018-TR-06_NK.png",
+    "http://demo.ibobor.sk/sutaz/images/18/2018-TR-06_ND.png",
+    "http://demo.ibobor.sk/sutaz/images/18/2018-TR-06_ukazka.png",
+    "http://demo.ibobor.sk/sutaz/images/18/2018-TR-06-c.png",
+    "http://demo.ibobor.sk/sutaz/images/18/2018-TR-06-a.png",
+    "http://demo.ibobor.sk/sutaz/images/18/2018-TR-06-d.png",
+    "http://demo.ibobor.sk/sutaz/images/18/2018-TR-06-b.png"
+  ],
+  "year": "2018/2019",
+  "category": "Kadet",
+  "type": "image",
+  "correct_index": 0,
+  "correct_answer": "http://demo.ibobor.sk/sutaz/images/18/2018-TR-06-c.png",
+  "correct_answer_plain": null
+}

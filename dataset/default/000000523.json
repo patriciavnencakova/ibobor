@@ -1,0 +1,35 @@
+{
+  "id": 522,
+  "serial_number": 13,
+  "title": "Výroba misiek",
+  "question": "V továrni vyrábajú sady misiek šiestich rôznych veľkostí. <br/> Pred vložením do krabíc musia byť misky utriedené tak, ako na obrázku:<br/> <image_1><br/> Misky sú v nejakom poradí a pohybujú sa na dopravnom páse v smere šípky. Aby boli misky utriedené, továreň postaví vedľa seba k pásu robotníkov. Každý robotník sleduje na dopravnom páse len dve susedné misky, ktoré prechádzajú popri ňom. Ak sú tie dve susedné misky, ktoré sleduje v nesprávnom poradí, vymení ich.<br/> Na obrázkoch vidíš, ako v sade prichádzajúcich misiek zmenil poradie <b>jeden</b> robotník.<br/> <image_2><br/> Na ďalšom obrázku je sada misiek v nejakom poradí. Misky sa pohybujú na dopravnom páse v smere šípky:<br/> <image_3><br/> <b>Najmenej</b> koľko robotníkov musí továreň umiestniť vedľa seba k dopravnému pásu, aby utriedili túto sadu misiek? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "2"
+    },
+    {
+      "value": "1",
+      "label": "5"
+    },
+    {
+      "value": "2",
+      "label": "4"
+    },
+    {
+      "value": "3",
+      "label": "3"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/15/2015-MY-04_utried.png",
+    "http://demo.ibobor.sk/sutaz/images/15/2015-MY-04_priklad.png",
+    "http://demo.ibobor.sk/sutaz/images/15/2015-MY-04_zad.png"
+  ],
+  "year": "2015/2016",
+  "category": "Junior",
+  "type": "image",
+  "correct_index": 2,
+  "correct_answer": "4 ",
+  "correct_answer_plain": "4"
+}

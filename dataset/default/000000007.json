@@ -1,0 +1,37 @@
+{
+  "id": 6,
+  "serial_number": 7,
+  "title": "Kam doletí",
+  "question": "Včielka dokáže preletieť z jedného štvorčeka na susedný štvorček smerom hore, dole, vpravo alebo vľavo.<br/> Let včielky z <b>úľa</b> <image_1> na <b>červený kvet</b> <image_2> môžeme zapísať ako<br/> <b>HORE – VPRAVO – VPRAVO</b>.<br/> <image_3><br/> Ktorou postupnosťou sa včielka dostane <b>z úľa</b> <image_4> na niektorý <b>modrý kvet</b> <image_5> ? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "<b>HORE – VĽAVO – VĽAVO</b>"
+    },
+    {
+      "value": "1",
+      "label": "<b>DOLE – DOLE – VPRAVO</b>"
+    },
+    {
+      "value": "2",
+      "label": "<b>DOLE – DOLE – VĽAVO</b>"
+    },
+    {
+      "value": "3",
+      "label": "<b>VĽAVO - DOLE – DOLE</b>"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/20/2020-SK-04_ul.png",
+    "http://demo.ibobor.sk/sutaz/images/20/2020-SK-04_cerveny.png",
+    "http://demo.ibobor.sk/sutaz/images/20/2020-SK-04_D.png",
+    "http://demo.ibobor.sk/sutaz/images/20/2020-SK-04_ul.png",
+    "http://demo.ibobor.sk/sutaz/images/20/2020-SK-04_modry.png"
+  ],
+  "year": "2020/2021",
+  "category": "Drobec",
+  "type": "image",
+  "correct_index": 1,
+  "correct_answer": "<b>DOLE – DOLE – VPRAVO</b> ",
+  "correct_answer_plain": "DOLE – DOLE – VPRAVO"
+}

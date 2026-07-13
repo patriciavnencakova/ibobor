@@ -1,0 +1,38 @@
+{
+  "id": 334,
+  "serial_number": 2,
+  "title": "Kotúľajúce sa loptičky",
+  "question": "Keď pustíme 5 loptičiek po šikmej rampe, loptička s číslom 1 spadne do diery, za ňou tam spadnú aj loptičky 2 a 3. Ostatné loptičky sa do diery už nezmestia, a tak prejdú do dolnej časti a zastavia sa. Keď potom uvoľníme pružinu, loptičky z diery sa vysunú a skotúľajú k ostatným loptičkám tak, že najprv sa skotúľa loptička 3, ktorá je na vrchu diery, potom 2 a nakoniec 1. Všimni si, že v dolnej časti je teraz iné poradie loptičiek, ako keď sa začali kotúľať:<br/> <image_1><br/> Na rampe s troma dierami sa kotúľa 10 loptičiek. Niektoré z nich padnú do diery A, iné do B, ďalšie do C a zvyšné sa skotúľajú do dolnej časti rampy. Potom postupne uvoľníme pružiny. Najprv pružinu v diere A, potom v B a nakoniec v C.<br/> <image_2><br/> V akom poradí budú usporiadané loptičky v dolnej časti rampy? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "<image_3>"
+    },
+    {
+      "value": "1",
+      "label": "<image_4>"
+    },
+    {
+      "value": "2",
+      "label": "<image_5>"
+    },
+    {
+      "value": "3",
+      "label": "<image_6>"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/17/2017-RS-02-ukazka.png",
+    "http://demo.ibobor.sk/sutaz/images/17/2017-RS-02-zadanie.png",
+    "http://demo.ibobor.sk/sutaz/images/17/2017-RS-02-D.png",
+    "http://demo.ibobor.sk/sutaz/images/17/2017-RS-02-A.png",
+    "http://demo.ibobor.sk/sutaz/images/17/2017-RS-02-C.png",
+    "http://demo.ibobor.sk/sutaz/images/17/2017-RS-02-B.png"
+  ],
+  "year": "2017/2018",
+  "category": "Kadet",
+  "type": "image",
+  "correct_index": 0,
+  "correct_answer": "http://demo.ibobor.sk/sutaz/images/17/2017-RS-02-D.png",
+  "correct_answer_plain": null
+}

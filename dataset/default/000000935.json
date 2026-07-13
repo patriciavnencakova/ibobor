@@ -1,0 +1,31 @@
+{
+  "id": 934,
+  "serial_number": 5,
+  "title": "Knižnica",
+  "question": "V knižnici si požičiavame knihy. Pri každom požičaní sa naše osobné údaje a tituly požičaných kníh uložia v počítačovom systéme. Tieto údaje sú chránené pred zneužitím.<br> <br> Ktorý z nasledujúcich prípadov odhalí najviac o našom súkromí? <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "Neoprávnená osoba zistila, kto má požičané aké knihy."
+    },
+    {
+      "value": "1",
+      "label": "Neoprávnená osoba zistila, ktorá kniha sa ako často požičiava."
+    },
+    {
+      "value": "2",
+      "label": "Neoprávnená osoba zistila počet členov knižnice."
+    },
+    {
+      "value": "3",
+      "label": "Neoprávnená osoba zistila počet kníh v databáze knižnice."
+    }
+  ],
+  "images": [],
+  "year": "2009/2010",
+  "category": "Junior",
+  "type": "text",
+  "correct_index": 0,
+  "correct_answer": "Neoprávnená osoba zistila, kto má požičané aké knihy. ",
+  "correct_answer_plain": "Neoprávnená osoba zistila, kto má požičané aké knihy."
+}

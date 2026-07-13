@@ -1,0 +1,31 @@
+{
+  "id": 715,
+  "serial_number": 5,
+  "title": "Heslo",
+  "question": "Tajná kniha sa otvára šesťpísmenovým heslom, ktoré si Anička zapísala pomocou čísel 9 23 14 14 18 5. Každé písmeno z abecedy má svoje pevné číslo.<br> Aké je jej heslo? <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "DZZMER"
+    },
+    {
+      "value": "1",
+      "label": "BTRRTN"
+    },
+    {
+      "value": "2",
+      "label": "DRFZED"
+    },
+    {
+      "value": "3",
+      "label": "BASSUR"
+    }
+  ],
+  "images": [],
+  "year": "2012/2013",
+  "category": "Kadet",
+  "type": "text",
+  "correct_index": 3,
+  "correct_answer": "BASSUR ",
+  "correct_answer_plain": "BASSUR"
+}

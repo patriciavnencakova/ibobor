@@ -1,0 +1,36 @@
+{
+  "id": 736,
+  "serial_number": 11,
+  "title": "Dostane sa robot do cieľa?",
+  "question": "Robot sa pohybuje na mape. Je naprogramovaný tak, že opakuje tieto príkazy:<br/> <ul><li>Choď dopredu, kým pred tebou nie je prekážka (čierne políčko), alebo okraj mapy alebo už navštívené políčko.</li><li>Keď nemôžeš ísť dopredu, otoč sa vpravo o 90°.</li></ul><br/> Šípka ukazuje štartovú pozíciu a smer robota.<br/> <br/> Na ktorej mape sa robot podľa tohto programu <b>nedostane</b> na zelený štvorček?<br/> <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "<image_1>"
+    },
+    {
+      "value": "1",
+      "label": "<image_2>"
+    },
+    {
+      "value": "2",
+      "label": "<image_3>"
+    },
+    {
+      "value": "3",
+      "label": "<image_4>"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/12/2012-AT-12-a.png",
+    "http://demo.ibobor.sk/sutaz/images/12/2012-AT-12-d.png",
+    "http://demo.ibobor.sk/sutaz/images/12/2012-AT-12-b.png",
+    "http://demo.ibobor.sk/sutaz/images/12/2012-AT-12-c.png"
+  ],
+  "year": "2012/2013",
+  "category": "Junior",
+  "type": "image",
+  "correct_index": 3,
+  "correct_answer": "http://demo.ibobor.sk/sutaz/images/12/2012-AT-12-c.png",
+  "correct_answer_plain": null
+}

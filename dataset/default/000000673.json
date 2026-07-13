@@ -1,0 +1,33 @@
+{
+  "id": 672,
+  "serial_number": 4,
+  "title": "Usporiadanie tabuľky",
+  "question": "On-line obchod má na webe tabuľku s údajmi o 3D Puzzle. Tabuľku sme usporiadali v tabuľkovom editore podľa 2 kritérií:<br/> <image_1><br/> Podľa ktorých? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "Podľa ceny a pri rovnakej cene podľa počtu dielikov."
+    },
+    {
+      "value": "1",
+      "label": "Podľa ceny a pri rovnakej cene podľa výšky."
+    },
+    {
+      "value": "2",
+      "label": "Podľa ceny a pri rovnakej cene podľa čísla."
+    },
+    {
+      "value": "3",
+      "label": "Podľa ceny a pri rovnakej cene podľa názvu."
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/13/2013-SK-08_SK.png"
+  ],
+  "year": "2013/2014",
+  "category": "Senior",
+  "type": "image",
+  "correct_index": 0,
+  "correct_answer": "Podľa ceny a pri rovnakej cene podľa počtu dielikov. ",
+  "correct_answer_plain": "Podľa ceny a pri rovnakej cene podľa počtu dielikov."
+}

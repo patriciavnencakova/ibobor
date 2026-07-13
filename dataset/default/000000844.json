@@ -1,0 +1,36 @@
+{
+  "id": 843,
+  "serial_number": 1,
+  "title": "Vlny",
+  "question": "Pepek námorník našiel na ostrove poklad a chce o tom poslať správu svojmu priateľovi na pevnine. Keď Pepek zje špenát, dokáže vytvárať rôzne druhy morských vĺn, ktoré používa na signalizovanie. S priateľom majú dohodnuté tieto signály:<br/> <ul><li>Našiel som poklad. <image_1></li> <br/> <li>Čakám na ostrove. <image_2></li><br/> <li>Ponáhľaj sa! <image_3></li></ul><br/> <br/> Pepek poslal svojmu priateľovi takúto „vlnovú” správu:<br/> <image_4><br/> <br/> Čo znamenala? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "Našiel som poklad. Čakám na ostrove. Ponáhľaj sa!"
+    },
+    {
+      "value": "1",
+      "label": "Ponáhľaj sa! Našiel som poklad. Ponáhľaj sa! Čakám na ostrove."
+    },
+    {
+      "value": "2",
+      "label": "Čakám na ostrove. Ponáhľaj sa!"
+    },
+    {
+      "value": "3",
+      "label": "Ponáhľaj sa! Ponáhľaj sa! Našiel som poklad. Čakám na ostrove."
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/10/2010-IL-06-wave1.gif",
+    "http://demo.ibobor.sk/sutaz/images/10/2010-IL-06-wave2.gif",
+    "http://demo.ibobor.sk/sutaz/images/10/2010-IL-06-wave3.gif",
+    "http://demo.ibobor.sk/sutaz/images/10/2010-IL-06-wave4.gif"
+  ],
+  "year": "2010/2011",
+  "category": "Kadet",
+  "type": "image",
+  "correct_index": 3,
+  "correct_answer": "Ponáhľaj sa! Ponáhľaj sa! Našiel som poklad. Čakám na ostrove.  ",
+  "correct_answer_plain": "Ponáhľaj sa! Ponáhľaj sa! Našiel som poklad. Čakám na ostrove."
+}

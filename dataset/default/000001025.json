@@ -1,0 +1,31 @@
+{
+  "id": 1024,
+  "serial_number": 5,
+  "title": "2",
+  "question": "Spam je <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "internetový vtip"
+    },
+    {
+      "value": "1",
+      "label": "operačný systém"
+    },
+    {
+      "value": "2",
+      "label": "známy vírus"
+    },
+    {
+      "value": "3",
+      "label": "nevyžiadaná správa"
+    }
+  ],
+  "images": [],
+  "year": "2007/2008",
+  "category": "Benjamín",
+  "type": "text",
+  "correct_index": 3,
+  "correct_answer": "nevyžiadaná správa ",
+  "correct_answer_plain": "nevyžiadaná správa"
+}

@@ -1,0 +1,31 @@
+{
+  "id": 671,
+  "serial_number": 3,
+  "title": "Kódovanie",
+  "question": "Deti sa hrali so slovami a vymysleli takéto kódovanie:<ul><li>Každé písmeno nahraď skupinou toľkých rovnakých písmen, koľké v poradí je dané písmeno v kódovanom slove.</li><li>Písmená usporiadaj podľa abecedy.</li><li>Rovnaké písmená nahraď dvojicou „číslo písmeno“, pričom číslo znamená počet rovnakých písmen, ktoré nasledujú tesne za sebou.</li></ul><br> Napr. OKO takto zakódujeme: OKKOOO, po usporiadaní KKOOOO a po nahradení dvojicami číslo písmeno je výsledný kód: 2K4O.<br> Aké ďalšie slovo je zakódované rovnakým kódom ako slovo BOBOR? <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "BOROB"
+    },
+    {
+      "value": "1",
+      "label": "ORRBO"
+    },
+    {
+      "value": "2",
+      "label": "už žiadne ďalšie"
+    },
+    {
+      "value": "3",
+      "label": "OBBRO"
+    }
+  ],
+  "images": [],
+  "year": "2013/2014",
+  "category": "Senior",
+  "type": "text",
+  "correct_index": 1,
+  "correct_answer": "ORRBO ",
+  "correct_answer_plain": "ORRBO"
+}

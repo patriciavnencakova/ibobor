@@ -1,0 +1,33 @@
+{
+  "id": 199,
+  "serial_number": 2,
+  "title": "Roboti",
+  "question": "<image_1><br/> Ktorá veta o robotoch na obrázku je pravdivá?<br/> <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "Všetci roboti sa usmievajú."
+    },
+    {
+      "value": "1",
+      "label": "Ani jeden robot sa neusmieva."
+    },
+    {
+      "value": "2",
+      "label": "Všetci roboti majú dve nohy."
+    },
+    {
+      "value": "3",
+      "label": "Ani jeden robot nejazdí na koliesku."
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/18/2018-LV-03.png"
+  ],
+  "year": "2018/2019",
+  "category": "Drobec",
+  "type": "image",
+  "correct_index": 0,
+  "correct_answer": "Všetci roboti sa usmievajú. ",
+  "correct_answer_plain": "Všetci roboti sa usmievajú."
+}

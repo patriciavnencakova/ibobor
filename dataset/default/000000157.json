@@ -1,0 +1,37 @@
+{
+  "id": 156,
+  "serial_number": 7,
+  "title": "Baliaci stroj",
+  "question": "V továrni na výrobu drevených kociek sa baliaci stroj ovláda štyrmi tlačidlami. Keď sa stlačí niektoré z tlačidiel 1, 2, 3, do škatule padne kocka, ktorá je v príslušnom rade prvá zľava.<br/> Keď sa stlačí tlačidlo 4, stroj vyberie vrchnú kocku zo škatule.<br/> Na obrázku vľavo je počiatočné rozloženie kociek.<br/> Po stlačení tlačidiel v poradí 1, 2, 4, 3 budú v škatuli kocky C a L, tak ako je na obrázku vpravo.<br/> Druhá zhora je kocka C.<br/> <image_1><br/> Ktorá kocka bude v škatuli druhá zhora, ak sa v počiatočnom rozložení postupne stlačia tlačidlá<br/> 3, 1, 1, 4, 4, 2, 3, 4? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "<image_2>"
+    },
+    {
+      "value": "1",
+      "label": "<image_3>"
+    },
+    {
+      "value": "2",
+      "label": "<image_4>"
+    },
+    {
+      "value": "3",
+      "label": "<image_5>"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/19/2019-JP-05.png",
+    "http://demo.ibobor.sk/sutaz/images/19/2019-JP-05_C.png",
+    "http://demo.ibobor.sk/sutaz/images/19/2019-JP-05_D.png",
+    "http://demo.ibobor.sk/sutaz/images/19/2019-JP-05_A.png",
+    "http://demo.ibobor.sk/sutaz/images/19/2019-JP-05_B.png"
+  ],
+  "year": "2019/2020",
+  "category": "Junior",
+  "type": "image",
+  "correct_index": 0,
+  "correct_answer": "http://demo.ibobor.sk/sutaz/images/19/2019-JP-05_C.png",
+  "correct_answer_plain": null
+}

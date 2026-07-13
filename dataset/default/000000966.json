@@ -1,0 +1,38 @@
+{
+  "id": 965,
+  "serial_number": 6,
+  "title": "Zakódovaný obrázok",
+  "question": "Bobry majú špeciálny spôsob kódovania obrázkov podľa nasledujúcej tabuľky:<br/> <image_1><br/> Napríklad obrázok<br/> <image_2><br/> bude mať kód: EACAE;AECEA;CCECC; AECEA; EACAE;<br/> <br/> Ktorý z obrázkov bude mať kód CCCCC;ACCCA;AADAA;BABAB;ABBBA? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "<image_3>"
+    },
+    {
+      "value": "1",
+      "label": "<image_4>"
+    },
+    {
+      "value": "2",
+      "label": "<image_5>"
+    },
+    {
+      "value": "3",
+      "label": "<image_6>"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/08/B_PUZ_SK_204-kody.gif",
+    "http://demo.ibobor.sk/sutaz/images/08/B_PUZ_SK_204-vzor.gif",
+    "http://demo.ibobor.sk/sutaz/images/08/B_PUZ_SK_204-b.gif",
+    "http://demo.ibobor.sk/sutaz/images/08/B_PUZ_SK_204-c.gif",
+    "http://demo.ibobor.sk/sutaz/images/08/B_PUZ_SK_204-a.gif",
+    "http://demo.ibobor.sk/sutaz/images/08/B_PUZ_SK_204-d.gif"
+  ],
+  "year": "2008/2009",
+  "category": "Benjamín",
+  "type": "image",
+  "correct_index": 1,
+  "correct_answer": "http://demo.ibobor.sk/sutaz/images/08/B_PUZ_SK_204-c.gif",
+  "correct_answer_plain": null
+}

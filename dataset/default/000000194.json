@@ -1,0 +1,31 @@
+{
+  "id": 193,
+  "serial_number": 5,
+  "title": "Cukríky",
+  "question": "Štyri bobry sedia vedľa seba pri stole v poradí Lukáš, Tomáš, Erik a Jožko.<br> Mama dala každému z nich cukríky podľa zásluh. <br> Lukášovi 4 cukríky<br> Tomášovi 5 cukríkov<br> Erikovi 5 cukríkov<br> Jožkovi 2 cukríky <br> Bobry sa rozhodli, že si cukríky rozdelia tak, aby mal každý rovnaký počet. <br> Mama im to dovolila pod podmienkou, že budú cukríky presúvať len po jednom, len medzi susedmi a bobor, ktorý dostane cukrík musí povedať ďakujem.<br> Bobry si cukríky spravodlivo rozdelili, pričom dodržali mamine pravidlá.<br> Najmenej koľkokrát mama počula slovo ďakujem? <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "3"
+    },
+    {
+      "value": "1",
+      "label": "5"
+    },
+    {
+      "value": "2",
+      "label": "2"
+    },
+    {
+      "value": "3",
+      "label": "4"
+    }
+  ],
+  "images": [],
+  "year": "2019/2020",
+  "category": "Nevidiaci ZŠ",
+  "type": "text",
+  "correct_index": 0,
+  "correct_answer": "3 ",
+  "correct_answer_plain": "3"
+}

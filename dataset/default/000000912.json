@@ -1,0 +1,33 @@
+{
+  "id": 911,
+  "serial_number": 12,
+  "title": "Kreslenie pomocou oblúkov",
+  "question": "Kresliaci robot pozná príkazy: <br/> <b>vpravoVbok</b> – otočí sa na mieste vpravo v bok,<br/> <b>vlavoVbok</b> – otočí sa na mieste vľavo v bok,<br/> <b>oblukPravy</b> – nakreslí štvrť kružnice (oblúk) smerom vpravo, po skončení bude otočený o 90° vpravo voči pôvodnému smeru,<br/> <b>oblukLavy</b> – nakreslí štvrť kružnice (oblúk) smerom vľavo, po skončení bude otočený o 90° vľavo voči pôvodnému smeru,<br/> <b>opakuj číslo [príkaz príkaz ...]</b> – robot zopakuje príkazy v zátvorkách <b>[príkaz príkaz ...]</b> toľkokrát, koľko udáva číslo.<br/> <br/> Ktoré príkazy nakreslia nasledujúci obrázok?<br/> <image_1> <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "<b>opakuj 2 [oblukPravy vlavoVbok oblukPravy vpravoVbok]</b>"
+    },
+    {
+      "value": "1",
+      "label": "<b>opakuj 2 [oblukPravy oblukLavy] </b>"
+    },
+    {
+      "value": "2",
+      "label": "<b>opakuj 2 [oblukPravy vpravoVbok oblukLavy vlavoVbok]</b>"
+    },
+    {
+      "value": "3",
+      "label": "<b>opakuj 2 [oblukPravy vpravoVbok oblukLavy vpravoVbok]</b>"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/09/B_Kreslenie_pomocou_obrazkov.gif"
+  ],
+  "year": "2009/2010",
+  "category": "Benjamín",
+  "type": "image",
+  "correct_index": 2,
+  "correct_answer": "<b>opakuj 2 [oblukPravy vpravoVbok oblukLavy vlavoVbok]</b> ",
+  "correct_answer_plain": "opakuj 2 [oblukPravy vpravoVbok oblukLavy vlavoVbok]"
+}

@@ -1,0 +1,33 @@
+{
+  "id": 440,
+  "serial_number": 3,
+  "title": "Preprava kmeňov",
+  "question": "Bobor Laco musí prepraviť kmene cez systém kanálov. Na obrázku sú kruhmi označené jednotlivé stanice, čiarami sú označené kanály. Šípky označujú smer prepravy. Každý kanál má určenú maximálnu kapacitu kmeňov, ktorú cez kanál môžu prepraviť z jednotlivých staníc za jeden deň. Z jednej stanice môže Laco poslať kmene aj cez rôzne kanály.<br/> <image_1><br/> <b>Najviac</b> koľko kmeňov dokáže Laco prepraviť zo stanice S do stanice T za jeden deň? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "5"
+    },
+    {
+      "value": "1",
+      "label": "4"
+    },
+    {
+      "value": "2",
+      "label": "7"
+    },
+    {
+      "value": "3",
+      "label": "6"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/16/2016-CA-07.png"
+  ],
+  "year": "2016/2017",
+  "category": "Junior",
+  "type": "image",
+  "correct_index": 0,
+  "correct_answer": "5 ",
+  "correct_answer_plain": "5"
+}

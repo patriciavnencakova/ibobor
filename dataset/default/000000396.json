@@ -1,0 +1,31 @@
+{
+  "id": 395,
+  "serial_number": 9,
+  "title": "Zlomená ruka",
+  "question": "David má v rade uložených 5 vetvičiek v tomto poradí:<br> 4 2 1 5 3<br> Čísla reprezentujú počet lístkov na jednotlivých vetvičkách.<br> Pomôž Davidovi zoradiť vetvičky tak, aby boli v tomto poradí:<br> 5 4 3 2 1<br> David má však zlomenú ruku, takže môže vždy presunúť len jednu vetvičku.<br> Buď ju presunie na pomocné miesto, ktoré si pripravil mimo radu, alebo<br> na uvoľnené miesto v rade vetvičiek.<br> Aký je minimálny počet presunov, ktoré musí David spraviť? <br>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "5"
+    },
+    {
+      "value": "1",
+      "label": "6"
+    },
+    {
+      "value": "2",
+      "label": "4"
+    },
+    {
+      "value": "3",
+      "label": "7"
+    }
+  ],
+  "images": [],
+  "year": "2017/2018",
+  "category": "Nevidiaci ZŠ",
+  "type": "text",
+  "correct_index": 1,
+  "correct_answer": "6 ",
+  "correct_answer_plain": "6"
+}

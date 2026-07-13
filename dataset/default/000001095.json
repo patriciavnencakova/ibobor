@@ -1,0 +1,33 @@
+{
+  "id": 1094,
+  "serial_number": 12,
+  "title": "Vežičky",
+  "question": "Máme štyri vežičky z kociek. Robot dokáže pomocou príkazov preniesť niekoľko vrchných kociek z jednej vežičky na druhú.<br/> Robot vie vykonať príkaz, ktorý je zapísaný ako trojica:<br/> <b>(B, 2, D)</b> znamená: z vežičky B zober 2 kocky a polož ich na vežičku D<br/> <br/> <image_1> <br/> <br/> Ktoré tri príkazy zmenia vežičky na obrázku tak, že na každej vežičke bude <b>iný počet</b> kociek ako na ostatných vežičkách?<br/> <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "<b> (A, 2, C), (D, 1, A), (D, 1, B) </b>"
+    },
+    {
+      "value": "1",
+      "label": "<b> (A, 1, C), (D, 2, B), (D, 2, C)</b>"
+    },
+    {
+      "value": "2",
+      "label": "<b>(A, 2, C), (D, 1, B), (D, 1, C)</b>"
+    },
+    {
+      "value": "3",
+      "label": "<b>(A, 1, C), (D, 1, B), (D, 1, C) </b>"
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/20k/2020-SK-12.png"
+  ],
+  "year": "Karanténa",
+  "category": "6.-9.roč.",
+  "type": "image",
+  "correct_index": 2,
+  "correct_answer": "<b>(A, 2, C), (D, 1, B), (D, 1, C)</b> ",
+  "correct_answer_plain": "(A, 2, C), (D, 1, B), (D, 1, C)"
+}

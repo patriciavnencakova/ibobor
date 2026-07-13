@@ -1,0 +1,33 @@
+{
+  "id": 604,
+  "serial_number": 8,
+  "title": "Kruhy a štvorce",
+  "question": "Janko dal na nástenku 7 vystrihnutých objektov:<br/> <image_1><br/> Ktorý z nasledujúcich výrokov je pravdivý? <br/>",
+  "choices": [
+    {
+      "value": "0",
+      "label": "Pre každý pár objektov X a Y platí: ak X je malý a Y je veľký, tak X je napravo od Y."
+    },
+    {
+      "value": "1",
+      "label": "Pre každý pár objektov X a Y platí: ak je X štvorcový a Y je kruhový, tak X je nad Y."
+    },
+    {
+      "value": "2",
+      "label": "Existuje pár objektov X a Y, kde X je tmavomodrý a Y je svetložltý a X je nad Y."
+    },
+    {
+      "value": "3",
+      "label": "Pre každý pár objektov X a Y platí: ak X je svetložltý a Y je tmavomodrý, tak X je pod Y."
+    }
+  ],
+  "images": [
+    "http://demo.ibobor.sk/sutaz/images/14/2014-RU-03_SK.png"
+  ],
+  "year": "2014/2015",
+  "category": "Senior",
+  "type": "image",
+  "correct_index": 0,
+  "correct_answer": "Pre každý pár objektov X a Y platí: ak X je malý a Y je veľký, tak X je napravo od Y. ",
+  "correct_answer_plain": "Pre každý pár objektov X a Y platí: ak X je malý a Y je veľký, tak X je napravo od Y."
+}
