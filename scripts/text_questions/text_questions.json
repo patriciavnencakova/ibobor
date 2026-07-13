@@ -1,0 +1,4248 @@
+[
+  {
+    "id": 95,
+    "question": "V bobrovskej škole majú v jednej polici v rade uložené knihy na požičiavanie. Keď si niekto požičiava knihu, <b>vezme prvú zľava</b> v rade a zapíše sa do knihy výpožičiek. Keď niekto vracia knihu, položí ju na <b>ľavú stranu radu</b> a zapíše sa do knihy výpožičiek.<br> Dnes ráno boli v polici zľava doprava uložené knihy v takomto poradí:<br> <b>Slovenské rozprávky, Nevedkove dobrodružstvá, Danka a Janka, O psíčkovi a mačičke</b><br> V knihe výpožičiek boli postupne takéto zápisy:<br> Anna – požičané<br> Ferko – požičané<br> Anna – vrátené<br> Zuzka – požičané<br> Marta – požičané<br> Ktorú knihu si požičala Marta? <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "Danka a Janka"
+      },
+      {
+        "value": "1",
+        "label": "Nevedkove dobrodružstvá"
+      },
+      {
+        "value": "2",
+        "label": "Slovenské rozprávky"
+      },
+      {
+        "value": "3",
+        "label": "O psíčkovi a mačičke"
+      }
+    ]
+  },
+  {
+    "id": 582,
+    "question": "Bobria škola plánuje na konci roka vydať pre svojich absolventov časopis v dvoch verziách: ako webovú stránku a aj ako tlačený dokument.<br> <br> Aký grafický formát im odporučíte použiť na fotografie učiteľov a žiakov, aby bol vhodný pre obe verzie časopisu? <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "gif"
+      },
+      {
+        "value": "1",
+        "label": "jpg"
+      },
+      {
+        "value": "2",
+        "label": "bmp"
+      },
+      {
+        "value": "3",
+        "label": "mp4"
+      }
+    ]
+  },
+  {
+    "id": 1053,
+    "question": "GPL je <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "programovací jazyk používaný hlavne v Linuxe"
+      },
+      {
+        "value": "1",
+        "label": "operačný systém"
+      },
+      {
+        "value": "2",
+        "label": "typ licencie používaný Open Source softvérom"
+      },
+      {
+        "value": "3",
+        "label": "štandard počítačových sietí"
+      }
+    ]
+  },
+  {
+    "id": 183,
+    "question": "V Bobrove majú systém na zistenie jazyka, z ktorého pochádzajú slová.<br> Celkové skóre slova systém vypočíta podľa tabuľky:<br> <table style=\"width:300px;border:1px solid black;\"><tbody><tr><td style=\"border:1px solid black;padding:2px;text-align:left\">začína písmenom p</td><td style=\"border:1px solid black;padding:2px;text-align:right\">-2</td></tr><tr><td style=\"border:1px solid black;padding:2px;text-align:left\">končí písmenom d<br> </td><td style=\"border:1px solid black;padding:2px;text-align:right\">-2</td></tr><tr><td style=\"border:1px solid black;padding:2px;text-align:left\">má viac ako 6 znakov</td><td style=\"border:1px solid black;padding:2px;text-align:right\">+3</td></tr><tr><td style=\"border:1px solid black;padding:2px;text-align:left\">je v ňom q, za ktorým nasleduje n alebo y</td><td style=\"border:1px solid black;padding:2px;text-align:right\">-4</td></tr><tr><td style=\"border:1px solid black;padding:2px;text-align:left\">má vedľa seba tri samohlásky (a, e, i, o, u)</td><td style=\"border:1px solid black;padding:2px;text-align:right\">+5</td></tr><tr><td style=\"border:1px solid black;padding:2px;text-align:left\">obsahuje apostrof</td><td style=\"border:1px solid black;padding:2px;text-align:right\">+1</td></tr></tbody></table> Ak vyjde skóre <b>menšie ako 0</b>, systém vyhodnotí, že slovo je z jazyka vydrovčina. Inak systém vyhodnotí, že slovo je z jazyka bobrovčina.<br> Napríklad pre slovo <br> palliod<br> systém vypočíta skóre <br> -2-2+3=-1<br> a vyhodnotí, že je z jazyka vydrovčina.<br> Systém dostal slovo<br> paqnoood<br> Ako systém vyhodnotil toto slovo? <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "vydrovčina"
+      },
+      {
+        "value": "1",
+        "label": "vydrovčina aj bobrovčina"
+      },
+      {
+        "value": "2",
+        "label": "bobrovčina"
+      },
+      {
+        "value": "3",
+        "label": "neviem určiť"
+      }
+    ]
+  },
+  {
+    "id": 611,
+    "question": "Bobrica Beáta pripravuje narodeninovú oslavu a chce na ňu kúpiť zákusky. V obchode predávajú 8 rôznych druhov zákuskov. Beáta vie, že na jeden druh sú všetky bobry alergické, zabudla však, ktorý druh to je. Ak bobry zjedia takýto zákusok, do 24 hodín sa im vyhádžu červené vyrážky. Beáta potrebuje behom 24 hodín zistiť, ktorý druh zákuskov to je. Jej kamaráti súhlasili, že jej pomôžu s ochutnávaním.<br> Aký minimálny počet bobrov je potrebných, aby Beáta zistila, na ktorý druh zákuskov sú bobry alergické? <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "4"
+      },
+      {
+        "value": "1",
+        "label": "5"
+      },
+      {
+        "value": "2",
+        "label": "6"
+      },
+      {
+        "value": "3",
+        "label": "3"
+      }
+    ]
+  },
+  {
+    "id": 191,
+    "question": "V Bobrove majú pri vjazde do garáže nainštalovaný systém, ktorý rozpoznáva a uchováva značky áut.<br> Momentálne je však pokazený a niektoré písmena a čísla nerozpoznáva správne. <br> P rozpozná ako D<br> 3 rozpozná ako 8<br> G rozpozná ako C<br> Ak systém vyhodnotí, že vchádza auto so značkou, ktorá už garáži je, tak ho dnu nepustí.<br> V garáži už parkuje auto so značkou<br> P 3 G<br> Ktoré auto systém kvôli tomu nepustí do garáže? <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "D 5 G"
+      },
+      {
+        "value": "1",
+        "label": "P 6 C"
+      },
+      {
+        "value": "2",
+        "label": "G 3 P"
+      },
+      {
+        "value": "3",
+        "label": "P 8 C"
+      }
+    ]
+  },
+  {
+    "id": 828,
+    "question": "Robot vie chodiť dopredu, otočiť sa vpravo a vľavo.<br> Príkaz na pohyb dopredu je ODRPDEU, príkaz na otočenie vpravo je ĽVVAO. <br> <br> Aký je príkaz na otočenie vľavo? <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "ĽVOAV"
+      },
+      {
+        "value": "1",
+        "label": "PAOVRV"
+      },
+      {
+        "value": "2",
+        "label": "VĽAVO"
+      },
+      {
+        "value": "3",
+        "label": "PVAROV"
+      }
+    ]
+  },
+  {
+    "id": 715,
+    "question": "Tajná kniha sa otvára šesťpísmenovým heslom, ktoré si Anička zapísala pomocou čísel 9 23 14 14 18 5. Každé písmeno z abecedy má svoje pevné číslo.<br> Aké je jej heslo? <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "DZZMER"
+      },
+      {
+        "value": "1",
+        "label": "BTRRTN"
+      },
+      {
+        "value": "2",
+        "label": "DRFZED"
+      },
+      {
+        "value": "3",
+        "label": "BASSUR"
+      }
+    ]
+  },
+  {
+    "id": 652,
+    "question": "Bobor Bruno chcel plávať nezabudnuteľným plaveckým štýlom, aby ohúril Bibi. Každý plavecký štýl sa skladá z plávania dopredu a otáčania o 90 stupňov vpravo alebo vľavo.<br> Napr. keď bude stále opakovať plavecký štýl<br><b>plávaj – otoč_sa_vpravo</b><br>tak bude plávať stále do štvorca a nikam neodpláva.<br> Opakovaním ktorého plaveckého štýlu odpláva Bruno <b>čo najďalej</b> od miesta, kde začal plávať? <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "<b>plávaj – otoč_sa_vpravo – plávaj – otoč_sa_vpravo – plávaj – plávaj – otoč_sa_vpravo – plávaj – plávaj – otoč_sa_vpravo</b>"
+      },
+      {
+        "value": "1",
+        "label": "<b>plávaj – otoč_sa_vpravo – otoč_sa_vpravo – plávaj – otoč_sa_vpravo</b>"
+      },
+      {
+        "value": "2",
+        "label": "<b>plávaj – otoč_sa_vpravo – plávaj – otoč_sa_vpravo – otoč_sa_vpravo – plávaj – otoč_sa_vľavo – plávaj – otoč_sa_vľavo – otoč_sa_vľavo</b>"
+      },
+      {
+        "value": "3",
+        "label": "<b>plávaj – otoč_sa_vpravo – plávaj – plávaj – otoč_sa_vpravo – plávaj – otoč_sa_vpravo – plávaj – plávaj</b>"
+      }
+    ]
+  },
+  {
+    "id": 1041,
+    "question": "V programovacom jazyku máme dve premenné X a Y. Každá z nich môže obsahovať len celočíselné hodnoty. Chceme vymeniť obsahy premenných X a Y bez pomoci ďalšej premennej.<br> Ktorý program to urobí správne?<br> Znamienko <b>:=</b> označuje priradenie. <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "X := X+Y; Y := X-Y; X := X-Y;"
+      },
+      {
+        "value": "1",
+        "label": "Nie je to možné, preto žiadna z ostatných možností nie je správna."
+      },
+      {
+        "value": "2",
+        "label": "X := Y; Y := X;"
+      },
+      {
+        "value": "3",
+        "label": "X := X+Y; Y := X+Y; X := X-Y;"
+      }
+    ]
+  },
+  {
+    "id": 150,
+    "question": "V izbe sú tri žiarovky (X, Y, Z) a štyri tlačidlá (1, 2, 3, 4).<br> Vieme, že<br> <b>tlačidlo 1</b>: zapne žiarovku Y, vypne žiarovku X<br> <b>tlačidlo 2</b>: zapne žiarovky X aj Y, vypne žiarovku Z<br> <b>tlačidlo 3</b>: zapne žiarovku Z, vypne žiarovku Y<br> <b>tlačidlo 4</b>: zapne žiarovku X<br> Ak stlačíme tlačidlo, ktoré má vypnúť takú žiarovku, ktorá je vypnutá, tak táto žiarovka ostane vypnutá. Ak stlačíme tlačidlo, ktoré má zapnúť takú žiarovku, ktorá je zapnutá, žiarovka ostane zapnutá.<br> Momentálne sú všetky žiarovky <b>vypnuté</b>.<br> Dorka chce stlačiť čo <b>najmenej</b> tlačidiel tak, aby zapla všetky 3 žiarovky.<br> Ktorú z nasledujúcich postupností má stlačiť? <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "2 → 3 → 1 → 4"
+      },
+      {
+        "value": "1",
+        "label": "2 → 3"
+      },
+      {
+        "value": "2",
+        "label": "4 → 1 → 3"
+      },
+      {
+        "value": "3",
+        "label": "3 → 1 → 4"
+      }
+    ]
+  },
+  {
+    "id": 1038,
+    "question": "Janko chcel vložiť do stredu textu ďalšiu vetu. Keď začal písať nový text, tak sa začali strácať pôvodné písmená.<br> Čo to mohlo spôsobiť? <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "Je zapnutý režim vkladania"
+      },
+      {
+        "value": "1",
+        "label": "Jankov počítač je napadnutý vírusom, treba ho preinštalovať"
+      },
+      {
+        "value": "2",
+        "label": "Jankova klávesnica je pokazená a treba ju vymeniť"
+      },
+      {
+        "value": "3",
+        "label": "Je zapnutý režim prepisovania"
+      }
+    ]
+  },
+  {
+    "id": 296,
+    "question": "Hracia plocha sa skladá z radu, v ktorom je 8 políčok označených postupne písmenami A až H. <br> Na niektorom políčku stojí robot, ktorý vie vykonať nasledujúce príkazy.<ul><li>Príkazy <b>1vlavo</b>, <b>2vlavo</b> až <b>7vlavo</b> znamenajú, že robot skočí o 1, 2 až 7 políčok vľavo.</li><li>Príkazy <b>1vpravo</b>, <b>2vpravo</b> až <b>7vpravo</b> znamenajú, že robot skočí o 1, 2 až 7 políčok vpravo.</li></ul><br> Robot stál na políčku C a vykonal takúto postupnosť príkazov<br> <b>2vlavo 7vpravo 2vlavo 1vpravo 3vlavo</b><br> Na ktorom políčku je teraz robot? <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "na políčku D"
+      },
+      {
+        "value": "1",
+        "label": "na políčku E"
+      },
+      {
+        "value": "2",
+        "label": "na políčku C"
+      },
+      {
+        "value": "3",
+        "label": "na políčku B"
+      }
+    ]
+  },
+  {
+    "id": 804,
+    "question": "Bobry majú vlastný systém na kódovanie krajín. Spočítajú počet výskytov každého písmena v anglickom názve krajiny a použijú tri najčastejšie sa vyskytujúce písmená v poradí od najčastejšie sa vyskytujúceho. Písmená s rovnakým počtom výskytu použijú v takom poradí, v akom sa nachádzajú v názve krajiny.<br> Kód Litvy (anglicky LITHUANIA) je IAL, pretože I a A sa vyskytujú dvakrát a zo všetkých písmen, ktoré sa vyskytujú iba raz, je v názve krajiny L ako prvé.<br> <br> Ktorá z týchto bobrích krajín <b>nemá</b> kód EAB? <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "BEAVERIA"
+      },
+      {
+        "value": "1",
+        "label": "BEAVERLAND"
+      },
+      {
+        "value": "2",
+        "label": "BEAVERONIA"
+      },
+      {
+        "value": "3",
+        "label": "BEAVERANIA"
+      }
+    ]
+  },
+  {
+    "id": 384,
+    "question": "Anita sťahuje z internetu 3 súbory súčasne. Predpokladáme, že prenosová rýchlosť sa počas celého sťahovania nemení<br> a vždy sa rovnomerne delí medzi ešte nestiahnuté súbory. Anita vidí aktuálny stav sťahovania:<br> Súbor 1: Zostáva 1 minúta<br> Súbor 2: Zostáva 10 minút<br> Súbor 3: Zostávajú 4 minúty<br> <b>Koľko minút musí ešte Anita čakať, kým sa stiahnu všetky tri súbory?</b> <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "10 minút"
+      },
+      {
+        "value": "1",
+        "label": "5 a pol minúty"
+      },
+      {
+        "value": "2",
+        "label": "5 minút"
+      },
+      {
+        "value": "3",
+        "label": "4 a pol minúty"
+      }
+    ]
+  },
+  {
+    "id": 392,
+    "question": "Na dvore stoja zvieratká usporiadané v jednom rade takto:<br> pes mačka myš pes mačka mačka pes<br> Iba zvieratká, ktoré stoja vedľa seba si môžu vymeniť miesto.<br> Najmenej koľko výmen je potrebných, aby všetci psi stáli tesne vedľa seba? <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "3"
+      },
+      {
+        "value": "1",
+        "label": "5"
+      },
+      {
+        "value": "2",
+        "label": "4"
+      },
+      {
+        "value": "3",
+        "label": "6"
+      }
+    ]
+  },
+  {
+    "id": 1096,
+    "question": "Janka, Lucia a Filip bývajú na sídlisku. Dohodli sa, že si počas karantény budú mávať z balkónov.<br> Janka vyjde na balkón každú celú hodinu a na balóne ostane 10 minút. Prvýkrát vyjde o 9:00 hod.<br> Lucii začína online vyučovanie o 8:30 hod. Po každých 45 minútach je 10 minút na prestávke na balkóne.<br> Filip pracuje pri počítači, začína o 8:55 a po každých 60 minútach vyjde na 5 minút na balkón zacvičiť si.<br> O koľkej si všetky tri deti každý deň zamávajú prvýkrát? <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "o 12:05 hod."
+      },
+      {
+        "value": "1",
+        "label": "o 9:05 hod."
+      },
+      {
+        "value": "2",
+        "label": "o 10:05 hod."
+      },
+      {
+        "value": "3",
+        "label": "o 11:05 hod."
+      }
+    ]
+  },
+  {
+    "id": 685,
+    "question": "Na hudobnej výchove sme sa učili spievať pesničku a nahrali sme si ju aj do počítača. Nahrávku si chcem zobrať domov.<br> Čo použijem? <br> <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "klávesnicu"
+      },
+      {
+        "value": "1",
+        "label": "mikrofón"
+      },
+      {
+        "value": "2",
+        "label": "USB kľúč"
+      },
+      {
+        "value": "3",
+        "label": "reproduktor"
+      }
+    ]
+  },
+  {
+    "id": 280,
+    "question": "Ferko sa hrá s počítačom hru Pridaj - Odober. Počítač najprv vygeneruje niekoľko čísel. Potom vygeneruje niektoré z operácií:<br> <b>Pridaj N</b> znamená, že ku každému číslu sa pripočíta číslo N.<br> <b>Odober D</b> znamená, že od každého čísla sa odpočíta číslo D. <br> Úlohou hráča je vykonať s číslami vygenerovanú postupnosť operácií a zadať výsledné čísla.<br> Počítač vygeneroval čísla<br> <b>58, 24, 82, 37, 79</b><br> a operácie <br> <b>Odober 12, Pridaj 10, Odober 5</b><br> Aká je výsledná postupnosť čísel? <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "51, 19, 77, 32, 74"
+      },
+      {
+        "value": "1",
+        "label": "56, 22, 80, 35, 77"
+      },
+      {
+        "value": "2",
+        "label": "51, 17, 75, 30, 72"
+      },
+      {
+        "value": "3",
+        "label": "51, 17, 75, 30, 70"
+      }
+    ]
+  },
+  {
+    "id": 187,
+    "question": "V izbe sú 3 žiarovky X, Y, T a 4 tlačidlá 1, 2, 3, 4.<br> Tlačidlá fungujú takto:<br> 1: zapne Y, vypne X<br> 2: zapne X aj Y, vypne T<br> 3: zapne T, vypne Y<br> 4: zapne X<br> Ak stlačíme tlačidlo, ktoré má vypnúť takú žiarovku, ktorá je vypnutá, tak táto žiarovka ostane vypnutá. Ak stlačíme tlačidlo, ktoré má zapnúť takú žiarovku, ktorá je zapnutá, žiarovka ostane zapnutá.<br> Momentálne sú všetky žiarovky vypnuté.<br> Po ktorej z nasledujúcich postupností stláčaní tlačidiel budú všetky žiarovky zapnuté? <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "1 2 3"
+      },
+      {
+        "value": "1",
+        "label": "3 1 4"
+      },
+      {
+        "value": "2",
+        "label": "2 3 4"
+      },
+      {
+        "value": "3",
+        "label": "4 1 3"
+      }
+    ]
+  },
+  {
+    "id": 959,
+    "question": "Bobrica Betka rada počúva bobrie zvony. Keď počuje zvon zvoniaci bing a zvon zvoniaci bang, postupne si to zapisuje takto:<pre>bing bang bing &lt;&gt; bing &lt;&gt; bing bang ...<br> bang</pre>Značka &lt;&gt; znamená sekundu ticha a zvony zvoniace súčasne zapíše pod seba. <br> Potom si uvedomí, že bing zaznel každé 2 sekundy a bang každé 3 a zápis skráti: ((bing 2) (bang 3))<br> <br> Ako Betka skrátene zapíše takéto zvonenie zvonov?<pre>bing dang bing &lt;&gt; bing &lt;&gt; bing dang bing &lt;&gt; bing<br> dong dang dong dang</pre> <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "((bing 2) (dang 3) (dong 5))"
+      },
+      {
+        "value": "1",
+        "label": "((bing 1) (dang 2) (dong 4))"
+      },
+      {
+        "value": "2",
+        "label": "((bing 2) (dang 3) (dong 4))"
+      },
+      {
+        "value": "3",
+        "label": "((bing 2) (bang 3) (dong 5))"
+      }
+    ]
+  },
+  {
+    "id": 388,
+    "question": "Janka zistila, že má zavírený počítač. S priateľmi diskutovala o tom, ako sa to mohlo stať. <br> Zuzka povedala: „Používala si počítač s neumytými rukami.” <br> Peter povedal: „Nemala si používať počítač, keď si bola chorá.” <br> Janko povedal: „Zasunula si tam zavírený USB kľúč.” <br> Katka povedala: „Príliš veľa času venuješ hraniu počítačových hier.” <br> Kto z kamarátov spomenul možnosť, ktorá by naozaj spôsobila zavírenie počítača? <br> <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "Katka"
+      },
+      {
+        "value": "1",
+        "label": "Zuzka"
+      },
+      {
+        "value": "2",
+        "label": "Peter"
+      },
+      {
+        "value": "3",
+        "label": "Janko"
+      }
+    ]
+  },
+  {
+    "id": 808,
+    "question": "Bobor roznáša poštu podľa nasledujúceho systému: Pochôdzku začne v dome s ľubovoľným číslom. Nasledujúci dom musí byť taký, že v ňom bobor ešte počas pochôdzky nebol, a musí mať aspoň jednu cifru v čísle rovnakú, ako má dom, v ktorom sa práve nachádza. Ak taký dom nie je, bobor pochôdzku skončí.<br> Napr. z čísla 23 môže ísť do domu s číslom 28, 31 alebo 72, ale nie do domu s číslom 19.<br> <br> Bobor má doručiť poštu do týchto domov:<br> 11, 19, 29, 36, 40, 44, 52, 61, 70, 74, 83<br> <br> Aký je najväčší počet domov, do ktorých môže doručiť poštu počas jednej pochôdzky? <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "5"
+      },
+      {
+        "value": "1",
+        "label": "7"
+      },
+      {
+        "value": "2",
+        "label": "4"
+      },
+      {
+        "value": "3",
+        "label": "9"
+      }
+    ]
+  },
+  {
+    "id": 847,
+    "question": "Ema rada navštevuje sociálnu sieť a píše sem o tom, čo práve teraz robia jej priatelia. Je to správne? <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "Áno, ale len ak text jej správ nikomu z nich neubližuje."
+      },
+      {
+        "value": "1",
+        "label": "Áno, ale len v prípade, že aj oni sú členmi sociálnej siete"
+      },
+      {
+        "value": "2",
+        "label": "Áno, pretože sú to jej priatelia a nie neznámi ľudia."
+      },
+      {
+        "value": "3",
+        "label": "Áno, ale len v prípade, ak s tým jej priatelia súhlasili."
+      }
+    ]
+  },
+  {
+    "id": 848,
+    "question": "Bobria škola organizuje oslavu. Bobri starší ako 10 rokov majú dovolené piť Kolaloku, mladší nie. Starší bobri dostanú pri vstupe náramok aby ich barmani rozpoznali.<br> Na škole majú databázu všetkých študentov a každý má školskú kartu s fotkou a identifikačným číslom.<br> <br> Máme vytvoriť program pre učiteľa pri vstupe na oslavu.<br> Učiteľ pri vstupe skontroluje fotku a naskenuje z karty identifikačné číslo.<br> Na základe toho program nájde študentove údaje v databáze a rozhodne, či dostane náramok, alebo nie.<br> <br> Ktorá informácia nie je podstatná pre riadne fungovanie programu? <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "Priezvisko študenta"
+      },
+      {
+        "value": "1",
+        "label": "Či už študent dostal náramok"
+      },
+      {
+        "value": "2",
+        "label": "Dátum narodenia študenta"
+      },
+      {
+        "value": "3",
+        "label": "Číslo študenta"
+      }
+    ]
+  },
+  {
+    "id": 262,
+    "question": "Dominik a Beáta sa hrajú takúto hru: Beáta si myslí trojciferné číslo. Dominik povie nejaké trojciferné číslo a Beáta mu poradí, či má jeho číslo správne cifry a či sú na rovnakej pozícii ako v čísle, ktoré si myslí.<br> Dominik si zapísal:<br> 1 7 2 – <b>jedna</b> cifra je správna, ale <b>nie je</b> na správnej pozícii<br> 8 5 4 – <b>dve</b> cifry sú správne, ale <b>nie sú</b> na správnych pozíciách<br> 9 8 6 – <b>jedna</b> cifra je správna, ale <b>nie je</b> na správnej pozícii<br> 7 5 1 – <b>jedna</b> cifra je správna a <b>je na</b> správnej pozícii.<br> Ktoré číslo si myslela Beáta? <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "345"
+      },
+      {
+        "value": "1",
+        "label": "185"
+      },
+      {
+        "value": "2",
+        "label": "248"
+      },
+      {
+        "value": "3",
+        "label": "748"
+      }
+    ]
+  },
+  {
+    "id": 798,
+    "question": "Chystáš sa kúpiť vstupenky na koncert kapely Bobrie slíže pre seba a svojich 95 kamarátov. Jeden lístok stojí 10 €.<br> Pri pokladni si všimneš, že majú rôzne skupinové zľavy:<br> <br> 10% zľava, keď si kúpiš 10 lístkov.<br> 20% zľava, keď si kúpiš 20 lístkov.<br> 30% zľava, keď si kúpiš 50 lístkov.<br> 50% zľava, keď si kúpiš 100 lístkov.<br> 60% zľava, keď si kúpiš 200 lístkov.<br> <br> Koľko zaplatíš za lístky pre seba a svojich kamarátov, keď využiješ najvýhodnejšiu zľavu? <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "480 €"
+      },
+      {
+        "value": "1",
+        "label": "640 €"
+      },
+      {
+        "value": "2",
+        "label": "500 €"
+      },
+      {
+        "value": "3",
+        "label": "672 €"
+      }
+    ]
+  },
+  {
+    "id": 407,
+    "question": "Alica prechádza v krajine zázrakov po ceste, na ktorej sú postupne značky s inštrukciami:<br> <b>1. nasaď si klobúk</b><br> <b>2. daj si okuliare</b><br> <b>3. zlož si klobúk</b><br> <b>4. zober si paličku</b><br> <b>5. zober si kvet</b><br> <b>6. daj si dolu okuliare</b><br> Na začiatku cesty nemá Alica ani klobúk ani okuliare a tiež nemá žiadne veci so sebou.<br> <br> Čo bude mať Alica oblečené a aké veci bude mať so sebou, ak prejde po ceste a vykoná všetky inštrukcie na značkách? <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "bude mať klobúk, nebude mať okuliare, bude mať len paličku"
+      },
+      {
+        "value": "1",
+        "label": "nebude mať klobúk ani okuliare, bude mať paličku aj kvet"
+      },
+      {
+        "value": "2",
+        "label": "bude mať klobúk aj okuliare a bude mať paličku aj kvet"
+      },
+      {
+        "value": "3",
+        "label": "nebude mať klobúk ani okuliare, bude mať len paličku"
+      }
+    ]
+  },
+  {
+    "id": 807,
+    "question": "Mladí bobríci sa chceli po škole spolu zahrať. Nevedeli sa však dohodnúť, kde to bude, preto sa rozhodli hádzať kockou s číslami 1 až 6. Rozhodnú sa podľa týchto pravidiel:<pre>AK je prvý hod väčší než druhý<br>TAK do lesa<br>INAK AK je tretí hod menší než prvý<br> TAK k rieke<br> INAK na ihrisko</pre>Ako mohli hádzať kockou, keď na základe pravidiel išli na ihrisko? <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "Prvý hod 6, druhý hod 6, tretí hod 2."
+      },
+      {
+        "value": "1",
+        "label": "Prvý hod 5, druhý hod 3, tretí hod 6."
+      },
+      {
+        "value": "2",
+        "label": "Prvý hod 3, druhý hod 4, tretí hod 3."
+      },
+      {
+        "value": "3",
+        "label": "Prvý hod 2, druhý hod 4, tretí hod 1."
+      }
+    ]
+  },
+  {
+    "id": 671,
+    "question": "Deti sa hrali so slovami a vymysleli takéto kódovanie:<ul><li>Každé písmeno nahraď skupinou toľkých rovnakých písmen, koľké v poradí je dané písmeno v kódovanom slove.</li><li>Písmená usporiadaj podľa abecedy.</li><li>Rovnaké písmená nahraď dvojicou „číslo písmeno“, pričom číslo znamená počet rovnakých písmen, ktoré nasledujú tesne za sebou.</li></ul><br> Napr. OKO takto zakódujeme: OKKOOO, po usporiadaní KKOOOO a po nahradení dvojicami číslo písmeno je výsledný kód: 2K4O.<br> Aké ďalšie slovo je zakódované rovnakým kódom ako slovo BOBOR? <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "BOROB"
+      },
+      {
+        "value": "1",
+        "label": "ORRBO"
+      },
+      {
+        "value": "2",
+        "label": "už žiadne ďalšie"
+      },
+      {
+        "value": "3",
+        "label": "OBBRO"
+      }
+    ]
+  },
+  {
+    "id": 387,
+    "question": "Danka si skladá svoj náhrdelník z korálikov rôznych tvarov. Koráliky navlieka v takomto poradí: Guľôčka Srdiečko Kocka<br> Toto opakuje dovtedy, kým má korálik potrebného tvaru. Danka má na stole 3 srdiečka, 5 guľôčok a 5 kociek.<br> Z koľkých korálikov bude zložený jej náhrdelník?<br> <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "8"
+      },
+      {
+        "value": "1",
+        "label": "10"
+      },
+      {
+        "value": "2",
+        "label": "9"
+      },
+      {
+        "value": "3",
+        "label": "13"
+      }
+    ]
+  },
+  {
+    "id": 1062,
+    "question": "Na spoľahlivé šifrovanie správ sa používa metóda dvojice kľúčov. Každá zúčastnená osoba má vlastné dva kľúče, ktoré sú doplnkové t. j. správu možno zašifrovať jedným kľúčom a dá sa rozšifrovať iba druhým kľúčom a naopak. V praxi sa tieto dva kľúče volajú: súkromný (pozná ho iba jedna osoba – vlastník) a verejný (je dostupný každému). <br> <br> Ako treba zašifrovať správu, aby bolo zaručené, že ju napísala konkrétna osoba? <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "Osoba zašifruje správu svojím verejným a následne svojím súkromným kľúčom."
+      },
+      {
+        "value": "1",
+        "label": "Osoba zašifruje správu svojím súkromným a následne svojím verejným kľúčom."
+      },
+      {
+        "value": "2",
+        "label": "Osoba zašifruje správu svojím súkromným kľúčom."
+      },
+      {
+        "value": "3",
+        "label": "Osoba zašifruje správu svojím verejným kľúčom."
+      }
+    ]
+  },
+  {
+    "id": 448,
+    "question": "Peter potrebuje vypočítať hodnotu 2<sup>37</sup>, ale kláves umocňovania x<sup>y</sup> na jeho kalkulačke je pokazený. Kláves násobenia a aj kláves umocnenia x<sup>2</sup> však fungujú správne.<br> <br> Kamarát mu dal dve rady:<ul><li>Ak je exponent párny, vypočítaj 2 na polovicu exponentu a potom výsledok umocni na druhú, napríklad 2<sup>10</sup> = 2<sup>5</sup> × 2<sup>5</sup> = (2<sup>5</sup>)<sup>2</sup>.</li><li>Ak je exponent nepárny, vypočítaj 2 na exponent mínus jedna (čo je párne číslo) a výsledok vynásob 2, napríklad 2<sup>11</sup> = 2<sup>10</sup> × 2.</li></ul><br> Ak Peter použije obe rady, <b>najmenej koľkokrát</b> bude na svojej kalkulačke násobiť a umocňovať na druhú, aby vypočítal 2<sup>37</sup>? <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "7"
+      },
+      {
+        "value": "1",
+        "label": "36"
+      },
+      {
+        "value": "2",
+        "label": "6"
+      },
+      {
+        "value": "3",
+        "label": "1"
+      }
+    ]
+  },
+  {
+    "id": 431,
+    "question": "Bobor Danko musí držať šesť dní diétu. Každý deň môže jesť iba jeden druh jedla. Môže jesť len zemiaky, mrkvu, ryby alebo hrášok.<br> Každý deň sa môže rozhodnúť, čo bude jesť, ale musí dodržať nasledujúce pravidlá:<br> 1. Dva dni za sebou nemôže jesť rovnaký druh jedla.<br> 2. Mrkvu musí jesť práve každý tretí deň.<br> 3. Rybu môže jesť len vtedy, ak deň predtým nejedol zemiaky.<br> Predchádzajúce 4 dni jedol nasledujúce druhy jedla:<br> 1. deň: hrášok<br> 2. deň: ryby<br> 3. deň: mrkvu<br> 4. deň: zemiaky<br> <br> Čo musí jesť Danko nasledujúce dva dni? <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "5. deň: hrášok, 6. deň: mrvku"
+      },
+      {
+        "value": "1",
+        "label": "5. deň: mrkvu, 6. deň: hrášok"
+      },
+      {
+        "value": "2",
+        "label": "5. deň: zemiaky, 6. deň: ryby"
+      },
+      {
+        "value": "3",
+        "label": "5. deň: ryby, 6. deň: mrvku"
+      }
+    ]
+  },
+  {
+    "id": 960,
+    "question": "Predstav si, že tvoja prezývka je Benjamín a že si sa narodil 12. januára 1997. Máš si zvoliť nové heslo pre svoj email, ale také, aby sa ti dobre pamätalo.<br> <br> Ktoré z týchto hesiel bude <b>najťažšie</b> uhádnuť niekomu cudziemu? <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "19970112"
+      },
+      {
+        "value": "1",
+        "label": "Benjamin"
+      },
+      {
+        "value": "2",
+        "label": "Ben.jam.IN"
+      },
+      {
+        "value": "3",
+        "label": "heslo"
+      }
+    ]
+  },
+  {
+    "id": 519,
+    "question": "Bobor alchymista dokáže premeniť niektoré objekty na iné:<ul><li>dva štvorlístky na mincu,</li><li>mincu a dva štvorlístky na rubín,</li><li>rubín a štvorlístok na kráľovskú korunu,</li><li>mincu, rubín a kráľovskú korunu na mačku.</li></ul><br> Ak niektorý objekt premení na iný, pôvodný objekt zmizne a zostane len nový.<br> <b>Najmenej</b> koľko štvorlístkov potrebuje alchymista, aby vytvoril mačku? <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "11"
+      },
+      {
+        "value": "1",
+        "label": "12"
+      },
+      {
+        "value": "2",
+        "label": "10"
+      },
+      {
+        "value": "3",
+        "label": "5"
+      }
+    ]
+  },
+  {
+    "id": 165,
+    "question": "Systém podľa skóre slova vyhodnocuje, z ktorého jazyka slovo pochádza. Skóre slova vypočíta podľa tabuľky:<br> <table style=\"width:300px;border:1px solid black;\"><tbody><tr><td style=\"border:1px solid black;padding:2px;text-align:left\">začína písmenom p</td><td style=\"border:1px solid black;padding:2px;text-align:right\">-2</td></tr><tr><td style=\"border:1px solid black;padding:2px;text-align:left\">končí písmenom b<br> </td><td style=\"border:1px solid black;padding:2px;text-align:right\">-2</td></tr><tr><td style=\"border:1px solid black;padding:2px;text-align:left\">má viac ako 6 znakov</td><td style=\"border:1px solid black;padding:2px;text-align:right\">+3</td></tr><tr><td style=\"border:1px solid black;padding:2px;text-align:left\">je v ňom q, za ktorým nasleduje r alebo y</td><td style=\"border:1px solid black;padding:2px;text-align:right\">-4</td></tr><tr><td style=\"border:1px solid black;padding:2px;text-align:left\">má vedľa seba tri samohlásky (a, e, i, o, u)</td><td style=\"border:1px solid black;padding:2px;text-align:right\">+5</td></tr><tr><td style=\"border:1px solid black;padding:2px;text-align:left\">obsahuje apostrof</td><td style=\"border:1px solid black;padding:2px;text-align:right\">+1</td></tr></tbody></table> Ak vyjde skóre <b>menšie ako 0</b>, systém vyhodnotí, že slovo je z jazyka vydrovčina. Inak systém vyhodnotí, že slovo je z jazyka bobrovčina.<br> Napríklad pre slovo <b><i>palliob</i></b> systém vypočíta skóre <br> - 2 - 2 + 3 = -1 a vyhodnotí, že je z jazyka vydrovčina.<br> Systém dostane slová<br> <b><i>paqrooob puue t'seqrub meoub lai'laiqy</i></b><br> Koľko z nich vyhodnotí, že sú z jazyka vydrovčina? <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "3"
+      },
+      {
+        "value": "1",
+        "label": "1"
+      },
+      {
+        "value": "2",
+        "label": "2"
+      },
+      {
+        "value": "3",
+        "label": "4"
+      }
+    ]
+  },
+  {
+    "id": 188,
+    "question": "Priatelia Alica, Bruno, Cyril, Dávid, Eva, Filip sedia okolo okrúhleho stola.<br> Vieme, že<br> Alica sedí priamo oproti Dávidovi.<br> Eva sedí vedľa Dávida, po jeho ľavej ruke.<br> Bruno sedí vedľa Alice a aj vedľa Evy.<br> Filip nesedí vedľa Alice, ani vedľa Evy.<br> Medzi Brunom a Cyrilom je práve jedno miesto.<br> Ktoré z týchto poradí sedenia priateľov v smere pohybu hodinových ručičiek je správne? <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "Alica, Cyril, Filip, Dávid, Eva, Bruno"
+      },
+      {
+        "value": "1",
+        "label": "Alica, Eva, Dávid, Cyril, Filip, Bruno"
+      },
+      {
+        "value": "2",
+        "label": "Alica, Cyril, Bruno, Dávid, Eva, Filip"
+      },
+      {
+        "value": "3",
+        "label": "Alica, Bruno, Cyril, Dávid, Eva, Filip"
+      }
+    ]
+  },
+  {
+    "id": 976,
+    "question": "Dostal si e-mail od magic@casino.com. Vraj vyhráš 100 eur, ak ho prepošleš svojim desiatim kamarátom, a tiež odpíšeš na magic@casino.com. Ako správne zareaguješ? <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "Pošleš e-mail desiatim kamarátom (napíšeš desať adries oddelených čiarkami do políčka Komu) a odpíšeš na magic@casino.com, že chceš svojich 100 eur."
+      },
+      {
+        "value": "1",
+        "label": "Pošleš e-mail desiatim kamarátom (napíšeš desať samostatných e-mailov) a odpíšeš na magic@casino.com, že chceš svojich 100 eur."
+      },
+      {
+        "value": "2",
+        "label": "Nepošleš e-mail svojim kamarátom a odpíšeš na magic@casino.com e-mail, v ktorom požiadaš, aby ti v budúcnosti neposielali nevyžiadanú poštu (spam)."
+      },
+      {
+        "value": "3",
+        "label": "Upravíš si svoj filter nevyžiadanej pošty, aby takéto e-maily považoval za nevyžiadané (spam) a zmažeš tento e-mail."
+      }
+    ]
+  },
+  {
+    "id": 1058,
+    "question": "Pomocou zvukového editora bol zaznamenaný tón klavíra 440 Hz pri vzorkovacej frekvencii 22,050 kHz. Aký tón budeme počuť, keď zaznamenaný tón prehráme pri vzorkovacej frekvencii 44,100kHz? <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "220 Hz"
+      },
+      {
+        "value": "1",
+        "label": "445 Hz"
+      },
+      {
+        "value": "2",
+        "label": "880 Hz"
+      },
+      {
+        "value": "3",
+        "label": "440 Hz"
+      }
+    ]
+  },
+  {
+    "id": 279,
+    "question": "Štyri bobrie kamarátky si vlajkovými signálmi oznamujú, kto pôjde nakupovať. Každé písmeno sa signalizuje kombináciou dvoch polôh vlajky – hore alebo dole. Mená dievčat sa skladajú zo 4 písmen, ktoré signalizujú nasledovne:<br> <b>A</b> sa signalizuje <b>hore dole</b><br> <b>E</b> sa signalizuje <b>hore hore</b><br> <b>N</b> sa signalizuje <b>dole hore</b><br> <b>T</b> sa signalizuje <b>dole dole</b><br> Bobrica Anna signalizuje nasledujúce meno takto:<br> <b>hore hore dole dole dole hore hore dole</b><br> Kto pôjde nakupovať? <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "ENTA"
+      },
+      {
+        "value": "1",
+        "label": "ANNA"
+      },
+      {
+        "value": "2",
+        "label": "ETNA"
+      },
+      {
+        "value": "3",
+        "label": "TENA"
+      }
+    ]
+  },
+  {
+    "id": 452,
+    "question": "Nezbedné bobry šli zo školy domov cez les a po ceste premiestňovali brvná, ktoré našli. Niekoľko brvien doniesli aj domov.<br> Ich cestu možno zapísať takto:<br> <code>D L L L D + + + + L L L D D D L L L D - - L L L D L D D + + + + L L L D </code><br> Význam jednotlivých symbolov je:<br> <code>D</code> : choď dopredu 50 metrov<br> <code>L</code> : otoč sa na mieste o 90 stupňov vľavo<br> <code>+</code> : zdvihni brvno<br> <code>-</code> : polož brvno<br> <br> Na druhý deň šli z domu do školy rovnakou cestou a po ceste vrátili premiestnené brvná tam, odkiaľ ich vzali. Z brány domu vyšli opačným smerom než do nej predošlý deň vošli.<br> <br> Ktorý zápis zodpovedá ich ceste z domu do školy? <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "<code>L D D D L - - - - D D D L L L D D D L + + D D D L D L L L - - - - D D D L</code>"
+      },
+      {
+        "value": "1",
+        "label": "<code>L D + + + + L L L D D D L D - - L D L L L D + + + + L D L</code>"
+      },
+      {
+        "value": "2",
+        "label": "<code>D L - - - - D D L L L D L + + D L D D D L - - - - D L D</code>"
+      },
+      {
+        "value": "3",
+        "label": "<code>D L L L D + + + + L L L D D D L L L D - - L L L D L D D D + + + + L L L D</code>"
+      }
+    ]
+  },
+  {
+    "id": 391,
+    "question": "Bobria mamička chce kúpiť na narodeniny svojej dcérke Vaneske búdku pre vtáčiky. V obchode majú nasledujúce búdky:<br> Búdka 1: s veľkým okienkom, s malým srdiečkom, s veľkým srdiečkom<br> Búdka 2: s hviezdičkou, s malým okienkom, s veľkým okienkom<br> Búdka 3: s malým okienkom, so srdiečkom, s veľkým okienkom<br> Búdka 4: s veľkým okienkom, so srdiečkom, s hviezdičkou<br> Vaneske sa najviac páči búdka s dvomi okienkami a srdiečkom. Ktorú búdku má mama kúpiť? <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "Búdku 3"
+      },
+      {
+        "value": "1",
+        "label": "Búdku 1"
+      },
+      {
+        "value": "2",
+        "label": "Búdku 4"
+      },
+      {
+        "value": "3",
+        "label": "Búdku 2"
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "question": "Ruženka sa učí piecť tri druhy koláčov: <b>vanilkový</b>, <b>čokoládový</b> a <b>škoricovo-jablkový</b>.<br> Pri výrobe vanilkového koláča postupovala takto:<ul><li>Zmiešala mokré a suché ingrediencie dohromady.</li><li>Pridala vanilkový extrakt.</li><li>Vyliala cesto na plech.</li><li>Rúru vyhriala na 163° C.</li><li>Koláč piekla 1 hodinu 15 minút.</li></ul><br> Keďže vie, že postup pri ostatných koláčoch bude podobný, do svojej kuchárskej knihy si zapísala: <b>koláč(vanilkový extrakt, 163, 75)</b><br> Čo si zapísala pre ďalšie dva koláče? <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "<b>koláč(177, 30, čokoláda); koláč(180, 50, škorica)</b>"
+      },
+      {
+        "value": "1",
+        "label": "<b>koláč(čokoláda, 30, 177); koláč(škorica, 50, 180)</b>"
+      },
+      {
+        "value": "2",
+        "label": "<b>koláč(30, čokoláda, 177); koláč(50, škorica, 180)</b>"
+      },
+      {
+        "value": "3",
+        "label": "<b>koláč(čokoláda, 177, 30); koláč(škorica, 180, 50)</b>"
+      }
+    ]
+  },
+  {
+    "id": 383,
+    "question": "V Bobrove majú šifrovací písací stroj. Funguje tak, že keď stlačíme nejaké písmeno, napíše sa iné písmeno, ktoré je k nemu priradené podľa dohodnutého predpisu. <br> Danko napísal: <br> BUDEM VONKU<br> Zuzka dostala: <br> PRIDE NAHOR <br> <b>Podľa akého predpisu sa nahrádzajú písmená D, E? </b> <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "D sa nahradí písmenom E, E sa nahradí písmenom M"
+      },
+      {
+        "value": "1",
+        "label": "D sa nahradí písmenom E, E sa nahradí písmenom D"
+      },
+      {
+        "value": "2",
+        "label": "D sa nahradí písmenom I, E sa nahradí písmenom D"
+      },
+      {
+        "value": "3",
+        "label": "D sa nahradí písmenom I, E sa nahradí písmenom M"
+      }
+    ]
+  },
+  {
+    "id": 295,
+    "question": "Rozprávací robot vysloví ľubovoľný text a pritom dodržiava takéto pravidlá:<ul><li>ak je pred slovom číslo, toto slovo vysloví toľkokrát, aká je hodnota čísla,</li><li>ak je postupnosť slov medzi príkazmi <b>opakuj číslo krat</b> a <b>koniec opakovania</b>, túto postupnosť slov vysloví toľkokrát, aká je hodnota čísla,</li></ul><br> Napríklad: <br> namiesto <b>3lampa</b> robot povie <b>lampa lampa lampa</b><br> namiesto <b>opakuj 2 krat čierna biela koniec opakovania</b> robot povie <b>čierna biela čierna biela</b><br> Emka chce, aby robot povedal<br> <b>bim bam bim bam bim bam bim ešte ešte troška si pospím</b><br> Akú postupnosť príkazov má Emka napísať? <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "3bim 3bam bim 2ešte troška si pospím"
+      },
+      {
+        "value": "1",
+        "label": "opakuj 4 krat bim bam koniec opakovania 2ešte troška si pospím"
+      },
+      {
+        "value": "2",
+        "label": "opakuj 3 krat bim bam koniec opakovania bim 2ešte troška si pospím"
+      },
+      {
+        "value": "3",
+        "label": "opakuj 3 krat bim bam koniec opakovania bim 2ešte si pospím"
+      }
+    ]
+  },
+  {
+    "id": 1013,
+    "question": "Bobor Bruno sa chce zaregistrovať do diskusnej skupiny. Pri registrácii si musí zvoliť heslo, ktoré začína písmenom (veľkým alebo malým), za ktorým musí nasledovať päť číslic, napr. <b>A12345</b> alebo <b>a09595</b> (predpokladáme abecedu s 26 písmenami).<br> <br> Koľko rôznych možností má bobor pri výbere svojho hesla? <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "5,200,000 = 26x2x100000"
+      },
+      {
+        "value": "1",
+        "label": "67,600,000 = 262x100000"
+      },
+      {
+        "value": "2",
+        "label": "1,300 = 26x10x5"
+      },
+      {
+        "value": "3",
+        "label": "2,600,000 = 26x100000"
+      }
+    ]
+  },
+  {
+    "id": 192,
+    "question": "Janka doma používa 3 druhy tanierov: veľké, stredné a malé<br> V umývačke musia byť taniere uložené podľa veľkosti, najprv veľké, potom stredné, nakoniec malé. Ak nie sú uložené správne, Janka ich postupne usporiada tak, že vždy jeden tanier premiestni na voľné miesto.<br> Teraz sú taniere uložené takto:<br> veľký veľký stredný stredný malý malý voľné veľký<br> Najmenej koľko tanierov musí Janka premiestniť, aby boli všetky taniere uložené podľa veľkosti? <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "3"
+      },
+      {
+        "value": "1",
+        "label": "2"
+      },
+      {
+        "value": "2",
+        "label": "4"
+      },
+      {
+        "value": "3",
+        "label": "6"
+      }
+    ]
+  },
+  {
+    "id": 184,
+    "question": "V Bobrove šifrujú slová v dvoch krokoch. V prvom kroku odstránia prvé písmeno v slovách s nepárnym počtom písmen. Slová s párnym počtom písmen nemenia. V druhom kroku v slovách vymenia poradie susediacich dvoch písmen (prvé s druhým, tretie so štvrtým, atď.). <br> Napríklad text rieši ibobra sa šifruje takto:<br> po prvom kroku<br> ieši ibobra<br> po druhom kroku<br> eiiš biboar<br> Ako sa zašifruje text<br> informatická súťaž? <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "fnroamitkc úsaťž"
+      },
+      {
+        "value": "1",
+        "label": "fnroamitkc ťúža"
+      },
+      {
+        "value": "2",
+        "label": "niofmrtaciák úsaťž"
+      },
+      {
+        "value": "3",
+        "label": "niofmrtaciák ťúža"
+      }
+    ]
+  },
+  {
+    "id": 700,
+    "question": "Bobor konštruktér si zložil počítač z troch starších rozbitých počítačov. Keď chcel počúvať hudbu, nebolo počuť nič.<br> Na ktorú časť hardvéru zrejme pri skladaní zabudol? <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "sieťová karta"
+      },
+      {
+        "value": "1",
+        "label": "zvuková karta"
+      },
+      {
+        "value": "2",
+        "label": "televízna karta"
+      },
+      {
+        "value": "3",
+        "label": "grafická karta"
+      }
+    ]
+  },
+  {
+    "id": 1054,
+    "question": "V programovacom jazyku máme dve premenné X a Y. Každá z nich môže obsahovať len celočíselné hodnoty. Chceme vymeniť obsahy premenných X a Y bez pomoci ďalšej premennej.<br> Znamienko <b>:=</b> označuje priradenie.<br> <br> Ktorý program to urobí správne? <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "X := Y; Y := X;"
+      },
+      {
+        "value": "1",
+        "label": "Nie je to možné, preto žiadna z ostatných možností nie je správna."
+      },
+      {
+        "value": "2",
+        "label": "X := X+Y; Y := X+Y; X := X-Y;"
+      },
+      {
+        "value": "3",
+        "label": "X := X+Y; Y := X-Y; X := X-Y;"
+      }
+    ]
+  },
+  {
+    "id": 993,
+    "question": "Rozhodol som sa, že kamarátovi pošlem e-mailom zopár fotiek z lyžovačky. Doma mám však pomalé pripojenie na internet – už prvý súbor s názvom FOTO1.BMP sa odosielal 54 sekúnd! Bol v ňom obrázok veľkosti 600x400 bodov.<br> Preto som sa rozhodol, že ďalšiu fotku FOTO2.BMP najprv zmenším v grafickom editore a až potom ju odošlem.<br> <br> Koľko sekúnd približne trvalo poslanie, ak som fotku zmenšil na veľkosť 200x133? <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "6 sekúnd"
+      },
+      {
+        "value": "1",
+        "label": "17 sekúnd"
+      },
+      {
+        "value": "2",
+        "label": "28 sekúnd"
+      },
+      {
+        "value": "3",
+        "label": "9 sekúnd"
+      }
+    ]
+  },
+  {
+    "id": 96,
+    "question": "Štyria kamaráti si dohodli nasledujúce pravidlá na šírenie dôležitých správ:<ul><li>Najprv sa správu dozvie Adam.</li><li>Dano sa správu dozvie skôr ako Bruno.</li><li>Cyril sa správu dozvie až po Danovi.</li><li>Bruno sa správu dozvie až po Cyrilovi.</li></ul>V akom poradí sa správu dozvedia všetci kamaráti? <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "Adam, Cyril, Dano, Bruno"
+      },
+      {
+        "value": "1",
+        "label": "Adam, Dano, Cyril, Bruno"
+      },
+      {
+        "value": "2",
+        "label": "Adam, Dano, Bruno, Cyril"
+      },
+      {
+        "value": "3",
+        "label": "Adam, Bruno, Dano, Cyril"
+      }
+    ]
+  },
+  {
+    "id": 427,
+    "question": "Meno nazývame <b>abecedné</b>, ak sa dá zostaviť zo všetkých jeho písmen nasledujúcim postupom:<ul><li>vytvor abecedne usporiadanú postupnosť zo všetkých písmen mena</li><li>začni prvým písmenom z postupnosti</li><li>zober nasledujúce písmeno z postupnosti a pridaj ho vľavo alebo vpravo od vytváraného mena</li><li>pokračuj, kým nie je postupnosť prázdna</li></ul>Napr. meno TOMÁŠ je abecedné a postup, ktorým ho vytvoríme je:<br> ÁMOŠT<br> <b>Á</b> → <b>M</b>Á → <b>O</b>MÁ → OMÁ<b>Š</b> → <b>T</b>OMÁŠ<br> <br> Ktoré z nasledujúcich mien je abecedné? <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "LUCIA"
+      },
+      {
+        "value": "1",
+        "label": "TIBOR"
+      },
+      {
+        "value": "2",
+        "label": "MONIKA"
+      },
+      {
+        "value": "3",
+        "label": "PETER"
+      }
+    ]
+  },
+  {
+    "id": 1008,
+    "question": "Keď píšeme e-mail viacerým adresátom, máme možnosť napísať ich e-mailové adresy do políčka <b>Komu:</b> alebo do políčka <b>Kópia:</b> Ktoré z nasledujúcich tvrdení je správne? <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "<b>Kópia:</b> sa používa vtedy, keď píšeme viacerým adresátom, pretože políčko <b>Komu:</b> môže obsahovať len jednu adresu."
+      },
+      {
+        "value": "1",
+        "label": "Je dobrým zvykom zadať e-mailové adresy do políčka <b>Kópia:</b> vtedy, ak píšeme viac ako jednému adresátovi. Do políčka <b>Komu:</b> dáme v takom prípade svoju adresu."
+      },
+      {
+        "value": "2",
+        "label": "<b>Kópia:</b> sa dnes už nepoužíva."
+      },
+      {
+        "value": "3",
+        "label": "Do políčka <b>Kópia:</b> môžeme zadať ľubovoľný počet adries rovnako ako do políčka <b>Komu:</b>. Jediný rozdiel je v tom, ako veľmi je adresát zainteresovaný do obsahu e-mailu."
+      }
+    ]
+  },
+  {
+    "id": 861,
+    "question": "Prišiel Ti takýto e-mail:<br> <i>Predmet:</i> Aktualizácia údajov<br> <i>Text:</i><br> <i>Odosielateľovi tejto správy pošlite svoje používateľské meno a heslo k Vášmu účtu v sociálnej sieti BZZ, pretože inak bude Váš účet zrušený.</i><br> <br> Aká je správna reakcia na takúto správu? <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "Odpoviem na správu a spýtam sa, prečo sa musia moje údaje aktualizovať."
+      },
+      {
+        "value": "1",
+        "label": "Odpoviem na správu a pošlem v nej svoje meno a heslo."
+      },
+      {
+        "value": "2",
+        "label": "Odpoviem na správu, pošlem svoje údaje na aktualizáciu a pošlem tento e-mail priateľom."
+      },
+      {
+        "value": "3",
+        "label": "Neodpoviem na túto správu a zmažem ju."
+      }
+    ]
+  },
+  {
+    "id": 526,
+    "question": "Bobrica Maxima hľadá vo veľmi dlhom zozname telefónne číslo svojej priateľky. Nevie, ako sa presne píše jej meno. Vyhľadávací program umožňuje použiť pri vyhľadávaní:<ul><li>znak <b>?</b> keď nepoznáme práve jeden znak</li><li>znak <b>&amp;</b> keď nepoznáme práve dva po sebe idúce znaky</li><li>znak <b>%</b> keď nepoznáme zvyšok mena</li></ul><br> Napríklad, ak napíšeme <b>Te%</b> program nájde mená Tereza, Teodor, atď.<br> <br> Maxima zadá: <b>S?ra H&amp;bo%</b><br> Ktoré z týchto mien program nájde? <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "Sára Hubová"
+      },
+      {
+        "value": "1",
+        "label": "Sára Hrubovská"
+      },
+      {
+        "value": "2",
+        "label": "Saša Hladká"
+      },
+      {
+        "value": "3",
+        "label": "Sandra Hruboňová"
+      }
+    ]
+  },
+  {
+    "id": 197,
+    "question": "Na troch zvislých tyčiach sú navlečené koráliky:<br> Na prvej tyči sú 2 koráliky v tvare kruhu.<br> Na druhej tyči je 1 korálik v tvare trojuholníka.<br> Na tretej tyči je 1 korálik v tvare srdca.<br> Z jednej tyče na druhú môžeme presunúť vždy len jeden korálik, ktorý je navrchu. <br> Zdenka postupne medzi tyčami popresúvala koráliky tak, že na jednej tyči boli v smere odspodu nahor koráliky v poradí:<br> kruh, trojuholník, srdce, kruh <br> Najmenej koľko presunov musela Zdenka urobiť? <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "5"
+      },
+      {
+        "value": "1",
+        "label": "8"
+      },
+      {
+        "value": "2",
+        "label": "6"
+      },
+      {
+        "value": "3",
+        "label": "4"
+      }
+    ]
+  },
+  {
+    "id": 930,
+    "question": "Deň pri jazere:<br> Zuzka prišla o 8:00 a odišla o 13:00.<br> Jana prišla o 9:00 a odišla o 11:00.<br> Dana prišla o 12:00 a odišla o 16:00.<br> Lenka prišla o 11:00 a odišla o 15:00.<br> Jano prišiel o 10:00 a odišiel o 14:00.<br> Peter prišiel o 12:00 a odišiel o 14:00.<br> <br> O koľkej bolo najviac detí pri jazere? <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "10:30"
+      },
+      {
+        "value": "1",
+        "label": "12:30"
+      },
+      {
+        "value": "2",
+        "label": "13:30"
+      },
+      {
+        "value": "3",
+        "label": "11:30"
+      }
+    ]
+  },
+  {
+    "id": 658,
+    "question": "Do detského kútika sa chodí hrať 6 detí. Kútik je otvorený od 9:00 do 18:00 hod. a deti chodia do kútika pravidelne každý deň v týchto časoch:<br> Andrejko: 9:00-12:00, 14:00-15:00, 16:00-18:00<br> Beáta: 10:00-13:30; 16:00-17:00<br> Cyril: 11:30-13:00, 16:30-18:00<br> Daniel: 11:00-13:00<br> Eva: 10:00-13:00, 14:30-17:00<br> Ferko: 9:00-10:30, 16:00-18:00<br> Keď dieťa príde do detského kútika, musí si obliecť špeciálnu vestu.<br> Koľko <b>najmenej</b> špeciálnych viest musia mať v detskom kútiku? <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "4"
+      },
+      {
+        "value": "1",
+        "label": "3"
+      },
+      {
+        "value": "2",
+        "label": "6"
+      },
+      {
+        "value": "3",
+        "label": "5"
+      }
+    ]
+  },
+  {
+    "id": 1047,
+    "question": "Ktorý súbor nájdeme, ak pri vyhľadávaní súborov zadáme meno <b>*???as.*</b>? <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "NMAS.DOC"
+      },
+      {
+        "value": "1",
+        "label": "MDMTEXAS.TXT"
+      },
+      {
+        "value": "2",
+        "label": "NMTAST.EXE"
+      },
+      {
+        "value": "3",
+        "label": "ASTMP.EXE"
+      }
+    ]
+  },
+  {
+    "id": 857,
+    "question": "Atlét Fedor rád behá po uliciach. Každé ráno prebehne niekoľkokrát okolo bloku domov takto:<pre>Činnosť RannýBeh<br> vykonaj činnosť Prebehni_blok<br> vykonaj činnosť Prebehni_blok <br> vykonaj činnosť Prebehni_blok <br><br>Činnosť Prebehni_blok<br> vykonaj činnosť Prebehni_ulicu<br> vykonaj činnosť Prebehni_ulicu<br> vykonaj činnosť Prebehni_ulicu<br> vykonaj činnosť Prebehni_ulicu<br><br>Činnosť Prebehni_ulicu<br> Choď 100 krokov<br> Odboč doľava</pre>Koľko krokov Fedor prebehne, keď vykoná činnosť RannýBeh?<br> <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "1200"
+      },
+      {
+        "value": "1",
+        "label": "300"
+      },
+      {
+        "value": "2",
+        "label": "400"
+      },
+      {
+        "value": "3",
+        "label": "100"
+      }
+    ]
+  },
+  {
+    "id": 818,
+    "question": "Bruno rád vymýšľa umelé jazyky. Slová jazyka vytvára podľa pravidiel. Toto sú pravidlá pre jazyk aibi:<br> <ol><li>V správnom slove sa vyskytujú len písmená <b>a</b> a <b>b</b>.</li><li>Počas vytvárania slova si dočasne pomáhame aj písmenami <b>S</b> a <b>X</b>.</li><li>Slovo začíname vytvárať tak, že napíšeme <b>S</b>.</li><li>Písmeno <b>S</b> v slove môžeme nahradiť písmenami <b>aX</b>.</li><li>Písmeno <b>X</b> v slove môžeme nahradiť písmenami <b>aXb</b>.</li><li>Písmeno <b>X</b> v slove môžeme nahradiť písmenom <b>b</b>.</li></ol> Napríklad správne slovo <b>aabb</b> vytvorí takto:<br> (pravidlo 3) S → aX (pravidlo 4) → aaXb (pravidlo 5) → aabb (pravidlo 6)<br> <br> Ktoré z týchto slov je správne slovo jazyka aibi? <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "aX"
+      },
+      {
+        "value": "1",
+        "label": "aabbb"
+      },
+      {
+        "value": "2",
+        "label": "aaaXbb"
+      },
+      {
+        "value": "3",
+        "label": "aaaabbbb"
+      }
+    ]
+  },
+  {
+    "id": 1024,
+    "question": "Spam je <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "internetový vtip"
+      },
+      {
+        "value": "1",
+        "label": "operačný systém"
+      },
+      {
+        "value": "2",
+        "label": "známy vírus"
+      },
+      {
+        "value": "3",
+        "label": "nevyžiadaná správa"
+      }
+    ]
+  },
+  {
+    "id": 633,
+    "question": "Na 9. poschodí nastúpili do výťahu traja bobri. Jeden ide na 1. poschodie, druhý na 16. a tretí na 20. poschodie.<br> V akom poradí má výťah navštíviť 1., 16. a 20. poschodie, aby prešiel cez čo najmenej poschodí? <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "9. → 16. → 20. → 1."
+      },
+      {
+        "value": "1",
+        "label": "9. → 16. → 1. → 20."
+      },
+      {
+        "value": "2",
+        "label": "9. → 20. → 16. → 1."
+      },
+      {
+        "value": "3",
+        "label": "9. → 1. → 16. → 20."
+      }
+    ]
+  },
+  {
+    "id": 770,
+    "question": "Čo <b>nie je</b> algoritmus? <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "Účet z obchodu."
+      },
+      {
+        "value": "1",
+        "label": "Postup, ktorý vypočíta obvod obdĺžnika."
+      },
+      {
+        "value": "2",
+        "label": "Recept v kuchárskej knihe."
+      },
+      {
+        "value": "3",
+        "label": "Návod na skladanie origami."
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "question": "Päť priateľov sedí vedľa seba v poradí Alica, Beáta, Cyril, Denis a Ema. Alica napíše na papier päť písmenové slovo (napr. VRANA) a podá papier Beáte. Beáta potom na nový papier prepíše slovo, ktoré dostala, ale urobí v ňom <b>práve jednu chybu</b> a podá papier Cyrilovi.<br> Chyba môže byť <b>nahradenie</b> jedného písmena iným písmenom (napr. HRANA, alebo <b>vynechanie</b> písmena (napr. RANA). Cyril prepíše slovo, ktoré dostal, ale pri prepise urobí tiež <b>práve jednu chybu</b> a podá svoj papier Denisovi atď. <br> Alica napísala Beáte slovo TRASA.<br> Ktoré slovo <b>nemôže</b> dostať Ema? <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "PASTA"
+      },
+      {
+        "value": "1",
+        "label": "BASA"
+      },
+      {
+        "value": "2",
+        "label": "PRASA"
+      },
+      {
+        "value": "3",
+        "label": "TRAS"
+      }
+    ]
+  },
+  {
+    "id": 992,
+    "question": "Bobor Kubo sa zaľúbil do bobrej slečny Bibi. Vytvoril pre ňu webovú stránku s obrázkom, na ktorom sa sama kúpe v jazere. Hneď potom jej napísal ľúbostný list, v ktorom chváli svoj čin.<br> Rozhorčená Bibi mu okamžite zavolala a žiadala, aby jej fotografiu odstránil z webu.<br> <br> Ktorý z nasledujúcich výrokov je pravdivý? <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "Kubo môže odstrániť fotku z webu, no potrvá ešte 24 hodín, kým Bibinu fotku na webe nikto nenájde."
+      },
+      {
+        "value": "1",
+        "label": "Kubo môže odstrániť fotku z webu, no Bibi si nikdy nemôže byť istá, že ju už nikto na webe nenájde."
+      },
+      {
+        "value": "2",
+        "label": "Kubo môže odstrániť fotku z webu a Bibinu fotku viac nikto na webe nenájde."
+      },
+      {
+        "value": "3",
+        "label": "Kubo nemusí odstraňovať fotku z webu, lebo Bibi ho o to nemá právo žiadať."
+      }
+    ]
+  },
+  {
+    "id": 642,
+    "question": "Mišo sa vrátil domov z výletu. Z mobilu a z fotoaparátu si do počítača stiahol spolu 100 fotiek a 16 videí. Chce ich všetky zobrať do školy na USB kľúči. Každá z Mišových fotiek má približne 5MB a každé video 250MB.<br> Aký <b>najmenší</b> USB kľúč bude potrebovať? <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "4 GB"
+      },
+      {
+        "value": "1",
+        "label": "8 GB"
+      },
+      {
+        "value": "2",
+        "label": "16 GB"
+      },
+      {
+        "value": "3",
+        "label": "2 GB"
+      }
+    ]
+  },
+  {
+    "id": 181,
+    "question": "Trezor sa otvára pomocou otočného gombíka s ukazovateľom, okolo ktorého sú písmená od A po H usporiadané v smere pohybu hodinových ručičiek podľa abecedy.<br> Ak chceme otvoriť trezor a poznáme heslo, otáčame gombíkom tak, aby ukazovateľ postupne ukázal na všetky písmená hesla.<br> Pred zadávaním hesla musíme otočiť ukazovateľ k písmenu A (počiatočná pozícia).<br> Napr. ak by bolo heslo DC, otočíme (z počiatočnej pozície) ukazovateľ trikrát doprava – bude ukazovať na písmeno D a potom ho otočíme raz doľava – bude ukazovať na písmeno C. Heslo si môžeme zapísať pomocou postupnosti čísel, pred ktorými je znamienko plus (ak točíme doprava) alebo mínus (ak točíme doľava). <br> V prípade hesla DC to je postupnosť +3 -1<br> Ktorou postupnosťou si zapíšeme heslo <b>GABE</b>? <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "-2 +2 +1 +3"
+      },
+      {
+        "value": "1",
+        "label": "-2 +2 -1 -3"
+      },
+      {
+        "value": "2",
+        "label": "+2 -2 -1 -3"
+      },
+      {
+        "value": "3",
+        "label": "+6 -6 +1 -3"
+      }
+    ]
+  },
+  {
+    "id": 880,
+    "question": "V textovom editore sme otvorili súbor s jedným riadkom textu len z podčiarovníkov a písmena X.<br> <br> |_ _ _ _ _ _ _ _ _ _ _ _ _ X _ _ _ _ _ _<br> <br> Zvislá čiara na začiatku riadka označuje kurzor, ktorý stojí na prvom podčiarovníku. Editor je v prepisovacom režime - to znamená, že vždy, keď napíšeme písmeno, prepíšeme ním znak, na ktorom stojí kurzor a kurzor sa posunie doprava.<br> <br> Riadok sme upravovali podľa takýchto inštrukcií:<br> <pre>Kým kurzor nestojí na X<br> napíš O<br>Kým kurzor nestojí na začiatku riadka<br> napíš X a posuň kurzor o 2 miesta vľavo</pre>Ako teraz vyzerá riadok? <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "O O O O O O O O O O O O O O X X X X X X|"
+      },
+      {
+        "value": "1",
+        "label": "|O X X X X X X X X X X X X X _ _ _ _ _ _"
+      },
+      {
+        "value": "2",
+        "label": "|_ O O O O O O O O O O O O O _ _ _ _ _ _"
+      },
+      {
+        "value": "3",
+        "label": "X X X X X X X X X X X X X X O O O O O O|"
+      }
+    ]
+  },
+  {
+    "id": 1004,
+    "question": "Bobor Robo, veľký to architekt, vymyslel systém označovania izieb v hotelovom komplexe. Označenie izby sa zloží z troch častí v poradí: číslo budovy, číslo poschodia a číslo izby na uvedenom poschodí. Budovy, poschodia aj izby sa číslujú od 1. Napríklad izba číslo 2 na 3. poschodí v budove 4 dostane označenie 432.<br> Hotel má 5 budov, v každej 12 poschodí, na každom 120 izieb.<br> Robov systém však spôsobuje problémy, lebo niekoľko rôznych izieb môže mať rovnaké označenie.<br> <br> Ktoré z nasledujúcich označení má len jediná izba v hoteli? <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "3131"
+      },
+      {
+        "value": "1",
+        "label": "11111"
+      },
+      {
+        "value": "2",
+        "label": "3113"
+      },
+      {
+        "value": "3",
+        "label": "1122"
+      }
+    ]
+  },
+  {
+    "id": 480,
+    "question": "V Bobrove majú mince v hodnote 1 cent, 7 centov, 12 centov a 22 centov. Bobor Hugo si chce z banky vybrať presne 15 centov.<br> <b>Najmenej</b> koľko mincí dostane? <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "3 mince"
+      },
+      {
+        "value": "1",
+        "label": "15 mincí"
+      },
+      {
+        "value": "2",
+        "label": "5 mincí"
+      },
+      {
+        "value": "3",
+        "label": "2 mince"
+      }
+    ]
+  },
+  {
+    "id": 877,
+    "question": "Ema rada navštevuje sociálnu sieť a píše sem o tom, čo práve teraz robia jej priatelia. Je to správne? <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "Áno, ale len v prípade, ak s tým jej priatelia súhlasili."
+      },
+      {
+        "value": "1",
+        "label": "Áno, pretože sú to jej priatelia a nie neznámi ľudia."
+      },
+      {
+        "value": "2",
+        "label": "Áno, ale len v prípade, že aj oni sú členmi sociálnej siete."
+      },
+      {
+        "value": "3",
+        "label": "Áno, ale len ak text jej správ nikomu z nich neubližuje."
+      }
+    ]
+  },
+  {
+    "id": 193,
+    "question": "Štyri bobry sedia vedľa seba pri stole v poradí Lukáš, Tomáš, Erik a Jožko.<br> Mama dala každému z nich cukríky podľa zásluh. <br> Lukášovi 4 cukríky<br> Tomášovi 5 cukríkov<br> Erikovi 5 cukríkov<br> Jožkovi 2 cukríky <br> Bobry sa rozhodli, že si cukríky rozdelia tak, aby mal každý rovnaký počet. <br> Mama im to dovolila pod podmienkou, že budú cukríky presúvať len po jednom, len medzi susedmi a bobor, ktorý dostane cukrík musí povedať ďakujem.<br> Bobry si cukríky spravodlivo rozdelili, pričom dodržali mamine pravidlá.<br> Najmenej koľkokrát mama počula slovo ďakujem? <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "3"
+      },
+      {
+        "value": "1",
+        "label": "5"
+      },
+      {
+        "value": "2",
+        "label": "2"
+      },
+      {
+        "value": "3",
+        "label": "4"
+      }
+    ]
+  },
+  {
+    "id": 1012,
+    "question": "Označme písmenkom A samohlásky, písmenkom S spoluhlásky. Zápisom A* označujeme 0 alebo viac samohlások za sebou, zápisom S* označujeme 0 alebo viac spoluhlások za sebou. Napríklad, SAS* môže zastupovať okrem iných slová <i>ži</i>, <i>jem</i>, <i>dosť</i>.<br> <br> V istom jazyku je pravidlo delenia slov na slabiky definované takto:<br> <ul><li><b>každá slabika sa musí dať zapísať buď ako S*A alebo AS*.</b></li></ul><br> <br> Ktoré rozdelenie slova <b>procrastination</b> zodpovedá uvedeným pravidlám? <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "proc-ras-ti-na-tion"
+      },
+      {
+        "value": "1",
+        "label": "pro-cra-sti-na-tion"
+      },
+      {
+        "value": "2",
+        "label": "proc-ras-ti-na-ti-on"
+      },
+      {
+        "value": "3",
+        "label": "pro-cra-sti-na-ti-on"
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "question": "Robot sa pohybuje po záhradke o veľkosti 3 krát 3 štvorcové políčka.<br> Robot pozná príkazy:<br> <b>Krok</b> – prejde na susedné políčko, ktoré je pred ním<br> <b>Vľavo</b> – otočí sa na aktuálnom políčku o 90 stupňov vľavo<br> <b>Vpravo</b> – otočí sa na aktuálnom políčku o 90 stupňov vpravo<br> Robot dostal nasledujúci program:<br> <b>Krok Vľavo Krok Vpravo Krok</b><br> Koľko je takých políčok, na ktorých môže robot stáť pred vykonaním programu (otočený potrebným smerom), aby počas vykonávania programu nevyšiel zo záhradky? <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "8"
+      },
+      {
+        "value": "1",
+        "label": "4"
+      },
+      {
+        "value": "2",
+        "label": "0"
+      },
+      {
+        "value": "3",
+        "label": "2"
+      }
+    ]
+  },
+  {
+    "id": 783,
+    "question": "Počítačový vírus je <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "Kus hardvéru."
+      },
+      {
+        "value": "1",
+        "label": "Škodlivý program."
+      },
+      {
+        "value": "2",
+        "label": "Nebezpečná baktéria."
+      },
+      {
+        "value": "3",
+        "label": "Časť operačného systému."
+      }
+    ]
+  },
+  {
+    "id": 290,
+    "question": "Lacko kóduje svoje správy tak, že medzi každé dve písmená v slove vloží iné písmeno, ktoré je náhodne zvolené.<br> Lacko poslal Jankovi správu s miestom ich stretnutia:<br> <b>PAREI ROIDETKIE</b><br> Kde sa stretnú? <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "PRI RIEKE"
+      },
+      {
+        "value": "1",
+        "label": "PRI TETKE"
+      },
+      {
+        "value": "2",
+        "label": "PRI ROTKE"
+      },
+      {
+        "value": "3",
+        "label": "PRI ODETKE"
+      }
+    ]
+  },
+  {
+    "id": 228,
+    "question": "Piati kamaráti, Adam, Braňo, Cyril, Dano, Emil nastúpili do autobusu takto:<br> <ul><li>Braňo pred Adamom</li><li>Braňo pred Danom</li><li>Dano pred Emilom</li><li>Dano pred Cyrilom</li><li>Emil pred Cyrilom</li></ul><br> V ktorom z týchto poradí nastupovali do autobusu? <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "Braňo – Adam – Emil – Dano – Cyril"
+      },
+      {
+        "value": "1",
+        "label": "Braňo – Cyril – Dano – Emil – Adam"
+      },
+      {
+        "value": "2",
+        "label": "Braňo – Dano – Emil – Cyril – Adam"
+      },
+      {
+        "value": "3",
+        "label": "Braňo – Adam – Dano – Cyril – Emil"
+      }
+    ]
+  },
+  {
+    "id": 382,
+    "question": "Práčka používa tri príkazy: prať, pláchať, odstrediť.<br> Aby sa šaty dobre oprali, pri zadávaní postupnosti príkazov sa musia dodržať tieto pravidlá:<br> Prať musí byť prvý príkaz a znamená oprať v pracom prášku.<br> Hneď po praní musí byť odstredenie.<br> Hneď po pláchaní musí byť odstredenie.<br> Zápis <br> opakuj 3 krát postupnosť príkazov koniec opakovania <br> znamená, že postupnosť príkazov, ktorá je medzi opakuj 3 krát a koniec opakovania sa vykoná 3-krát.<br> <b>Ktorý z nasledujúcich programov máme zvoliť, ak chceme šaty oprať v pracom prášku a potom 3-krát vypláchať a musíme dodržať uvedené pravidlá?</b> <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "Prať opakuj 3 krát pláchať odstrediť koniec opakovania"
+      },
+      {
+        "value": "1",
+        "label": "Prať opakuj 3 krát odstrediť koniec opakovania pláchať odstrediť"
+      },
+      {
+        "value": "2",
+        "label": "Prať opakuj 3 krát odstrediť pláchať koniec opakovania odstrediť"
+      },
+      {
+        "value": "3",
+        "label": "Prať odstrediť opakuj 3 krát pláchať koniec opakovania odstrediť"
+      }
+    ]
+  },
+  {
+    "id": 394,
+    "question": "Bobry navrhli tri operácie so slovami:<br> 1. Vlož písmeno<br> 2. Zruš písmeno<br> 3. Zmeň niektoré písmeno na iné<br> Vzdialenosť dvoch slov je najmenší počet operácií, ktoré treba urobiť, aby sa jedno slovo zmenilo na druhé. <br> Napríklad vzdialenosť slov ROH a HLOH je 2:<br> ROH – HROH (vlož H)<br> HROH – HLOH (zmeň R na L).<br> Aká je vzdialenosť slov SLAMA a LOM? <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "4"
+      },
+      {
+        "value": "1",
+        "label": "3"
+      },
+      {
+        "value": "2",
+        "label": "2"
+      },
+      {
+        "value": "3",
+        "label": "5"
+      }
+    ]
+  },
+  {
+    "id": 1028,
+    "question": "Štyria kamaráti Anton, Boris, Cyril a Dušan hrali futbal a rozbili okno.<br> Povedali:<br> Anton: Ja som ho nerozbil.<br> Boris: Ani ja.<br> Cyril: Dušan to urobil.<br> Dušan: Nie, bol to Boris.<br> <br> Vieme, že iba jeden klamal. Kto teda rozbil okno?<br> <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "Cyril"
+      },
+      {
+        "value": "1",
+        "label": "Boris"
+      },
+      {
+        "value": "2",
+        "label": "Anton"
+      },
+      {
+        "value": "3",
+        "label": "Dušan"
+      }
+    ]
+  },
+  {
+    "id": 286,
+    "question": "Medzi mestami A až F existujú priame jednosmerné cesty takto:<br> z mesta A do mesta B,<br> z mesta B do mesta C,<br> z mesta C do každého z miest A, D, E,<br> z mesta E do mesta F,<br> z mesta F do každého z miest B a E.<br> Ak existuje jednosmerná cesta z A do C, neznamená to, že existuje aj jednosmerná cesta z C do A.<br> Ktorý výrok je pravdivý? <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "Ak sa chceme dostať z C do B, musíme ísť aspoň po 3 cestách."
+      },
+      {
+        "value": "1",
+        "label": "Ak sa chceme dostať z A do C, musíme ísť aspoň po 3 cestách."
+      },
+      {
+        "value": "2",
+        "label": "Ak sa chceme dostať z A do D, musíme ísť aspoň po 3 cestách."
+      },
+      {
+        "value": "3",
+        "label": "Ak sa chceme dostať z B do E, musíme ísť aspoň po 3 cestách."
+      }
+    ]
+  },
+  {
+    "id": 285,
+    "question": "Labyrint o veľkosti päť krát päť políčok si môžeme predstaviť ako tabuľku, ktorej stĺpce sú označené písmenami od A po E a riadky sú očíslované od 1 po 5.<br> Takže každé políčko môžeme označiť kombináciou písmena a čísla podľa toho, v akom stĺpci a riadku sa nachádza. Napríklad v ľavom hornom rohu je políčko A1 a v pravom dolnom rohu je políčko E5.<br> Na políčku A1 stojí figúrka, ktorá sa pohybuje podľa nasledujúcich príkazov:<ul><li>Príkazy <b>1vlavo</b>, <b>2vlavo</b>, <b>3vlavo</b> znamenajú, že skočí o 1, 2 alebo 3 políčka <b>vľavo</b></li><li>Príkazy <b>1vpravo</b>, <b>2vpravo</b>, <b>3vpravo</b> znamenajú, že skočí o 1, 2 alebo 3 políčka <b>vpravo</b></li><li>Príkazy <b>1dole</b>, <b>2dole</b>, <b>3dole</b> znamenajú, že skočí o 1, 2 alebo 3 políčka <b>dole</b></li><li>Príkazy <b>1hore</b>, <b>2hore</b>, <b>3hore</b> znamenajú, že skočí o 1, 2 alebo 3 políčka <b>hore</b></li></ul>Figúrka vykonala v labyrinte takúto postupnosť príkazov:<br> <b>2vpravo 3dole 1vlavo 2hore 2vpravo</b><br> Na ktorom políčku je teraz figúrka? <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "na políčku D1"
+      },
+      {
+        "value": "1",
+        "label": "na políčku B2"
+      },
+      {
+        "value": "2",
+        "label": "na políčku D2"
+      },
+      {
+        "value": "3",
+        "label": "na políčku C2"
+      }
+    ]
+  },
+  {
+    "id": 393,
+    "question": "Tri bobry hrabú bobriu noru. Každý z nich sa špecializuje na iný typ nory: <br> Anna hrabe nízke nory s dĺžkou 5 metrov, <br> Benjamín hrabe nízke nory s dĺžkou 10 metrov, <br> Cyril sa špecializuje na hrabanie vysokých nor.<br> Bobry sa pri hrabaní nory striedali v rovnakom poradí a nakoniec mala ich nora nasledujúce úseky: <br> nízka s dĺžkou 5 metrov, <br> vysoká, <br> nízka s dĺžkou 15 metrov, <br> vysoká, <br> nízka s dĺžkou 15 metrov, <br> vysoká, <br> nízka s dĺžkou 10 metrov.<br> V akom poradí sa bobry striedali pri hrabaní nory? <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "Benjamín – Cyril – Anna"
+      },
+      {
+        "value": "1",
+        "label": "Cyril – Benjamín – Anna"
+      },
+      {
+        "value": "2",
+        "label": "Anna – Benjamín – Cyril"
+      },
+      {
+        "value": "3",
+        "label": "Anna – Cyril – Benjamín"
+      }
+    ]
+  },
+  {
+    "id": 950,
+    "question": "Počítač dokáže vykonávať súčasne niekoľko programov dokonca aj vtedy, ak má len jeden procesor. Trik spočíva v tom, že operačný systém nechá jeden program bežať istý (kratučký) čas, potom druhý, potom zase prvý a tak ďalej. Bežiace programy nazývame procesy a hovoríme, že operačný systém prepína procesy.<br> <br> Máme dve celočíselné premenné X a A. Na začiatku majú obe premenné hodnotu 0.<br> Máme dva jednoduché procesy, ktorých programy sú takéto:<br> <b>Proces 1:</b> <br> zväčši hodnotu X o 1<br> zmenši hodnotu X o 1<br> <b>Proces 2:</b><br> skopíruj hodnotu X do A <br> skopíruj hodnotu A do X<br> <br> Oba procesy odštartujeme naraz a bežia paralelne.<br> To znamená, že operačný systém sa rozhodne, ktorý z procesov sa začne vykonávať ako prvý. Potom môže (ale nemusí) medzi nimi prepínať, ale vždy len medzi dvoma riadkami programu.<br>  <br> Aká bude hodnota X, keď oba procesy skončia svoje vykonávanie? <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "môže byť 0, 1 alebo 2"
+      },
+      {
+        "value": "1",
+        "label": "bude vždy 0"
+      },
+      {
+        "value": "2",
+        "label": "môže byť 0 alebo 1"
+      },
+      {
+        "value": "3",
+        "label": "môže byť 0, −1 alebo 1"
+      }
+    ]
+  },
+  {
+    "id": 381,
+    "question": "V Bobrove kódujú písmená takto.<br> Kód každého písmena je jedna alebo viac číslic.<br> Kód nezačína iným kódom.<br> Kódovanie môže byť napríklad takéto:<br> K má kód 12,<br> L môže mať kód napríklad 2 (pretože 12 nezačína číslom 2),<br> M môže mať kód 11 (pretože 2 ani 12 nezačína číslom 11 ), ale nie 21 (pretože 21 začína číslom 2, ktoré je kódom pre L) a ani 121 (pretože 12 je kódom pre K).<br> Vieme, že kód slova BOBOR je<br> 2121212123<br> <b>Aké sú kódy jednotlivých písmen?</b> <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "B má kód 212, O má kód 1, R má kód 23"
+      },
+      {
+        "value": "1",
+        "label": "B má kód 2, O má kód 121, R má kód 23"
+      },
+      {
+        "value": "2",
+        "label": "B má kód 2, O má kód 1, R má kód 212123"
+      },
+      {
+        "value": "3",
+        "label": "B má kód 2, O má kód 121, R má kód 3"
+      }
+    ]
+  },
+  {
+    "id": 289,
+    "question": "Štyria kamaráti Adam, Cyril, Dano, Emil nastúpili do autobusu takto:<br> Dano pred Emilom<br> Dano pred Cyrilom<br> Emil pred Cyrilom <br> Adam pred Danom<br> V akom poradí nastupovali? <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "Emil – Cyril – Adam – Dano"
+      },
+      {
+        "value": "1",
+        "label": "Dano – Emil – Cyril – Adam"
+      },
+      {
+        "value": "2",
+        "label": "Adam – Dano – Cyril – Emil"
+      },
+      {
+        "value": "3",
+        "label": "Adam – Dano – Emil – Cyril"
+      }
+    ]
+  },
+  {
+    "id": 442,
+    "question": "Roberta si kúpila starú kalkulačku, ktorá počíta s presnosťou na jedno desatinné miesto. Teda ďalšie desatinné miesta si nepamätá, „odreže“ ich.<br> Napríklad, ak vypočíta 7/5, výsledok bude 1,4, čo je presná hodnota. Ak ale vypočíta 7/4, výsledok bude 1,7. Presný výsledok by bol 1,75. Chyba výpočtu, teda rozdiel medzi presným výsledkom a vypočítanou hodnotou, je v tomto prípade 0,05.<br> Desatinné miesta sa odrežú po každej aritmetickej operácii. Napríklad pri výpočte (7/4)/2, kalkulačka najprv vypočíta 7/4 = 1,7, potom pokračuje vo výpočte a vypočíta 1,7/2 = 0,8. Chyba výpočtu je v tomto prípade 0,075.<br> <br> Aká bude chyba výpočtu <b>((10/3) * (10/3)) * 9</b>? <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "3,3"
+      },
+      {
+        "value": "1",
+        "label": "2,8"
+      },
+      {
+        "value": "2",
+        "label": "0,0"
+      },
+      {
+        "value": "3",
+        "label": "1,3"
+      }
+    ]
+  },
+  {
+    "id": 1044,
+    "question": "V ktorom roku bola založená firma Microsoft a kto boli jej zakladatelia? <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "1981 Niklaus Wirth"
+      },
+      {
+        "value": "1",
+        "label": "1975 Bill Gates a Paul Allen"
+      },
+      {
+        "value": "2",
+        "label": "1971 Bill Gates a Steve Ballmer"
+      },
+      {
+        "value": "3",
+        "label": "1984 Philippe Kahn a Bill Gates"
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "question": "Bobor Samo zbožňuje pohorie Boborláje s desiatimi kopcami, ktoré stoja jeden vedľa druhého a ich výšky sú takéto:<br> 3, 6, 9, 7, 7, 8, 10, 8, 7, 6<br> Keď Samo vylezie na niektorý z týchto kopcov, pozrie sa, či vedľa nie je ešte vyšší kopec a vylezie aj na ten. Ak sú z oboch strán vyššie kopce, vylezie na vyšší z nich. Takto pokračuje dovtedy, kým je vedľa neho nejaký vyšší kopec.<br> Na koľkých kopcoch môže začať tak, aby vystúpil na najvyšší kopec pohoria? <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "6"
+      },
+      {
+        "value": "1",
+        "label": "5"
+      },
+      {
+        "value": "2",
+        "label": "4"
+      },
+      {
+        "value": "3",
+        "label": "7"
+      }
+    ]
+  },
+  {
+    "id": 745,
+    "question": "Máme takýto príbeh:<br> <i>Janko našiel na ceste mačku. Pretože bola zima, rozhodol sa, že si ju zoberie domov. Mačka sa u Janka cítila dobre, v izbe bolo teplo a tak zaspala pri krbe. Vtedy prišla domov Jankova mama. Nevšimla si mačku pri krbe a stúpila jej na chvost. Mačka sa zľakla, vyskočila a poškriabala mamu.</i><br> <br> Chceme ho vyjadriť v kompaktnejšej podobe pomocou udalostí, ktoré sa v ňom odohrali. Navrhli sme symbolický zápis troch udalostí <b>Poškriabať</b>, <b>Spať</b>, <b>Priniesť</b>:<br> <ul><li><b>Poškriabať(A,B)</b> znamená, že <b>A</b> poškriabal <b>B</b></li><li><b>Spať(A)</b> znamená, že <b>A</b> zaspal</li><li><b>Priniesť(A,B)</b> znamená, že <b>A</b> priniesol <b>B</b> domov</li></ul><br> Ktorá z nasledujúcich postupností udalostí najlepšie reprezentuje uvedený príbeh? <b>J</b> označuje Janka, <b>M</b> označuje Jankovu mamu a <b>C</b> označuje mačku. <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "<b>Priniesť(J,C)</b>, potom <b>Spať(M)</b>, potom <b>Poškriabať(M,C)</b>"
+      },
+      {
+        "value": "1",
+        "label": "<b>Priniesť(C)</b>, potom <b>Spať(C)</b>, potom <b>Poškriabať(C,M)</b>"
+      },
+      {
+        "value": "2",
+        "label": "<b>Spať(C)</b>, potom <b>Poškriabať(C,M)</b>, potom <b>Priniesť(C,J)</b>"
+      },
+      {
+        "value": "3",
+        "label": "<b>Priniesť(J,C)</b>, potom <b>Spať(C)</b>, potom <b>Poškriabať (C,M)</b>"
+      }
+    ]
+  },
+  {
+    "id": 194,
+    "question": "V počítačovej hre Dorka ovláda pohyb zajačika pomocou klávesov so šípkami hore, dole, vpravo, vľavo. Po stlačení klávesu sa zajačik presunie na susedné políčko v príslušnom smere. <br> Hracia plocha, po ktorej sa zajačik pohybuje má štyri riadky označené zhora nadol číslami 1, 2, 3, 4 a tri stĺpce označené zľava doprava písmenami C, D, E. Každé políčko vieme určiť podľa riadku a stĺpca, v ktorom sa nachádza.<br> Momentálne je zajačik na políčku <br> D3 (v treťom riadku a druhom stĺpci).<br> Dorka postupne stlačila klávesy v poradí:<br> dole vľavo hore vpravo hore <br> Na ktorom políčku je zajačik teraz? <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "D2"
+      },
+      {
+        "value": "1",
+        "label": "C3"
+      },
+      {
+        "value": "2",
+        "label": "E1"
+      },
+      {
+        "value": "3",
+        "label": "E4"
+      }
+    ]
+  },
+  {
+    "id": 182,
+    "question": "Janka má v počítači tabuľku, ktorá má 5 stĺpcov a 5 riadkov. Stĺpce sú zľava doprava označené písmenami od A po E. Riadky sú zhora nadol označené číslami od 1 po 5. <br> Adresa každej bunky je jednoznačne určená písmenom stĺpca a číslom riadku, v ktorých sa nachádza. Janka bola nastavená na bunke C4 (v treťom stĺpci a štvrtom riadku). Potom postláčala takúto postupnosť klávesov:<br> vľavo vľavo hore Delete vpravo dole vpravo dole Delete<br> Obsahy ktorých dvoch buniek Janka zmazala? <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "A3 D5"
+      },
+      {
+        "value": "1",
+        "label": "A3 C5"
+      },
+      {
+        "value": "2",
+        "label": "A2 D5"
+      },
+      {
+        "value": "3",
+        "label": "A2 C4"
+      }
+    ]
+  },
+  {
+    "id": 641,
+    "question": "Dedko nás poprosil, aby sme mu pomohli vytvoriť heslo pre jeho e-mailovú schránku. Heslo musí obsahovať:<ul><li>Aspoň 2 veľké písmená.</li><li>Viac písmen ako číslic.</li><li>Aspoň 1 špeciálny znak, t.j. taký, ktorý nie je písmeno ani číslica.</li></ul><br> Ktoré heslo je akceptovateľné? <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "<b>OPA@674+</b>"
+      },
+      {
+        "value": "1",
+        "label": "<b>naj*D3D8+B</b>"
+      },
+      {
+        "value": "2",
+        "label": "<b>Dedulo#57</b>"
+      },
+      {
+        "value": "3",
+        "label": "<b>RAYMan854</b>"
+      }
+    ]
+  },
+  {
+    "id": 1052,
+    "question": "Pri ktorých symptómoch môžeme usudzovať, že zvuková karta nášho počítača je pokazená? <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "Pri prehrávaní hudby pod Windows počítač vydáva divné kvílivé zvuky, pod Linuxom prehráva hudbu správne."
+      },
+      {
+        "value": "1",
+        "label": "Pod Windows hrá hudba správne, ale v Linuxe to nemôžeme vyskúšať, lebo tam nie je Media Player."
+      },
+      {
+        "value": "2",
+        "label": "Stiahnutý súbor typu MP3 nevieme prehrať ani pod Windowsom ani pod Linuxom. Oba systémy hlásia \"neznámy formát súboru\"."
+      },
+      {
+        "value": "3",
+        "label": "Keď sa snažíme prehrávať hudbu pod Windows, počítač sa reštartuje. Keď to skúsime pod Linuxom, počítač \"zamrzne\"."
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "question": "Bobor sa chodí prechádzať okolo jazera, ku ktorému vedie len jedna prístupová cesta. Prechádzku začne buď smerom vľavo alebo vpravo a obíde celé jazero.<br> Včera išiel smerom <b>vľavo</b> a na svojej prechádzke <b>postupne videl</b>:<br> lavičku, slnečník, zavlažovač, slnečník, slnečník.<br> Dnes išiel smerom <b>vpravo</b> a postupne <b>videl</b>:<br> slnečník, lavičku, zavlažovač, slnečník, lavičku.<br> Čo sa odvčera zmenilo? <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "namiesto lavičky je teraz slnečník"
+      },
+      {
+        "value": "1",
+        "label": "všetko je rovnaké ako včera"
+      },
+      {
+        "value": "2",
+        "label": "namiesto slnečníka je teraz lavička"
+      },
+      {
+        "value": "3",
+        "label": "namiesto zavlažovača je slnečník"
+      }
+    ]
+  },
+  {
+    "id": 837,
+    "question": "Kapitán Rebro skryl na tajnom mieste 1000 zlatiek a miesto skrýše si zakreslil do mapy.<br> Jeho prvý dôstojník si tajne prekreslil kapitánovu mapu.<br> Po niekoľkých rokoch chcel kapitán Rebro pridať k svojmu pokladu ďalších 600 zlatiek. Nanešťastie v skrýši už nebolo miesto, preto všetko svoje zlato presunul na nové tajné miesto a opravil svoju mapu tak, aby označovala miesto novej skrýše.<br> O 400 rokov neskôr si náhodou našiel kapitánovu aj dôstojníkovu mapu. Ak pôjdeš na miesta označené v týchto mapách, čo nájdeš?<br> <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "podľa Rebrovej mapy nič, podľa dôstojníkovej mapy 1600 zlatiek"
+      },
+      {
+        "value": "1",
+        "label": "podľa Rebrovej mapy 1000 zlatiek, podľa dôstojníkovej mapy 600 zlatiek"
+      },
+      {
+        "value": "2",
+        "label": "podľa Rebrovej mapy 1600 zlatiek, podľa dôstojníkovej mapy nič"
+      },
+      {
+        "value": "3",
+        "label": "podľa Rebrovej mapy 600 zlatiek, podľa dôstojníkovej mapy 1000 zlatiek"
+      }
+    ]
+  },
+  {
+    "id": 458,
+    "question": "Funkcia <code>zmen</code> dostáva ako vstup reťazec z písmen <code>A</code> a <code>B</code>. Jej výsledkom je reťazec, v ktorom sa písmená vo vstupnom reťazci postupne nahradia podľa nasledujúcich dvoch pravidiel<br> <code>A → BB<br> B → ABA</code><br> Napr. výsledkom týchto 3 volaní <code>zmen(zmen(zmen('A')))</code> je reťazec <code>'BBABABBBBABABB'</code><br> Postupne sa vykonajú 3 kroky nahradenia:<br> <code>'A' → 'BB' → 'ABAABA' → 'BBABABBBBABABB'</code><br> <br> Julo naprogramoval inú podobnú funkciu a nazval ju <code>zmen2</code>. Použil ju podobne ako <code>zmen</code> vo vyššie uvedenom príklade. Vieme len to, že po niekoľkých volaniach s nejakým počiatočným reťazcom bol výsledok <code>'ABBCCBCCBABA'</code>.<br> <br> Ktoré pravidlá použil Julo vo svojej funkcii? <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "<code> A → AA, B → CC, C → ABA</code>"
+      },
+      {
+        "value": "1",
+        "label": "<code> A → BC, B → AAA, C → BA</code>"
+      },
+      {
+        "value": "2",
+        "label": "<code> A → C, B → ABB, C → AA</code>"
+      },
+      {
+        "value": "3",
+        "label": "<code> A → AB, B → BCC, C → BA</code>"
+      }
+    ]
+  },
+  {
+    "id": 726,
+    "question": "Bobor Bruno je na prázdninách. Chce poslať poštu svojej kamarátke Babsi. Dobre však vie, že poštový holub je veľmi zvedavý. Preto sa Bruno a Babsi dohodli, že svoje správy budú šifrovať. Bruno napísal:<br> <b>ONURBERBODASMAMENSARKEJEVORTSOAN</b><br> To znamená: Na ostrove je krasne Mam sa dobre Bruno<br> Babsi mu napísala:<br> <b>ISBABAMODSAVARPZOROPIMOKTESV</b><br> <br> Akú správu poslala Babsi?<br> <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "Napis viacej Babsi"
+      },
+      {
+        "value": "1",
+        "label": "Dakujem za spravy Babsi"
+      },
+      {
+        "value": "2",
+        "label": "Tesim sa ked sa vratis Babsi"
+      },
+      {
+        "value": "3",
+        "label": "Vsetko mi porozpravas doma Babsi"
+      }
+    ]
+  },
+  {
+    "id": 1064,
+    "question": "Na webovej stránke predajcu počítačov sú o jednom notebooku takéto údaje:<br> Intel Celeron M Processor 530 (1.73GHz, 533MHz FSB, 1MB L2 cache) - Intel GM965 - 512 MB DDRII 667MHz (1) - 80 GB 5.4krpm S-ATA - 15.4\" TFT WXGA 1280 x 800 BrightView - Intel Graphics Media Accelerator X3100 384MB shared - DVD+/-RW SuperMulti DL fixed - Modem56K/LAN10/100 - 802.11b/g WLAN - no Bluetooth - ports: 3x USB 2.0, audio in/out, VGA, RJ-11, RJ-45 - 6-cell Li-Ion Battery- ExpressCard/54 slot -Secure Digital slot - travel battery connector - no dock - 2.49kg - 32,3x358x266 - FREE DOS<br> <br> Na základe týchto údajov určite, ktoré z nižšie uvedených tvrdení o ponúkanom notebooku je <b>pravdivé</b>. <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "môže sa pripojiť do internetu pomocou WiFi"
+      },
+      {
+        "value": "1",
+        "label": "jeho disk sa točí rýchlosťou 5400 otáčok za sekundu"
+      },
+      {
+        "value": "2",
+        "label": "má rozhranie FireWire"
+      },
+      {
+        "value": "3",
+        "label": "má dvojjadrový procesor"
+      }
+    ]
+  },
+  {
+    "id": 858,
+    "question": "Potrebuješ poslať dokument priateľovi, ktorý má možno iný operačný systém ako ty. Tvoj textový editor môže exportovať dokumenty do rôznych formátov. Ktorý formát je najvhodnejší, ak dokument má veľa formátovania (napr. rôzne typy, veľkosti a farby písma, obrázky v texte) a tvoj priateľ si ho chce len prečítať a vytlačiť? <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "Dokument programu Word (*.doc, *.docx)"
+      },
+      {
+        "value": "1",
+        "label": "Text vo formáte OpenDocument (*.odt)"
+      },
+      {
+        "value": "2",
+        "label": "PDF - Portable Document Format (*.pdf)"
+      },
+      {
+        "value": "3",
+        "label": "Textový súbor (*.txt)"
+      }
+    ]
+  },
+  {
+    "id": 272,
+    "question": "Dominik a Beáta sa hrajú takúto hru: Beáta si myslí trojciferné číslo. Dominik povie nejaké trojciferné číslo a Beáta mu poradí, či má jeho číslo správne cifry a či sú na rovnakej pozícii ako v čísle, ktoré si myslí.<br> Dominik si zapísal:<br> 1 7 2 – <b>jedna</b> cifra je správna, ale <b>nie je</b> na správnej pozícii<br> 8 5 4 – <b>dve</b> cifry sú správne, ale <b>nie sú</b> na správnych pozíciách<br> 9 8 6 – <b>jedna</b> cifra je správna, ale <b>nie je</b> na správnej pozícii<br> 7 5 1 – <b>jedna</b> cifra je správna a <b>je na</b> správnej pozícii.<br> Ktoré číslo si myslela Beáta? <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "248"
+      },
+      {
+        "value": "1",
+        "label": "185"
+      },
+      {
+        "value": "2",
+        "label": "748"
+      },
+      {
+        "value": "3",
+        "label": "345"
+      }
+    ]
+  },
+  {
+    "id": 1031,
+    "question": "Pascalina bol(a) <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "Manželka matematika, fyzika a filozofa Blaisa Pascala."
+      },
+      {
+        "value": "1",
+        "label": "Jedna z prvých známych mechanickych kalkulačiek."
+      },
+      {
+        "value": "2",
+        "label": "Predchodca programovacieho jazyka Pascal."
+      },
+      {
+        "value": "3",
+        "label": "Elektronická pasca na nevyžiadané e-maily."
+      }
+    ]
+  },
+  {
+    "id": 1048,
+    "question": "Nekompresovaný rastrový obrázok má 40x50 pixelov a zaberá v pamäti presne 1000 bajtov.<br> Koľko najviac rôznych farieb môže používať? <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "viac než 65000 farieb"
+      },
+      {
+        "value": "1",
+        "label": "2 farby"
+      },
+      {
+        "value": "2",
+        "label": "16 farieb"
+      },
+      {
+        "value": "3",
+        "label": "256 farieb"
+      }
+    ]
+  },
+  {
+    "id": 159,
+    "question": "Osem priateľov Alica, Bruno, Cyril, Dávid, Eva, Filip, Gréta, Hana sedia okolo okrúhleho stola.<br> Vieme, že:<ul><li>Alica sedí priamo oproti Dávidovi.</li><li>Hana sedí vedľa Gréty a aj vedľa Evy.</li><li>Filip nesedí vedľa Alice ani vedľa Dávida.</li><li>Medzi Grétou a Cyrilom je práve jedno miesto.</li><li>Eva sedí vedľa Dávida, po jeho ľavej ruke.</li></ul><br> Ktoré z týchto poradí sedenia priateľov v smere pohybu hodinových ručičiek je správne? <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "Alica, Cyril, Filip, Bruno, Dávid, Eva, Hana, Gréta"
+      },
+      {
+        "value": "1",
+        "label": "Alica, Gréta, Hana, Eva, Dávid, Bruno, Filip, Cyril"
+      },
+      {
+        "value": "2",
+        "label": "Alica, Hana, Eva, Gréta, Dávid, Filip, Bruno, Cyril"
+      },
+      {
+        "value": "3",
+        "label": "Alica, Bruno, Gréta, Dávid, Cyril, Eva, Filip, Hana"
+      }
+    ]
+  },
+  {
+    "id": 288,
+    "question": "Bobry si na oslavu objednali špeciálnu limonádu. Firma má limonádu uloženú v rôzne veľkých fľaškách:<br> <b>1 liter, 4 litre, 8 litrov, 16 litrov, 32 litrov</b><br> Koľko najmenej fliaš potrebujú, aby na oslavu priviezli presne <b>25 litrov</b> limonády? <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "5"
+      },
+      {
+        "value": "1",
+        "label": "4"
+      },
+      {
+        "value": "2",
+        "label": "2"
+      },
+      {
+        "value": "3",
+        "label": "3"
+      }
+    ]
+  },
+  {
+    "id": 947,
+    "question": "V počítačovej sieti máme zapojených päť počítačov, ktoré zdieľajú internetové pripojenie. Celá šírka pásma je rozdelená rovnomerne medzi všetkých, čiže každý používateľ má k dispozícii jej jednu pätinu.<br> Jeden z používateľov siete si dnes nainštaloval nástroj na urýchlenie sťahovania, ktorý pre neho vytvára štyri spojenia miesto jedného.<br> <br> Akú veľkú časť pásma má teraz k dispozícii? <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "1/2"
+      },
+      {
+        "value": "1",
+        "label": "1/5"
+      },
+      {
+        "value": "2",
+        "label": "4/5"
+      },
+      {
+        "value": "3",
+        "label": "1/4"
+      }
+    ]
+  },
+  {
+    "id": 158,
+    "question": "V Bobrove šifrujú slová v dvoch krokoch.<br> V prvom kroku odstránia prvé písmeno v slovách s nepárnym počtom písmen. Slová s párnym počtom písmen nemenia.<br> V druhom kroku v slovách vymenia poradie susediacich dvoch písmen (prvé s druhým, tretie so štvrtým, atď.).<br> Napríklad text <b>rieši ibobra</b> sa šifruje takto: <ul><li>po prvom kroku: <b>ieši ibobra</b></li><li>po druhom kroku: <b>eiiš biboar</b></li></ul><br> Ako sa zašifruje text <b>informatická súťaž</b>? <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "niofmrtaciák úsaťž"
+      },
+      {
+        "value": "1",
+        "label": "fnroamitkc ťúža"
+      },
+      {
+        "value": "2",
+        "label": "fnroamitkc úsaťž"
+      },
+      {
+        "value": "3",
+        "label": "niofmrtaciák ťúža"
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "question": "Textový automat má na vstupe reťazec 10 hviezdičiek. Postupne v ňom prepisuje znaky slovami BABY, GIGA, GIBA.<br> Prepisovanie vykonáva podľa postupnosti príkazov <b>VLOŽ(slovo, pozícia)</b>, kde <b>slovo</b> určuje vkladané slovo a pozícia určuje pozíciu v prepisovanom reťazci, na ktorú ho treba dať.<br> Napríklad po vykonaní príkazu:<br> <b>VLOŽ(GIBA,1)</b> získame reťazec<br> GIBA******<br> Následne po vykonaní príkazu:<br> <b>VLOŽ(BABY,6)</b> získame reťazec<br> GIBA*BABY*<br> Aký reťazec vznikne zo vstupného reťazca vykonaním nasledujúcej postupnosti príkazov?<br> <b>VLOŽ(GIBA, 1)</b><br> <b>VLOŽ(GIGA, 3)</b><br> <b>VLOŽ(BABY, 7)</b> <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "GIBAGABABY"
+      },
+      {
+        "value": "1",
+        "label": "GIBAGIGABY"
+      },
+      {
+        "value": "2",
+        "label": "GIGABABABY"
+      },
+      {
+        "value": "3",
+        "label": "GIGIGABABY"
+      }
+    ]
+  },
+  {
+    "id": 318,
+    "question": "Tomáš išiel von a zabudol sa odhlásiť zo svojho konta na sociálnej sieti ePriatelia.<br> K jeho počítaču si sadla Janka a napísala jeho kamarátovi správu. Nevedela však o Tomášovom zvyku, že posledné písmeno každého slova správy napíše dvakrát.<br> Ktorú správu napísala Janka? <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "Zajtraa jee sobotaa, pôjdemee naa výlett."
+      },
+      {
+        "value": "1",
+        "label": "Včeraa somm boll naa kúpaliskuu."
+      },
+      {
+        "value": "2",
+        "label": "Dostall somm dvojkuu zz diktátuu."
+      },
+      {
+        "value": "3",
+        "label": "Dnes pôjdem s Emou do kina."
+      }
+    ]
+  },
+  {
+    "id": 284,
+    "question": "V malej dedine je 9 domov označených postupne písmenami od A po I, postavených pri ceste v rade vedľa seba. <br> Dĺžka cesty medzi susednými domami je vždy 10 metrov.<br> Na Halloween šiel Emil navštíviť svojich priateľov. Keď vyšiel zo svojho domu E, vybral sa po ceste k jednému zo svojich priateľov. Keď návštevu ukončil, opäť sa vybral po ceste k ďalšiemu priateľovi. Vždy keď Emil vošiel do niektorého domu, zaznamenal si dĺžku cesty od poslednej návštevy.<br> Keď prišiel do domu H, mal zaznamenané hodnoty <br> <b>20 10 40</b><br> Ktoré dva domy Emil navštívil predtým ako prišiel do domu H? <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "F, D"
+      },
+      {
+        "value": "1",
+        "label": "C, D"
+      },
+      {
+        "value": "2",
+        "label": "A, C"
+      },
+      {
+        "value": "3",
+        "label": "G, F"
+      }
+    ]
+  },
+  {
+    "id": 839,
+    "question": "22 bobrov sa chystá člnkovať. Každý bobor má len 1 mincu. Na rieke je požičovňa člnkov, kde majú člnky pre 1, 2, 4, 8, 16 a 32 bobrov. Z každého len jeden. Cena člnku sa rovná počtu miest v ňom. (takže jednomiestny stojí 1 mincu, dvojmiestny stojí 2 mince, atď.).<br> <br> Koľko člnkov si musia prenajať? <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "1"
+      },
+      {
+        "value": "1",
+        "label": "2"
+      },
+      {
+        "value": "2",
+        "label": "3"
+      },
+      {
+        "value": "3",
+        "label": "4"
+      }
+    ]
+  },
+  {
+    "id": 512,
+    "question": "Bobor Max hľadá vo veľmi dlhom zozname telefónne číslo svojho priateľa. Nevie, ako sa presne píše jeho meno. Vyhľadávací program umožňuje použiť pri vyhľadávaní:<br> znak <b>?</b> keď nepoznáme práve jeden znak<br> znak <b>&amp;</b> keď nepoznáme práve dva po sebe idúce znaky<br> znak <b>%</b> keď nepoznáme zvyšok mena<br> Napríklad, ak napíšeme <b>Ti%</b> program nájde mená Tibor, Tina, atď.<br> Max zadá: <b>E?o B&amp;zi%</b><br> Ktoré z týchto mien program nájde? <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "Elo Bazinovský"
+      },
+      {
+        "value": "1",
+        "label": "Edon Breza"
+      },
+      {
+        "value": "2",
+        "label": "Emil Brezička"
+      },
+      {
+        "value": "3",
+        "label": "Edo Brezinka"
+      }
+    ]
+  },
+  {
+    "id": 377,
+    "question": "Vesmírna loď má dva druhy pohonu:<ul><li><b>elektrický pohon</b> – získava energiu z akumulátora, ktorý sa nabíja energiou zo solárnych panelov,</li><li><b>pohon na tekuté palivo</b> – získava energiu spaľovaním tekutého paliva, ktorého má na začiatku cesty isté množstvo a počas cesty sa už nedá doplniť.</li></ul>Naraz môže byť zapnutý najviac jeden druh pohonu. Keď je elektrický pohon vypnutý, tak sa akumulátor nabíja.<br> <br> Vesmírna loď letí k Jupiteru. Na začiatku cesty má akumulátor nabitý na 100% a má 40 ton tekutého paliva. Najprv loď zrýchľovala striedavým použitím oboch pohonov, potom pohon vypla a letí ďalej vďaka zotrvačnosti.<br> <br> Použitie motorov na začiatku cesty sa riadilo týmto programom (príkazy v tom istom bloku sú odsadené rovnako):<br> <pre>Zapni elektrický pohon<br>Opakuj kým je pohon zapnutý<br> Ak je akumulátor nabitý na menej než 35%, tak<br> Ak je zásoba tekutého paliva viac než 20 ton, tak<br> Pošli na Zem správu „Nabíjam akumulátor“<br> Prepni pohon na tekuté palivo<br> Počkaj kým sa spáli 10 ton tekutého paliva<br> Prepni pohon na elektrický<br> Inak<br> Pošli na Zem správu „Vypínam pohon“<br> Vypni pohon</pre>Akú postupnosť správ poslal program na Zem? <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "Nabíjam akumulátor, Vypínam pohon"
+      },
+      {
+        "value": "1",
+        "label": "Nabíjam akumulátor, Nabíjam akumulátor, Nabíjam akumulátor, Vypínam pohon"
+      },
+      {
+        "value": "2",
+        "label": "Vypínam pohon, Nabíjam akumulátor, Nabíjam akumulátor"
+      },
+      {
+        "value": "3",
+        "label": "Nabíjam akumulátor, Nabíjam akumulátor, Vypínam pohon"
+      }
+    ]
+  },
+  {
+    "id": 380,
+    "question": "Anna, Bohuš, Cyril a Dana spolu raňajkujú. Na stole majú:<br> dve bagety<br> dve žemle<br> dva rožky<br> dva toasty<br> Každý z kamarátov si zobral dva rôzne druhy pečiva tak, že:<br> Anna a Bohuš nemali ani jeden druh pečiva rovnaký.<br> Bohuš mal rožok.<br> Dana mala žemľu, ale Anna nemala žemľu.<br> Cyril mal bagetu.<br> <b>Čo mala Anna?</b> <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "toast a bagetu"
+      },
+      {
+        "value": "1",
+        "label": "žemľu a toast"
+      },
+      {
+        "value": "2",
+        "label": "rožok a žemľu"
+      },
+      {
+        "value": "3",
+        "label": "bagetu a rožok"
+      }
+    ]
+  },
+  {
+    "id": 292,
+    "question": "V stánku predávajú tri druhy zmrzliny: <br> Jahodová, Vanilková, Citrónová<br> Zmrzlinár dodržiava pri nakladaní zmrzliny do kornútka nasledujúci postup:<br> 1.Zober prázdny kornútok.<br> 2.Náhodne si zvoľ jeden druh zmrzliny a z neho daj navrch dva kopčeky na seba.<br> 3.Daj navrch jeden kopček zmrzliny iného druhu. <br> 4.Ak je zákazník spokojný, skonči, inak opakuj postup od bodu dva.<br> Pri nakladaní ktorého kornútka dodržal zmrzlinár postup? <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "Vanilková, citrónová, citrónová, jahodová, jahodová, vanilková"
+      },
+      {
+        "value": "1",
+        "label": "Jahodová, jahodová, citrónová, vanilková, vanilková, jahodová"
+      },
+      {
+        "value": "2",
+        "label": "Citrónová, citrónová, vanilková, jahodová, vanilková, citrónová"
+      },
+      {
+        "value": "3",
+        "label": "Vanilková, citrónová, jahodová"
+      }
+    ]
+  },
+  {
+    "id": 154,
+    "question": "Janka pracuje s tabuľkou, ktorá má vyplnených 5 stĺpcov a 5 riadkov. Stĺpce sú zľava doprava označené písmenami od A po E a riadky zhora nadol číslami od 1 po 5. Každá bunka je jednoznačne určená písmenom stĺpca a číslom riadku, v ktorých sa nachádza.<br> Janka bola nastavená na bunke <b>C4</b> (v treťom stĺpci a štvrtom riadku). Potom postláčala takúto postupnosť klávesov:<br> ← ←↑ Delete → ↑→ → Delete<br> Obsah ktorých dvoch buniek Janka zmazala? <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "A2 a E2"
+      },
+      {
+        "value": "1",
+        "label": "A3 a D2"
+      },
+      {
+        "value": "2",
+        "label": "A3 a E2"
+      },
+      {
+        "value": "3",
+        "label": "A2 a D2"
+      }
+    ]
+  },
+  {
+    "id": 504,
+    "question": "Chlapci a dievčatá sa zúčastnili tanečnej súťaže. Spolu súťažilo 9 mladých tanečníkov. Súťažiaci získali za svoje tanečné zostavy takéto bodové hodnotenie:<br> 1, 2, 2, 3, 4, 5, 5, 6, 7<br> Vieme, že <ul><li>ani jeden chlapec nezískal viac bodov ako ktorékoľvek dievča</li><li>Adam a Samo mali rovnaký počet bodov</li><li>Peter mal rovnaký počet bodov ako Ema</li></ul><br> Koľko chlapcov sa zúčastnilo súťaže? <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "3"
+      },
+      {
+        "value": "1",
+        "label": "7"
+      },
+      {
+        "value": "2",
+        "label": "2"
+      },
+      {
+        "value": "3",
+        "label": "6"
+      }
+    ]
+  },
+  {
+    "id": 1045,
+    "question": "Bobor začína prechádzku v čase nula.<br> Každú sekundu môže<br> <ul><li>buď ísť dopredu jeden krok</li><li>alebo ísť dopredu toľko krokov, koľko ich spravil doteraz.</li></ul><br> Napríklad 10 krokovú prechádzku môže prejsť niekoľkými spôsobmi v rôznych časoch:<br> 1 1 1 1 1 1 1 1 1 1 (za 10 sekúnd) <br> 1 1 1 3 1 1 1 1 (za 8 sekúnd)<br> 1 1 2 4 1 1 (za 6 sekúnd)<br> 1 1 2 1 5 (za 5 sekúnd)<br> <br> Ktoré tvrdenie je <b>nesprávne</b>? <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "Minimálny čas 11 krokovej prechádzky je 8 sekúnd."
+      },
+      {
+        "value": "1",
+        "label": "Posledný krok prechádzky môže byť deliteľný 17."
+      },
+      {
+        "value": "2",
+        "label": "7 kroková prechádzka môže trvať dlhšie než 16 kroková."
+      },
+      {
+        "value": "3",
+        "label": "Prechádzka môže mať ľubovoľný počet krokov."
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "question": "Máme dámsky a pánsky klobúk. Oba dokážu vyčarovať cukríky.<br> Ak niekoľko cukríkov zakryjeme <b>pánskym</b> klobúkom a potom ho zodvihneme, bude pod ním dvojnásobný počet cukríkov ako predtým. Ak niekoľko cukríkov zakryjeme <b>dámskym</b> klobúkom a potom ho zodvihneme, bude pod ním <b>o 7 cukríkov viac</b> ako predtým.<br> Máme 5 cukríkov a takto sme ich zakrývali a odokrývali klobúkmi:<br> <b>pánsky, pánsky, dámsky, pánsky, dámsky</b><br> Koľko cukríkov máme teraz? <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "160"
+      },
+      {
+        "value": "1",
+        "label": "61"
+      },
+      {
+        "value": "2",
+        "label": "87"
+      },
+      {
+        "value": "3",
+        "label": "41"
+      }
+    ]
+  },
+  {
+    "id": 249,
+    "question": "Danka a Janka si posielajú zašifrované správy. Dankin brat Mišo raz našiel lístok, na ktorom bola správa napísaná v zašifrovanom aj rozšifrovanom tvare:<br> <i>O osmej v parku</i><br> <i>O otohn v pbtny</i><br> Mišo chce Janke poslať zašifrovanú správu tak, aby si myslela, že to písala Danka. Ako má zašifrovať nasledujúci text?<br> <i>Budem tam</i><br> <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "Bvfgr zhu"
+      },
+      {
+        "value": "1",
+        "label": "Bvfhq tbo"
+      },
+      {
+        "value": "2",
+        "label": "Bvefn tbn"
+      },
+      {
+        "value": "3",
+        "label": "Bxgho tco"
+      }
+    ]
+  },
+  {
+    "id": 195,
+    "question": "Priatelia Alica, Natália, Eva, Bruno, Martin sa chystajú do kina a majú rezervovaných 5 miest pri sebe. <br> Natália chce sedieť pri chlapcovi, avšak aj pri Eve. <br> Alica a Eva nechcú sedieť pri chlapcoch.<br> Bruno chce sedieť pri Martinovi a na kraji.<br> Ako sa usadia v kine, aby boli všetci spokojní? <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "Bruno Martin Alica Eva Natália"
+      },
+      {
+        "value": "1",
+        "label": "Martin Alica Eva Natália Bruno"
+      },
+      {
+        "value": "2",
+        "label": "Bruno Martin Natália Eva Alica"
+      },
+      {
+        "value": "3",
+        "label": "Alica Eva Natália Bruno Martin"
+      }
+    ]
+  },
+  {
+    "id": 1049,
+    "question": "Na webovej stránke predajcu počítačov sú o jednom notebooku takéto údaje:<br> Intel Celeron M Processor 530 (1.73GHz, 533MHz FSB, 1MB L2 cache) - Intel GM965 - 512 MB DDRII 667MHz (1) - 80 GB 5.4krpm S-ATA - 15.4\" TFT WXGA 1280 x 800 BrightView - Intel Graphics Media Accelerator X3100 384MB shared - DVD+/-RW SuperMulti DL fixed - Modem56K/LAN10/100 - 802.11b/g WLAN - no Bluetooth - ports: 3x USB 2.0, audio in/out, VGA, RJ-11, RJ-45 - 6-cell Li-Ion Battery- ExpressCard/54 slot -Secure Digital slot - travel battery connector - no dock - 2.49kg - 32,3x358x266 - FREE DOS<br> Akú veľkú pamäť má ten počítač? <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "384MB"
+      },
+      {
+        "value": "1",
+        "label": "0,5GB"
+      },
+      {
+        "value": "2",
+        "label": "1MB"
+      },
+      {
+        "value": "3",
+        "label": "80GB"
+      }
+    ]
+  },
+  {
+    "id": 990,
+    "question": "Postupnosť čísel je utriedená vzostupne, ak každý nasledujúci člen je väčší alebo rovný ako predchádzajúci. Podobne postupnosť čísel je utriedená zostupne, ak je každý nasledujúci člen menší alebo rovný ako predchádzajúci. Hovoríme, že postupnosť <b>je utriedená</b>, ak je utriedená vzostupne alebo zostupne.<br> <br> Ktorá z nasledujúcich postupností <b>nie</b> je utriedená? <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "3.01; 3.1; 3.001; 3.101"
+      },
+      {
+        "value": "1",
+        "label": "10.74; 4; -3.5; -10.74"
+      },
+      {
+        "value": "2",
+        "label": "-5; -2.5; -2.05; 2.5"
+      },
+      {
+        "value": "3",
+        "label": "-8.1; -8.01; 8.001; 8.01"
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "question": "Mama má 6 jahodových, 7 malinových a 5 čučoriedkových cukríkov, ktoré chce rozdeliť medzi 4 deti tak, aby malo každé z nich <b>rovnaký počet</b> cukríkov.<br> Alica chce iba <b>čučoriedkové</b> cukríky.<br> Zvyšné 3 deti chcú, aby bol <b>každý</b> ich cukrík <b>iný</b>.<br> Koľko cukríkov dá mama každému dieťaťu? <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "3 cukríky"
+      },
+      {
+        "value": "1",
+        "label": "Cukríky sa nedajú rozdeliť podľa želaní detí."
+      },
+      {
+        "value": "2",
+        "label": "2 cukríky"
+      },
+      {
+        "value": "3",
+        "label": "4 cukríky"
+      }
+    ]
+  },
+  {
+    "id": 585,
+    "question": "Bobrí bratia chcú nakresliť svoj rodokmeň. Rozprávali sa so staršími bobrami z ich rodiny a zapísali si, čo sa dozvedeli o vzťahoch medzi nimi.<br> Keď napíšu <b>rodič(A,B)</b>, znamená to, že A je rodičom B.<br> Zapísali si takýto zoznam:<br> <b>rodič(Tomáš, Peter)<br> rodič(Anna, Eva)<br> rodič(Rebeka, Juraj)<br> rodič(Margaréta, Anna)<br> rodič(Anna, Zoltán)<br> rodič(Peter, Juraj)<br> rodič(Karol, Zoltán)<br> rodič(Margaréta, Peter)<br> rodič(Tomáš, Anna)<br> rodič(Karol, Eva)</b><br> <br> Kto sú starí rodičia Zoltána podľa zoznamu? <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "Margaréta a Tomáš."
+      },
+      {
+        "value": "1",
+        "label": "Eva a Tomáš."
+      },
+      {
+        "value": "2",
+        "label": "Anna a Karol."
+      },
+      {
+        "value": "3",
+        "label": "Iba Margaréta."
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "question": "Adam vie, že heslo musí byť také, aby ho nikto nemohol ľahko uhádnuť a aby si ho on mohol ľahko zapamätať.<br> Na zapamätanie svojho hesla teraz používa vetu:<br> <b>Mám rád bryndzové halušky</b><br> Túto vetu si opakuje, keď zadáva takéto heslo:<br> <b>M3r3b9h7</b><br> Jeho kamarát Emil sa rozhodol použiť na zapamätanie hesla rovnakú metódu. Na zapamätanie použil vetu:<br> <b>Baví ma súťaž iBobor</b><br> Aké je Emilove heslo? <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "4B2m5s6i"
+      },
+      {
+        "value": "1",
+        "label": "b4m2s5i6"
+      },
+      {
+        "value": "2",
+        "label": "B4m2s5i1B5"
+      },
+      {
+        "value": "3",
+        "label": "B4m2s5i6"
+      }
+    ]
+  },
+  {
+    "id": 180,
+    "question": "Nasledujúca postupnosť čísel predstavuje výšky desiatich vysielacích veží. <br> 11 10 13 12 14 16 15 17 18 20<br> Ak o niektorej veži platí, že všetky veže vľavo od nej sú nižšie a všetky veže vpravo od nej sú vyššie, tak je to SUPER veža.<br> Akú výšku má najnižšia SUPER veža? <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "16"
+      },
+      {
+        "value": "1",
+        "label": "17"
+      },
+      {
+        "value": "2",
+        "label": "14"
+      },
+      {
+        "value": "3",
+        "label": "13"
+      }
+    ]
+  },
+  {
+    "id": 493,
+    "question": "Chlapci a dievčatá sa zúčastnili programátorskej súťaže. Spolu súťažilo 9 mladých programátorov. Súťažiaci získali za svoje programy takéto body:<br> 28, 23, 20, 20, 17, 15, 9, 9, 5<br> Vieme, že <ul><li>ani jeden chlapec nezískal viac bodov ako ktorékoľvek dievča</li><li>Adam a Samo mali rovnaký počet bodov</li><li>Peter mal rovnaký počet bodov ako Ema</li></ul><br> Koľko dievčat sa zúčastnilo súťaže? <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "3"
+      },
+      {
+        "value": "1",
+        "label": "7"
+      },
+      {
+        "value": "2",
+        "label": "2"
+      },
+      {
+        "value": "3",
+        "label": "6"
+      }
+    ]
+  },
+  {
+    "id": 196,
+    "question": "Emil kúpil 3 plné vedierka pomarančov. Do každého z nich sa zmestí 30 pomarančov. Emil pôjde domov cez 30 mostov. Na každom moste je škriatok.<br> Aby mohol prejsť Emil cez most, musí dať škriatkovi toľko pomarančov, v koľkých vedierkach ešte má pomaranče (prázdne vedierka sa nepočítajú).<br> Najviac koľko pomarančov môže priniesť Emil domov? <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "60"
+      },
+      {
+        "value": "1",
+        "label": "0"
+      },
+      {
+        "value": "2",
+        "label": "30"
+      },
+      {
+        "value": "3",
+        "label": "25"
+      }
+    ]
+  },
+  {
+    "id": 1009,
+    "question": "Rozhodol som sa, že kamarátovi pošlem e-mailom zopár fotiek z lyžovačky. Doma mám však pomalé pripojenie na internet – už prvý súbor s názvom FOTO1.BMP sa odosielal 54 sekúnd! Bol v ňom obrázok veľkosti 600x400 bodov.<br> Preto som sa rozhodol, že ďalšiu fotku FOTO2.BMP najprv zmenším v grafickom editore a až potom ju odošlem.<br> <br> Koľko sekúnd približne trvalo poslanie, ak som fotku zmenšil na veľkosť 200x133? <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "28 sekúnd"
+      },
+      {
+        "value": "1",
+        "label": "6 sekúnd"
+      },
+      {
+        "value": "2",
+        "label": "9 sekúnd"
+      },
+      {
+        "value": "3",
+        "label": "17 sekúnd"
+      }
+    ]
+  },
+  {
+    "id": 968,
+    "question": "Bobry dlho používali starý e-mailový program BoborLook 1.0. Ten však nevedel pracovať s typmi písma, preto si dohodli, že v bobrích e-mailoch budú chápať <ul><li>text uzavretý do zátvoriek (tučný) ako <b>tučný</b>,</li><li>text uzavretý do zátvoriek [kurzíva] ako <i>kurzíva</i> a</li><li>text uzavretý do zátvoriek {podčiarknutý} ako <u>podčiarknutý</u>.</li><br> </ul>Novší e-mailový program BoborBird 1.5 už vie zobraziť typy písma, pritom však pozná aj starý spôsob znázorňovania.<br> Ako sa zobrazí text<br> <br> (Bobor) [je {šikovný}]<br> <br> keď ho jeden bobor pošle pomocou BoborLook 1.0 a druhý ho prijme v BoborBird 1.5? <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "<b>Bobor</b> <i>je <u>šikovný</u></i>"
+      },
+      {
+        "value": "1",
+        "label": "<i>Bobor</i> <u>je <b>šikovný</b></u>"
+      },
+      {
+        "value": "2",
+        "label": "<u>Bobor</u> <i>je</i> <b>šikovný</b>"
+      },
+      {
+        "value": "3",
+        "label": "<b>Bobor</b> je <i>šikovný</i>"
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "question": "Adam vie, že heslo musí byť také, aby ho nikto nemohol ľahko uhádnuť a aby si ho on mohol ľahko zapamätať.<br> Na zapamätanie svojho hesla teraz používa meno a rok narodenia svojej mamy:<br> <b>JANA1972</b><br> Na klávesnici však stláča klávesy, ktoré sú o 1 vpravo od klávesu, ktorý by sa mal stlačiť. <br> Takže napíše:<br> <b>KSMS2083</b><br> Jeho kamarát Emil sa rozhodol použiť na zapamätanie hesla rovnakú metódu. Na zapamätanie použil text:<br> <b>ANDREA1968</b><br> Aké je Emilove heslo? <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "2079SMFTRS"
+      },
+      {
+        "value": "1",
+        "label": "SMFTRS2079"
+      },
+      {
+        "value": "2",
+        "label": "SMFTRS-2079"
+      },
+      {
+        "value": "3",
+        "label": "SMFTRS_2079"
+      }
+    ]
+  },
+  {
+    "id": 655,
+    "question": "Peter napísal program, ktorý mení poradie znakov nasledujúcim spôsobom:<br> každú postupnosť <b>(Znak1 Znak2 Znak3 Znak4)</b><br> zmení na postupnosť <b>(Znak3 Znak4 Znak1 Znak2)</b>.<br> Peter zadal postupnosť <b>(B A A B)</b>. <br> Ako ju program zmenil? <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "<b>(B B A A)</b>"
+      },
+      {
+        "value": "1",
+        "label": "<b>(A A B B)</b>"
+      },
+      {
+        "value": "2",
+        "label": "<b>(B A B A)</b>"
+      },
+      {
+        "value": "3",
+        "label": "<b>(A B B A)</b>"
+      }
+    ]
+  },
+  {
+    "id": 291,
+    "question": "Marek vidí v prieskumníkovi cestu k priečinku s jeho obľúbeným spevákom takto: <br> <b>C:\\Hudba\\Pop\\MiroJaros</b><br> Ktoré tvrdenie je pravdivé? <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "Priečinok Pop je v priečinku MiroJaros."
+      },
+      {
+        "value": "1",
+        "label": "Priečinok MiroJaros je v priečinku Pop."
+      },
+      {
+        "value": "2",
+        "label": "Priečinok Hudba je v priečinku Pop."
+      },
+      {
+        "value": "3",
+        "label": "Priečinok Hudba je v priečinku MiroJaros."
+      }
+    ]
+  },
+  {
+    "id": 379,
+    "question": "V Bobrove používajú mince, ktoré sú na jednej strane zlaté a na druhej strieborné. Bobry sa hrajú hru s piatimi mincami uloženými v rade vedľa seba. Úlohou je otočiť mince tak, aby boli všetky zlatou stranou nahor. Otáčať však môžu vždy len dve susedné mince. Na začiatku jednej hry vyzeral rad mincí nasledovne:<br> <b>strieborná zlatá strieborná zlatá strieborná<br> Koľko dvojíc mincí treba otočiť, aby boli všetky zlatou stranou nahor?</b> <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "nedá sa"
+      },
+      {
+        "value": "1",
+        "label": "2"
+      },
+      {
+        "value": "2",
+        "label": "3"
+      },
+      {
+        "value": "3",
+        "label": "8"
+      }
+    ]
+  },
+  {
+    "id": 952,
+    "question": "Výsledkom funkcie Skratka(x) je text, ktorý vznikne z textu <b>x</b> odstránením toľkých písmen zo začiatku aj z konca, koľko bolo v pôvodnom <b>x</b> samohlások.<br> Ak by mal text <b>x</b> menej písmen ako treba odstrániť, tak výsledkom je prázdny text, ktorý označujeme \"\".<br> Napríklad Skratka(\"IDEMKJAZERU\") = \"J\".<br> <br> Čo je výsledkom Skratka(Skratka(\"MEDZINARODNASUTAZIBOBOR\"))? <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "\"RODNASUTA\""
+      },
+      {
+        "value": "1",
+        "label": "\"\""
+      },
+      {
+        "value": "2",
+        "label": "\"A\""
+      },
+      {
+        "value": "3",
+        "label": "\"NAS\""
+      }
+    ]
+  },
+  {
+    "id": 399,
+    "question": "Jurko chcel napísať do počítača celú správu veľkými písmenami. Aký kláves má stlačiť pred tým, kým začne písať, aby sa mu všetky písmená písali ako veľké? <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "Num Lock"
+      },
+      {
+        "value": "1",
+        "label": "Ctrl"
+      },
+      {
+        "value": "2",
+        "label": "Enter"
+      },
+      {
+        "value": "3",
+        "label": "Caps Lock"
+      }
+    ]
+  },
+  {
+    "id": 378,
+    "question": "Päť korčuliarov ide v rade za sebou. Na tričku má každý z nich iné písmeno tak, že sú zoradení podľa abecedy. Na začiatku zapli stopky a prvý v rade bol korčuliar s písmenom A a posledný korčuliar s písmenom E.<br> Počas cesty dodržiavali stále toto poradie, ale každú minútu sa prvý korčuliar presunul na koniec radu.<br> <b>Kto bol prvý v rade, keď stopky ukazovali 62 minút a 30 sekúnd?</b> <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "C"
+      },
+      {
+        "value": "1",
+        "label": "B"
+      },
+      {
+        "value": "2",
+        "label": "D"
+      },
+      {
+        "value": "3",
+        "label": "A"
+      }
+    ]
+  },
+  {
+    "id": 682,
+    "question": "Operačný systém Styx má špeciálnu funkciu. Počítač napadnutý vírusom vráti nepravdivú odpoveď na ľubovoľnú otázku, ktorú dostane cez internet.<br> Napríklad, keď dostane otázku <b>Si zavírený?</b> vráti <b>Nie.</b><br> Počítač, ktorý nie je zavírený odpovie vždy pravdivo. Jeho odpoveď na otázku <b>Si zavírený?</b> je <b>Nie.</b><br> Počítačový technik spoločnosti StyxOK testuje cez internet len servre a notebooky s operačným systémom Styx. <br> Na ktorú z týchto otázok odpovedia <b>Áno</b> len zavírené servre a žiadne iné počítače v testovanej sieti? <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "<b>Si nezavírený server?</b>"
+      },
+      {
+        "value": "1",
+        "label": "<b>Si zavírený server?</b>"
+      },
+      {
+        "value": "2",
+        "label": "<b>Si nezavírený notebook?</b>"
+      },
+      {
+        "value": "3",
+        "label": "<b>Si zavírený notebook?</b>"
+      }
+    ]
+  },
+  {
+    "id": 395,
+    "question": "David má v rade uložených 5 vetvičiek v tomto poradí:<br> 4 2 1 5 3<br> Čísla reprezentujú počet lístkov na jednotlivých vetvičkách.<br> Pomôž Davidovi zoradiť vetvičky tak, aby boli v tomto poradí:<br> 5 4 3 2 1<br> David má však zlomenú ruku, takže môže vždy presunúť len jednu vetvičku.<br> Buď ju presunie na pomocné miesto, ktoré si pripravil mimo radu, alebo<br> na uvoľnené miesto v rade vetvičiek.<br> Aký je minimálny počet presunov, ktoré musí David spraviť? <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "5"
+      },
+      {
+        "value": "1",
+        "label": "6"
+      },
+      {
+        "value": "2",
+        "label": "4"
+      },
+      {
+        "value": "3",
+        "label": "7"
+      }
+    ]
+  },
+  {
+    "id": 903,
+    "question": "Kamaráti písali v textovom editore slovo Perinbaba a pritom sa hrali. Jano stlačil po napísaní každého písmena kláves Enter, Anka kláves Backspace (ktorý maže znak pred kurzorom), Marienka šípku vľavo a Peter kláves CapsLock.<br> Keď potom kontrolovali, čo kto napísal, zistili, že jeden z nich má slovo Perinbaba napísané odzadu.<br> <br> Kto to bol? <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "Marienka"
+      },
+      {
+        "value": "1",
+        "label": "Jano"
+      },
+      {
+        "value": "2",
+        "label": "Peter"
+      },
+      {
+        "value": "3",
+        "label": "Anka"
+      }
+    ]
+  },
+  {
+    "id": 283,
+    "question": "Danka a Janka si posielajú zašifrované správy. Používajú pritom len písmená bez mäkčeňov, dĺžňov a vokáňov. Dankin brat Mišo raz našiel lístok, na ktorom bola správa napísaná najprv v pôvodnom a potom v zašifrovanom tvare:<br> <b>O osmej v parku</b><br> <b>O otohn v pbtny</b><br> Mišo chce Janke poslať správu <br> <b>Budem tam</b><br> a zašifrovať ju tak, aby si Janka myslela, že správu písala Danka. <br> Aký text pošle? <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "Bvfhq tbo"
+      },
+      {
+        "value": "1",
+        "label": "Bxgho tco"
+      },
+      {
+        "value": "2",
+        "label": "Bvefn tbn"
+      },
+      {
+        "value": "3",
+        "label": "Bvfgr zhu"
+      }
+    ]
+  },
+  {
+    "id": 860,
+    "question": "Roman má digitálny fotoaparát, ktorý robí obrázky s rozmermi 2048 pixelov (šírka) x 1536 pixelov (výška). Ak chce dať obrázok na webovú stránku, musí ho zmenšiť. Na aký rozmer ho má zmenšiť, aby čo najlepšie zachoval obsah pôvodného obrázka? <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "480x600"
+      },
+      {
+        "value": "1",
+        "label": "800x600"
+      },
+      {
+        "value": "2",
+        "label": "600x600"
+      },
+      {
+        "value": "3",
+        "label": "20x15"
+      }
+    ]
+  },
+  {
+    "id": 931,
+    "question": "Ktorá z týchto viet najlepšie popisuje pojem otvorený (open source) softvér? <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "Otvorený softvér možeme stiahnuť iba v komprimovanej podobe."
+      },
+      {
+        "value": "1",
+        "label": "Súbory vytvorené otvoreným softvérom môžeme prečítať v obyčajnom textovom editore, napr. v Poznámkovom bloku."
+      },
+      {
+        "value": "2",
+        "label": "Otvorený softvér môžeme stiahnuť zadarmo."
+      },
+      {
+        "value": "3",
+        "label": "Spolu s otvoreným softvérom môžeme získať presné informácie o tom, ako bol takýto softvér vytvorený a ako ho zmeniť."
+      }
+    ]
+  },
+  {
+    "id": 819,
+    "question": "Si prihlásený na sociálnej sieti a na nástenke sa ti objavila správa od tvojho dobrého priateľa Miša: <b>„Check out my holiday pictures!“</b> Je k nej pripojený odkaz na webovú stránku.<br> Nevedel si, že Mišo bol v poslednej dobe na dovolenke. Prekvapilo ťa tiež, že správu napísal po anglicky a nie po slovensky. Vieš, že Mišo má známych aj v zahraničí, preto mohol správu napísať po anglicky, aby jej všetci rozumeli.<br> Mišo však nie je online a preto sa ho na to nemôžeš spýtať cez chat. <br> <br> Čo je <b><u>najbezpečnejšie riešenie</u></b> v takejto situácii? <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "Ignorovať správu, kým Mišo nebude online."
+      },
+      {
+        "value": "1",
+        "label": "Vymazať správu z nástenky, pretože je to s veľkou pravdepodobnosťou spam, a snažiť sa skontaktovať s Mišom."
+      },
+      {
+        "value": "2",
+        "label": "Preposlať správu priateľom s otázkou, či nevedia niečo o Mišovej dovolenke."
+      },
+      {
+        "value": "3",
+        "label": "Kliknúť na odkaz. Je to bezpečné, lebo Miša poznáš."
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "question": "V reštaurácii je v dvoch radoch umiestnených 6 inteligentných stolov označených písmenami. Stôl s písmenom A je najbližšie pri pokladni, stoly s písmenami D, E, F sú pri okne.<br> Každý stôl dokáže prichádzajúcemu robotu poslať informáciu – <b>svoje písmeno a počet robotov</b>, ktoré pri ňom sedia.<br> Do reštaurácie vošiel nový robot.<br> Najradšej by si sadol k stolu, ktorý je voľný.<br> Ak taký v reštaurácii nie je, prisadne si k stolu, pri ktorom sedí najmenej robotov.<br> Ak by mal na výber viac takýchto stolov, chce si radšej sadnúť k stolu, ktorý je najďalej od pokladne a nie je pri okne.<br> Robot dostal od stolov nasledujúce informácie:<br> <b>A 2 B 4 C 2 D 3 E 2 F 3</b><br> Ku ktorému stolu si robot prisadne? <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "E"
+      },
+      {
+        "value": "1",
+        "label": "C"
+      },
+      {
+        "value": "2",
+        "label": "D"
+      },
+      {
+        "value": "3",
+        "label": "A"
+      }
+    ]
+  },
+  {
+    "id": 333,
+    "question": "Bobry navrhli tri operácie so slovami<br> 1. vlož písmeno<br> 2. zruš písmeno<br> 3. zmeň niektoré písmeno za iné<br> <b>Vzdialenosť</b> dvoch slov je najmenší počet operácií, ktoré treba urobiť, aby sa jedno slovo zmenilo na druhé.<br> Vzdialenosť slov BRLOH a HLOH je 2:<br> BRLOH → RLOH (zruš B)<br> RLOH → HLOH (zmeň R na B)<br> Aká je vzdialenosť slov BRLOH a OBLOHA? <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "3"
+      },
+      {
+        "value": "1",
+        "label": "4"
+      },
+      {
+        "value": "2",
+        "label": "2"
+      },
+      {
+        "value": "3",
+        "label": "5"
+      }
+    ]
+  },
+  {
+    "id": 1029,
+    "question": "Programy Miranda, Skype a ICQ sa používajú na: <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "komunikáciu medzi ľuďmi"
+      },
+      {
+        "value": "1",
+        "label": "spracovanie textov"
+      },
+      {
+        "value": "2",
+        "label": "komunikáciu medzi počítačmi"
+      },
+      {
+        "value": "3",
+        "label": "posielanie e-mailov"
+      }
+    ]
+  },
+  {
+    "id": 675,
+    "question": "V lese rastú dva špeciálne druhy stromov. <br> Typ A žije len jeden rok (od semienka), ale na konci roku vyprodukuje jedno semienko typu B. Typ B žije navždy a na konci každého roku vyprodukuje jedno semienko typu A.<br> Ak vysadíme práve jedno semienko typu A, koľko stromov a semienok typu A a typu B bude v lese po 10 rokoch? <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "34 semienok typu A a spolu 55 semienok a stromov typu B"
+      },
+      {
+        "value": "1",
+        "label": "121 semienok typu A a spolu 55 semienok a stromov typu B"
+      },
+      {
+        "value": "2",
+        "label": "54 semienok typu A a spolu 144 semienok a stromov typu B"
+      },
+      {
+        "value": "3",
+        "label": "34 semienok typu A a spolu 20 semienok a stromov typu B"
+      }
+    ]
+  },
+  {
+    "id": 287,
+    "question": "Šesť žiakov hrá hru Utrieď. Každý z nich drží kartičku, na ktorej je jedno z čísel od 1 do 6. <br> Hra má niekoľko kôl. V každom z nich môžu hráči robiť jeden z nasledujúcich ťahov:<br> <b>ťah A</b> - prvý, tretí a piaty hráč si môže (ale nemusí) vymeniť kartičku so susedom vpravo vedľa neho<br> <b>ťah B</b> - druhý a štvrtý hráč si môže (ale nemusí) vymeniť kartičku so susedom vpravo vedľa neho.<br> Na začiatku hry boli žiaci s kartičkami usporiadaní takto:<br> <b>5 1 6 3 4 2</b><br> Teda žiak s číslom 5 má vpravo žiaka s číslom 1, ten má vpravo žiaka s číslom 6 a tak ďalej.<br> V prvom kole všetci spravili ťah A.<br> Aký najmenší počet kôl musí mať hra, aby kartičky usporiadali sprava od 1 po 6? <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "4 kolá"
+      },
+      {
+        "value": "1",
+        "label": "3 kolá"
+      },
+      {
+        "value": "2",
+        "label": "5 kôl"
+      },
+      {
+        "value": "3",
+        "label": "6 kôl"
+      }
+    ]
+  },
+  {
+    "id": 282,
+    "question": "Filip ide na narodeninovú oslavu k Lucii, ktorá vyzdobila svoju izbu štyrmi radmi balónov s písmenami.<br> Žiaľ, Filip si niektoré písmená mýli.<br> Písmeno P si mýli s písmenom D a písmeno C si mýli s písmenom O.<br> Rady balónov vyzerajú nasledovne:<br> DOPEC<br> DOPEP<br> POPEO<br> DODEC<br> Koľko radov balónov vidí Filip ako rovnaké? <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "Dva rady"
+      },
+      {
+        "value": "1",
+        "label": "Žiadne dva rady nevidí ako rovnaké"
+      },
+      {
+        "value": "2",
+        "label": "Tri rady"
+      },
+      {
+        "value": "3",
+        "label": "Všetky štyri rady"
+      }
+    ]
+  },
+  {
+    "id": 390,
+    "question": "Martinka písala takúto vetu v textovom dokumente: <br> Cez prázdniny somm bola na chate v lese.<br> Zistila však, že sa pomýlila a v slove som napísala dve m. Teraz chce jedno vymazať. Čo má urobiť?<br> <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "Nastaviť kurzor hneď za druhé m a stlačiť kláves Backspace."
+      },
+      {
+        "value": "1",
+        "label": "Nastaviť kurzor za prvé m a stlačiť kláves Medzerník."
+      },
+      {
+        "value": "2",
+        "label": "Nastaviť kurzor pred prvé m a stlačiť kláves Backspace."
+      },
+      {
+        "value": "3",
+        "label": "Nastaviť kurzor hneď za druhé m a stlačiť kláves Delete."
+      }
+    ]
+  },
+  {
+    "id": 386,
+    "question": "Bobor Dávid zistil, že čím viac listov je na brvne, tým je chutnejšie. Brvná sú zoradené tak, že najbližšie k Dávidovi je brvno s 1 lístkom a najďalej je brvno s 5 lístkami. Nasledujúca postupnosť čísel reprezentuje zoradenie brvien:<br> 1 3 6 4 2 5<br> Pomôž Dávidovi zoradiť brvná podľa počtu lístkov tak, že najbližšie k nemu bude brvno so 6 lístkami, vedľa neho také, čo má 5 lístkov, a tak ďalej a posledné bude brvno s jedným lístkom. Usporadúvať brvná môžeš iba výmenou ľubovoľných dvoch brvien.<br> <b>Minimálne koľko výmen musíš spraviť?</b> <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "4 výmeny"
+      },
+      {
+        "value": "1",
+        "label": "3 výmeny"
+      },
+      {
+        "value": "2",
+        "label": "5 výmen"
+      },
+      {
+        "value": "3",
+        "label": "6 výmen"
+      }
+    ]
+  },
+  {
+    "id": 553,
+    "question": "Ak chce Janka vytlačiť svoje fotky, musí mať k počítaču pripojené nejaké zariadenie. <br> Ktoré? <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "tlačiareň"
+      },
+      {
+        "value": "1",
+        "label": "dataprojektor"
+      },
+      {
+        "value": "2",
+        "label": "reproduktory"
+      },
+      {
+        "value": "3",
+        "label": "mikrofón"
+      }
+    ]
+  },
+  {
+    "id": 806,
+    "question": "Boleslav si v internetovom obchode kúpil video súbor s jeho obľúbeným filmom. Film chcel mať vždy po ruke, preto si vytvoril kópiu, previedol ju do formátu pre mobily a nahral do svojho mobilu.<br> Čím porušil autorský zákon? <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "Ničím, všetko urobil úplne legálne."
+      },
+      {
+        "value": "1",
+        "label": "Nedovolene uložil kópiu filmu do mobilu."
+      },
+      {
+        "value": "2",
+        "label": "Nedovolene previedol video do formátu pre mobily a uložil kópiu do mobilu."
+      },
+      {
+        "value": "3",
+        "label": "Nedovolene previedol video do formátu pre mobily."
+      }
+    ]
+  },
+  {
+    "id": 294,
+    "question": "Malý bobor chcel napísať na počítači text <br> <b>počítač je super</b><br> Text, ktorý napísal bol:<br> <b>počítítač je supeper</b><br> Po dopísaní si všimol, že v texte sa nachádza viacero chýb. Kurzor je nastavený na konci textu.<br> Bobrík vie zatiaľ používať iba tieto klávesy: <br> <b>Delete, Backspace, Home, End, šípka vľavo, šípka vpravo.</b><br> Najmenej koľko klávesov musí stlačiť, aby bol text bez chýb? <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "16"
+      },
+      {
+        "value": "1",
+        "label": "9"
+      },
+      {
+        "value": "2",
+        "label": "10"
+      },
+      {
+        "value": "3",
+        "label": "11"
+      }
+    ]
+  },
+  {
+    "id": 1039,
+    "question": "Súbor <b>bobor.jpg</b> by mal podľa zásad pomenovania súborov obsahovať <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "text"
+      },
+      {
+        "value": "1",
+        "label": "video"
+      },
+      {
+        "value": "2",
+        "label": "pesničku"
+      },
+      {
+        "value": "3",
+        "label": "obrázok"
+      }
+    ]
+  },
+  {
+    "id": 200,
+    "question": "Lacko šifruje svoje správy tak, že medzi každé dve písmená v slove vloží iné, náhodne zvolené písmeno.<br> Lacko poslal Samovi správu:<br> PARAI REIVEĽKIE<br> <br> Čo bolo v správe?<br> <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "PRI RIEKE"
+      },
+      {
+        "value": "1",
+        "label": "PRI RIVIERE"
+      },
+      {
+        "value": "2",
+        "label": "PRI IKEI"
+      },
+      {
+        "value": "3",
+        "label": "PARI VEĽKE"
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "question": "Aby sa dalo na prstoch jednej ruky ukázať väčšie číslo, navrhli sme pre jednotlivé prsty takéto kódovanie: <b>zdvihnutý</b> palec znamená 1, ukazovák 2, prostredník 4, prstenník 8 a malíček 16.<br> Číslo, ktoré ukazuje ruka, potom vypočítame ako <b>súčet</b> čísel, ktoré znamenajú jednotlivé prsty.<br> Napríklad<ul><li>ak je zdvihnutý len palec, ruka ukazuje číslo 1</li><li>ak je zdvihnutý ukazovák a prostredník, ruka ukazuje číslo 6</li></ul>Aké číslo ukazuje ruka, ak sú zdvihnuté všetky prsty okrem palca? <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "0123456789"
+      },
+      {
+        "value": "1",
+        "label": "30"
+      },
+      {
+        "value": "2",
+        "label": "64"
+      },
+      {
+        "value": "3",
+        "label": "2"
+      }
+    ]
+  },
+  {
+    "id": 189,
+    "question": "Celebritou skupiny v sociálnej sieti je ten, koho sledujú všetci ostatní členovia a on nesleduje žiadneho iného jej člena.<br> Ema, Ida, Rišo, Adam tvoria skupinu v sociálnej sieti.<br> Ema sleduje Idu a Adama.<br> Emu a Idu sleduje Rišo.<br> Adam sleduje Riša a Idu.<br> Kto je celebritou skupiny? <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "Skupina nemá celebritu."
+      },
+      {
+        "value": "1",
+        "label": "Ida"
+      },
+      {
+        "value": "2",
+        "label": "Adam"
+      },
+      {
+        "value": "3",
+        "label": "Ema"
+      }
+    ]
+  },
+  {
+    "id": 239,
+    "question": "Počítač vygeneruje postupnosť čísel a postupnosť operácií:<ul><li><b>Uchovaj N</b> - v postupnosti zostanú len čísla väčšie alebo rovné ako číslo <b>N</b>.</li><li><b>Odober D</b> - od každého čísla postupnosti sa odpočíta číslo <b>D</b>.</li></ul><br> Úlohou hráča je zistiť, aká bude výsledná postupnosť čísel.<br> Napr. <ul><li>ak počítač vygeneroval postupnosť čísel <b>50, 43, 12, 17, 66, 81</b></li><li>a postupnosť operácií <b>Uchovaj 50, Odober 10, Uchovaj 47</b></li><li>tak výsledná postupnosť čísel bude <b>56, 71</b></li></ul><br> Počítač vygeneroval postupnosť čísel <b>59, 64, 25, 30, 34, 95</b><br> a postupnosť operácií <b>Uchovaj 30, Odober 20, Uchovaj 20</b><br> <br> Aká bude výsledná postupnosť čísel? <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "<b>59, 64, 95</b>"
+      },
+      {
+        "value": "1",
+        "label": "<b>64, 34, 95</b>"
+      },
+      {
+        "value": "2",
+        "label": "<b>39, 44, 75</b>"
+      },
+      {
+        "value": "3",
+        "label": "<b>29, 34, 65</b>"
+      }
+    ]
+  },
+  {
+    "id": 185,
+    "question": "Filip má jednu mincu 1 € a po jednej z týchto bankoviek 100 €, 1000 €, 10000 €. Filip si chce kúpiť počítač tak, aby mu nemuseli vydávať žiadne peniaze. <br> V predajni majú počítače za takéto ceny:<br> 10101 €<br> 11010 €<br> 11001 €<br> 11011 €<br> 11100 €<br> Medzi koľkými cenami počítača sa musí Filip rozhodnúť? <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "0"
+      },
+      {
+        "value": "1",
+        "label": "2"
+      },
+      {
+        "value": "2",
+        "label": "4"
+      },
+      {
+        "value": "3",
+        "label": "3"
+      }
+    ]
+  },
+  {
+    "id": 977,
+    "question": "Stará mama Bobrová píše list v textovom editore a chce vycentrovať (dať do stredu) nejaký text. Ktorý z nasledujúcich spôsobov je na to najlepší? <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "Stlačí niekoľkokrát kláves Tab."
+      },
+      {
+        "value": "1",
+        "label": "Použije potrebný počet medzier."
+      },
+      {
+        "value": "2",
+        "label": "Použije nástroj na zarovnávanie."
+      },
+      {
+        "value": "3",
+        "label": "Posunie okraje dokumentu."
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "question": "Na stole sú 4 čokolády rôznych tvarov – krúžok, srdiečko, štvorec, hviezdička. Zuzka si môže vybrať iba jednu z nich a chce si vybrať tú s najväčšou hmotnosťou.<br> Vie že:<ul><li>krúžok je ťažší ako srdiečko</li><li>srdiečko je ťažšie ako štvorec</li><li>hviezdička je ťažšia ako štvorec</li><li>srdiečko je ťažšie ako hviezdička</li></ul>Aký tvar si Zuzka vyberie? <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "krúžok"
+      },
+      {
+        "value": "1",
+        "label": "štvorec"
+      },
+      {
+        "value": "2",
+        "label": "hviezdička"
+      },
+      {
+        "value": "3",
+        "label": "srdiečko"
+      }
+    ]
+  },
+  {
+    "id": 1020,
+    "question": "Šifra bobra Eduarda sa používa tak, že <br> <ul><li>samohlásky a medzery sa v texte nezmenia,</li><li>každá spoluhláska sa nahradí ďalšou spoluhláskou v abecede, </li><li> posledná spoluhláska abecedy (Z) sa nahradí prvou (B).</li></ul><br> Ako vyzerá správa<br> <br> DNES O TRETEJ PRED DOMOM<br> <br> zašifrovaná pomocou šifry bobra Eduarda?<br> <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "FPFT P VSFVFK RSFF FPNPN"
+      },
+      {
+        "value": "1",
+        "label": "CMER O SPESEH NPEC COLOL"
+      },
+      {
+        "value": "2",
+        "label": "FPET O VSEVEK RSEF FONON"
+      },
+      {
+        "value": "3",
+        "label": "DNIS U TRITIJ PRID DUMUM"
+      }
+    ]
+  },
+  {
+    "id": 298,
+    "question": "Danka našla Samov telefón a poslala z neho SMSku jeho kamarátovi Mirovi. <br> Vedela, že Samo píše v SMS-ke každé slovo na začiatku s veľkým písmenom. <br> Ako napísala správu Danka, aby si Miro myslel, že správu písal Samo? <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "na večeru som mal kilo cukríkov"
+      },
+      {
+        "value": "1",
+        "label": "Vyhral som SuperStar!"
+      },
+      {
+        "value": "2",
+        "label": "Včera som bol v kine."
+      },
+      {
+        "value": "3",
+        "label": "Zajtra Nepôjdem Do Školy."
+      }
+    ]
+  },
+  {
+    "id": 625,
+    "question": "Bobor Samo má 11 rokov. Rád by sa prihlásil na webe do sociálnej siete BoborBook, ale tam sa môžu registrovať bobry až od 13 rokov.<br> Čo má urobiť? <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "Má poprosiť svoju 14-ročnú sestru, aby sa prihlásila ona, a použije jej prístupové údaje."
+      },
+      {
+        "value": "1",
+        "label": "Má požiadať spolužiaka o povolenie."
+      },
+      {
+        "value": "2",
+        "label": "Má pri registrácii zadať, že už má 13 rokov."
+      },
+      {
+        "value": "3",
+        "label": "Má počkať, kým bude mať 13 rokov."
+      }
+    ]
+  },
+  {
+    "id": 961,
+    "question": "Určite vieš, že email musí okrem adresy obsahovať aj predmet správy.<br> Píšeš svojmu učiteľovi email a chceš sa v ňom spýtať, akú domácu úlohu ste dostali na budúci týždeň. <br> <br> Ktorá z nasledujúcich možností by bola najlepším <b>predmetom</b> tvojho emailu? <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "Domaca uloha na buduci tyzden"
+      },
+      {
+        "value": "1",
+        "label": "Prosim o odpoved"
+      },
+      {
+        "value": "2",
+        "label": "Dobry den"
+      },
+      {
+        "value": "3",
+        "label": "Chcem sa spytat, aka je domaca uloha na buduci tyzden"
+      }
+    ]
+  },
+  {
+    "id": 826,
+    "question": "V akvaparku pri bazéne s umelými vlnami si Katka všimla nelogický nápis:<br> <br> <b>Len pre plavcov a deti do 8 rokov v sprievode dospelého</b><br> <br> Kto podľa neho <b><u>nesmie</u></b> vstúpiť do bazéna? <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "7 ročná Evička spolu s jej 19 ročným bratom, ani jeden nevie plávať."
+      },
+      {
+        "value": "1",
+        "label": "9 ročný Jožko, ktorý nevie plávať, spolu s jeho 45-ročným otcom, ktorý vie plávať."
+      },
+      {
+        "value": "2",
+        "label": "Sám Janko, ktorý vie plávať a má 7 rokov."
+      },
+      {
+        "value": "3",
+        "label": "Sám 20 ročný Edo, ktorý vie plávať."
+      }
+    ]
+  },
+  {
+    "id": 934,
+    "question": "V knižnici si požičiavame knihy. Pri každom požičaní sa naše osobné údaje a tituly požičaných kníh uložia v počítačovom systéme. Tieto údaje sú chránené pred zneužitím.<br> <br> Ktorý z nasledujúcich prípadov odhalí najviac o našom súkromí? <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "Neoprávnená osoba zistila, kto má požičané aké knihy."
+      },
+      {
+        "value": "1",
+        "label": "Neoprávnená osoba zistila, ktorá kniha sa ako často požičiava."
+      },
+      {
+        "value": "2",
+        "label": "Neoprávnená osoba zistila počet členov knižnice."
+      },
+      {
+        "value": "3",
+        "label": "Neoprávnená osoba zistila počet kníh v databáze knižnice."
+      }
+    ]
+  },
+  {
+    "id": 534,
+    "question": "Pani učiteľka si zapisuje vzťahy medzi žiakmi dvoma spôsobmi:<br> <b>X1 → X2</b><br> znamená, že ak žiak X1 niekam ide, pôjde tam aj žiak X2<br> <b>X1 &amp; X2 → X3</b><br> znamená, že ak pôjdu súčasne žiaci X1 aj X2, určite pôjde aj žiak X3<br> V triede je 9 žiakov - A, B, C, D, E, F, G, H a J.<br> Pani učiteľka vybrala žiakov A, C, E, G, H, že pôjdu na exkurziu.<br> V tabuľke vzťahov má zapísané pravidlá:<br> J &amp; B → F<br> C &amp; D → J<br> A → D<br> Koľko žiakov pôjde na exkurziu, ak sa k tým žiakom, ktorých vybrala pani učiteľka, pridajú aj žiaci podľa tabuľky vzťahov? <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "7"
+      },
+      {
+        "value": "1",
+        "label": "8"
+      },
+      {
+        "value": "2",
+        "label": "6"
+      },
+      {
+        "value": "3",
+        "label": "5"
+      }
+    ]
+  },
+  {
+    "id": 830,
+    "question": "Na počítači mám spustené štyri programy a z reproduktorov počujem hudbu. Ktorý z programov určite nehrá hudbu? <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "media player"
+      },
+      {
+        "value": "1",
+        "label": "bežiaca prezentácia"
+      },
+      {
+        "value": "2",
+        "label": "internetový prehliadač"
+      },
+      {
+        "value": "3",
+        "label": "grafický editor"
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "question": "Bobor Samo zbožňuje pohorie Boborláje so siedmimi kopcami, ktoré stoja jeden vedľa druhého a ich výšky sú takéto:<br> 3, 6, 9, 8, 10, 8, 7<br> Keď Samo vylezie na niektorý z týchto kopcov, pozrie sa, či vedľa nie je ešte vyšší kopec a vylezie aj na ten. Ak sú z oboch strán vyššie kopce, vylezie na vyšší z nich. Takto pokračuje dovtedy, kým je vedľa neho nejaký vyšší kopec.<br> Na koľkých kopcoch môže začať tak, aby vystúpil na najvyšší kopec pohoria? <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "7"
+      },
+      {
+        "value": "1",
+        "label": "5"
+      },
+      {
+        "value": "2",
+        "label": "6"
+      },
+      {
+        "value": "3",
+        "label": "4"
+      }
+    ]
+  },
+  {
+    "id": 98,
+    "question": "V počítačovej hre Linda ovláda pohyb robota pomocou klávesov so šípkami hore, dole, vpravo, vľavo. Po stlačení klávesu sa robot presunie na susedné políčko v príslušnom smere.<br> Hracia plocha, po ktorej sa robot pohybuje, má 3 riadky a 3 stĺpce,<br> Linda stlačila šípky<br> vpravo, hore, vľavo, dole<br> Koľko je takých políčok, na ktorých môže robot stáť pred vykonaním programu, aby počas vykonávania programu nevyšiel z hracej plochy? <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "0"
+      },
+      {
+        "value": "1",
+        "label": "8"
+      },
+      {
+        "value": "2",
+        "label": "9"
+      },
+      {
+        "value": "3",
+        "label": "4"
+      }
+    ]
+  },
+  {
+    "id": 348,
+    "question": "Anna, Bohuš, Cyril a Dana spolu raňajkujú.<br> Na stole majú: 2 bagety, 2 žemle, 2 rožky, 2 toasty.<br> Každý z nich si zobral <b>dva rôzne</b> druhy pečiva tak, že:<ul><li>Anna a Bohuš nemali ani jeden druh pečiva rovnaký.</li><li>Cyril mal bagetu.</li><li>Dana mala žemľu, ale Anna nemala žemľu.</li><li>Bohuš mal rožok.</li></ul><br> Čo mala Anna? <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "žemľu a toast"
+      },
+      {
+        "value": "1",
+        "label": "rožok a žemľu"
+      },
+      {
+        "value": "2",
+        "label": "toast a bagetu"
+      },
+      {
+        "value": "3",
+        "label": "bagetu a rožok"
+      }
+    ]
+  },
+  {
+    "id": 962,
+    "question": "Vyber pravdivú vetu: <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "<u>Táto veta je napísaná kurzívou.</u>"
+      },
+      {
+        "value": "1",
+        "label": "<i>Táto veta je napísaná kurzívou.</i>"
+      },
+      {
+        "value": "2",
+        "label": "Táto veta je napísaná kurzívou."
+      },
+      {
+        "value": "3",
+        "label": "<b>Táto veta je napísaná kurzívou.</b>"
+      }
+    ]
+  },
+  {
+    "id": 917,
+    "question": "Programy na kódovanie často používajú nasledujúcu metódu: každé opakujúce sa písmeno sa zapíše iba raz a za ním sa zapíše počet jeho opakovaní.<br> <br> Príklad: hhhrbbaiissssoo -&gt; h3rb2ai2s4o2<br> <br> Odkóduj: g3a2dg3et2 <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "gaaaddgeeet"
+      },
+      {
+        "value": "1",
+        "label": "gggaadgeeet"
+      },
+      {
+        "value": "2",
+        "label": "gggaadgggett"
+      },
+      {
+        "value": "3",
+        "label": "gadgetgagtgg"
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "question": "Miško má špeciálnu klávesnicu. Klávesy s písmenami fungujú tak, že sa klávesy umiestnené vo dvojiciach vedľa seba zamieňajú. Napríklad, ak Miško stlačí Q, napíše sa W a naopak, ak stlačí W, napíše sa Q. Dá sa povedať, že tieto dva klávesy sú spárované. Podobne sú spárované aj klávesy E a R, A a S atď. Výnimkou sú klávesy s písmenami L a M, ktoré síce nie sú vedľa seba, ale sú spárované.<br> Miško stlačil postupnosť klávesov: <br> FPGPFS<br> Čo napísal? <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "DOHODA"
+      },
+      {
+        "value": "1",
+        "label": "POHODA"
+      },
+      {
+        "value": "2",
+        "label": "DOHODY"
+      },
+      {
+        "value": "3",
+        "label": "GOMORA"
+      }
+    ]
+  },
+  {
+    "id": 186,
+    "question": "Bobor Hugo sa hrá počítačovú hru. V tabuľke je hracia plocha. Hugo je na políčku označenom písmenom H v ľavom hornom rohu.<table style=\"width:100px;border:1px solid black;\"><tbody><tr><td style=\"border:1px solid black;padding:2px;text-align:center\">H</td><td style=\"border:1px solid black;padding:2px;text-align:center\">2</td><td style=\"border:1px solid black;padding:2px;text-align:center\">2</td><td style=\"border:1px solid black;padding:2px;text-align:center\">-2</td></tr><tr><td style=\"border:1px solid black;padding:2px;text-align:center\">3</td><td style=\"border:1px solid black;padding:2px;text-align:center\">-1</td><td style=\"border:1px solid black;padding:2px;text-align:center\">3</td><td style=\"border:1px solid black;padding:2px;text-align:center\">1</td></tr><tr><td style=\"border:1px solid black;padding:2px;text-align:center\">2</td><td style=\"border:1px solid black;padding:2px;text-align:center\">-2</td><td style=\"border:1px solid black;padding:2px;text-align:center\">-3</td><td style=\"border:1px solid black;padding:2px;text-align:center\">-1</td></tr><tr><td style=\"border:1px solid black;padding:2px;text-align:center\">-2</td><td style=\"border:1px solid black;padding:2px;text-align:center\">2</td><td style=\"border:1px solid black;padding:2px;text-align:center\">3</td><td style=\"border:1px solid black;padding:2px;text-align:center\">D</td></tr></tbody></table>Hugo môže ísť z jedného políčka na druhé, len smerom <b>dole</b> alebo <b>doprava</b>.<br> Teraz má Hugo skóre 0. Ak vojde na políčko s číslom, pripočíta sa mu ku skóre hodnota tohto čísla. <br> Aké <b>najvyššie skóre</b> môže mať Hugo, keď príde na políčko s písmenom D v pravom dolnom rohu? <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "10"
+      },
+      {
+        "value": "1",
+        "label": "8"
+      },
+      {
+        "value": "2",
+        "label": "7"
+      },
+      {
+        "value": "3",
+        "label": "4"
+      }
+    ]
+  },
+  {
+    "id": 190,
+    "question": "Filip má jednu mincu 1 € a po jednej z týchto bankoviek 100 €, 1000 €, 10000 €.<br> Filip si chce kúpiť počítač tak, aby mu nemuseli vydávať žiadne peniaze.<br> Aká môže byť cena počítača? <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "11010 €"
+      },
+      {
+        "value": "1",
+        "label": "10110 €"
+      },
+      {
+        "value": "2",
+        "label": "11100 €"
+      },
+      {
+        "value": "3",
+        "label": "10111 €"
+      }
+    ]
+  },
+  {
+    "id": 741,
+    "question": "Tibor a Karol si vymysleli spoločné kódovanie.<br> Tibor kóduje slovo tak, že ho otočí. Napr. ABCDEF -&gt; FEDCBA<br> Karol kóduje tak, že presunie prvé písmeno na koniec slova. Napr.: ABCDEF -&gt; BCDEFA<br> Spoločne slovo zakódujú tak, že ho najprv zakóduje Tibor a potom Karol.<br> <br> Ako zakódovali slovo KOLESO?<br> <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "SEKOLO"
+      },
+      {
+        "value": "1",
+        "label": "OSELOK"
+      },
+      {
+        "value": "2",
+        "label": "OKESOL"
+      },
+      {
+        "value": "3",
+        "label": "SELOKO"
+      }
+    ]
+  },
+  {
+    "id": 979,
+    "question": "Bobry dlho používali starý e-mailový program BoborLook 1.0. Ten však nevedel pracovať s typmi písma, preto si dohodli, že v bobrích e-mailoch budú chápať <ul><li>text uzavretý do zátvoriek (tučný) ako <b>tučný</b>,</li><li>text uzavretý do zátvoriek [kurzíva] ako <i>kurzíva</i> a</li><li>text uzavretý do zátvoriek {podčiarknutý} ako <u>podčiarknutý</u>.</li><br> </ul>Novší e-mailový program BoborBird 1.5 už vie zobraziť typy písma, pritom však pozná aj starý spôsob znázorňovania.<br> Ako sa zobrazí text<br> <br> (Bobor) [je {šikovný}]<br> <br> keď ho jeden bobor pošle pomocou BoborLook 1.0 a druhý ho prijme v BoborBird 1.5? <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "<u>Bobor</u> <i>je</i> <b>šikovný</b>"
+      },
+      {
+        "value": "1",
+        "label": "<i>Bobor</i> <u>je <b>šikovný</b></u>"
+      },
+      {
+        "value": "2",
+        "label": "<b>Bobor</b> je <i>šikovný</i>"
+      },
+      {
+        "value": "3",
+        "label": "<b>Bobor</b> <i>je <u>šikovný</u></i>"
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "question": "Ruženka sa učí piecť dva druhy koláčov: vanilkový a čokoládový.<br> Pri výrobe vanilkového koláča postupovala takto:<ol><li>Zmiešala mokré a suché ingrediencie dohromady.</li><li>Pridala vanilkový extrakt.</li><li>Naliala cesto do formy.</li><li>Rúru vyhriala na 163 stupňov.</li><li>Koláč piekla 1 hodinu 15 minút.</li></ol>Keďže vie, že postup pri druhom koláči bude podobný, do svojej kuchárskej knihy zapísala:<br> <b>Koláč (vanilka, 163, 75)</b><br> Pre čokoládový koláč treba vyhriať rúru na <b>180 stupňov</b> a treba ho piecť <b>50 minút</b>.<br> Ako si Ruženka zapíše recept na čokoládový koláč? <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "<b>Koláč(50, 180, čokoláda)</b>"
+      },
+      {
+        "value": "1",
+        "label": "<b>Koláč(čokoláda, 180, 50)</b>"
+      },
+      {
+        "value": "2",
+        "label": "<b>Koláč(čokoláda, 50, 180)</b>"
+      },
+      {
+        "value": "3",
+        "label": "<b>Koláč(180, čokoláda, 50)</b>"
+      }
+    ]
+  },
+  {
+    "id": 293,
+    "question": "Ferko sa hrá s počítačom hru Uchovaj - Pridaj. Počítač najprv vygeneruje niekoľko čísel. Potom vygeneruje niektoré z operácií:<br> <b>Uchovaj N</b> znamená, že ostanú len čísla väčšie ako číslo N. <br> <b>Pridaj C</b> znamená, že ku každému číslu sa pripočíta číslo C.<br> Úlohou hráča je vykonať s číslami vygenerovanú postupnosť operácií a zadať výslednú postupnosť čísel.<br> Počítač vygeneroval čísla<br> <b>58, 14, 82, 37, 79</b><br> a operácie <br> <b>Pridaj 10, Uchovaj 50, Pridaj 10</b><br> Aké čísla zostali? <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "68, 92, 89"
+      },
+      {
+        "value": "1",
+        "label": "68, 24, 92, 47, 89"
+      },
+      {
+        "value": "2",
+        "label": "78, 102, 57, 99"
+      },
+      {
+        "value": "3",
+        "label": "78, 102, 99"
+      }
+    ]
+  },
+  {
+    "id": 780,
+    "question": "V internetovej kaviarni majú jeden počítač, jednu tlačiareň a jeden viazací stroj. Zákazníci si tu môžu kúpiť a stiahnuť knihu z internetu, a hneď ju aj vytlačiť a zviazať.<br> Do kaviarne prišli naraz traja kamaráti a chcú spolu čo najskôr odísť. Každý si chce stiahnuť, vytlačiť a zviazať inú knihu. Stiahnutie každej knihy trvá 10 minút, vytlačenie 10 minút a aj zviazanie 10 minút.<br> Operácie, ktoré nevyžadujú to isté zariadenie, sa dajú robiť aj súčasne, napr. kým sa prvému z nich kniha tlačí, druhý si môže sťahovať svoju knihu. <br> <br> Najmenej koľko času musia stráviť v kaviarni, kým môžu spolu odísť so svojimi knihami?<br> <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "40 minút"
+      },
+      {
+        "value": "1",
+        "label": "90 minút"
+      },
+      {
+        "value": "2",
+        "label": "50 minút"
+      },
+      {
+        "value": "3",
+        "label": "30 minút"
+      }
+    ]
+  },
+  {
+    "id": 942,
+    "question": "Najnovšia tínedžerská hviezda Bunny Banana spieva takto:<br> <ul><li>slovo tvorí z jednej spoluhlásky (b, d, n, s, ...) a z jednej samohlásky (a, e, i, ...) napr. da, ne, si,</li><li>verš tvorí z nepárneho počtu rovnakých slov (napr. da da da), v ktorom k prostrednému slovu pripojí „p di“, napr. „da dap di da“ alebo „ne ne nep di ne ne“,</li><li>pieseň skladá z jedného alebo viacerých veršov. Ak má viac ako jeden verš, môže byť posledný zakončený „yeah“.</li></ul><br> Bobri skúšajú spievať ako ona. Ktorému z nich sa to podarilo? <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "si sip di si su dup di su"
+      },
+      {
+        "value": "1",
+        "label": "sa sa sap di sa sa lu lu lup di lu lu yeah"
+      },
+      {
+        "value": "2",
+        "label": "da da dap di da da yeah"
+      },
+      {
+        "value": "3",
+        "label": "nu nu nup di nu nu di di dip di di yeah"
+      }
+    ]
+  },
+  {
+    "id": 385,
+    "question": "Budova nového kina má 4 steny, pričom každá z nich je olemovaná iným druhom stromov. <br> Štyri priateľky – Anna, Beáta, Cilka a Danka – sa dohodli, že sa zídu na rohu kina. Žiaľ, každá z nich prišla k inému rohu. Dievčatá si však zavolali, aby charakterizovali svoju polohu podľa stromov, ktoré sú vedľa nich.<br> Anna povedala, že stojí pri lipe a smreku.<br> Beáta povedala, že stojí pri smreku a jabloni.<br> Cilka povedala, že stojí pri jabloni a breze.<br> <b>Čo povedala Danka?</b> <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "Stojím pri smreku a ten druhý strom neviem ako sa volá."
+      },
+      {
+        "value": "1",
+        "label": "Stojím pri breze a lipe."
+      },
+      {
+        "value": "2",
+        "label": "Stojím pri lipe a jabloni."
+      },
+      {
+        "value": "3",
+        "label": "Stojím pri breze a smreku."
+      }
+    ]
+  },
+  {
+    "id": 389,
+    "question": "Tomáš išiel von a zabudol sa odhlásiť zo svojho konta na sociálnej sieti ePriatelia. K jeho počítaču si sadla Janka a napísala správu. Nevedela však o Tomášovom zvyku, že posledné písmeno každého slova správy napíše dvakrát.<br> Ktorú správu mala Janka napísať, aby bolo vierohodné, že ju písal Tomáš? <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "Dostal som dvojku z diktátuu."
+      },
+      {
+        "value": "1",
+        "label": "Včeraa som bol na kúpalisku."
+      },
+      {
+        "value": "2",
+        "label": "Zajtraa jee sobotaa, pôjdemee naa výlett."
+      },
+      {
+        "value": "3",
+        "label": "Dnes pôjdem s Emou do kina."
+      }
+    ]
+  },
+  {
+    "id": 450,
+    "question": "Štvorčlenná rodina chce prejsť cez tmavý tunel. Cez tunel môžu ísť naraz maximálne dvaja a vždy musia mať baterku. Rodina má len jednu baterku.<br> Jednotlivým členom trvá cesta cez tunel nasledovne:<ul><li>mama – 20 minút</li><li>otec – 25 minút</li><li>dcéra Anna – 10 minút</li><li>syn Bruno – 5 minút</li></ul><br> Keď idú cez tunel dvaja, tak idú rýchlosťou pomalšieho.<br> <br> Za aký <b>najkratší</b> čas dokáže prejsť cez tunel celá rodina? <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "35 minút"
+      },
+      {
+        "value": "1",
+        "label": "60 minút"
+      },
+      {
+        "value": "2",
+        "label": "80 minút"
+      },
+      {
+        "value": "3",
+        "label": "45 minút"
+      }
+    ]
+  },
+  {
+    "id": 281,
+    "question": "Rozprávací robot vysloví ľubovoľný text a pritom dodržiava takéto pravidlá:<br> <ul><li>ak je pred slovom číslo, toto slovo vysloví toľkokrát, aká je hodnota čísla,</li><li>ak je postupnosť slov medzi príkazmi <b>opakuj číslo krat</b> a <b>koniec opakovania</b>, túto postupnosť slov vysloví toľkokrát, aká je hodnota čísla.</li></ul>Napríklad: <br> namiesto <b>3lampa</b> robot povie <b>lampa lampa lampa</b><br> namiesto <b>opakuj 2 krat čierna biela koniec opakovania</b> robot povie <b>čierna biela čierna biela</b><br> Emka chce, aby robot povedal<br> <b>tik tak tik tak tik tak tik čas nezastaví nezastaví nik</b><br> Akú postupnosť príkazov má Emka napísať? <br>",
+    "choices": [
+      {
+        "value": "0",
+        "label": "opakuj 4 krat tik tak koniec opakovania čas 2nezastaví nik"
+      },
+      {
+        "value": "1",
+        "label": "opakuj 3 krat tik tak koniec opakovania čas 2nezastaví nik"
+      },
+      {
+        "value": "2",
+        "label": "3tik 3tak tik čas 2nezastaví nik"
+      },
+      {
+        "value": "3",
+        "label": "opakuj 3 krat tik tak koniec opakovania tik čas 2nezastaví nik"
+      }
+    ]
+  }
+]
